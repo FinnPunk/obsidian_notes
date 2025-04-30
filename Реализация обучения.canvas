@@ -1,12 +1,16 @@
 {
 	"nodes":[
-		{"id":"d013e34750e3f88f","x":-820,"y":-320,"width":280,"height":60,"color":"2","type":"text","text":"Этап 1 - Подготовительный"},
-		{"id":"4891dc73f7e02588","x":-240,"y":-320,"width":240,"height":60,"type":"text","text":"Этап 2 - Необходимая теория"},
+		{"id":"d013e34750e3f88f","x":-820,"y":-320,"width":280,"height":60,"color":"5","type":"text","text":"Этап 1 - Подготовительный"},
+		{"id":"4891dc73f7e02588","x":-240,"y":-320,"width":240,"height":60,"color":"5","type":"text","text":"Этап 2 - Необходимая теория"},
 		{"id":"ef75b771c37bb6e8","x":-1420,"y":-320,"width":251,"height":60,"color":"5","type":"text","text":"Этап 0 - Welcome book"},
-		{"id":"d100966d8d7ca8ff","x":-540,"y":60,"width":250,"height":61,"type":"text","text":"Регистрация и вход на платформы"}
+		{"id":"d100966d8d7ca8ff","x":-540,"y":60,"width":250,"height":61,"type":"text","text":"Регистрация и вход на платформы"},
+		{"id":"c7a269263f512cf8","x":-540,"y":180,"width":250,"height":60,"type":"text","text":"Знакомство с интерфейсом"},
+		{"id":"abadd9121f8bf96a","x":-539,"y":344,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"5000c63b53a44735","fromNode":"ef75b771c37bb6e8","fromSide":"right","toNode":"d013e34750e3f88f","toSide":"left"},
-		{"id":"91da652cbfc81403","fromNode":"d013e34750e3f88f","fromSide":"bottom","toNode":"d100966d8d7ca8ff","toSide":"top"}
+		{"id":"91da652cbfc81403","fromNode":"d013e34750e3f88f","fromSide":"bottom","toNode":"d100966d8d7ca8ff","toSide":"top"},
+		{"id":"195a6aebdba06f55","fromNode":"d100966d8d7ca8ff","fromSide":"bottom","toNode":"c7a269263f512cf8","toSide":"top"},
+		{"id":"7b7f9bb3e67ac895","fromNode":"c7a269263f512cf8","fromSide":"bottom","toNode":"abadd9121f8bf96a","toSide":"top"}
 	]
 }
