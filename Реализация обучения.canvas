@@ -1,16 +1,18 @@
 {
 	"nodes":[
 		{"id":"d013e34750e3f88f","x":-820,"y":-320,"width":280,"height":60,"color":"5","type":"text","text":"Этап 1 - Подготовительный"},
-		{"id":"4891dc73f7e02588","x":-240,"y":-320,"width":240,"height":60,"color":"5","type":"text","text":"Этап 2 - Необходимая теория"},
 		{"id":"ef75b771c37bb6e8","x":-1420,"y":-320,"width":251,"height":60,"color":"5","type":"text","text":"Этап 0 - Welcome book"},
 		{"id":"d100966d8d7ca8ff","x":-540,"y":60,"width":250,"height":61,"color":"4","type":"text","text":"Регистрация и вход на платформы"},
 		{"id":"c7a269263f512cf8","x":-540,"y":180,"width":250,"height":60,"color":"4","type":"text","text":"Знакомство с интерфейсом"},
-		{"id":"abadd9121f8bf96a","x":-540,"y":440,"width":250,"height":300,"type":"text","text":"Создание компании. \nЧуть про покупку линии.\nДобавление каналов в линии.\nДобавление сотрудников.\nМетрики.\n\"Настройки\" компании.\nЧуть про вкладку финансы.\n"}
+		{"id":"abadd9121f8bf96a","x":-540,"y":440,"width":250,"height":300,"color":"4","type":"text","text":"Создание компании. \nЧуть про покупку линии.\nДобавление каналов в линии.\nДобавление сотрудников.\nМетрики.\n\"Настройки\" компании.\nЧуть про вкладку финансы.\n"},
+		{"id":"4891dc73f7e02588","x":80,"y":-320,"width":240,"height":60,"color":"5","type":"text","text":"Этап 2 - Необходимая теория"},
+		{"id":"74628d36734a8900","x":-170,"y":300,"width":250,"height":60,"color":"6","type":"text","text":"Вкладка интеграция."}
 	],
 	"edges":[
 		{"id":"5000c63b53a44735","fromNode":"ef75b771c37bb6e8","fromSide":"right","toNode":"d013e34750e3f88f","toSide":"left"},
 		{"id":"91da652cbfc81403","fromNode":"d013e34750e3f88f","fromSide":"bottom","toNode":"d100966d8d7ca8ff","toSide":"top"},
 		{"id":"195a6aebdba06f55","fromNode":"d100966d8d7ca8ff","fromSide":"bottom","toNode":"c7a269263f512cf8","toSide":"top"},
-		{"id":"15705f6acbb8e525","fromNode":"c7a269263f512cf8","fromSide":"bottom","toNode":"abadd9121f8bf96a","toSide":"top","label":"chatapp"}
+		{"id":"15705f6acbb8e525","fromNode":"c7a269263f512cf8","fromSide":"bottom","toNode":"abadd9121f8bf96a","toSide":"top","label":"chatapp"},
+		{"id":"a377c78069b5efa1","fromNode":"74628d36734a8900","fromSide":"right","toNode":"4891dc73f7e02588","toSide":"left"}
 	]
 }
