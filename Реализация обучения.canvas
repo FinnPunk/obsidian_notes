@@ -10,7 +10,8 @@
 		{"id":"68039ad372b310d0","x":-540,"y":1080,"width":250,"height":60,"color":"#ee00ff","type":"text","text":"Dialogs.pro"},
 		{"id":"41a454b84090f2ef","x":-540,"y":1180,"width":250,"height":60,"color":"#ee00ff","type":"text","text":"Быстрые ответы\n"},
 		{"id":"d9ade519774a989c","x":-540,"y":1280,"width":250,"height":60,"type":"text","text":"Chatapp assistant"},
-		{"id":"ef0510a39083510b","x":-900,"y":792,"width":250,"height":77,"color":"4","type":"text","text":"Пояснение за \"Базу знаний\""}
+		{"id":"ef0510a39083510b","x":-900,"y":792,"width":250,"height":77,"color":"4","type":"text","text":"Пояснение за \"Базу знаний\""},
+		{"id":"d3606b809d827141","x":-929,"y":62,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"5000c63b53a44735","fromNode":"ef75b771c37bb6e8","fromSide":"right","toNode":"d013e34750e3f88f","toSide":"left"},
@@ -21,6 +22,7 @@
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right"},
 		{"id":"bd99ebfa13ee0a43","fromNode":"abadd9121f8bf96a","fromSide":"bottom","toNode":"68039ad372b310d0","toSide":"top"},
 		{"id":"d871bf02e05a634b","fromNode":"68039ad372b310d0","fromSide":"bottom","toNode":"41a454b84090f2ef","toSide":"top"},
-		{"id":"baadc7bec9247b68","fromNode":"41a454b84090f2ef","fromSide":"bottom","toNode":"d9ade519774a989c","toSide":"top"}
+		{"id":"baadc7bec9247b68","fromNode":"41a454b84090f2ef","fromSide":"bottom","toNode":"d9ade519774a989c","toSide":"top"},
+		{"id":"62bd554c9c17754d","fromNode":"d013e34750e3f88f","fromSide":"bottom","toNode":"d3606b809d827141","toSide":"top"}
 	]
 }
