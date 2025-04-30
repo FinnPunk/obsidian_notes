@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"d013e34750e3f88f","x":-711,"y":-394,"width":250,"height":60,"type":"text","text":""}
+		{"id":"d013e34750e3f88f","x":-820,"y":-320,"width":280,"height":60,"type":"text","text":"Этап 1 - Подготовительный"},
+		{"id":"4891dc73f7e02588","x":-137,"y":-322,"width":250,"height":60,"type":"text","text":"Этап 2"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"9b48210c27d3d16a","fromNode":"d013e34750e3f88f","fromSide":"right","toNode":"4891dc73f7e02588","toSide":"left"}
+	]
 }
