@@ -4,10 +4,11 @@
 		{"id":"ef75b771c37bb6e8","x":-1420,"y":-320,"width":251,"height":60,"color":"5","type":"text","text":"Этап 0 - Welcome book"},
 		{"id":"d100966d8d7ca8ff","x":-540,"y":60,"width":250,"height":61,"color":"4","type":"text","text":"Регистрация и вход на платформы"},
 		{"id":"c7a269263f512cf8","x":-540,"y":180,"width":250,"height":60,"color":"4","type":"text","text":"Знакомство с интерфейсом"},
-		{"id":"abadd9121f8bf96a","x":-540,"y":440,"width":250,"height":300,"color":"4","type":"text","text":"Создание компании. \nЧуть про покупку линии.\nДобавление каналов в линии.\nДобавление сотрудников.\nМетрики.\n\"Настройки\" компании.\nЧуть про вкладку финансы.\n"},
 		{"id":"4891dc73f7e02588","x":80,"y":-320,"width":240,"height":60,"color":"5","type":"text","text":"Этап 2 - Необходимая теория"},
 		{"id":"74628d36734a8900","x":-170,"y":300,"width":250,"height":60,"color":"6","type":"text","text":"Вкладка интеграция."},
-		{"id":"ef0510a39083510b","x":-958,"y":603,"width":250,"height":77,"color":"4","type":"text","text":"Пояснение за \"Базу знаний\""}
+		{"id":"abadd9121f8bf96a","x":-540,"y":680,"width":250,"height":300,"color":"4","type":"text","text":"Создание компании. \nЧуть про покупку линии.\nДобавление каналов в линии.\nДобавление сотрудников.\nМетрики.\n\"Настройки\" компании.\nЧуть про вкладку финансы.\n"},
+		{"id":"ef0510a39083510b","x":-930,"y":792,"width":250,"height":77,"color":"4","type":"text","text":"Пояснение за \"Базу знаний\""},
+		{"id":"68039ad372b310d0","x":-540,"y":1080,"width":250,"height":60,"color":"#ff00c8","type":"text","text":"Dialogs.pro"}
 	],
 	"edges":[
 		{"id":"5000c63b53a44735","fromNode":"ef75b771c37bb6e8","fromSide":"right","toNode":"d013e34750e3f88f","toSide":"left"},
@@ -15,6 +16,7 @@
 		{"id":"195a6aebdba06f55","fromNode":"d100966d8d7ca8ff","fromSide":"bottom","toNode":"c7a269263f512cf8","toSide":"top"},
 		{"id":"15705f6acbb8e525","fromNode":"c7a269263f512cf8","fromSide":"bottom","toNode":"abadd9121f8bf96a","toSide":"top","label":"chatapp"},
 		{"id":"a377c78069b5efa1","fromNode":"74628d36734a8900","fromSide":"right","toNode":"4891dc73f7e02588","toSide":"left"},
-		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right"}
+		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right"},
+		{"id":"bd99ebfa13ee0a43","fromNode":"abadd9121f8bf96a","fromSide":"bottom","toNode":"68039ad372b310d0","toSide":"top"}
 	]
 }
