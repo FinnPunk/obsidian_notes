@@ -1,7 +1,8 @@
 {
 	"nodes":[
-		{"id":"d013e34750e3f88f","x":-820,"y":-320,"width":280,"height":60,"type":"text","text":"Этап 1 - Подготовительный"},
-		{"id":"4891dc73f7e02588","x":-137,"y":-322,"width":250,"height":60,"type":"text","text":"Этап 2"}
+		{"id":"d013e34750e3f88f","x":-820,"y":-320,"width":280,"height":60,"color":"2","type":"text","text":"Этап 1 - Подготовительный"},
+		{"id":"4891dc73f7e02588","x":-240,"y":-320,"width":250,"height":60,"type":"text","text":"Этап 2 - Необходимая теория"},
+		{"id":"ef75b771c37bb6e8","x":-1391,"y":-332,"width":250,"height":60,"type":"text","text":"Этап 0 - О компани"}
 	],
 	"edges":[
 		{"id":"9b48210c27d3d16a","fromNode":"d013e34750e3f88f","fromSide":"right","toNode":"4891dc73f7e02588","toSide":"left"}
