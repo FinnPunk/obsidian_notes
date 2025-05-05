@@ -24,7 +24,7 @@
 		{"id":"962db8d96970e8f2","x":-805,"y":1758,"width":250,"height":386,"color":"6","type":"text","text":"как проходит рабочий день сотрудника тех поддержки в компании. \nпример: \nПриходит вовремя к 9 и включает пк и запускает всё необходимое;\nЗаказывает еду через чат бота;\nВыбирает удобное время для обеда;\nчерез что проходит работа.\nи т.д. (ДОПОЛНИТЬ)"},
 		{"id":"57427b7aad480d0c","x":-891,"y":1600,"width":422,"height":107,"color":"6","type":"text","text":"# Как проходит рабочий день сотрудника ТП."},
 		{"id":"ed3870ef548ad114","x":-805,"y":1242,"width":250,"height":198,"color":"#f64b83","type":"text","text":"Практика, получение сообщений из добавленных соц. сетей\nОтвет на сообщения, быстрыми ответами/добавление своих быстрых ответов."},
-		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграция.","x":-867,"y":2200,"width":374,"height":60,"color":"6"},
+		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграции в ChatApp","x":-867,"y":2200,"width":374,"height":60,"color":"6"},
 		{"id":"2bc2328adba805d4","x":-1680,"y":1612,"width":250,"height":83,"color":"#00ff2a","type":"text","text":"# 2 раб день."},
 		{"id":"537028a1c5d7851d","x":-1455,"y":-1120,"width":250,"height":80,"color":"#00ff2a","type":"text","text":"# 1 раб день."},
 		{"id":"fba74419ed4297f1","x":-80,"y":204,"width":250,"height":60,"color":"#5865f2","type":"text","text":"Работа с DIscord"},
@@ -42,7 +42,8 @@
 		{"id":"70398a1310a15fa6","x":280,"y":3675,"width":250,"height":129,"type":"text","text":"практика - реальная проблема, и нужно найти к ней решение используя платформу."},
 		{"id":"18b3badb8d37ee48","type":"text","text":"# Правила общения с клиентами\n- интерактивные примеры\n- реальные кейсы\n- ответственность","x":655,"y":2855,"width":250,"height":276,"color":"6"},
 		{"id":"6e500b678d43d1a1","x":655,"y":3175,"width":250,"height":98,"color":"6","type":"text","text":"Как рассчитывается ЗП, зачем нужен bitcorp?\nЗа что даётся премия?"},
-		{"id":"04f95a54a1d13158","x":-1392,"y":2466,"width":250,"height":60,"type":"text","text":"Работа с битрикс"}
+		{"id":"04f95a54a1d13158","x":-1400,"y":2500,"width":250,"height":60,"type":"text","text":"Работа с битрикс"},
+		{"id":"83d9f71a06470bc1","x":-1399,"y":2671,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right"},
@@ -91,6 +92,7 @@
 		{"id":"a3df42a73a35e0c6","fromNode":"39ccdbc96b7e816c","fromSide":"bottom","toNode":"0990977b50da3202","toSide":"top"},
 		{"id":"460d25836fa16d84","fromNode":"fba74419ed4297f1","fromSide":"bottom","toNode":"de7c20e59c994902","toSide":"top"},
 		{"id":"516f7cc5ac9134d8","fromNode":"0990977b50da3202","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"right"},
-		{"id":"99842eff55b5b7d6","fromNode":"74628d36734a8900","fromSide":"bottom","toNode":"04f95a54a1d13158","toSide":"top"}
+		{"id":"99842eff55b5b7d6","fromNode":"74628d36734a8900","fromSide":"bottom","toNode":"04f95a54a1d13158","toSide":"top"},
+		{"id":"f9a836c663d7b2ea","fromNode":"04f95a54a1d13158","fromSide":"bottom","toNode":"83d9f71a06470bc1","toSide":"top"}
 	]
 }
