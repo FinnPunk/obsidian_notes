@@ -49,15 +49,15 @@
 		{"id":"1dc4bdeb8e888860","x":-805,"y":3911,"width":250,"height":60,"color":"#30c7f8","type":"text","text":"Практика 2"},
 		{"id":"2422e60920d542e7","type":"text","text":"Системные уведомления","x":-345,"y":2947,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"25f632af7f77f01b","x":-403,"y":3291,"width":250,"height":60,"color":"#30c7f8","type":"text","text":"FAQ по роботам и тригерам"},
-		{"id":"18b3badb8d37ee48","type":"text","text":"# Правила общения с клиентами\n- интерактивные примеры\n- реальные кейсы\n- ответственность","x":-1660,"y":4575,"width":250,"height":276,"color":"6"},
-		{"id":"6e500b678d43d1a1","type":"text","text":"Как рассчитывается ЗП, зачем нужен bitcorp?\nЗа что даётся премия?","x":-1660,"y":4895,"width":250,"height":98,"color":"6"},
-		{"id":"52472a505fca042b","type":"text","text":"где и как быстро найти ответ на который не знаешь ответ?","x":-1660,"y":5178,"width":250,"height":144},
-		{"id":"f40c8c1ce2a4f1e6","type":"text","text":"Интерактивное тестирование(реальные кейсы и способы решения)","x":-2035,"y":5191,"width":250,"height":131},
-		{"id":"70398a1310a15fa6","type":"text","text":"практика - реальная проблема, и нужно найти к ней решение используя платформу.","x":-2035,"y":5395,"width":250,"height":129},
 		{"id":"2bc2328adba805d4","type":"text","text":"# 2 раб день.","x":-2560,"y":1612,"width":250,"height":83,"color":"#00ff2a"},
 		{"id":"537028a1c5d7851d","type":"text","text":"# 1 раб день.","x":-2560,"y":-353,"width":250,"height":80,"color":"#00ff2a"},
 		{"id":"196e446036cf399b","type":"text","text":"# 3 раб день.\nпринцип работы 50/50","x":-2560,"y":4174,"width":250,"height":83,"color":"#00ff2a"},
-		{"id":"f681b0421e4ab2ba","x":-805,"y":4130,"width":250,"height":172,"type":"text","text":"### Этап 2 - Необходимая теория и практика"}
+		{"id":"f681b0421e4ab2ba","x":-805,"y":4130,"width":250,"height":172,"type":"text","text":"### Этап 2 - Необходимая теория и практика"},
+		{"id":"18b3badb8d37ee48","type":"text","text":"# Правила общения с клиентами\n- интерактивные примеры\n- реальные кейсы\n- ответственность","x":-1265,"y":4560,"width":250,"height":276,"color":"6"},
+		{"id":"52472a505fca042b","type":"text","text":"где и как быстро найти ответ на который не знаешь ответ?","x":-1265,"y":5040,"width":250,"height":144},
+		{"id":"f40c8c1ce2a4f1e6","type":"text","text":"Интерактивное тестирование(реальные кейсы и способы решения)","x":-1580,"y":5053,"width":250,"height":131},
+		{"id":"70398a1310a15fa6","type":"text","text":"практика - реальная проблема, и нужно найти к ней решение используя платформу.","x":-1580,"y":5257,"width":250,"height":129},
+		{"id":"6e500b678d43d1a1","type":"text","text":"Как рассчитывается ЗП, зачем нужен bitcorp?\nЗа что даётся премия?","x":-469,"y":1758,"width":250,"height":98,"color":"6"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -86,10 +86,7 @@
 		{"id":"0263ee80d9b3a8ec","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"733950cd78d28db0","toSide":"right","fromEnd":"arrow"},
 		{"id":"564bd3c0c3b30ea6","fromNode":"73f9f013a58744ac","fromSide":"bottom","toNode":"3854c108199af2a8","toSide":"top"},
 		{"id":"e980ca2331de78b2","fromNode":"4833a849f44d50e5","fromSide":"bottom","toNode":"3854c108199af2a8","toSide":"top"},
-		{"id":"b3fd9d8b4a7f9bb6","fromNode":"18b3badb8d37ee48","fromSide":"bottom","toNode":"6e500b678d43d1a1","toSide":"top"},
 		{"id":"2edccb6637552a5a","fromNode":"d9ade519774a989c","fromSide":"bottom","toNode":"ed3870ef548ad114","toSide":"top"},
-		{"id":"ce55b9d7e19b6d84","fromNode":"6e500b678d43d1a1","fromSide":"bottom","toNode":"f40c8c1ce2a4f1e6","toSide":"top"},
-		{"id":"a61f240ccbbb185b","fromNode":"6e500b678d43d1a1","fromSide":"bottom","toNode":"52472a505fca042b","toSide":"top"},
 		{"id":"7d29318e4a27f96f","fromNode":"f40c8c1ce2a4f1e6","fromSide":"bottom","toNode":"70398a1310a15fa6","toSide":"top"},
 		{"id":"f1ee3569edccd87f","fromNode":"962db8d96970e8f2","fromSide":"bottom","toNode":"74628d36734a8900","toSide":"top"},
 		{"id":"2677e695ceaa8dcd","fromNode":"e426e0bc78abe29b","fromSide":"bottom","toNode":"fba74419ed4297f1","toSide":"top"},
@@ -122,6 +119,10 @@
 		{"id":"964d959dfd986e87","fromNode":"ef75b771c37bb6e8","fromSide":"right","toNode":"89a2e73fab1de04c","toSide":"left"},
 		{"id":"85d2f53a1d8ebddd","fromNode":"537028a1c5d7851d","fromSide":"right","toNode":"ef75b771c37bb6e8","toSide":"left"},
 		{"id":"f279fa4351d10b86","fromNode":"1dc4bdeb8e888860","fromSide":"bottom","toNode":"f681b0421e4ab2ba","toSide":"top"},
-		{"id":"e1d5707051f7bb37","fromNode":"196e446036cf399b","fromSide":"right","toNode":"f681b0421e4ab2ba","toSide":"left"}
+		{"id":"e1d5707051f7bb37","fromNode":"196e446036cf399b","fromSide":"right","toNode":"f681b0421e4ab2ba","toSide":"left"},
+		{"id":"c5d9f7bd8bef9e53","fromNode":"f681b0421e4ab2ba","fromSide":"bottom","toNode":"18b3badb8d37ee48","toSide":"top"},
+		{"id":"b826224dae2c661f","fromNode":"18b3badb8d37ee48","fromSide":"bottom","toNode":"f40c8c1ce2a4f1e6","toSide":"top"},
+		{"id":"ba1a83fc6918fb12","fromNode":"18b3badb8d37ee48","fromSide":"bottom","toNode":"52472a505fca042b","toSide":"top"},
+		{"id":"062572d33a8ff155","fromNode":"962db8d96970e8f2","fromSide":"right","toNode":"6e500b678d43d1a1","toSide":"left"}
 	]
 }
