@@ -2,9 +2,7 @@
 	"nodes":[
 		{"id":"d013e34750e3f88f","type":"text","text":"Этап 1 - Подготовительный","x":-820,"y":-320,"width":280,"height":60,"color":"5"},
 		{"id":"537028a1c5d7851d","x":-1120,"y":-800,"width":250,"height":80,"color":"#00ffbf","type":"text","text":"# 1 раб день."},
-		{"id":"4891dc73f7e02588","type":"text","text":"Этап 2 - Необходимая теория","x":640,"y":-320,"width":240,"height":60,"color":"5"},
 		{"id":"e426e0bc78abe29b","x":-805,"y":-197,"width":250,"height":91,"color":"5","type":"text","text":"Получение у HR всех логинов и паролей от всех платформ"},
-		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграция.","x":160,"y":-320,"width":250,"height":60,"color":"6"},
 		{"id":"4e6a26faf675ea95","x":-1760,"y":204,"width":250,"height":60,"color":"2","type":"text","text":"Работа с JIRA"},
 		{"id":"962db8d96970e8f2","x":900,"y":-16,"width":250,"height":500,"type":"text","text":"как проходит рабочий день сотрудника тех поддержки в компании. \nпример: \nПриходит вовремя к 9 и включает пк и запускает всё необходимое;\nЗаказывает еду через чат бота;\nвыбирает удобное время для обеда;\n"},
 		{"id":"0a1e8b44df277a60","x":160,"y":204,"width":250,"height":60,"color":"3","type":"text","text":"Работа с Conflurense"},
@@ -29,7 +27,10 @@
 		{"id":"9efb153deedec5aa","x":160,"y":641,"width":250,"height":62,"color":"3","type":"text","text":"Ознакомление с базовыми функциями"},
 		{"id":"733950cd78d28db0","x":-1170,"y":762,"width":250,"height":60,"color":"4","type":"text","text":"FAQ по платформе Dialogs.pro"},
 		{"id":"ef0510a39083510b","type":"text","text":"FAST Пояснение за \"Базу знаний\"","x":-1170,"y":522,"width":250,"height":58,"color":"4"},
-		{"id":"12e0c8df07a5cbee","x":-1170,"y":639,"width":250,"height":67,"color":"4","type":"text","text":"FAQ по платформе chatapp"}
+		{"id":"12e0c8df07a5cbee","x":-1170,"y":639,"width":250,"height":67,"color":"4","type":"text","text":"FAQ по платформе chatapp"},
+		{"id":"4891dc73f7e02588","type":"text","text":"Этап 2 - Необходимая теория","x":1200,"y":-320,"width":240,"height":60,"color":"5"},
+		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграция.","x":900,"y":-320,"width":250,"height":60,"color":"6"},
+		{"id":"57427b7aad480d0c","x":-782,"y":1573,"width":250,"height":60,"type":"text","text":"Как проходит рабочий день сотрудника тех."}
 	],
 	"edges":[
 		{"id":"a377c78069b5efa1","fromNode":"74628d36734a8900","fromSide":"right","toNode":"4891dc73f7e02588","toSide":"left"},
