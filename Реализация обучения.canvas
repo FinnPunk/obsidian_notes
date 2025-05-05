@@ -17,8 +17,7 @@
 		{"id":"abadd9121f8bf96a","type":"text","text":"Создание компании. \nЧуть про покупку линии.\nДобавление каналов в линии.\nДобавление сотрудников.\nМетрики.\n\"Настройки\" компании.\nЧуть про вкладку финансы.\n","x":-805,"y":670,"width":250,"height":300,"color":"4"},
 		{"id":"ef0510a39083510b","type":"text","text":"FAST Пояснение за \"Базу знаний\"","x":-1165,"y":782,"width":250,"height":77,"color":"4"},
 		{"id":"12e0c8df07a5cbee","x":-1165,"y":901,"width":250,"height":69,"type":"text","text":"FAQ по платформе chatapp"},
-		{"id":"962db8d96970e8f2","x":-160,"y":120,"width":250,"height":500,"type":"text","text":"как проходит рабочий день сотрудника тех поддержки в компании. \nпример: \nПриходит вовремя к 9 и включает пк и запускает всё необходимое;\nЗаказывает еду через чат бота;\nвыбирает удобное время для обеда;\n"},
-		{"id":"1472cdc0a82707be","x":-805,"y":-185,"width":250,"height":60,"type":"text","text":"Перечисление программ"}
+		{"id":"962db8d96970e8f2","x":-160,"y":120,"width":250,"height":500,"type":"text","text":"как проходит рабочий день сотрудника тех поддержки в компании. \nпример: \nПриходит вовремя к 9 и включает пк и запускает всё необходимое;\nЗаказывает еду через чат бота;\nвыбирает удобное время для обеда;\n"}
 	],
 	"edges":[
 		{"id":"195a6aebdba06f55","fromNode":"d100966d8d7ca8ff","fromSide":"bottom","toNode":"c7a269263f512cf8","toSide":"top"},
@@ -35,7 +34,6 @@
 		{"id":"ec41aeba5f3a59cf","fromNode":"12e0c8df07a5cbee","fromSide":"bottom","toNode":"733950cd78d28db0","toSide":"top"},
 		{"id":"74b6b33fe40e30b9","fromNode":"ef75b771c37bb6e8","fromSide":"bottom","toNode":"89a2e73fab1de04c","toSide":"top"},
 		{"id":"f45656ee5d733851","fromNode":"89a2e73fab1de04c","fromSide":"bottom","toNode":"a1ec952254833a0e","toSide":"top"},
-		{"id":"ed21301167fcd529","fromNode":"a1ec952254833a0e","fromSide":"right","toNode":"d013e34750e3f88f","toSide":"left"},
-		{"id":"4283d6716e6513b3","fromNode":"d013e34750e3f88f","fromSide":"bottom","toNode":"1472cdc0a82707be","toSide":"top"}
+		{"id":"ed21301167fcd529","fromNode":"a1ec952254833a0e","fromSide":"right","toNode":"d013e34750e3f88f","toSide":"left"}
 	]
 }
