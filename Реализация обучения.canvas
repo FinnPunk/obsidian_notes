@@ -42,9 +42,12 @@
 		{"id":"70398a1310a15fa6","type":"text","text":"практика - реальная проблема, и нужно найти к ней решение используя платформу.","x":280,"y":3675,"width":250,"height":129},
 		{"id":"18b3badb8d37ee48","type":"text","text":"# Правила общения с клиентами\n- интерактивные примеры\n- реальные кейсы\n- ответственность","x":655,"y":2855,"width":250,"height":276,"color":"6"},
 		{"id":"6e500b678d43d1a1","type":"text","text":"Как рассчитывается ЗП, зачем нужен bitcorp?\nЗа что даётся премия?","x":655,"y":3175,"width":250,"height":98,"color":"6"},
-		{"id":"04f95a54a1d13158","type":"text","text":"Работа с Bitrix24","x":-1200,"y":2520,"width":250,"height":60},
-		{"id":"83d9f71a06470bc1","type":"text","text":"","x":-1200,"y":2680,"width":250,"height":69},
-		{"id":"53b6dc404a63b7ba","x":-1049,"y":2374,"width":250,"height":60,"type":"text","text":"Вход в "}
+		{"id":"53b6dc404a63b7ba","x":-1200,"y":2480,"width":250,"height":80,"type":"text","text":"Вход на платформу Bitrix24"},
+		{"id":"04f95a54a1d13158","type":"text","text":"Работа с Bitrix24","x":-1180,"y":2840,"width":250,"height":60},
+		{"id":"83d9f71a06470bc1","type":"text","text":"","x":-1180,"y":3000,"width":250,"height":69},
+		{"id":"c33ceb90acc51c8e","x":-1200,"y":2640,"width":250,"height":60,"type":"text","text":"Интерфейс платформы"},
+		{"id":"667731754543bb35","x":-1600,"y":2640,"width":250,"height":60,"type":"text","text":"маркетплейс"},
+		{"id":"1700c1969a6bffc5","x":-716,"y":2640,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right"},
@@ -94,6 +97,9 @@
 		{"id":"460d25836fa16d84","fromNode":"fba74419ed4297f1","fromSide":"bottom","toNode":"de7c20e59c994902","toSide":"top"},
 		{"id":"516f7cc5ac9134d8","fromNode":"0990977b50da3202","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"right"},
 		{"id":"f9a836c663d7b2ea","fromNode":"04f95a54a1d13158","fromSide":"bottom","toNode":"83d9f71a06470bc1","toSide":"top"},
-		{"id":"82984342f1ac4f97","fromNode":"74628d36734a8900","fromSide":"bottom","toNode":"53b6dc404a63b7ba","toSide":"top"}
+		{"id":"82984342f1ac4f97","fromNode":"74628d36734a8900","fromSide":"bottom","toNode":"53b6dc404a63b7ba","toSide":"top"},
+		{"id":"afea6e2793c69939","fromNode":"53b6dc404a63b7ba","fromSide":"bottom","toNode":"c33ceb90acc51c8e","toSide":"top"},
+		{"id":"8d75f0258bde85d7","fromNode":"c33ceb90acc51c8e","fromSide":"left","toNode":"667731754543bb35","toSide":"right"},
+		{"id":"705e39a5bd601fe1","fromNode":"c33ceb90acc51c8e","fromSide":"right","toNode":"1700c1969a6bffc5","toSide":"left"}
 	]
 }
