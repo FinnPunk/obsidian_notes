@@ -18,7 +18,6 @@
 		{"id":"2422e60920d542e7","type":"text","text":"Системные уведомления","x":-345,"y":2947,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"25f632af7f77f01b","type":"text","text":"FAQ по роботам и тригерам","x":-403,"y":3291,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"2bc2328adba805d4","type":"text","text":"# 2 раб день.","x":-2560,"y":1612,"width":250,"height":83,"color":"#00ff2a"},
-		{"id":"196e446036cf399b","type":"text","text":"# 3 раб день.\nпринцип работы 50/50","x":-2560,"y":4174,"width":250,"height":106,"color":"#00ff2a"},
 		{"id":"f681b0421e4ab2ba","type":"text","text":"### Этап 2 - Необходимая теория и практика","x":-805,"y":4130,"width":250,"height":172,"color":"1"},
 		{"id":"6e500b678d43d1a1","type":"text","text":"зачем нужен bitcorp?","x":-400,"y":1758,"width":250,"height":50,"color":"6"},
 		{"id":"4ba9014728e65ddb","type":"text","text":"# Правила общения с клиентами\n- интерактивные примеры\n- реальные кейсы\n- ответственность","x":-100,"y":1758,"width":250,"height":288,"color":"6"},
@@ -75,7 +74,8 @@
 		{"id":"49dd4287300946b1","type":"text","text":"Вход на платформу","x":-469,"y":432,"width":250,"height":60,"color":"#0048af"},
 		{"id":"12b17f33e060e0d2","type":"text","text":"Знакомство с интерфейсом","x":-469,"y":543,"width":250,"height":60,"color":"#0048af"},
 		{"id":"0cdcfe38c315e747","type":"text","text":"Создание документов для работы","x":-469,"y":650,"width":250,"height":60,"color":"#0048af"},
-		{"id":"9efb153deedec5aa","type":"text","text":"Ознакомление с базовыми функциями","x":-469,"y":760,"width":250,"height":62,"color":"#0048af"}
+		{"id":"9efb153deedec5aa","type":"text","text":"Ознакомление с базовыми функциями","x":-469,"y":760,"width":250,"height":62,"color":"#0048af"},
+		{"id":"196e446036cf399b","type":"text","text":"# 3 раб день.\nпринцип работы 50/50","x":-2560,"y":4163,"width":250,"height":106,"color":"#00ff2a"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
