@@ -8,8 +8,8 @@
 		{"id":"4e6a26faf675ea95","x":-1760,"y":204,"width":250,"height":60,"color":"2","type":"text","text":"Работа с JIRA"},
 		{"id":"962db8d96970e8f2","x":900,"y":-16,"width":250,"height":500,"type":"text","text":"как проходит рабочий день сотрудника тех поддержки в компании. \nпример: \nПриходит вовремя к 9 и включает пк и запускает всё необходимое;\nЗаказывает еду через чат бота;\nвыбирает удобное время для обеда;\n"},
 		{"id":"0a1e8b44df277a60","x":160,"y":204,"width":250,"height":60,"color":"3","type":"text","text":"Работа с Conflurense"},
-		{"id":"4833a849f44d50e5","x":-1942,"y":683,"width":250,"height":60,"type":"text","text":"Создание задач"},
-		{"id":"73f9f013a58744ac","x":-1580,"y":683,"width":250,"height":60,"type":"text","text":"Работа со своими задачами"},
+		{"id":"4833a849f44d50e5","x":-1942,"y":683,"width":250,"height":60,"color":"2","type":"text","text":"Создание задач"},
+		{"id":"73f9f013a58744ac","x":-1580,"y":683,"width":250,"height":60,"color":"2","type":"text","text":"Работа со своими задачами"},
 		{"id":"a1ec952254833a0e","x":-2460,"y":40,"width":250,"height":60,"color":"5","type":"text","text":"Какие цели и задачи у тех поддержки."},
 		{"id":"ef75b771c37bb6e8","type":"text","text":"Этап 0 - Welcome book","x":-2460,"y":-320,"width":250,"height":60,"color":"5"},
 		{"id":"89a2e73fab1de04c","x":-2460,"y":-197,"width":250,"height":178,"color":"5","type":"text","text":"о компании. Цели компании, отделы и за что отвечают, руководители, кол-во сотрудников, плюшки для сотрудников."},
@@ -24,11 +24,12 @@
 		{"id":"41a454b84090f2ef","type":"text","text":"Быстрые ответы\n","x":-805,"y":1022,"width":250,"height":60,"color":"#ff0095"},
 		{"id":"d9ade519774a989c","type":"text","text":"Chatapp assistant","x":-805,"y":1122,"width":250,"height":60,"color":"#ff0095"},
 		{"id":"abadd9121f8bf96a","type":"text","text":"Создание компании. \nЧуть про покупку линии.\nДобавление каналов в линии.\nДобавление сотрудников.\nМетрики.\n\"Настройки\" компании.\nЧуть про вкладку финансы.\n","x":-805,"y":522,"width":250,"height":300,"color":"4"},
-		{"id":"5b11b11984091a4c","type":"text","text":"Вход на платформу","x":-1760,"y":357,"width":250,"height":60},
-		{"id":"eaf7615acc3ff139","type":"text","text":"Знакомство с интерфейсом","x":-1760,"y":492,"width":250,"height":60},
-		{"id":"49dd4287300946b1","type":"text","text":"Вход на платформу","x":160,"y":337,"width":250,"height":60},
-		{"id":"12b17f33e060e0d2","type":"text","text":"Знакомство с интерфейсом","x":160,"y":472,"width":250,"height":60},
-		{"id":"0cdcfe38c315e747","x":-67,"y":679,"width":250,"height":60,"type":"text","text":"Создание документов для работы"}
+		{"id":"5b11b11984091a4c","type":"text","text":"Вход на платформу","x":-1760,"y":357,"width":250,"height":60,"color":"2"},
+		{"id":"eaf7615acc3ff139","type":"text","text":"Знакомство с интерфейсом","x":-1760,"y":492,"width":250,"height":60,"color":"2"},
+		{"id":"49dd4287300946b1","type":"text","text":"Вход на платформу","x":160,"y":313,"width":250,"height":60,"color":"3"},
+		{"id":"12b17f33e060e0d2","type":"text","text":"Знакомство с интерфейсом","x":160,"y":424,"width":250,"height":60,"color":"3"},
+		{"id":"0cdcfe38c315e747","x":160,"y":531,"width":250,"height":60,"color":"3","type":"text","text":"Создание документов для работы"},
+		{"id":"9efb153deedec5aa","x":160,"y":641,"width":250,"height":62,"color":"3","type":"text","text":"Ознакомление с базовыми функциями"}
 	],
 	"edges":[
 		{"id":"a377c78069b5efa1","fromNode":"74628d36734a8900","fromSide":"right","toNode":"4891dc73f7e02588","toSide":"left"},
@@ -57,6 +58,7 @@
 		{"id":"c8a2fea2914d3175","fromNode":"eaf7615acc3ff139","fromSide":"bottom","toNode":"73f9f013a58744ac","toSide":"top"},
 		{"id":"3e77deebae76d647","fromNode":"49dd4287300946b1","fromSide":"bottom","toNode":"12b17f33e060e0d2","toSide":"top"},
 		{"id":"6285709764ccd533","fromNode":"0a1e8b44df277a60","fromSide":"bottom","toNode":"49dd4287300946b1","toSide":"top"},
-		{"id":"deaeb7c4c309a289","fromNode":"12b17f33e060e0d2","fromSide":"bottom","toNode":"0cdcfe38c315e747","toSide":"top"}
+		{"id":"deaeb7c4c309a289","fromNode":"12b17f33e060e0d2","fromSide":"bottom","toNode":"0cdcfe38c315e747","toSide":"top"},
+		{"id":"9a346b3e70e65fcb","fromNode":"0cdcfe38c315e747","fromSide":"bottom","toNode":"9efb153deedec5aa","toSide":"top"}
 	]
 }
