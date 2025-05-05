@@ -53,10 +53,11 @@
 		{"id":"83d9f71a06470bc1","type":"text","text":"","x":-1599,"y":3300,"width":250,"height":69},
 		{"id":"52a75bd5e0a32b88","x":-1200,"y":3056,"width":250,"height":114,"type":"text","text":"Создание первого бота на приветствие клиента и получение данных от него. "},
 		{"id":"3236d4aa23340f85","x":-1201,"y":3259,"width":250,"height":141,"type":"text","text":"небольшая теория о плюсах использования роботов, и облегчения работы при их использовании."},
-		{"id":"0698ec4ef8103cd0","x":-1202,"y":3488,"width":250,"height":60,"type":"text","text":"Создание робота для создания "}
+		{"id":"0698ec4ef8103cd0","x":-1202,"y":3488,"width":250,"height":60,"type":"text","text":"Создание робота для создания "},
+		{"id":"2422e60920d542e7","x":-740,"y":2809,"width":250,"height":60,"type":"text","text":"Системные уведомления"}
 	],
 	"edges":[
-		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right"},
+		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
 		{"id":"bd99ebfa13ee0a43","fromNode":"abadd9121f8bf96a","fromSide":"bottom","toNode":"68039ad372b310d0","toSide":"top"},
 		{"id":"d871bf02e05a634b","fromNode":"68039ad372b310d0","fromSide":"bottom","toNode":"41a454b84090f2ef","toSide":"top"},
 		{"id":"baadc7bec9247b68","fromNode":"41a454b84090f2ef","fromSide":"bottom","toNode":"d9ade519774a989c","toSide":"top"},
@@ -81,8 +82,8 @@
 		{"id":"6285709764ccd533","fromNode":"0a1e8b44df277a60","fromSide":"bottom","toNode":"49dd4287300946b1","toSide":"top"},
 		{"id":"deaeb7c4c309a289","fromNode":"12b17f33e060e0d2","fromSide":"bottom","toNode":"0cdcfe38c315e747","toSide":"top"},
 		{"id":"9a346b3e70e65fcb","fromNode":"0cdcfe38c315e747","fromSide":"bottom","toNode":"9efb153deedec5aa","toSide":"top"},
-		{"id":"3f79978d08cc91af","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"12e0c8df07a5cbee","toSide":"right"},
-		{"id":"0263ee80d9b3a8ec","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"733950cd78d28db0","toSide":"right"},
+		{"id":"3f79978d08cc91af","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"12e0c8df07a5cbee","toSide":"right","fromEnd":"arrow"},
+		{"id":"0263ee80d9b3a8ec","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"733950cd78d28db0","toSide":"right","fromEnd":"arrow"},
 		{"id":"c5407d3459bec4ea","fromNode":"9efb153deedec5aa","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"right"},
 		{"id":"564bd3c0c3b30ea6","fromNode":"73f9f013a58744ac","fromSide":"bottom","toNode":"3854c108199af2a8","toSide":"top"},
 		{"id":"e980ca2331de78b2","fromNode":"4833a849f44d50e5","fromSide":"bottom","toNode":"3854c108199af2a8","toSide":"top"},
@@ -108,10 +109,11 @@
 		{"id":"8d75f0258bde85d7","fromNode":"c33ceb90acc51c8e","fromSide":"left","toNode":"667731754543bb35","toSide":"right"},
 		{"id":"5b4c0c2259e6f758","fromNode":"667731754543bb35","fromSide":"bottom","toNode":"e591b40db36a6539","toSide":"top"},
 		{"id":"c9ff3d9a150a46b0","fromNode":"e591b40db36a6539","fromSide":"bottom","toNode":"de30c4183315b953","toSide":"top"},
-		{"id":"f9d77e2fc41061ec","fromNode":"667731754543bb35","fromSide":"left","toNode":"f3eee0facffc0313","toSide":"right"},
+		{"id":"f9d77e2fc41061ec","fromNode":"667731754543bb35","fromSide":"left","toNode":"f3eee0facffc0313","toSide":"right","fromEnd":"arrow"},
 		{"id":"b6c1069aadad47fa","fromNode":"de30c4183315b953","fromSide":"right","toNode":"670a9fb77c92a090","toSide":"left"},
 		{"id":"fb074cc450c09644","fromNode":"670a9fb77c92a090","fromSide":"bottom","toNode":"52a75bd5e0a32b88","toSide":"top"},
 		{"id":"1c2d8eeff68fdcf8","fromNode":"52a75bd5e0a32b88","fromSide":"bottom","toNode":"3236d4aa23340f85","toSide":"top"},
-		{"id":"3941cd5208c51c2c","fromNode":"3236d4aa23340f85","fromSide":"bottom","toNode":"0698ec4ef8103cd0","toSide":"top"}
+		{"id":"3941cd5208c51c2c","fromNode":"3236d4aa23340f85","fromSide":"bottom","toNode":"0698ec4ef8103cd0","toSide":"top"},
+		{"id":"c3af866978a1ffa4","fromNode":"670a9fb77c92a090","fromSide":"right","toNode":"2422e60920d542e7","toSide":"left","fromEnd":"arrow"}
 	]
 }
