@@ -13,7 +13,6 @@
 		{"id":"4f50dcfad0db32b8","type":"text","text":"Практика 1","x":-805,"y":3774,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"1dc4bdeb8e888860","type":"text","text":"Практика 2","x":-805,"y":3911,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"2422e60920d542e7","type":"text","text":"Системные уведомления","x":-345,"y":2947,"width":250,"height":60,"color":"#30c7f8"},
-		{"id":"25f632af7f77f01b","type":"text","text":"FAQ по роботам и тригерам","x":-403,"y":3291,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"2bc2328adba805d4","type":"text","text":"# 2 раб день.","x":-2560,"y":1612,"width":250,"height":83,"color":"#00ff2a"},
 		{"id":"f681b0421e4ab2ba","type":"text","text":"### Этап 2 - Необходимая теория и практика","x":-805,"y":4130,"width":250,"height":172,"color":"1"},
 		{"id":"6e500b678d43d1a1","type":"text","text":"зачем нужен bitcorp?","x":-400,"y":1758,"width":250,"height":50,"color":"6"},
@@ -75,9 +74,11 @@
 		{"id":"775126da3807d4f1","type":"text","text":"Изучение базовых роботов и триггеров от Bitrix24","x":-805,"y":3151,"width":250,"height":111,"color":"#30c7f8"},
 		{"id":"8ccf0e98d5f161d5","type":"text","text":"Изучение базовых роботов от ChatApp","x":-805,"y":3311,"width":250,"height":80,"color":"#30c7f8"},
 		{"id":"de30c4183315b953","type":"text","text":"Вкладка CRM/Клиенты/Контакт-центр/Добавление каналов/Создание открытых линий/настройка их","x":-1204,"y":2991,"width":250,"height":160,"color":"#30c7f8"},
-		{"id":"a25e35b219a02852","x":-804,"y":6580,"width":250,"height":60,"type":"text","text":"SalesBot"},
 		{"id":"eab1b8f8ec554199","type":"text","text":"Системные уведомления","x":-420,"y":6328,"width":250,"height":60,"color":"#85cef2"},
-		{"id":"a435ea0103681f6e","x":-804,"y":6780,"width":250,"height":60,"type":"text","text":"Виды Триггеров и Роботов"}
+		{"id":"26583bd4f4f9a804","type":"text","text":"Изучение базовых роботов и триггеров Salesbot","x":-804,"y":6640,"width":250,"height":111,"color":"#80cef2"},
+		{"id":"3c916e5943e36ab6","type":"text","text":"Изучение базовых роботов от ChatApp","x":-804,"y":6800,"width":250,"height":80,"color":"#80cef2"},
+		{"id":"bca4fe6cb77f3a67","type":"text","text":"FAQ по роботам и тригерам","x":-420,"y":6740,"width":250,"height":60,"color":"#80cef2"},
+		{"id":"25f632af7f77f01b","type":"text","text":"FAQ по роботам и тригерам","x":-403,"y":3251,"width":250,"height":60,"color":"#30c7f8"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -163,7 +164,9 @@
 		{"id":"836c9a7e69993f25","fromNode":"de30c4183315b953","fromSide":"left","toNode":"3a478694d0b16e75","toSide":"right","fromEnd":"arrow"},
 		{"id":"1e066941533d3b2b","fromNode":"e591b40db36a6539","fromSide":"bottom","toNode":"de30c4183315b953","toSide":"top"},
 		{"id":"7a8d715768979956","fromNode":"8ccf0e98d5f161d5","fromSide":"bottom","toNode":"fd4655354ad65980","toSide":"top"},
-		{"id":"a13e3c5b6c3e6012","fromNode":"c3e6a4eb41cccd80","fromSide":"bottom","toNode":"a25e35b219a02852","toSide":"top"},
-		{"id":"1d3d4fd49568c9ed","fromNode":"a25e35b219a02852","fromSide":"bottom","toNode":"a435ea0103681f6e","toSide":"top"}
+		{"id":"7318375f2ad47ce0","fromNode":"3c916e5943e36ab6","fromSide":"right","toNode":"bca4fe6cb77f3a67","toSide":"left","fromEnd":"arrow"},
+		{"id":"ef42dcd47396243f","fromNode":"26583bd4f4f9a804","fromSide":"right","toNode":"bca4fe6cb77f3a67","toSide":"left","fromEnd":"arrow"},
+		{"id":"0ef8fb79dcdfeb61","fromNode":"26583bd4f4f9a804","fromSide":"bottom","toNode":"3c916e5943e36ab6","toSide":"top"},
+		{"id":"4664e3cabe381fc4","fromNode":"c3e6a4eb41cccd80","fromSide":"bottom","toNode":"26583bd4f4f9a804","toSide":"top"}
 	]
 }
