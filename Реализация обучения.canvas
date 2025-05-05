@@ -43,13 +43,14 @@
 		{"id":"18b3badb8d37ee48","type":"text","text":"# Правила общения с клиентами\n- интерактивные примеры\n- реальные кейсы\n- ответственность","x":655,"y":2855,"width":250,"height":276,"color":"6"},
 		{"id":"6e500b678d43d1a1","type":"text","text":"Как рассчитывается ЗП, зачем нужен bitcorp?\nЗа что даётся премия?","x":655,"y":3175,"width":250,"height":98,"color":"6"},
 		{"id":"53b6dc404a63b7ba","x":-1200,"y":2480,"width":250,"height":80,"type":"text","text":"Вход на платформу Bitrix24"},
-		{"id":"04f95a54a1d13158","type":"text","text":"Работа с Bitrix24","x":-1180,"y":2840,"width":250,"height":60},
-		{"id":"83d9f71a06470bc1","type":"text","text":"","x":-1180,"y":3000,"width":250,"height":69},
 		{"id":"c33ceb90acc51c8e","x":-1200,"y":2640,"width":250,"height":60,"type":"text","text":"Интерфейс платформы"},
-		{"id":"e591b40db36a6539","x":-1599,"y":2804,"width":250,"height":60,"type":"text","text":"Вкладка CRM/Создание сделки"},
-		{"id":"de30c4183315b953","x":-1599,"y":2940,"width":250,"height":160,"type":"text","text":"Вкладка CRM/Клиенты/Контакт-центр/Добавление каналов/Создание открытых линий/настройка их"},
 		{"id":"667731754543bb35","x":-1599,"y":2640,"width":250,"height":60,"type":"text","text":"Вкладка маркетплейс/прилоджение ChatApp"},
-		{"id":"f3eee0facffc0313","x":-2097,"y":2704,"width":250,"height":130,"type":"text","text":"FAQ по частым проблемам не работы приложения ChatApp в Bitrix24 и их решения"}
+		{"id":"f3eee0facffc0313","x":-2080,"y":2640,"width":250,"height":130,"type":"text","text":"FAQ по частым проблемам не работы приложения ChatApp в Bitrix24 и их решения"},
+		{"id":"e591b40db36a6539","x":-1599,"y":2740,"width":250,"height":60,"type":"text","text":"Вкладка CRM/Создание сделки"},
+		{"id":"de30c4183315b953","x":-1599,"y":2840,"width":250,"height":160,"type":"text","text":"Вкладка CRM/Клиенты/Контакт-центр/Добавление каналов/Создание открытых линий/настройка их"},
+		{"id":"04f95a54a1d13158","type":"text","text":"Работа с Bitrix24","x":-1200,"y":3100,"width":250,"height":60},
+		{"id":"83d9f71a06470bc1","type":"text","text":"","x":-1200,"y":3260,"width":250,"height":69},
+		{"id":"670a9fb77c92a090","x":-1121,"y":2757,"width":250,"height":60,"type":"text","text":"Практика/Общение с клиентом через приложение в dialogs"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right"},
@@ -104,6 +105,7 @@
 		{"id":"8d75f0258bde85d7","fromNode":"c33ceb90acc51c8e","fromSide":"left","toNode":"667731754543bb35","toSide":"right"},
 		{"id":"5b4c0c2259e6f758","fromNode":"667731754543bb35","fromSide":"bottom","toNode":"e591b40db36a6539","toSide":"top"},
 		{"id":"c9ff3d9a150a46b0","fromNode":"e591b40db36a6539","fromSide":"bottom","toNode":"de30c4183315b953","toSide":"top"},
-		{"id":"f9d77e2fc41061ec","fromNode":"667731754543bb35","fromSide":"left","toNode":"f3eee0facffc0313","toSide":"right"}
+		{"id":"f9d77e2fc41061ec","fromNode":"667731754543bb35","fromSide":"left","toNode":"f3eee0facffc0313","toSide":"right"},
+		{"id":"b6c1069aadad47fa","fromNode":"de30c4183315b953","fromSide":"right","toNode":"670a9fb77c92a090","toSide":"left"}
 	]
 }
