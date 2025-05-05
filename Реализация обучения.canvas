@@ -49,8 +49,6 @@
 		{"id":"1dc4bdeb8e888860","x":-805,"y":3911,"width":250,"height":60,"color":"#30c7f8","type":"text","text":"Практика 2"},
 		{"id":"2422e60920d542e7","type":"text","text":"Системные уведомления","x":-345,"y":2947,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"25f632af7f77f01b","x":-403,"y":3291,"width":250,"height":60,"color":"#30c7f8","type":"text","text":"FAQ по роботам и тригерам"},
-		{"id":"f681b0421e4ab2ba","x":-805,"y":4185,"width":250,"height":60,"type":"text","text":""},
-		{"id":"4891dc73f7e02588","type":"text","text":"### Этап 2 - Необходимая теория и практика","x":-1685,"y":4400,"width":300,"height":90,"color":"#c20000"},
 		{"id":"18b3badb8d37ee48","type":"text","text":"# Правила общения с клиентами\n- интерактивные примеры\n- реальные кейсы\n- ответственность","x":-1660,"y":4575,"width":250,"height":276,"color":"6"},
 		{"id":"6e500b678d43d1a1","type":"text","text":"Как рассчитывается ЗП, зачем нужен bitcorp?\nЗа что даётся премия?","x":-1660,"y":4895,"width":250,"height":98,"color":"6"},
 		{"id":"52472a505fca042b","type":"text","text":"где и как быстро найти ответ на который не знаешь ответ?","x":-1660,"y":5178,"width":250,"height":144},
@@ -58,7 +56,8 @@
 		{"id":"70398a1310a15fa6","type":"text","text":"практика - реальная проблема, и нужно найти к ней решение используя платформу.","x":-2035,"y":5395,"width":250,"height":129},
 		{"id":"2bc2328adba805d4","type":"text","text":"# 2 раб день.","x":-2560,"y":1612,"width":250,"height":83,"color":"#00ff2a"},
 		{"id":"537028a1c5d7851d","type":"text","text":"# 1 раб день.","x":-2560,"y":-353,"width":250,"height":80,"color":"#00ff2a"},
-		{"id":"196e446036cf399b","type":"text","text":"# 2 раб день.","x":-2560,"y":4174,"width":250,"height":83,"color":"#00ff2a"}
+		{"id":"196e446036cf399b","type":"text","text":"# 3 раб день.\nпринцип работы 50/50","x":-2560,"y":4174,"width":250,"height":83,"color":"#00ff2a"},
+		{"id":"f681b0421e4ab2ba","x":-805,"y":4130,"width":250,"height":172,"type":"text","text":"### Этап 2 - Необходимая теория и практика"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -93,7 +92,6 @@
 		{"id":"a61f240ccbbb185b","fromNode":"6e500b678d43d1a1","fromSide":"bottom","toNode":"52472a505fca042b","toSide":"top"},
 		{"id":"7d29318e4a27f96f","fromNode":"f40c8c1ce2a4f1e6","fromSide":"bottom","toNode":"70398a1310a15fa6","toSide":"top"},
 		{"id":"f1ee3569edccd87f","fromNode":"962db8d96970e8f2","fromSide":"bottom","toNode":"74628d36734a8900","toSide":"top"},
-		{"id":"49e3abfbf61e1327","fromNode":"4891dc73f7e02588","fromSide":"bottom","toNode":"18b3badb8d37ee48","toSide":"top"},
 		{"id":"2677e695ceaa8dcd","fromNode":"e426e0bc78abe29b","fromSide":"bottom","toNode":"fba74419ed4297f1","toSide":"top"},
 		{"id":"32cb8608e426747f","fromNode":"de7c20e59c994902","fromSide":"bottom","toNode":"39ccdbc96b7e816c","toSide":"top"},
 		{"id":"a3df42a73a35e0c6","fromNode":"39ccdbc96b7e816c","fromSide":"bottom","toNode":"0990977b50da3202","toSide":"top"},
