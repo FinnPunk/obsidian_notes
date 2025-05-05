@@ -30,12 +30,14 @@
 		{"id":"9efb153deedec5aa","x":-469,"y":641,"width":250,"height":62,"color":"3","type":"text","text":"Ознакомление с базовыми функциями"},
 		{"id":"962db8d96970e8f2","x":-805,"y":1758,"width":250,"height":386,"color":"6","type":"text","text":"как проходит рабочий день сотрудника тех поддержки в компании. \nпример: \nПриходит вовремя к 9 и включает пк и запускает всё необходимое;\nЗаказывает еду через чат бота;\nВыбирает удобное время для обеда;\nчерез что проходит работа.\nи т.д. (ДОПОЛНИТЬ)"},
 		{"id":"6e500b678d43d1a1","x":-805,"y":2544,"width":250,"height":98,"color":"6","type":"text","text":"Как рассчитывается ЗП, зачем нужен bitcorp?\nЗа что даётся премия?"},
-		{"id":"18b3badb8d37ee48","type":"text","text":"# Правила общения с клиентами\n- интерактивные примеры\n- реальные кейсы","x":-805,"y":2224,"width":250,"height":260,"color":"6"},
+		{"id":"18b3badb8d37ee48","type":"text","text":"# Правила общения с клиентами\n- интерактивные примеры\n- реальные кейсы\n- ответственность","x":-805,"y":2224,"width":250,"height":276,"color":"6"},
 		{"id":"57427b7aad480d0c","x":-891,"y":1600,"width":422,"height":107,"color":"6","type":"text","text":"# Как проходит рабочий день сотрудника ТП."},
 		{"id":"ed3870ef548ad114","x":-805,"y":1242,"width":250,"height":198,"color":"#ff00d0","type":"text","text":"Практика, получение сообщений из добавленных соц. сетей\nОтвет на сообщения, быстрыми ответами/добавление своих быстрых ответов."},
 		{"id":"4891dc73f7e02588","type":"text","text":"Этап 2 - Необходимая теория и практика","x":260,"y":2612,"width":240,"height":60,"color":"5"},
 		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграция.","x":-40,"y":2612,"width":250,"height":60,"color":"6"},
-		{"id":"f40c8c1ce2a4f1e6","x":-1180,"y":2840,"width":250,"height":131,"type":"text","text":"Интерактивное тестирование(реальные кейсы и способы решения)"}
+		{"id":"f40c8c1ce2a4f1e6","x":-1180,"y":2840,"width":250,"height":131,"type":"text","text":"Интерактивное тестирование(реальные кейсы и способы решения)"},
+		{"id":"52472a505fca042b","x":-805,"y":2827,"width":250,"height":144,"type":"text","text":"где и как быстро найти ответ на который незнаешь ответ?"},
+		{"id":"0804143ccf628b5c","x":-506,"y":2812,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"a377c78069b5efa1","fromNode":"74628d36734a8900","fromSide":"right","toNode":"4891dc73f7e02588","toSide":"left"},
@@ -76,6 +78,8 @@
 		{"id":"b3fd9d8b4a7f9bb6","fromNode":"18b3badb8d37ee48","fromSide":"bottom","toNode":"6e500b678d43d1a1","toSide":"top"},
 		{"id":"2edccb6637552a5a","fromNode":"d9ade519774a989c","fromSide":"bottom","toNode":"ed3870ef548ad114","toSide":"top"},
 		{"id":"18477ca39be7f50a","fromNode":"ed3870ef548ad114","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"top"},
-		{"id":"ce55b9d7e19b6d84","fromNode":"6e500b678d43d1a1","fromSide":"bottom","toNode":"f40c8c1ce2a4f1e6","toSide":"top"}
+		{"id":"ce55b9d7e19b6d84","fromNode":"6e500b678d43d1a1","fromSide":"bottom","toNode":"f40c8c1ce2a4f1e6","toSide":"top"},
+		{"id":"a61f240ccbbb185b","fromNode":"6e500b678d43d1a1","fromSide":"bottom","toNode":"52472a505fca042b","toSide":"top"},
+		{"id":"5dcd812e8555627d","fromNode":"6e500b678d43d1a1","fromSide":"bottom","toNode":"0804143ccf628b5c","toSide":"top"}
 	]
 }
