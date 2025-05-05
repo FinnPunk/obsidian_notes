@@ -58,7 +58,8 @@
 		{"id":"f40c8c1ce2a4f1e6","type":"text","text":"Интерактивное тестирование(реальные кейсы и способы решения)","x":-1580,"y":5053,"width":250,"height":131},
 		{"id":"70398a1310a15fa6","type":"text","text":"практика - реальная проблема, и нужно найти к ней решение используя платформу.","x":-1580,"y":5257,"width":250,"height":129},
 		{"id":"6e500b678d43d1a1","type":"text","text":"Как рассчитывается ЗП, зачем нужен bitcorp?\nЗа что даётся премия?","x":-400,"y":1758,"width":250,"height":98,"color":"6"},
-		{"id":"4ba9014728e65ddb","type":"text","text":"Как рассчитывается ЗП, зачем нужен bitcorp?\nЗа что даётся премия?","x":-272,"y":1996,"width":250,"height":98,"color":"6"}
+		{"id":"4ba9014728e65ddb","type":"text","text":"# Правила общения с клиентами\n- интерактивные примеры\n- реальные кейсы\n- ответственность","x":-100,"y":1758,"width":250,"height":288,"color":"6"},
+		{"id":"537af82b56f26222","x":-2103,"y":-56,"width":250,"height":60,"type":"text","text":"Как брать отгулы"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -124,6 +125,8 @@
 		{"id":"c5d9f7bd8bef9e53","fromNode":"f681b0421e4ab2ba","fromSide":"bottom","toNode":"18b3badb8d37ee48","toSide":"top"},
 		{"id":"b826224dae2c661f","fromNode":"18b3badb8d37ee48","fromSide":"bottom","toNode":"f40c8c1ce2a4f1e6","toSide":"top"},
 		{"id":"ba1a83fc6918fb12","fromNode":"18b3badb8d37ee48","fromSide":"bottom","toNode":"52472a505fca042b","toSide":"top"},
-		{"id":"062572d33a8ff155","fromNode":"962db8d96970e8f2","fromSide":"right","toNode":"6e500b678d43d1a1","toSide":"left"}
+		{"id":"062572d33a8ff155","fromNode":"962db8d96970e8f2","fromSide":"right","toNode":"6e500b678d43d1a1","toSide":"left"},
+		{"id":"55fd162ac2bfc96e","fromNode":"962db8d96970e8f2","fromSide":"right","toNode":"4ba9014728e65ddb","toSide":"left"},
+		{"id":"befce31a73f141ba","fromNode":"89a2e73fab1de04c","fromSide":"bottom","toNode":"537af82b56f26222","toSide":"top"}
 	]
 }
