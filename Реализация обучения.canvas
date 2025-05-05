@@ -1,27 +1,27 @@
 {
 	"nodes":[
 		{"id":"d013e34750e3f88f","type":"text","text":"Этап 1 - Подготовительный","x":-820,"y":-320,"width":280,"height":60,"color":"5"},
-		{"id":"ef75b771c37bb6e8","type":"text","text":"Этап 0 - Welcome book","x":-1419,"y":-320,"width":250,"height":60,"color":"5"},
 		{"id":"537028a1c5d7851d","x":-1120,"y":-800,"width":250,"height":80,"color":"#00ffbf","type":"text","text":"# 1 раб день."},
 		{"id":"4891dc73f7e02588","type":"text","text":"Этап 2 - Необходимая теория","x":640,"y":-320,"width":240,"height":60,"color":"5"},
 		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграция.","x":-140,"y":10,"width":250,"height":60,"color":"6"},
-		{"id":"89a2e73fab1de04c","x":-1419,"y":-197,"width":250,"height":178,"type":"text","text":"о компании. Цели компании, отделы и за что отвечают, руководители, кол-во сотрудников, плюшки для сотрудников."},
-		{"id":"a1ec952254833a0e","x":-1419,"y":40,"width":250,"height":60,"type":"text","text":"Какие цели и задачи у тех поддержки."},
-		{"id":"68039ad372b310d0","type":"text","text":"Dialogs.pro","x":-805,"y":1070,"width":250,"height":60,"color":"#ff0095"},
-		{"id":"18b3badb8d37ee48","type":"text","text":"# Правила общения с клиентами","x":-405,"y":1130,"width":250,"height":200,"color":"#ff0095"},
-		{"id":"41a454b84090f2ef","type":"text","text":"Быстрые ответы\n","x":-805,"y":1170,"width":250,"height":60,"color":"#ff0095"},
-		{"id":"d9ade519774a989c","type":"text","text":"Chatapp assistant","x":-805,"y":1270,"width":250,"height":60,"color":"#ff0095"},
-		{"id":"733950cd78d28db0","x":-1165,"y":1010,"width":250,"height":60,"type":"text","text":"FAQ по платформе Dialogs.pro"},
-		{"id":"abadd9121f8bf96a","type":"text","text":"Создание компании. \nЧуть про покупку линии.\nДобавление каналов в линии.\nДобавление сотрудников.\nМетрики.\n\"Настройки\" компании.\nЧуть про вкладку финансы.\n","x":-805,"y":670,"width":250,"height":300,"color":"4"},
-		{"id":"ef0510a39083510b","type":"text","text":"FAST Пояснение за \"Базу знаний\"","x":-1165,"y":782,"width":250,"height":77,"color":"4"},
-		{"id":"12e0c8df07a5cbee","x":-1165,"y":901,"width":250,"height":69,"type":"text","text":"FAQ по платформе chatapp"},
-		{"id":"962db8d96970e8f2","x":-160,"y":120,"width":250,"height":500,"type":"text","text":"как проходит рабочий день сотрудника тех поддержки в компании. \nпример: \nПриходит вовремя к 9 и включает пк и запускает всё необходимое;\nЗаказывает еду через чат бота;\nвыбирает удобное время для обеда;\n"},
-		{"id":"c7a269263f512cf8","type":"text","text":"Знакомство с интерфейсом","x":-805,"y":560,"width":250,"height":60,"color":"4"},
-		{"id":"d100966d8d7ca8ff","type":"text","text":"Вход на платформу chatapp","x":-805,"y":460,"width":250,"height":61,"color":"4"},
-		{"id":"e426e0bc78abe29b","x":-805,"y":-197,"width":250,"height":91,"type":"text","text":"Получение у HR всех логинов и паролей от всех платформ"},
-		{"id":"4e6a26faf675ea95","x":-1164,"y":204,"width":250,"height":60,"type":"text","text":"Работа с JIRA"},
-		{"id":"0ae9f16f3d8e8de1","x":-815,"y":204,"width":250,"height":60,"type":"text","text":"Работа с ChatApp"},
-		{"id":"0a1e8b44df277a60","x":-516,"y":242,"width":250,"height":60,"type":"text","text":""}
+		{"id":"e426e0bc78abe29b","x":-805,"y":-197,"width":250,"height":91,"color":"5","type":"text","text":"Получение у HR всех логинов и паролей от всех платформ"},
+		{"id":"0ae9f16f3d8e8de1","x":-815,"y":204,"width":250,"height":60,"color":"4","type":"text","text":"Работа с ChatApp"},
+		{"id":"0a1e8b44df277a60","x":-480,"y":204,"width":250,"height":60,"type":"text","text":"Работа с Conflurense"},
+		{"id":"4e6a26faf675ea95","x":-1240,"y":204,"width":250,"height":60,"type":"text","text":"Работа с JIRA"},
+		{"id":"a1ec952254833a0e","x":-1920,"y":40,"width":250,"height":60,"type":"text","text":"Какие цели и задачи у тех поддержки."},
+		{"id":"ef75b771c37bb6e8","type":"text","text":"Этап 0 - Welcome book","x":-1920,"y":-320,"width":250,"height":60,"color":"5"},
+		{"id":"89a2e73fab1de04c","x":-1920,"y":-197,"width":250,"height":178,"type":"text","text":"о компании. Цели компании, отделы и за что отвечают, руководители, кол-во сотрудников, плюшки для сотрудников."},
+		{"id":"68039ad372b310d0","type":"text","text":"Dialogs.pro","x":-815,"y":1070,"width":250,"height":60,"color":"#ff0095"},
+		{"id":"18b3badb8d37ee48","type":"text","text":"# Правила общения с клиентами","x":-415,"y":1130,"width":250,"height":200,"color":"#ff0095"},
+		{"id":"41a454b84090f2ef","type":"text","text":"Быстрые ответы\n","x":-815,"y":1170,"width":250,"height":60,"color":"#ff0095"},
+		{"id":"d9ade519774a989c","type":"text","text":"Chatapp assistant","x":-815,"y":1270,"width":250,"height":60,"color":"#ff0095"},
+		{"id":"c7a269263f512cf8","type":"text","text":"Знакомство с интерфейсом","x":-815,"y":560,"width":250,"height":60,"color":"4"},
+		{"id":"abadd9121f8bf96a","type":"text","text":"Создание компании. \nЧуть про покупку линии.\nДобавление каналов в линии.\nДобавление сотрудников.\nМетрики.\n\"Настройки\" компании.\nЧуть про вкладку финансы.\n","x":-815,"y":670,"width":250,"height":300,"color":"4"},
+		{"id":"ef0510a39083510b","type":"text","text":"FAST Пояснение за \"Базу знаний\"","x":-1175,"y":782,"width":250,"height":77,"color":"4"},
+		{"id":"12e0c8df07a5cbee","x":-1175,"y":901,"width":250,"height":69,"type":"text","text":"FAQ по платформе chatapp"},
+		{"id":"733950cd78d28db0","x":-1175,"y":1010,"width":250,"height":60,"type":"text","text":"FAQ по платформе Dialogs.pro"},
+		{"id":"d100966d8d7ca8ff","type":"text","text":"Вход на платформу chatapp","x":-815,"y":460,"width":250,"height":61,"color":"4"},
+		{"id":"962db8d96970e8f2","x":-15,"y":204,"width":250,"height":500,"type":"text","text":"как проходит рабочий день сотрудника тех поддержки в компании. \nпример: \nПриходит вовремя к 9 и включает пк и запускает всё необходимое;\nЗаказывает еду через чат бота;\nвыбирает удобное время для обеда;\n"}
 	],
 	"edges":[
 		{"id":"a377c78069b5efa1","fromNode":"74628d36734a8900","fromSide":"right","toNode":"4891dc73f7e02588","toSide":"left"},
@@ -42,6 +42,7 @@
 		{"id":"28d44bef6ff54cc8","fromNode":"d013e34750e3f88f","fromSide":"bottom","toNode":"e426e0bc78abe29b","toSide":"top"},
 		{"id":"e5f35bece9da66db","fromNode":"e426e0bc78abe29b","fromSide":"bottom","toNode":"4e6a26faf675ea95","toSide":"top"},
 		{"id":"41dca7e59b93261b","fromNode":"e426e0bc78abe29b","fromSide":"bottom","toNode":"0ae9f16f3d8e8de1","toSide":"top"},
-		{"id":"a2aa1b8a0cf8cc59","fromNode":"e426e0bc78abe29b","fromSide":"bottom","toNode":"0a1e8b44df277a60","toSide":"top"}
+		{"id":"a2aa1b8a0cf8cc59","fromNode":"e426e0bc78abe29b","fromSide":"bottom","toNode":"0a1e8b44df277a60","toSide":"top"},
+		{"id":"07a46f6ee29b2d91","fromNode":"0ae9f16f3d8e8de1","fromSide":"bottom","toNode":"d100966d8d7ca8ff","toSide":"top"}
 	]
 }
