@@ -25,15 +25,15 @@
 		{"id":"537028a1c5d7851d","x":-2460,"y":-760,"width":250,"height":80,"color":"#00ff2a","type":"text","text":"# 1 раб день."},
 		{"id":"2bc2328adba805d4","x":-1720,"y":1334,"width":250,"height":83,"color":"#00ff2a","type":"text","text":"# 2 раб день."},
 		{"id":"962db8d96970e8f2","x":-805,"y":1534,"width":250,"height":386,"color":"6","type":"text","text":"как проходит рабочий день сотрудника тех поддержки в компании. \nпример: \nПриходит вовремя к 9 и включает пк и запускает всё необходимое;\nЗаказывает еду через чат бота;\nВыбирает удобное время для обеда;\nчерез что проходит работа.\nи т.д. (ДОПОЛНИТЬ)"},
-		{"id":"6e500b678d43d1a1","x":-805,"y":2022,"width":250,"height":98,"color":"6","type":"text","text":"Как рассчитывается ЗП, зачем нужен bitcorp?\nЗа что даётся премия?"},
-		{"id":"18b3badb8d37ee48","type":"text","text":"# Правила общения с клиентами","x":-805,"y":2240,"width":250,"height":200,"color":"#ff0095"},
 		{"id":"0a1e8b44df277a60","x":-469,"y":204,"width":250,"height":60,"color":"3","type":"text","text":"Работа с Conflurense"},
 		{"id":"49dd4287300946b1","type":"text","text":"Вход на платформу","x":-469,"y":313,"width":250,"height":60,"color":"3"},
 		{"id":"12b17f33e060e0d2","type":"text","text":"Знакомство с интерфейсом","x":-469,"y":424,"width":250,"height":60,"color":"3"},
 		{"id":"0cdcfe38c315e747","x":-469,"y":531,"width":250,"height":60,"color":"3","type":"text","text":"Создание документов для работы"},
 		{"id":"9efb153deedec5aa","x":-469,"y":641,"width":250,"height":62,"color":"3","type":"text","text":"Ознакомление с базовыми функциями"},
-		{"id":"4891dc73f7e02588","type":"text","text":"Этап 2 - Необходимая теория","x":20,"y":2380,"width":240,"height":60,"color":"5"},
-		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграция.","x":-280,"y":2380,"width":250,"height":60,"color":"6"}
+		{"id":"4891dc73f7e02588","type":"text","text":"Этап 2 - Необходимая теория и практика","x":-800,"y":2680,"width":240,"height":60,"color":"5"},
+		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграция.","x":-1100,"y":2680,"width":250,"height":60,"color":"6"},
+		{"id":"18b3badb8d37ee48","type":"text","text":"# Правила общения с клиентами\nи","x":-805,"y":2000,"width":250,"height":200,"color":"#ff0095"},
+		{"id":"6e500b678d43d1a1","x":-805,"y":2320,"width":250,"height":98,"color":"6","type":"text","text":"Как рассчитывается ЗП, зачем нужен bitcorp?\nЗа что даётся премия?"}
 	],
 	"edges":[
 		{"id":"a377c78069b5efa1","fromNode":"74628d36734a8900","fromSide":"right","toNode":"4891dc73f7e02588","toSide":"left"},
@@ -71,6 +71,7 @@
 		{"id":"f117dbef68b5dcb1","fromNode":"3854c108199af2a8","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"left"},
 		{"id":"959d3f6f3b1199a0","fromNode":"2bc2328adba805d4","fromSide":"right","toNode":"57427b7aad480d0c","toSide":"left","label":"начало"},
 		{"id":"a2b89b2857fe283c","fromNode":"57427b7aad480d0c","fromSide":"bottom","toNode":"962db8d96970e8f2","toSide":"top"},
-		{"id":"1a5e83b63ef04a8b","fromNode":"962db8d96970e8f2","fromSide":"bottom","toNode":"6e500b678d43d1a1","toSide":"top"}
+		{"id":"004c6f77c9b524a4","fromNode":"962db8d96970e8f2","fromSide":"bottom","toNode":"18b3badb8d37ee48","toSide":"top"},
+		{"id":"b3fd9d8b4a7f9bb6","fromNode":"18b3badb8d37ee48","fromSide":"bottom","toNode":"6e500b678d43d1a1","toSide":"top"}
 	]
 }
