@@ -37,7 +37,12 @@
 		{"id":"ef75b771c37bb6e8","type":"text","text":"Этап 0 - Welcome book","x":-1455,"y":-680,"width":250,"height":60,"color":"5"},
 		{"id":"89a2e73fab1de04c","x":-1455,"y":-557,"width":250,"height":178,"color":"5","type":"text","text":"о компании. Цели компании, отделы и за что отвечают, руководители, кол-во сотрудников, плюшки для сотрудников."},
 		{"id":"a1ec952254833a0e","x":-1455,"y":-320,"width":250,"height":60,"color":"5","type":"text","text":"Какие цели и задачи у тех поддержки."},
-		{"id":"70398a1310a15fa6","x":-720,"y":3140,"width":250,"height":129,"type":"text","text":"практика - реальная проблема, и нужно найти к ней решение используя платформу."}
+		{"id":"70398a1310a15fa6","x":-720,"y":3140,"width":250,"height":129,"type":"text","text":"практика - реальная проблема, и нужно найти к ней решение используя платформу."},
+		{"id":"fba74419ed4297f1","x":-80,"y":204,"width":250,"height":60,"type":"text","text":"Работа с DIscord"},
+		{"id":"de7c20e59c994902","type":"text","text":"Вход на платформу","x":-73,"y":91,"width":250,"height":60,"color":"3"},
+		{"id":"39ccdbc96b7e816c","type":"text","text":"Знакомство с интерфейсом","x":-73,"y":202,"width":250,"height":60,"color":"3"},
+		{"id":"0990977b50da3202","type":"text","text":"Создание документов для работы","x":-73,"y":309,"width":250,"height":60,"color":"3"},
+		{"id":"30ae46227eda066d","type":"text","text":"Ознакомление с базовыми функциями","x":-73,"y":419,"width":250,"height":62,"color":"3"}
 	],
 	"edges":[
 		{"id":"a377c78069b5efa1","fromNode":"74628d36734a8900","fromSide":"right","toNode":"4891dc73f7e02588","toSide":"left"},
@@ -81,6 +86,10 @@
 		{"id":"a61f240ccbbb185b","fromNode":"6e500b678d43d1a1","fromSide":"bottom","toNode":"52472a505fca042b","toSide":"top"},
 		{"id":"7d29318e4a27f96f","fromNode":"f40c8c1ce2a4f1e6","fromSide":"bottom","toNode":"70398a1310a15fa6","toSide":"top"},
 		{"id":"f1ee3569edccd87f","fromNode":"962db8d96970e8f2","fromSide":"bottom","toNode":"74628d36734a8900","toSide":"top"},
-		{"id":"49e3abfbf61e1327","fromNode":"4891dc73f7e02588","fromSide":"bottom","toNode":"18b3badb8d37ee48","toSide":"top"}
+		{"id":"49e3abfbf61e1327","fromNode":"4891dc73f7e02588","fromSide":"bottom","toNode":"18b3badb8d37ee48","toSide":"top"},
+		{"id":"2677e695ceaa8dcd","fromNode":"e426e0bc78abe29b","fromSide":"bottom","toNode":"fba74419ed4297f1","toSide":"top"},
+		{"id":"32cb8608e426747f","fromNode":"de7c20e59c994902","fromSide":"bottom","toNode":"39ccdbc96b7e816c","toSide":"top"},
+		{"id":"a3df42a73a35e0c6","fromNode":"39ccdbc96b7e816c","fromSide":"bottom","toNode":"0990977b50da3202","toSide":"top"},
+		{"id":"a48bd7c56248cf64","fromNode":"0990977b50da3202","fromSide":"bottom","toNode":"30ae46227eda066d","toSide":"top"}
 	]
 }
