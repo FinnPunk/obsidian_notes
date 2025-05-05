@@ -9,8 +9,6 @@
 		{"id":"53b6dc404a63b7ba","type":"text","text":"Вход на платформу Bitrix24 (Создание своего пространства на другую почту )","x":-805,"y":2580,"width":250,"height":118,"color":"#30c7f8"},
 		{"id":"c33ceb90acc51c8e","type":"text","text":"Интерфейс платформы","x":-805,"y":2778,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"670a9fb77c92a090","type":"text","text":"Практика/Общение с клиентом через приложение в dialogs.pro и создание и настройка сделки в bitrix24","x":-805,"y":2895,"width":250,"height":185,"color":"#30c7f8"},
-		{"id":"775126da3807d4f1","type":"text","text":"Изучение базовых роботов и триггеров от Bitrix24","x":-804,"y":3198,"width":250,"height":111,"color":"#30c7f8"},
-		{"id":"8ccf0e98d5f161d5","type":"text","text":"Изучение базовых роботов от ChatApp","x":-804,"y":3358,"width":250,"height":80,"color":"#30c7f8"},
 		{"id":"fd4655354ad65980","type":"text","text":"Примеры использования сценариев роботов и тригеров и логика работы.","x":-805,"y":3542,"width":250,"height":158,"color":"#30c7f8"},
 		{"id":"4f50dcfad0db32b8","type":"text","text":"Практика 1","x":-805,"y":3774,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"1dc4bdeb8e888860","type":"text","text":"Практика 2","x":-805,"y":3911,"width":250,"height":60,"color":"#30c7f8"},
@@ -75,7 +73,10 @@
 		{"id":"c3e6a4eb41cccd80","type":"text","text":"Практика/Общение с клиентом через приложение в dialogs.pro и создание и настройка сделки в bitrix24","x":-804,"y":6328,"width":250,"height":185,"color":"#85cef2"},
 		{"id":"eab1b8f8ec554199","type":"text","text":"Системные уведомления","x":-380,"y":6328,"width":250,"height":60,"color":"#85cef2"},
 		{"id":"7f1519c43ded3c37","type":"text","text":"FAQ по частым проблемам не работы приложения ChatApp в AmoCrm и их решения","x":-1660,"y":6140,"width":250,"height":130,"color":"#85cef2"},
-		{"id":"de30c4183315b953","type":"text","text":"Вкладка CRM/Клиенты/Контакт-центр/Добавление каналов/Создание открытых линий/настройка их","x":-1204,"y":3108,"width":250,"height":160,"color":"#30c7f8"}
+		{"id":"de30c4183315b953","type":"text","text":"Вкладка CRM/Клиенты/Контакт-центр/Добавление каналов/Создание открытых линий/настройка их","x":-1204,"y":2978,"width":250,"height":160,"color":"#30c7f8"},
+		{"id":"775126da3807d4f1","type":"text","text":"Изучение базовых роботов и триггеров от Bitrix24","x":-805,"y":3151,"width":250,"height":111,"color":"#30c7f8"},
+		{"id":"8ccf0e98d5f161d5","type":"text","text":"Изучение базовых роботов от ChatApp","x":-805,"y":3311,"width":250,"height":80,"color":"#30c7f8"},
+		{"id":"1a16af7ed8a75165","x":-805,"y":3440,"width":250,"height":60,"type":"text","text":"воронки"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -126,7 +127,6 @@
 		{"id":"516f7cc5ac9134d8","fromNode":"0990977b50da3202","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"right"},
 		{"id":"b96a8d5979e7823c","fromNode":"670a9fb77c92a090","fromSide":"bottom","toNode":"775126da3807d4f1","toSide":"top"},
 		{"id":"c8b69850c15f6b2f","fromNode":"775126da3807d4f1","fromSide":"bottom","toNode":"8ccf0e98d5f161d5","toSide":"top"},
-		{"id":"324662abf7d53eb0","fromNode":"8ccf0e98d5f161d5","fromSide":"bottom","toNode":"fd4655354ad65980","toSide":"top"},
 		{"id":"5bd648354e53f063","fromNode":"fd4655354ad65980","fromSide":"bottom","toNode":"4f50dcfad0db32b8","toSide":"top"},
 		{"id":"fd6df9f4cfa62135","fromNode":"4f50dcfad0db32b8","fromSide":"bottom","toNode":"1dc4bdeb8e888860","toSide":"top"},
 		{"id":"4518523cfa253ab4","fromNode":"8ccf0e98d5f161d5","fromSide":"right","toNode":"25f632af7f77f01b","toSide":"left","fromEnd":"arrow"},
@@ -160,6 +160,8 @@
 		{"id":"a8a9bfc3db34e31a","fromNode":"c3e6a4eb41cccd80","fromSide":"right","toNode":"eab1b8f8ec554199","toSide":"left","fromEnd":"arrow"},
 		{"id":"d1f5cf493963c513","fromNode":"442daec470c43f98","fromSide":"bottom","toNode":"1bb62588216bba22","toSide":"top"},
 		{"id":"836c9a7e69993f25","fromNode":"de30c4183315b953","fromSide":"left","toNode":"3a478694d0b16e75","toSide":"right","fromEnd":"arrow"},
-		{"id":"1e066941533d3b2b","fromNode":"e591b40db36a6539","fromSide":"bottom","toNode":"de30c4183315b953","toSide":"top"}
+		{"id":"1e066941533d3b2b","fromNode":"e591b40db36a6539","fromSide":"bottom","toNode":"de30c4183315b953","toSide":"top"},
+		{"id":"17e594468dec388f","fromNode":"8ccf0e98d5f161d5","fromSide":"bottom","toNode":"1a16af7ed8a75165","toSide":"top"},
+		{"id":"e28ede308d225cb3","fromNode":"1a16af7ed8a75165","fromSide":"bottom","toNode":"fd4655354ad65980","toSide":"top"}
 	]
 }
