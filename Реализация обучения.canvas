@@ -21,7 +21,11 @@
 		{"id":"733950cd78d28db0","x":-1180,"y":750,"width":250,"height":60,"color":"4","type":"text","text":"FAQ по платформе Dialogs.pro"},
 		{"id":"4e6a26faf675ea95","x":-1760,"y":204,"width":250,"height":60,"color":"2","type":"text","text":"Работа с JIRA"},
 		{"id":"962db8d96970e8f2","x":900,"y":-16,"width":250,"height":500,"type":"text","text":"как проходит рабочий день сотрудника тех поддержки в компании. \nпример: \nПриходит вовремя к 9 и включает пк и запускает всё необходимое;\nЗаказывает еду через чат бота;\nвыбирает удобное время для обеда;\n"},
-		{"id":"0a1e8b44df277a60","x":160,"y":204,"width":250,"height":60,"color":"3","type":"text","text":"Работа с Conflurense"}
+		{"id":"0a1e8b44df277a60","x":160,"y":204,"width":250,"height":60,"color":"3","type":"text","text":"Работа с Conflurense"},
+		{"id":"3dac129ef937ac1d","x":-1759,"y":353,"width":250,"height":60,"type":"text","text":"Вход на платформу"},
+		{"id":"e5af31f9e5bc633d","x":-1759,"y":488,"width":250,"height":60,"type":"text","text":"Знакомство с интерфейсом"},
+		{"id":"4833a849f44d50e5","x":-1942,"y":683,"width":250,"height":60,"type":"text","text":"Создание задач"},
+		{"id":"73f9f013a58744ac","x":-1572,"y":687,"width":250,"height":60,"type":"text","text":"Работа со "}
 	],
 	"edges":[
 		{"id":"a377c78069b5efa1","fromNode":"74628d36734a8900","fromSide":"right","toNode":"4891dc73f7e02588","toSide":"left"},
@@ -43,6 +47,10 @@
 		{"id":"e5f35bece9da66db","fromNode":"e426e0bc78abe29b","fromSide":"bottom","toNode":"4e6a26faf675ea95","toSide":"top"},
 		{"id":"41dca7e59b93261b","fromNode":"e426e0bc78abe29b","fromSide":"bottom","toNode":"0ae9f16f3d8e8de1","toSide":"top"},
 		{"id":"a2aa1b8a0cf8cc59","fromNode":"e426e0bc78abe29b","fromSide":"bottom","toNode":"0a1e8b44df277a60","toSide":"top"},
-		{"id":"07a46f6ee29b2d91","fromNode":"0ae9f16f3d8e8de1","fromSide":"bottom","toNode":"d100966d8d7ca8ff","toSide":"top"}
+		{"id":"07a46f6ee29b2d91","fromNode":"0ae9f16f3d8e8de1","fromSide":"bottom","toNode":"d100966d8d7ca8ff","toSide":"top"},
+		{"id":"759d3a90a95ef886","fromNode":"4e6a26faf675ea95","fromSide":"bottom","toNode":"3dac129ef937ac1d","toSide":"top"},
+		{"id":"9051fb0b336ec330","fromNode":"3dac129ef937ac1d","fromSide":"bottom","toNode":"e5af31f9e5bc633d","toSide":"top"},
+		{"id":"22c97e7cbf45174e","fromNode":"e5af31f9e5bc633d","fromSide":"bottom","toNode":"4833a849f44d50e5","toSide":"top"},
+		{"id":"3a9297f2bfa921b0","fromNode":"e5af31f9e5bc633d","fromSide":"bottom","toNode":"73f9f013a58744ac","toSide":"top"}
 	]
 }
