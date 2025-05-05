@@ -61,9 +61,12 @@
 		{"id":"18b3badb8d37ee48","type":"text","text":"# Правила общения с клиентами\n- интерактивные примеры\n- реальные кейсы\n- ответственность","x":-805,"y":4360,"width":250,"height":276,"color":"6"},
 		{"id":"71d2dfee7fb2e3da","x":-660,"y":4760,"width":220,"height":138,"type":"text","text":"\"Нет слэнгу!\" или как говорить простыми словами и понятно объяснять?"},
 		{"id":"52472a505fca042b","type":"text","text":"Где и как быстро найти ответ на который не знаешь ответ?","x":-940,"y":4760,"width":240,"height":138},
-		{"id":"f40c8c1ce2a4f1e6","type":"text","text":"Интерактивное тестирование(реальные кейсы и способы решения)","x":-804,"y":5020,"width":250,"height":131},
+		{"id":"f40c8c1ce2a4f1e6","type":"text","text":"Интерактивное тестирование (реальные кейсы и способы решения)","x":-804,"y":5020,"width":250,"height":131},
 		{"id":"6f18302f719f698c","x":-804,"y":5240,"width":250,"height":60,"type":"text","text":"Практика с роботами и триггерами (снова)"},
-		{"id":"70398a1310a15fa6","type":"text","text":"Практика - реальная проблема, и нужно найти к ней решение используя платформу.","x":-804,"y":5380,"width":250,"height":129}
+		{"id":"70398a1310a15fa6","type":"text","text":"Практика - реальная проблема, и нужно найти к ней решение используя платформу.","x":-804,"y":5380,"width":250,"height":129},
+		{"id":"fd326db91640666b","x":-804,"y":5656,"width":250,"height":60,"type":"text","text":"Работа 50% дня"},
+		{"id":"92b413073ee2662d","type":"text","text":"# 3 раб день.\nпринцип работы 50/50","x":-2560,"y":5840,"width":250,"height":83,"color":"#00ff2a"},
+		{"id":"442daec470c43f98","x":-804,"y":5820,"width":250,"height":60,"type":"text","text":"Работа с AmoCrm"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -136,6 +139,7 @@
 		{"id":"92995f0a300a05bc","fromNode":"52472a505fca042b","fromSide":"bottom","toNode":"f40c8c1ce2a4f1e6","toSide":"top"},
 		{"id":"901d154378d68aee","fromNode":"71d2dfee7fb2e3da","fromSide":"bottom","toNode":"f40c8c1ce2a4f1e6","toSide":"top"},
 		{"id":"b15ffd8a9a86e49f","fromNode":"f40c8c1ce2a4f1e6","fromSide":"bottom","toNode":"6f18302f719f698c","toSide":"top"},
-		{"id":"660614712eb0b887","fromNode":"6f18302f719f698c","fromSide":"bottom","toNode":"70398a1310a15fa6","toSide":"top"}
+		{"id":"660614712eb0b887","fromNode":"6f18302f719f698c","fromSide":"bottom","toNode":"70398a1310a15fa6","toSide":"top"},
+		{"id":"d761ca3c8494776c","fromNode":"70398a1310a15fa6","fromSide":"bottom","toNode":"fd326db91640666b","toSide":"top"}
 	]
 }
