@@ -28,11 +28,11 @@
 		{"id":"4891dc73f7e02588","type":"text","text":"Этап 2 - Необходимая теория","x":1200,"y":-320,"width":240,"height":60,"color":"5"},
 		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграция.","x":900,"y":-320,"width":250,"height":60,"color":"6"},
 		{"id":"18b3badb8d37ee48","type":"text","text":"# Правила общения с клиентами","x":320,"y":1334,"width":250,"height":200,"color":"#ff0095"},
-		{"id":"57427b7aad480d0c","x":-891,"y":1327,"width":422,"height":107,"type":"text","text":"# Как проходит рабочий день сотрудника ТП."},
+		{"id":"57427b7aad480d0c","x":-891,"y":1327,"width":422,"height":107,"color":"6","type":"text","text":"# Как проходит рабочий день сотрудника ТП."},
 		{"id":"3854c108199af2a8","x":-1760,"y":862,"width":250,"height":60,"color":"2","type":"text","text":"Предназначение Jira в работе?"},
-		{"id":"962db8d96970e8f2","x":-805,"y":1534,"width":250,"height":500,"type":"text","text":"как проходит рабочий день сотрудника тех поддержки в компании. \nпример: \nПриходит вовремя к 9 и включает пк и запускает всё необходимое;\nЗаказывает еду через чат бота;\nвыбирает удобное время для обеда;\n"},
 		{"id":"537028a1c5d7851d","x":-2460,"y":-760,"width":250,"height":80,"color":"#00ff2a","type":"text","text":"# 1 раб день."},
-		{"id":"2bc2328adba805d4","x":-1720,"y":1334,"width":250,"height":83,"color":"#00ff2a","type":"text","text":"# 2 раб день."}
+		{"id":"2bc2328adba805d4","x":-1720,"y":1334,"width":250,"height":83,"color":"#00ff2a","type":"text","text":"# 2 раб день."},
+		{"id":"962db8d96970e8f2","x":-805,"y":1534,"width":250,"height":386,"color":"6","type":"text","text":"как проходит рабочий день сотрудника тех поддержки в компании. \nпример: \nПриходит вовремя к 9 и включает пк и запускает всё необходимое;\nЗаказывает еду через чат бота;\nВыбирает удобное время для обеда;\nчерез что проходит работа.\nи т.д. (ДОПОЛНИТЬ)"}
 	],
 	"edges":[
 		{"id":"a377c78069b5efa1","fromNode":"74628d36734a8900","fromSide":"right","toNode":"4891dc73f7e02588","toSide":"left"},
@@ -68,6 +68,7 @@
 		{"id":"564bd3c0c3b30ea6","fromNode":"73f9f013a58744ac","fromSide":"bottom","toNode":"3854c108199af2a8","toSide":"top"},
 		{"id":"e980ca2331de78b2","fromNode":"4833a849f44d50e5","fromSide":"bottom","toNode":"3854c108199af2a8","toSide":"top"},
 		{"id":"f117dbef68b5dcb1","fromNode":"3854c108199af2a8","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"left"},
-		{"id":"959d3f6f3b1199a0","fromNode":"2bc2328adba805d4","fromSide":"right","toNode":"57427b7aad480d0c","toSide":"left","label":"начало"}
+		{"id":"959d3f6f3b1199a0","fromNode":"2bc2328adba805d4","fromSide":"right","toNode":"57427b7aad480d0c","toSide":"left","label":"начало"},
+		{"id":"a2b89b2857fe283c","fromNode":"57427b7aad480d0c","fromSide":"bottom","toNode":"962db8d96970e8f2","toSide":"top"}
 	]
 }
