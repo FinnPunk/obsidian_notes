@@ -52,7 +52,8 @@
 		{"id":"04f95a54a1d13158","type":"text","text":"Работа с Bitrix24","x":-1599,"y":3140,"width":250,"height":60},
 		{"id":"83d9f71a06470bc1","type":"text","text":"","x":-1599,"y":3300,"width":250,"height":69},
 		{"id":"52a75bd5e0a32b88","x":-1200,"y":3056,"width":250,"height":114,"type":"text","text":"Создание первого бота на приветствие клиента и получение данных от него. "},
-		{"id":"3236d4aa23340f85","x":-1201,"y":3259,"width":250,"height":60,"type":"text","text":""}
+		{"id":"3236d4aa23340f85","x":-1201,"y":3259,"width":250,"height":141,"type":"text","text":"небольшая теория о плюсах использования роботов, и облегчения работы при их использовании."},
+		{"id":"0698ec4ef8103cd0","x":-1202,"y":3488,"width":250,"height":60,"type":"text","text":"Создание робота для создания "}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right"},
@@ -110,6 +111,7 @@
 		{"id":"f9d77e2fc41061ec","fromNode":"667731754543bb35","fromSide":"left","toNode":"f3eee0facffc0313","toSide":"right"},
 		{"id":"b6c1069aadad47fa","fromNode":"de30c4183315b953","fromSide":"right","toNode":"670a9fb77c92a090","toSide":"left"},
 		{"id":"fb074cc450c09644","fromNode":"670a9fb77c92a090","fromSide":"bottom","toNode":"52a75bd5e0a32b88","toSide":"top"},
-		{"id":"1c2d8eeff68fdcf8","fromNode":"52a75bd5e0a32b88","fromSide":"bottom","toNode":"3236d4aa23340f85","toSide":"top"}
+		{"id":"1c2d8eeff68fdcf8","fromNode":"52a75bd5e0a32b88","fromSide":"bottom","toNode":"3236d4aa23340f85","toSide":"top"},
+		{"id":"3941cd5208c51c2c","fromNode":"3236d4aa23340f85","fromSide":"bottom","toNode":"0698ec4ef8103cd0","toSide":"top"}
 	]
 }
