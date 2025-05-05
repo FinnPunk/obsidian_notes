@@ -48,9 +48,11 @@
 		{"id":"f3eee0facffc0313","x":-2080,"y":2640,"width":250,"height":130,"type":"text","text":"FAQ по частым проблемам не работы приложения ChatApp в Bitrix24 и их решения"},
 		{"id":"e591b40db36a6539","x":-1599,"y":2740,"width":250,"height":60,"type":"text","text":"Вкладка CRM/Создание сделки"},
 		{"id":"de30c4183315b953","x":-1599,"y":2840,"width":250,"height":160,"type":"text","text":"Вкладка CRM/Клиенты/Контакт-центр/Добавление каналов/Создание открытых линий/настройка их"},
-		{"id":"04f95a54a1d13158","type":"text","text":"Работа с Bitrix24","x":-1200,"y":3100,"width":250,"height":60},
-		{"id":"83d9f71a06470bc1","type":"text","text":"","x":-1200,"y":3260,"width":250,"height":69},
-		{"id":"670a9fb77c92a090","x":-1121,"y":2757,"width":250,"height":60,"type":"text","text":"Практика/Общение с клиентом через приложение в dialogs"}
+		{"id":"670a9fb77c92a090","x":-1200,"y":2757,"width":250,"height":163,"type":"text","text":"Практика/Общение с клиентом через приложение в dialogs.pro и создание и настройка сделки в bitrix24"},
+		{"id":"04f95a54a1d13158","type":"text","text":"Работа с Bitrix24","x":-1599,"y":3140,"width":250,"height":60},
+		{"id":"83d9f71a06470bc1","type":"text","text":"","x":-1599,"y":3300,"width":250,"height":69},
+		{"id":"52a75bd5e0a32b88","x":-1200,"y":3056,"width":250,"height":114,"type":"text","text":"Создание первого бота на приветствие клиента и получение данных от него. "},
+		{"id":"3236d4aa23340f85","x":-1201,"y":3259,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right"},
@@ -106,6 +108,8 @@
 		{"id":"5b4c0c2259e6f758","fromNode":"667731754543bb35","fromSide":"bottom","toNode":"e591b40db36a6539","toSide":"top"},
 		{"id":"c9ff3d9a150a46b0","fromNode":"e591b40db36a6539","fromSide":"bottom","toNode":"de30c4183315b953","toSide":"top"},
 		{"id":"f9d77e2fc41061ec","fromNode":"667731754543bb35","fromSide":"left","toNode":"f3eee0facffc0313","toSide":"right"},
-		{"id":"b6c1069aadad47fa","fromNode":"de30c4183315b953","fromSide":"right","toNode":"670a9fb77c92a090","toSide":"left"}
+		{"id":"b6c1069aadad47fa","fromNode":"de30c4183315b953","fromSide":"right","toNode":"670a9fb77c92a090","toSide":"left"},
+		{"id":"fb074cc450c09644","fromNode":"670a9fb77c92a090","fromSide":"bottom","toNode":"52a75bd5e0a32b88","toSide":"top"},
+		{"id":"1c2d8eeff68fdcf8","fromNode":"52a75bd5e0a32b88","fromSide":"bottom","toNode":"3236d4aa23340f85","toSide":"top"}
 	]
 }
