@@ -82,7 +82,8 @@
 		{"id":"4cd1fe517b6ec7e1","type":"text","text":"Примеры использования сценариев роботов и тригеров и логика работы.","x":-804,"y":6960,"width":250,"height":158,"color":"#85cef2"},
 		{"id":"7437d6bd4ef7d664","type":"text","text":"Практика 1","x":-804,"y":7192,"width":250,"height":60,"color":"#85cef2"},
 		{"id":"a62982480caa07ab","type":"text","text":"Практика 2","x":-804,"y":7329,"width":250,"height":60,"color":"#85cef2"},
-		{"id":"dda382df0683e432","type":"text","text":"### Работа 50% дня","x":-804,"y":7440,"width":250,"height":84,"color":"1"}
+		{"id":"dda382df0683e432","type":"text","text":"### Работа 50% дня","x":-804,"y":7440,"width":250,"height":84,"color":"1"},
+		{"id":"5540b3894a321959","x":-804,"y":7620,"width":250,"height":88,"color":"1","type":"text","text":"### Этап 3. Углублённое"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
