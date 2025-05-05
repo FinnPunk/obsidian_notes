@@ -8,7 +8,7 @@
 		{"id":"e591b40db36a6539","type":"text","text":"Вкладка CRM/Создание сделки","x":-1204,"y":2878,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"de30c4183315b953","type":"text","text":"Вкладка CRM/Клиенты/Контакт-центр/Добавление каналов/Создание открытых линий/настройка их","x":-1204,"y":2978,"width":250,"height":160,"color":"#30c7f8"},
 		{"id":"2261d7519c725b23","type":"text","text":"### Работа с Bitrix24","x":-805,"y":2458,"width":250,"height":60,"color":"#30c7f8"},
-		{"id":"53b6dc404a63b7ba","type":"text","text":"Вход на платформу Bitrix24 (Создание своего пространства на другую почту )","x":-805,"y":2618,"width":250,"height":80,"color":"#30c7f8"},
+		{"id":"53b6dc404a63b7ba","type":"text","text":"Вход на платформу Bitrix24 (Создание своего пространства на другую почту )","x":-805,"y":2580,"width":250,"height":118,"color":"#30c7f8"},
 		{"id":"c33ceb90acc51c8e","type":"text","text":"Интерфейс платформы","x":-805,"y":2778,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"670a9fb77c92a090","type":"text","text":"Практика/Общение с клиентом через приложение в dialogs.pro и создание и настройка сделки в bitrix24","x":-805,"y":2895,"width":250,"height":185,"color":"#30c7f8"},
 		{"id":"775126da3807d4f1","type":"text","text":"Изучение базовых роботов и триггеров от Bitrix24","x":-804,"y":3198,"width":250,"height":111,"color":"#30c7f8"},
@@ -74,7 +74,8 @@
 		{"id":"1bb62588216bba22","type":"text","text":"Вход на платформу AmoCrm","x":-804,"y":6040,"width":250,"height":80,"color":"#30c7f8"},
 		{"id":"382f2354a8c5d425","type":"text","text":"Интерфейс платформы","x":-804,"y":6200,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"c3e6a4eb41cccd80","type":"text","text":"Практика/Общение с клиентом через приложение в dialogs.pro и создание и настройка сделки в bitrix24","x":-804,"y":6317,"width":250,"height":185,"color":"#30c7f8"},
-		{"id":"eab1b8f8ec554199","type":"text","text":"Системные уведомления","x":-344,"y":6369,"width":250,"height":60,"color":"#30c7f8"}
+		{"id":"eab1b8f8ec554199","type":"text","text":"Системные уведомления","x":-344,"y":6369,"width":250,"height":60,"color":"#30c7f8"},
+		{"id":"3a478694d0b16e75","x":-1670,"y":3071,"width":250,"height":60,"type":"text","text":"Добавление сотрудника в Линию ChatApp"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -158,6 +159,7 @@
 		{"id":"da44d59711a8d773","fromNode":"e24f303e0c9aa94b","fromSide":"right","toNode":"c3e6a4eb41cccd80","toSide":"left"},
 		{"id":"af3a52a45beb4600","fromNode":"1bb62588216bba22","fromSide":"bottom","toNode":"382f2354a8c5d425","toSide":"top"},
 		{"id":"a8a9bfc3db34e31a","fromNode":"c3e6a4eb41cccd80","fromSide":"right","toNode":"eab1b8f8ec554199","toSide":"left","fromEnd":"arrow"},
-		{"id":"d1f5cf493963c513","fromNode":"442daec470c43f98","fromSide":"bottom","toNode":"1bb62588216bba22","toSide":"top"}
+		{"id":"d1f5cf493963c513","fromNode":"442daec470c43f98","fromSide":"bottom","toNode":"1bb62588216bba22","toSide":"top"},
+		{"id":"836c9a7e69993f25","fromNode":"de30c4183315b953","fromSide":"left","toNode":"3a478694d0b16e75","toSide":"right"}
 	]
 }
