@@ -2,7 +2,6 @@
 	"nodes":[
 		{"id":"962db8d96970e8f2","type":"text","text":"как проходит рабочий день сотрудника тех поддержки в компании. \nпример: \nПриходит вовремя к 9 и включает пк и запускает всё необходимое;\nЗаказывает еду через чат бота;\nВыбирает удобное время для обеда;\nчерез что проходит работа.\nи т.д. (ДОПОЛНИТЬ)","x":-805,"y":1758,"width":250,"height":386,"color":"6"},
 		{"id":"57427b7aad480d0c","type":"text","text":"# Как проходит рабочий день сотрудника ТП.","x":-891,"y":1600,"width":422,"height":107,"color":"6"},
-		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграции в ChatApp","x":-867,"y":2200,"width":374,"height":60,"color":"6"},
 		{"id":"f3eee0facffc0313","type":"text","text":"FAQ по частым проблемам не работы приложения ChatApp в Bitrix24 и их решения","x":-1685,"y":2778,"width":250,"height":130,"color":"#30c7f8"},
 		{"id":"667731754543bb35","type":"text","text":"Вкладка маркетплейс/прилоджение ChatApp","x":-1204,"y":2778,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"e591b40db36a6539","type":"text","text":"Вкладка CRM/Создание сделки","x":-1204,"y":2878,"width":250,"height":60,"color":"#30c7f8"},
@@ -54,7 +53,7 @@
 		{"id":"68039ad372b310d0","type":"text","text":"Dialogs.pro","x":-805,"y":1011,"width":250,"height":60,"color":"#f64b83"},
 		{"id":"41a454b84090f2ef","type":"text","text":"Быстрые ответы\n","x":-805,"y":1111,"width":250,"height":60,"color":"#f64b83"},
 		{"id":"d9ade519774a989c","type":"text","text":"Chatapp assistant","x":-805,"y":1211,"width":250,"height":60,"color":"#f64b83"},
-		{"id":"ed3870ef548ad114","type":"text","text":"Практика, получение сообщений из добавленных соц. сетей\nОтвет на сообщения, быстрыми ответами/добавление своих быстрых ответов.","x":-805,"y":1331,"width":250,"height":198,"color":"#f64b83"},
+		{"id":"ed3870ef548ad114","type":"text","text":"Практика, получение сообщений из добавленных соц. сетей\nОтвет на сообщения, быстрыми ответами/добавление своих быстрых ответов.","x":-805,"y":1331,"width":250,"height":209,"color":"#f64b83"},
 		{"id":"e426e0bc78abe29b","type":"text","text":"Получение у HR всех логинов и паролей от всех платформ","x":-812,"y":-71,"width":265,"height":91,"color":"#00a31b"},
 		{"id":"4e6a26faf675ea95","type":"text","text":"### Работа с JIRA","x":-1760,"y":293,"width":250,"height":60,"color":"#89e6bf"},
 		{"id":"5b11b11984091a4c","type":"text","text":"Вход на платформу","x":-1760,"y":446,"width":250,"height":60,"color":"#89e6bf"},
@@ -75,7 +74,8 @@
 		{"id":"382f2354a8c5d425","type":"text","text":"Интерфейс платформы","x":-804,"y":6200,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"c3e6a4eb41cccd80","type":"text","text":"Практика/Общение с клиентом через приложение в dialogs.pro и создание и настройка сделки в bitrix24","x":-804,"y":6317,"width":250,"height":185,"color":"#30c7f8"},
 		{"id":"eab1b8f8ec554199","type":"text","text":"Системные уведомления","x":-344,"y":6369,"width":250,"height":60,"color":"#30c7f8"},
-		{"id":"3a478694d0b16e75","x":-1670,"y":3071,"width":250,"height":60,"type":"text","text":"Добавление сотрудника в Линию ChatApp"}
+		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграции в ChatApp","x":-867,"y":2260,"width":374,"height":60,"color":"6"},
+		{"id":"3a478694d0b16e75","x":-1685,"y":3078,"width":250,"height":60,"color":"#0189cb","type":"text","text":"Добавление сотрудника в Линию ChatApp"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -160,6 +160,6 @@
 		{"id":"af3a52a45beb4600","fromNode":"1bb62588216bba22","fromSide":"bottom","toNode":"382f2354a8c5d425","toSide":"top"},
 		{"id":"a8a9bfc3db34e31a","fromNode":"c3e6a4eb41cccd80","fromSide":"right","toNode":"eab1b8f8ec554199","toSide":"left","fromEnd":"arrow"},
 		{"id":"d1f5cf493963c513","fromNode":"442daec470c43f98","fromSide":"bottom","toNode":"1bb62588216bba22","toSide":"top"},
-		{"id":"836c9a7e69993f25","fromNode":"de30c4183315b953","fromSide":"left","toNode":"3a478694d0b16e75","toSide":"right"}
+		{"id":"836c9a7e69993f25","fromNode":"de30c4183315b953","fromSide":"left","toNode":"3a478694d0b16e75","toSide":"right","fromEnd":"arrow"}
 	]
 }
