@@ -46,9 +46,9 @@
 		{"id":"04f95a54a1d13158","type":"text","text":"Работа с Bitrix24","x":-1180,"y":2840,"width":250,"height":60},
 		{"id":"83d9f71a06470bc1","type":"text","text":"","x":-1180,"y":3000,"width":250,"height":69},
 		{"id":"c33ceb90acc51c8e","x":-1200,"y":2640,"width":250,"height":60,"type":"text","text":"Интерфейс платформы"},
-		{"id":"667731754543bb35","x":-1600,"y":2640,"width":250,"height":60,"type":"text","text":"Вкладка маркетплейс"},
 		{"id":"e591b40db36a6539","x":-1599,"y":2804,"width":250,"height":60,"type":"text","text":"Вкладка CRM"},
-		{"id":"de30c4183315b953","x":-1598,"y":2926,"width":250,"height":60,"type":"text","text":"D"}
+		{"id":"de30c4183315b953","x":-1599,"y":2940,"width":250,"height":60,"type":"text","text":"Вкладка CRM/Клиенты/Контакт-центр"},
+		{"id":"667731754543bb35","x":-1599,"y":2640,"width":250,"height":60,"type":"text","text":"Вкладка маркетплейс"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right"},
