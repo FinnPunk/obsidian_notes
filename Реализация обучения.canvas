@@ -51,8 +51,6 @@
 		{"id":"667731754543bb35","type":"text","text":"Вкладка маркетплейс/прилоджение ChatApp","x":-2000,"y":2800,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"e591b40db36a6539","type":"text","text":"Вкладка CRM/Создание сделки","x":-2000,"y":2900,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"de30c4183315b953","type":"text","text":"Вкладка CRM/Клиенты/Контакт-центр/Добавление каналов/Создание открытых линий/настройка их","x":-2000,"y":3000,"width":250,"height":160,"color":"#30c7f8"},
-		{"id":"04f95a54a1d13158","type":"text","text":"Работа с Bitrix24","x":-2000,"y":3300,"width":250,"height":60,"color":"#30c7f8"},
-		{"id":"83d9f71a06470bc1","type":"text","text":"","x":-2000,"y":3460,"width":250,"height":69,"color":"#30c7f8"},
 		{"id":"53b6dc404a63b7ba","type":"text","text":"Вход на платформу Bitrix24","x":-1601,"y":2640,"width":250,"height":80,"color":"#30c7f8"},
 		{"id":"2261d7519c725b23","type":"text","text":"### Работа с Bitrix24","x":-1601,"y":2480,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"2bc2328adba805d4","type":"text","text":"# 2 раб день.","x":-1601,"y":1612,"width":250,"height":83,"color":"#00ff2a"}
@@ -98,7 +96,6 @@
 		{"id":"32cb8608e426747f","fromNode":"de7c20e59c994902","fromSide":"bottom","toNode":"39ccdbc96b7e816c","toSide":"top"},
 		{"id":"a3df42a73a35e0c6","fromNode":"39ccdbc96b7e816c","fromSide":"bottom","toNode":"0990977b50da3202","toSide":"top"},
 		{"id":"460d25836fa16d84","fromNode":"fba74419ed4297f1","fromSide":"bottom","toNode":"de7c20e59c994902","toSide":"top"},
-		{"id":"f9a836c663d7b2ea","fromNode":"04f95a54a1d13158","fromSide":"bottom","toNode":"83d9f71a06470bc1","toSide":"top"},
 		{"id":"afea6e2793c69939","fromNode":"53b6dc404a63b7ba","fromSide":"bottom","toNode":"c33ceb90acc51c8e","toSide":"top"},
 		{"id":"8d75f0258bde85d7","fromNode":"c33ceb90acc51c8e","fromSide":"left","toNode":"667731754543bb35","toSide":"right"},
 		{"id":"5b4c0c2259e6f758","fromNode":"667731754543bb35","fromSide":"bottom","toNode":"e591b40db36a6539","toSide":"top"},
