@@ -59,10 +59,10 @@
 		{"id":"56b4ddf931482076","type":"text","text":"Премия? За что?","x":-1797,"y":-40,"width":250,"height":60},
 		{"id":"111b82d28b0788e3","x":-1510,"y":-40,"width":250,"height":60,"type":"text","text":"Обед"},
 		{"id":"18b3badb8d37ee48","type":"text","text":"# Правила общения с клиентами\n- интерактивные примеры\n- реальные кейсы\n- ответственность","x":-805,"y":4360,"width":250,"height":276,"color":"6"},
-		{"id":"f40c8c1ce2a4f1e6","type":"text","text":"Интерактивное тестирование(реальные кейсы и способы решения)","x":-1120,"y":4853,"width":250,"height":131},
-		{"id":"70398a1310a15fa6","type":"text","text":"практика - реальная проблема, и нужно найти к ней решение используя платформу.","x":-1120,"y":5057,"width":250,"height":129},
-		{"id":"52472a505fca042b","type":"text","text":"где и как быстро найти ответ на который не знаешь ответ?","x":-805,"y":4853,"width":250,"height":131},
-		{"id":"71d2dfee7fb2e3da","x":-494,"y":4846,"width":250,"height":138,"type":"text","text":"\"Нет слэнгу!\" или как говорить простыми словами и понятно объяснять?"}
+		{"id":"f40c8c1ce2a4f1e6","type":"text","text":"Интерактивное тестирование(реальные кейсы и способы решения)","x":-805,"y":5234,"width":250,"height":131},
+		{"id":"70398a1310a15fa6","type":"text","text":"Практика - реальная проблема, и нужно найти к ней решение используя платформу.","x":-805,"y":5438,"width":250,"height":129},
+		{"id":"71d2dfee7fb2e3da","x":-639,"y":4860,"width":250,"height":138,"type":"text","text":"\"Нет слэнгу!\" или как говорить простыми словами и понятно объяснять?"},
+		{"id":"52472a505fca042b","type":"text","text":"Где и как быстро найти ответ на который не знаешь ответ?","x":-980,"y":4860,"width":250,"height":138}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -126,13 +126,14 @@
 		{"id":"f279fa4351d10b86","fromNode":"1dc4bdeb8e888860","fromSide":"bottom","toNode":"f681b0421e4ab2ba","toSide":"top"},
 		{"id":"e1d5707051f7bb37","fromNode":"196e446036cf399b","fromSide":"right","toNode":"f681b0421e4ab2ba","toSide":"left"},
 		{"id":"c5d9f7bd8bef9e53","fromNode":"f681b0421e4ab2ba","fromSide":"bottom","toNode":"18b3badb8d37ee48","toSide":"top"},
-		{"id":"b826224dae2c661f","fromNode":"18b3badb8d37ee48","fromSide":"bottom","toNode":"f40c8c1ce2a4f1e6","toSide":"top"},
 		{"id":"ba1a83fc6918fb12","fromNode":"18b3badb8d37ee48","fromSide":"bottom","toNode":"52472a505fca042b","toSide":"top"},
 		{"id":"062572d33a8ff155","fromNode":"962db8d96970e8f2","fromSide":"right","toNode":"6e500b678d43d1a1","toSide":"left"},
 		{"id":"55fd162ac2bfc96e","fromNode":"962db8d96970e8f2","fromSide":"right","toNode":"4ba9014728e65ddb","toSide":"left"},
 		{"id":"befce31a73f141ba","fromNode":"89a2e73fab1de04c","fromSide":"bottom","toNode":"537af82b56f26222","toSide":"top"},
 		{"id":"c06828a23bbea59f","fromNode":"89a2e73fab1de04c","fromSide":"bottom","toNode":"56b4ddf931482076","toSide":"top"},
 		{"id":"61681ceddaf9d606","fromNode":"89a2e73fab1de04c","fromSide":"bottom","toNode":"111b82d28b0788e3","toSide":"top"},
-		{"id":"41206457e4cc6abd","fromNode":"18b3badb8d37ee48","fromSide":"bottom","toNode":"71d2dfee7fb2e3da","toSide":"top"}
+		{"id":"41206457e4cc6abd","fromNode":"18b3badb8d37ee48","fromSide":"bottom","toNode":"71d2dfee7fb2e3da","toSide":"top"},
+		{"id":"92995f0a300a05bc","fromNode":"52472a505fca042b","fromSide":"bottom","toNode":"f40c8c1ce2a4f1e6","toSide":"top"},
+		{"id":"901d154378d68aee","fromNode":"71d2dfee7fb2e3da","fromSide":"bottom","toNode":"f40c8c1ce2a4f1e6","toSide":"top"}
 	]
 }
