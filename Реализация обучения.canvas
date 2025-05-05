@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"98d571ea7ad394bb","x":-2151,"y":4110,"width":250,"height":60,"type":"text","text":""},
 		{"id":"4e6a26faf675ea95","type":"text","text":"### Работа с JIRA","x":-1760,"y":204,"width":250,"height":60,"color":"#89e6bf"},
 		{"id":"4833a849f44d50e5","type":"text","text":"Создание задач","x":-1942,"y":683,"width":250,"height":60,"color":"#89e6bf"},
 		{"id":"73f9f013a58744ac","type":"text","text":"Работа со своими задачами","x":-1580,"y":683,"width":250,"height":60,"color":"#89e6bf"},
@@ -31,12 +32,6 @@
 		{"id":"0990977b50da3202","type":"text","text":"Правила использования Discord в работе.","x":-80,"y":530,"width":250,"height":60,"color":"#5865f2"},
 		{"id":"e426e0bc78abe29b","type":"text","text":"Получение у HR всех логинов и паролей от всех платформ","x":-812,"y":-160,"width":265,"height":91,"color":"#00a31b"},
 		{"id":"d013e34750e3f88f","type":"text","text":"### Этап 1 - Подготовительный","x":-812,"y":-360,"width":265,"height":93,"color":"#c20000"},
-		{"id":"4891dc73f7e02588","type":"text","text":"### Этап 2 - Необходимая теория и практика","x":630,"y":2680,"width":300,"height":90,"color":"#c20000"},
-		{"id":"52472a505fca042b","type":"text","text":"где и как быстро найти ответ на который не знаешь ответ?","x":655,"y":3458,"width":250,"height":144},
-		{"id":"f40c8c1ce2a4f1e6","type":"text","text":"Интерактивное тестирование(реальные кейсы и способы решения)","x":280,"y":3471,"width":250,"height":131},
-		{"id":"70398a1310a15fa6","type":"text","text":"практика - реальная проблема, и нужно найти к ней решение используя платформу.","x":280,"y":3675,"width":250,"height":129},
-		{"id":"18b3badb8d37ee48","type":"text","text":"# Правила общения с клиентами\n- интерактивные примеры\n- реальные кейсы\n- ответственность","x":655,"y":2855,"width":250,"height":276,"color":"6"},
-		{"id":"6e500b678d43d1a1","type":"text","text":"Как рассчитывается ЗП, зачем нужен bitcorp?\nЗа что даётся премия?","x":655,"y":3175,"width":250,"height":98,"color":"6"},
 		{"id":"a1ec952254833a0e","type":"text","text":"Какие цели и задачи у тех поддержки.","x":-1220,"y":-343,"width":250,"height":60,"color":"#00a31b"},
 		{"id":"89a2e73fab1de04c","type":"text","text":"о компании. Цели компании, отделы и за что отвечают, руководители, кол-во сотрудников, плюшки для сотрудников.","x":-1600,"y":-402,"width":250,"height":178,"color":"#00a31b"},
 		{"id":"ef75b771c37bb6e8","type":"text","text":"### Этап 0 - Welcome book","x":-2010,"y":-353,"width":250,"height":80,"color":"#c20000"},
@@ -56,7 +51,14 @@
 		{"id":"4f50dcfad0db32b8","x":-805,"y":3774,"width":250,"height":60,"color":"#30c7f8","type":"text","text":"Практика 1"},
 		{"id":"1dc4bdeb8e888860","x":-805,"y":3911,"width":250,"height":60,"color":"#30c7f8","type":"text","text":"Практика 2"},
 		{"id":"2422e60920d542e7","type":"text","text":"Системные уведомления","x":-345,"y":2947,"width":250,"height":60,"color":"#30c7f8"},
-		{"id":"25f632af7f77f01b","x":-403,"y":3291,"width":250,"height":60,"color":"#30c7f8","type":"text","text":"FAQ по роботам и тригерам"}
+		{"id":"25f632af7f77f01b","x":-403,"y":3291,"width":250,"height":60,"color":"#30c7f8","type":"text","text":"FAQ по роботам и тригерам"},
+		{"id":"f681b0421e4ab2ba","x":-805,"y":4185,"width":250,"height":60,"type":"text","text":""},
+		{"id":"4891dc73f7e02588","type":"text","text":"### Этап 2 - Необходимая теория и практика","x":-1685,"y":4400,"width":300,"height":90,"color":"#c20000"},
+		{"id":"18b3badb8d37ee48","type":"text","text":"# Правила общения с клиентами\n- интерактивные примеры\n- реальные кейсы\n- ответственность","x":-1660,"y":4575,"width":250,"height":276,"color":"6"},
+		{"id":"6e500b678d43d1a1","type":"text","text":"Как рассчитывается ЗП, зачем нужен bitcorp?\nЗа что даётся премия?","x":-1660,"y":4895,"width":250,"height":98,"color":"6"},
+		{"id":"52472a505fca042b","type":"text","text":"где и как быстро найти ответ на который не знаешь ответ?","x":-1660,"y":5178,"width":250,"height":144},
+		{"id":"f40c8c1ce2a4f1e6","type":"text","text":"Интерактивное тестирование(реальные кейсы и способы решения)","x":-2035,"y":5191,"width":250,"height":131},
+		{"id":"70398a1310a15fa6","type":"text","text":"практика - реальная проблема, и нужно найти к ней решение используя платформу.","x":-2035,"y":5395,"width":250,"height":129}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -120,6 +122,7 @@
 		{"id":"ff8af726d70e805b","fromNode":"775126da3807d4f1","fromSide":"right","toNode":"25f632af7f77f01b","toSide":"left","fromEnd":"arrow"},
 		{"id":"218a5373ac6a6d20","fromNode":"89a2e73fab1de04c","fromSide":"right","toNode":"a1ec952254833a0e","toSide":"left"},
 		{"id":"964d959dfd986e87","fromNode":"ef75b771c37bb6e8","fromSide":"right","toNode":"89a2e73fab1de04c","toSide":"left"},
-		{"id":"85d2f53a1d8ebddd","fromNode":"537028a1c5d7851d","fromSide":"right","toNode":"ef75b771c37bb6e8","toSide":"left"}
+		{"id":"85d2f53a1d8ebddd","fromNode":"537028a1c5d7851d","fromSide":"right","toNode":"ef75b771c37bb6e8","toSide":"left"},
+		{"id":"f279fa4351d10b86","fromNode":"1dc4bdeb8e888860","fromSide":"bottom","toNode":"f681b0421e4ab2ba","toSide":"top"}
 	]
 }
