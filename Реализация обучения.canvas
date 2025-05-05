@@ -59,14 +59,22 @@
 		{"id":"4e6a26faf675ea95","type":"text","text":"### Работа с JIRA","x":-1760,"y":293,"width":250,"height":60,"color":"#89e6bf"},
 		{"id":"5b11b11984091a4c","type":"text","text":"Вход на платформу","x":-1760,"y":446,"width":250,"height":60,"color":"#89e6bf"},
 		{"id":"eaf7615acc3ff139","type":"text","text":"Знакомство с интерфейсом","x":-1760,"y":581,"width":250,"height":60,"color":"#89e6bf"},
-		{"id":"89a2e73fab1de04c","type":"text","text":"о компании. Цели компании, отделы и за что отвечают, руководители, кол-во сотрудников, плюшки для сотрудников.","x":-1600,"y":-640,"width":250,"height":178,"color":"#00a31b"},
+		{"id":"89a2e73fab1de04c","type":"text","text":"О компании. Цели компании, отделы и за что отвечают, руководители, кол-во сотрудников, плюшки для сотрудников.","x":-1600,"y":-640,"width":250,"height":178,"color":"#00a31b"},
 		{"id":"ef75b771c37bb6e8","type":"text","text":"### Этап 0 - Welcome book","x":-2010,"y":-591,"width":250,"height":80,"color":"#c20000"},
 		{"id":"537028a1c5d7851d","type":"text","text":"# 1 раб день.","x":-2560,"y":-591,"width":250,"height":80,"color":"#00ff2a"},
-		{"id":"537af82b56f26222","type":"text","text":"Как брать отгулы?","x":-1883,"y":-278,"width":250,"height":60},
-		{"id":"56b4ddf931482076","type":"text","text":"Премия? За что?","x":-1600,"y":-278,"width":250,"height":60},
+		{"id":"537af82b56f26222","type":"text","text":"Как брать отгулы?","x":-1883,"y":-278,"width":250,"height":60,"color":"4"},
+		{"id":"56b4ddf931482076","type":"text","text":"Премия? За что?","x":-1600,"y":-278,"width":250,"height":60,"color":"4"},
 		{"id":"d013e34750e3f88f","type":"text","text":"### Этап 1 - Подготовительный","x":-812,"y":-598,"width":265,"height":93,"color":"#c20000"},
 		{"id":"a1ec952254833a0e","type":"text","text":"Какие цели и задачи у тех поддержки.","x":-1220,"y":-581,"width":250,"height":60,"color":"#00a31b"},
-		{"id":"111b82d28b0788e3","x":-1313,"y":-278,"width":250,"height":60,"type":"text","text":"Обед"}
+		{"id":"111b82d28b0788e3","x":-1313,"y":-278,"width":250,"height":60,"color":"4","type":"text","text":"Обед"},
+		{"id":"7f1519c43ded3c37","type":"text","text":"FAQ по частым проблемам не работы приложения ChatApp в Bitrix24 и их решения","x":-1684,"y":6200,"width":250,"height":130,"color":"#30c7f8"},
+		{"id":"cc42961a0292fe67","type":"text","text":"Вкладка маркетплейс/прилоджение ChatApp","x":-1203,"y":6200,"width":250,"height":60,"color":"#30c7f8"},
+		{"id":"3a9b66f65536ebad","type":"text","text":"Вкладка CRM/Создание сделки","x":-1203,"y":6300,"width":250,"height":60,"color":"#30c7f8"},
+		{"id":"e24f303e0c9aa94b","type":"text","text":"Вкладка CRM/Клиенты/Контакт-центр/Добавление каналов/Создание открытых линий/настройка их","x":-1203,"y":6400,"width":250,"height":160,"color":"#30c7f8"},
+		{"id":"1bb62588216bba22","type":"text","text":"Вход на платформу Omi","x":-804,"y":6040,"width":250,"height":80,"color":"#30c7f8"},
+		{"id":"382f2354a8c5d425","type":"text","text":"Интерфейс платформы","x":-804,"y":6200,"width":250,"height":60,"color":"#30c7f8"},
+		{"id":"c3e6a4eb41cccd80","type":"text","text":"Практика/Общение с клиентом через приложение в dialogs.pro и создание и настройка сделки в bitrix24","x":-804,"y":6317,"width":250,"height":185,"color":"#30c7f8"},
+		{"id":"eab1b8f8ec554199","type":"text","text":"Системные уведомления","x":-344,"y":6369,"width":250,"height":60,"color":"#30c7f8"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -142,6 +150,14 @@
 		{"id":"660614712eb0b887","fromNode":"6f18302f719f698c","fromSide":"bottom","toNode":"70398a1310a15fa6","toSide":"top"},
 		{"id":"d761ca3c8494776c","fromNode":"70398a1310a15fa6","fromSide":"bottom","toNode":"fd326db91640666b","toSide":"top"},
 		{"id":"39eeaa11d21c7f0c","fromNode":"92b413073ee2662d","fromSide":"right","toNode":"442daec470c43f98","toSide":"left"},
-		{"id":"260f00a318dd6d12","fromNode":"fd326db91640666b","fromSide":"bottom","toNode":"442daec470c43f98","toSide":"top"}
+		{"id":"260f00a318dd6d12","fromNode":"fd326db91640666b","fromSide":"bottom","toNode":"442daec470c43f98","toSide":"top"},
+		{"id":"896553a8603b2da6","fromNode":"cc42961a0292fe67","fromSide":"left","toNode":"7f1519c43ded3c37","toSide":"right","fromEnd":"arrow"},
+		{"id":"f94b676388412982","fromNode":"cc42961a0292fe67","fromSide":"bottom","toNode":"3a9b66f65536ebad","toSide":"top"},
+		{"id":"fd803c461d788f75","fromNode":"382f2354a8c5d425","fromSide":"left","toNode":"cc42961a0292fe67","toSide":"right"},
+		{"id":"05d05427e3c876b6","fromNode":"3a9b66f65536ebad","fromSide":"bottom","toNode":"e24f303e0c9aa94b","toSide":"top"},
+		{"id":"da44d59711a8d773","fromNode":"e24f303e0c9aa94b","fromSide":"right","toNode":"c3e6a4eb41cccd80","toSide":"left"},
+		{"id":"af3a52a45beb4600","fromNode":"1bb62588216bba22","fromSide":"bottom","toNode":"382f2354a8c5d425","toSide":"top"},
+		{"id":"a8a9bfc3db34e31a","fromNode":"c3e6a4eb41cccd80","fromSide":"right","toNode":"eab1b8f8ec554199","toSide":"left","fromEnd":"arrow"},
+		{"id":"d1f5cf493963c513","fromNode":"442daec470c43f98","fromSide":"bottom","toNode":"1bb62588216bba22","toSide":"top"}
 	]
 }
