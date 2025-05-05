@@ -46,7 +46,9 @@
 		{"id":"04f95a54a1d13158","type":"text","text":"Работа с Bitrix24","x":-1180,"y":2840,"width":250,"height":60},
 		{"id":"83d9f71a06470bc1","type":"text","text":"","x":-1180,"y":3000,"width":250,"height":69},
 		{"id":"c33ceb90acc51c8e","x":-1200,"y":2640,"width":250,"height":60,"type":"text","text":"Интерфейс платформы"},
-		{"id":"667731754543bb35","x":-1600,"y":2640,"width":250,"height":60,"type":"text","text":"маркетплейс"}
+		{"id":"667731754543bb35","x":-1600,"y":2640,"width":250,"height":60,"type":"text","text":"Вкладка маркетплейс"},
+		{"id":"e591b40db36a6539","x":-1599,"y":2804,"width":250,"height":60,"type":"text","text":"Вкладка CRM"},
+		{"id":"de30c4183315b953","x":-1598,"y":2926,"width":250,"height":60,"type":"text","text":"D"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right"},
@@ -98,6 +100,8 @@
 		{"id":"f9a836c663d7b2ea","fromNode":"04f95a54a1d13158","fromSide":"bottom","toNode":"83d9f71a06470bc1","toSide":"top"},
 		{"id":"82984342f1ac4f97","fromNode":"74628d36734a8900","fromSide":"bottom","toNode":"53b6dc404a63b7ba","toSide":"top"},
 		{"id":"afea6e2793c69939","fromNode":"53b6dc404a63b7ba","fromSide":"bottom","toNode":"c33ceb90acc51c8e","toSide":"top"},
-		{"id":"8d75f0258bde85d7","fromNode":"c33ceb90acc51c8e","fromSide":"left","toNode":"667731754543bb35","toSide":"right"}
+		{"id":"8d75f0258bde85d7","fromNode":"c33ceb90acc51c8e","fromSide":"left","toNode":"667731754543bb35","toSide":"right"},
+		{"id":"5b4c0c2259e6f758","fromNode":"667731754543bb35","fromSide":"bottom","toNode":"e591b40db36a6539","toSide":"top"},
+		{"id":"c9ff3d9a150a46b0","fromNode":"e591b40db36a6539","fromSide":"bottom","toNode":"de30c4183315b953","toSide":"top"}
 	]
 }
