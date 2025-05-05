@@ -77,7 +77,7 @@
 		{"id":"de30c4183315b953","type":"text","text":"Вкладка CRM/Клиенты/Контакт-центр/Добавление каналов/Создание открытых линий/настройка их","x":-1204,"y":2991,"width":250,"height":160,"color":"#30c7f8"},
 		{"id":"a25e35b219a02852","x":-804,"y":6580,"width":250,"height":60,"type":"text","text":"SalesBot"},
 		{"id":"eab1b8f8ec554199","type":"text","text":"Системные уведомления","x":-420,"y":6328,"width":250,"height":60,"color":"#85cef2"},
-		{"id":"a435ea0103681f6e","x":-996,"y":6785,"width":250,"height":60,"type":"text","text":""}
+		{"id":"a435ea0103681f6e","x":-996,"y":6785,"width":250,"height":60,"type":"text","text":"Виды"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
