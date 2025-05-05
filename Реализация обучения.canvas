@@ -57,10 +57,11 @@
 		{"id":"52472a505fca042b","type":"text","text":"где и как быстро найти ответ на который не знаешь ответ?","x":-1265,"y":5040,"width":250,"height":144},
 		{"id":"f40c8c1ce2a4f1e6","type":"text","text":"Интерактивное тестирование(реальные кейсы и способы решения)","x":-1580,"y":5053,"width":250,"height":131},
 		{"id":"70398a1310a15fa6","type":"text","text":"практика - реальная проблема, и нужно найти к ней решение используя платформу.","x":-1580,"y":5257,"width":250,"height":129},
-		{"id":"6e500b678d43d1a1","type":"text","text":"Как рассчитывается ЗП, зачем нужен bitcorp?\nЗа что даётся премия?","x":-400,"y":1758,"width":250,"height":98,"color":"6"},
+		{"id":"6e500b678d43d1a1","type":"text","text":"зачем нужен bitcorp?","x":-400,"y":1758,"width":250,"height":50,"color":"6"},
 		{"id":"4ba9014728e65ddb","type":"text","text":"# Правила общения с клиентами\n- интерактивные примеры\n- реальные кейсы\n- ответственность","x":-100,"y":1758,"width":250,"height":288,"color":"6"},
 		{"id":"537af82b56f26222","type":"text","text":"Как брать отгулы?","x":-2080,"y":-40,"width":250,"height":60},
-		{"id":"56b4ddf931482076","type":"text","text":"Премия? За что?","x":-1797,"y":-40,"width":250,"height":60}
+		{"id":"56b4ddf931482076","type":"text","text":"Премия? За что?","x":-1797,"y":-40,"width":250,"height":60},
+		{"id":"111b82d28b0788e3","x":-1510,"y":-40,"width":250,"height":60,"type":"text","text":"Обед"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -129,6 +130,7 @@
 		{"id":"062572d33a8ff155","fromNode":"962db8d96970e8f2","fromSide":"right","toNode":"6e500b678d43d1a1","toSide":"left"},
 		{"id":"55fd162ac2bfc96e","fromNode":"962db8d96970e8f2","fromSide":"right","toNode":"4ba9014728e65ddb","toSide":"left"},
 		{"id":"befce31a73f141ba","fromNode":"89a2e73fab1de04c","fromSide":"bottom","toNode":"537af82b56f26222","toSide":"top"},
-		{"id":"c06828a23bbea59f","fromNode":"89a2e73fab1de04c","fromSide":"bottom","toNode":"56b4ddf931482076","toSide":"top"}
+		{"id":"c06828a23bbea59f","fromNode":"89a2e73fab1de04c","fromSide":"bottom","toNode":"56b4ddf931482076","toSide":"top"},
+		{"id":"61681ceddaf9d606","fromNode":"89a2e73fab1de04c","fromSide":"bottom","toNode":"111b82d28b0788e3","toSide":"top"}
 	]
 }
