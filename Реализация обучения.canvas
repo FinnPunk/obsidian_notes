@@ -8,11 +8,11 @@
 		{"id":"41a454b84090f2ef","type":"text","text":"Быстрые ответы\n","x":-540,"y":740,"width":250,"height":60,"color":"#ff0095"},
 		{"id":"d9ade519774a989c","type":"text","text":"Chatapp assistant","x":-540,"y":840,"width":250,"height":60,"color":"#ff0095"},
 		{"id":"ef0510a39083510b","type":"text","text":"FAST Пояснение за \"Базу знаний\"","x":-900,"y":352,"width":250,"height":77,"color":"4"},
-		{"id":"18b3badb8d37ee48","type":"text","text":"Правила общения с клиентами","x":-170,"y":640,"width":250,"height":200,"color":"#ff0095"},
-		{"id":"4891dc73f7e02588","type":"text","text":"Этап 2 - Необходимая теория","x":400,"y":-320,"width":240,"height":60,"color":"5"},
-		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграция.","x":0,"y":292,"width":250,"height":60,"color":"6"},
 		{"id":"c7a269263f512cf8","type":"text","text":"Знакомство с интерфейсом","x":-540,"y":40,"width":250,"height":60,"color":"4"},
-		{"id":"d100966d8d7ca8ff","type":"text","text":"Регистрация и вход на платформы","x":-540,"y":-80,"width":250,"height":61,"color":"4"}
+		{"id":"d100966d8d7ca8ff","type":"text","text":"Регистрация и вход на платформы","x":-540,"y":-80,"width":250,"height":61,"color":"4"},
+		{"id":"18b3badb8d37ee48","type":"text","text":"# Правила общения с клиентами","x":-140,"y":700,"width":250,"height":200,"color":"#ff0095"},
+		{"id":"4891dc73f7e02588","type":"text","text":"Этап 2 - Необходимая теория","x":640,"y":-320,"width":240,"height":60,"color":"5"},
+		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграция.","x":-140,"y":-79,"width":250,"height":60,"color":"6"}
 	],
 	"edges":[
 		{"id":"5000c63b53a44735","fromNode":"ef75b771c37bb6e8","fromSide":"right","toNode":"d013e34750e3f88f","toSide":"left"},
@@ -24,8 +24,8 @@
 		{"id":"bd99ebfa13ee0a43","fromNode":"abadd9121f8bf96a","fromSide":"bottom","toNode":"68039ad372b310d0","toSide":"top"},
 		{"id":"d871bf02e05a634b","fromNode":"68039ad372b310d0","fromSide":"bottom","toNode":"41a454b84090f2ef","toSide":"top"},
 		{"id":"baadc7bec9247b68","fromNode":"41a454b84090f2ef","fromSide":"bottom","toNode":"d9ade519774a989c","toSide":"top"},
-		{"id":"423b68b08b865013","fromNode":"68039ad372b310d0","fromSide":"right","toNode":"18b3badb8d37ee48","toSide":"left"},
 		{"id":"0b0c4fd3ed41c263","fromNode":"537028a1c5d7851d","fromSide":"bottom","toNode":"ef75b771c37bb6e8","toSide":"top"},
-		{"id":"ea8b5f3a893d3568","fromNode":"537028a1c5d7851d","fromSide":"bottom","toNode":"d013e34750e3f88f","toSide":"top"}
+		{"id":"ea8b5f3a893d3568","fromNode":"537028a1c5d7851d","fromSide":"bottom","toNode":"d013e34750e3f88f","toSide":"top"},
+		{"id":"57169ae6a69d99e3","fromNode":"d9ade519774a989c","fromSide":"bottom","toNode":"18b3badb8d37ee48","toSide":"bottom"}
 	]
 }
