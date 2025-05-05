@@ -51,7 +51,9 @@
 		{"id":"53b6dc404a63b7ba","type":"text","text":"Вход на платформу Bitrix24","x":-1601,"y":2640,"width":250,"height":80,"color":"#30c7f8"},
 		{"id":"2261d7519c725b23","type":"text","text":"### Работа с Bitrix24","x":-1601,"y":2480,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"2bc2328adba805d4","type":"text","text":"# 2 раб день.","x":-1601,"y":1612,"width":250,"height":83,"color":"#00ff2a"},
-		{"id":"775126da3807d4f1","x":-1600,"y":3271,"width":250,"height":60,"type":"text","text":"Изучение основны"}
+		{"id":"775126da3807d4f1","x":-1600,"y":3220,"width":250,"height":111,"type":"text","text":"Изучение базовых роботов и триггеров от Bitrix24"},
+		{"id":"8ccf0e98d5f161d5","x":-1600,"y":3380,"width":250,"height":80,"type":"text","text":"Изучение базовых роботов от ChatApp"},
+		{"id":"fd4655354ad65980","x":-1601,"y":3564,"width":250,"height":60,"type":"text","text":"Примеры и пр"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -109,6 +111,8 @@
 		{"id":"a2b89b2857fe283c","fromNode":"57427b7aad480d0c","fromSide":"bottom","toNode":"962db8d96970e8f2","toSide":"top"},
 		{"id":"18477ca39be7f50a","fromNode":"ed3870ef548ad114","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"top"},
 		{"id":"516f7cc5ac9134d8","fromNode":"0990977b50da3202","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"right"},
-		{"id":"b96a8d5979e7823c","fromNode":"670a9fb77c92a090","fromSide":"bottom","toNode":"775126da3807d4f1","toSide":"top"}
+		{"id":"b96a8d5979e7823c","fromNode":"670a9fb77c92a090","fromSide":"bottom","toNode":"775126da3807d4f1","toSide":"top"},
+		{"id":"c8b69850c15f6b2f","fromNode":"775126da3807d4f1","fromSide":"bottom","toNode":"8ccf0e98d5f161d5","toSide":"top"},
+		{"id":"324662abf7d53eb0","fromNode":"8ccf0e98d5f161d5","fromSide":"bottom","toNode":"fd4655354ad65980","toSide":"top"}
 	]
 }
