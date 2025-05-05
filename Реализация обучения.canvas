@@ -42,24 +42,25 @@
 		{"id":"53b6dc404a63b7ba","type":"text","text":"Вход на платформу Bitrix24","x":-805,"y":2618,"width":250,"height":80,"color":"#30c7f8"},
 		{"id":"c33ceb90acc51c8e","type":"text","text":"Интерфейс платформы","x":-805,"y":2778,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"670a9fb77c92a090","type":"text","text":"Практика/Общение с клиентом через приложение в dialogs.pro и создание и настройка сделки в bitrix24","x":-805,"y":2895,"width":250,"height":163,"color":"#30c7f8"},
-		{"id":"775126da3807d4f1","x":-804,"y":3198,"width":250,"height":111,"color":"#30c7f8","type":"text","text":"Изучение базовых роботов и триггеров от Bitrix24"},
-		{"id":"8ccf0e98d5f161d5","x":-804,"y":3358,"width":250,"height":80,"color":"#30c7f8","type":"text","text":"Изучение базовых роботов от ChatApp"},
-		{"id":"fd4655354ad65980","x":-805,"y":3542,"width":250,"height":136,"color":"#30c7f8","type":"text","text":"Примеры использования сценариев роботов и тригеров и логика работы."},
-		{"id":"4f50dcfad0db32b8","x":-805,"y":3774,"width":250,"height":60,"color":"#30c7f8","type":"text","text":"Практика 1"},
-		{"id":"1dc4bdeb8e888860","x":-805,"y":3911,"width":250,"height":60,"color":"#30c7f8","type":"text","text":"Практика 2"},
+		{"id":"775126da3807d4f1","type":"text","text":"Изучение базовых роботов и триггеров от Bitrix24","x":-804,"y":3198,"width":250,"height":111,"color":"#30c7f8"},
+		{"id":"8ccf0e98d5f161d5","type":"text","text":"Изучение базовых роботов от ChatApp","x":-804,"y":3358,"width":250,"height":80,"color":"#30c7f8"},
+		{"id":"fd4655354ad65980","type":"text","text":"Примеры использования сценариев роботов и тригеров и логика работы.","x":-805,"y":3542,"width":250,"height":136,"color":"#30c7f8"},
+		{"id":"4f50dcfad0db32b8","type":"text","text":"Практика 1","x":-805,"y":3774,"width":250,"height":60,"color":"#30c7f8"},
+		{"id":"1dc4bdeb8e888860","type":"text","text":"Практика 2","x":-805,"y":3911,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"2422e60920d542e7","type":"text","text":"Системные уведомления","x":-345,"y":2947,"width":250,"height":60,"color":"#30c7f8"},
-		{"id":"25f632af7f77f01b","x":-403,"y":3291,"width":250,"height":60,"color":"#30c7f8","type":"text","text":"FAQ по роботам и тригерам"},
+		{"id":"25f632af7f77f01b","type":"text","text":"FAQ по роботам и тригерам","x":-403,"y":3291,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"2bc2328adba805d4","type":"text","text":"# 2 раб день.","x":-2560,"y":1612,"width":250,"height":83,"color":"#00ff2a"},
 		{"id":"537028a1c5d7851d","type":"text","text":"# 1 раб день.","x":-2560,"y":-353,"width":250,"height":80,"color":"#00ff2a"},
 		{"id":"196e446036cf399b","type":"text","text":"# 3 раб день.\nпринцип работы 50/50","x":-2560,"y":4174,"width":250,"height":83,"color":"#00ff2a"},
-		{"id":"f681b0421e4ab2ba","x":-805,"y":4130,"width":250,"height":172,"type":"text","text":"### Этап 2 - Необходимая теория и практика"},
+		{"id":"f681b0421e4ab2ba","type":"text","text":"### Этап 2 - Необходимая теория и практика","x":-805,"y":4130,"width":250,"height":172},
 		{"id":"18b3badb8d37ee48","type":"text","text":"# Правила общения с клиентами\n- интерактивные примеры\n- реальные кейсы\n- ответственность","x":-1265,"y":4560,"width":250,"height":276,"color":"6"},
 		{"id":"52472a505fca042b","type":"text","text":"где и как быстро найти ответ на который не знаешь ответ?","x":-1265,"y":5040,"width":250,"height":144},
 		{"id":"f40c8c1ce2a4f1e6","type":"text","text":"Интерактивное тестирование(реальные кейсы и способы решения)","x":-1580,"y":5053,"width":250,"height":131},
 		{"id":"70398a1310a15fa6","type":"text","text":"практика - реальная проблема, и нужно найти к ней решение используя платформу.","x":-1580,"y":5257,"width":250,"height":129},
 		{"id":"6e500b678d43d1a1","type":"text","text":"Как рассчитывается ЗП, зачем нужен bitcorp?\nЗа что даётся премия?","x":-400,"y":1758,"width":250,"height":98,"color":"6"},
 		{"id":"4ba9014728e65ddb","type":"text","text":"# Правила общения с клиентами\n- интерактивные примеры\n- реальные кейсы\n- ответственность","x":-100,"y":1758,"width":250,"height":288,"color":"6"},
-		{"id":"537af82b56f26222","x":-2103,"y":-56,"width":250,"height":60,"type":"text","text":"Как брать отгулы"}
+		{"id":"537af82b56f26222","type":"text","text":"Как брать отгулы?","x":-2080,"y":-40,"width":250,"height":60},
+		{"id":"56b4ddf931482076","type":"text","text":"Премия? За что?","x":-1797,"y":-40,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -127,6 +128,7 @@
 		{"id":"ba1a83fc6918fb12","fromNode":"18b3badb8d37ee48","fromSide":"bottom","toNode":"52472a505fca042b","toSide":"top"},
 		{"id":"062572d33a8ff155","fromNode":"962db8d96970e8f2","fromSide":"right","toNode":"6e500b678d43d1a1","toSide":"left"},
 		{"id":"55fd162ac2bfc96e","fromNode":"962db8d96970e8f2","fromSide":"right","toNode":"4ba9014728e65ddb","toSide":"left"},
-		{"id":"befce31a73f141ba","fromNode":"89a2e73fab1de04c","fromSide":"bottom","toNode":"537af82b56f26222","toSide":"top"}
+		{"id":"befce31a73f141ba","fromNode":"89a2e73fab1de04c","fromSide":"bottom","toNode":"537af82b56f26222","toSide":"top"},
+		{"id":"c06828a23bbea59f","fromNode":"89a2e73fab1de04c","fromSide":"bottom","toNode":"56b4ddf931482076","toSide":"top"}
 	]
 }
