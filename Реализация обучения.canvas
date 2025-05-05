@@ -67,7 +67,7 @@
 		{"id":"196e446036cf399b","type":"text","text":"# 3 раб день.\nпринцип работы 50/50","x":-2560,"y":4163,"width":250,"height":106,"color":"#00ff2a"},
 		{"id":"1bb62588216bba22","type":"text","text":"Вход на платформу AmoCrm","x":-804,"y":5980,"width":250,"height":80,"color":"#85cef2"},
 		{"id":"382f2354a8c5d425","type":"text","text":"Интерфейс платформы","x":-804,"y":6140,"width":250,"height":60,"color":"#85cef2"},
-		{"id":"cc42961a0292fe67","type":"text","text":"Вкладка маркетплейс/приложение ChatApp","x":-1203,"y":6140,"width":250,"height":60,"color":"#85cef2"},
+		{"id":"cc42961a0292fe67","type":"text","text":"Вкладка AmoМаркет/приложение ChatApp","x":-1203,"y":6140,"width":250,"height":60,"color":"#85cef2"},
 		{"id":"3a9b66f65536ebad","type":"text","text":"Вкладка CRM/Создание сделки","x":-1203,"y":6240,"width":250,"height":60,"color":"#85cef2"},
 		{"id":"e24f303e0c9aa94b","type":"text","text":"Вкладка CRM/Клиенты/Контакт-центр/Добавление каналов/Создание открытых линий/настройка их","x":-1203,"y":6340,"width":250,"height":160,"color":"#85cef2"},
 		{"id":"c3e6a4eb41cccd80","type":"text","text":"Практика/Общение с клиентом через приложение в dialogs.pro и создание и настройка сделки в bitrix24","x":-804,"y":6328,"width":250,"height":185,"color":"#85cef2"},
@@ -76,7 +76,7 @@
 		{"id":"de30c4183315b953","type":"text","text":"Вкладка CRM/Клиенты/Контакт-центр/Добавление каналов/Создание открытых линий/настройка их","x":-1204,"y":2978,"width":250,"height":160,"color":"#30c7f8"},
 		{"id":"775126da3807d4f1","type":"text","text":"Изучение базовых роботов и триггеров от Bitrix24","x":-805,"y":3151,"width":250,"height":111,"color":"#30c7f8"},
 		{"id":"8ccf0e98d5f161d5","type":"text","text":"Изучение базовых роботов от ChatApp","x":-805,"y":3311,"width":250,"height":80,"color":"#30c7f8"},
-		{"id":"1a16af7ed8a75165","x":-805,"y":3440,"width":250,"height":60,"type":"text","text":"воронки"}
+		{"id":"1a16af7ed8a75165","x":-805,"y":3440,"width":250,"height":60,"color":"#30c7f8","type":"text","text":"Зачем нужны воронки?"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
