@@ -18,7 +18,10 @@
 		{"id":"962db8d96970e8f2","x":-160,"y":120,"width":250,"height":500,"type":"text","text":"как проходит рабочий день сотрудника тех поддержки в компании. \nпример: \nПриходит вовремя к 9 и включает пк и запускает всё необходимое;\nЗаказывает еду через чат бота;\nвыбирает удобное время для обеда;\n"},
 		{"id":"c7a269263f512cf8","type":"text","text":"Знакомство с интерфейсом","x":-805,"y":560,"width":250,"height":60,"color":"4"},
 		{"id":"d100966d8d7ca8ff","type":"text","text":"Вход на платформу chatapp","x":-805,"y":460,"width":250,"height":61,"color":"4"},
-		{"id":"e426e0bc78abe29b","x":-802,"y":-51,"width":250,"height":60,"type":"text","text":"Получение у HR всех "}
+		{"id":"e426e0bc78abe29b","x":-805,"y":-197,"width":250,"height":91,"type":"text","text":"Получение у HR всех логинов и паролей от всех платформ"},
+		{"id":"4e6a26faf675ea95","x":-1164,"y":204,"width":250,"height":60,"type":"text","text":"Работа с JIRA"},
+		{"id":"0ae9f16f3d8e8de1","x":-815,"y":204,"width":250,"height":60,"type":"text","text":"Работа с ChatApp"},
+		{"id":"0a1e8b44df277a60","x":-516,"y":242,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"a377c78069b5efa1","fromNode":"74628d36734a8900","fromSide":"right","toNode":"4891dc73f7e02588","toSide":"left"},
@@ -36,6 +39,9 @@
 		{"id":"ed21301167fcd529","fromNode":"a1ec952254833a0e","fromSide":"right","toNode":"d013e34750e3f88f","toSide":"left"},
 		{"id":"18204bb164406676","fromNode":"d100966d8d7ca8ff","fromSide":"bottom","toNode":"c7a269263f512cf8","toSide":"top"},
 		{"id":"e8a957591d556cdd","fromNode":"c7a269263f512cf8","fromSide":"bottom","toNode":"abadd9121f8bf96a","toSide":"top"},
-		{"id":"28d44bef6ff54cc8","fromNode":"d013e34750e3f88f","fromSide":"bottom","toNode":"e426e0bc78abe29b","toSide":"top"}
+		{"id":"28d44bef6ff54cc8","fromNode":"d013e34750e3f88f","fromSide":"bottom","toNode":"e426e0bc78abe29b","toSide":"top"},
+		{"id":"e5f35bece9da66db","fromNode":"e426e0bc78abe29b","fromSide":"bottom","toNode":"4e6a26faf675ea95","toSide":"top"},
+		{"id":"41dca7e59b93261b","fromNode":"e426e0bc78abe29b","fromSide":"bottom","toNode":"0ae9f16f3d8e8de1","toSide":"top"},
+		{"id":"a2aa1b8a0cf8cc59","fromNode":"e426e0bc78abe29b","fromSide":"bottom","toNode":"0a1e8b44df277a60","toSide":"top"}
 	]
 }
