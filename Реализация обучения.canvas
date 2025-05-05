@@ -42,11 +42,9 @@
 		{"id":"70398a1310a15fa6","type":"text","text":"практика - реальная проблема, и нужно найти к ней решение используя платформу.","x":280,"y":3675,"width":250,"height":129},
 		{"id":"18b3badb8d37ee48","type":"text","text":"# Правила общения с клиентами\n- интерактивные примеры\n- реальные кейсы\n- ответственность","x":655,"y":2855,"width":250,"height":276,"color":"6"},
 		{"id":"6e500b678d43d1a1","type":"text","text":"Как рассчитывается ЗП, зачем нужен bitcorp?\nЗа что даётся премия?","x":655,"y":3175,"width":250,"height":98,"color":"6"},
-		{"id":"31adc9fc7ae77049","x":-805,"y":2460,"width":250,"height":60,"type":"text","text":"Работа с AmoCrm"},
-		{"id":"04f95a54a1d13158","type":"text","text":"Работа с Bitrix24","x":-1260,"y":2460,"width":250,"height":60},
-		{"id":"83d9f71a06470bc1","type":"text","text":"","x":-1260,"y":2620,"width":250,"height":69},
-		{"id":"6d8079812741151b","x":-805,"y":2349,"width":250,"height":60,"type":"text","text":""},
-		{"id":"03f5c8e2be2d30a6","x":-1202,"y":994,"width":250,"height":60,"type":"text","text":"Работа уведо"}
+		{"id":"04f95a54a1d13158","type":"text","text":"Работа с Bitrix24","x":-1200,"y":2520,"width":250,"height":60},
+		{"id":"83d9f71a06470bc1","type":"text","text":"","x":-1200,"y":2680,"width":250,"height":69},
+		{"id":"53b6dc404a63b7ba","x":-1049,"y":2374,"width":250,"height":60,"type":"text","text":"Вход в "}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right"},
@@ -96,7 +94,6 @@
 		{"id":"460d25836fa16d84","fromNode":"fba74419ed4297f1","fromSide":"bottom","toNode":"de7c20e59c994902","toSide":"top"},
 		{"id":"516f7cc5ac9134d8","fromNode":"0990977b50da3202","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"right"},
 		{"id":"f9a836c663d7b2ea","fromNode":"04f95a54a1d13158","fromSide":"bottom","toNode":"83d9f71a06470bc1","toSide":"top"},
-		{"id":"758c3c23f931a7d2","fromNode":"74628d36734a8900","fromSide":"bottom","toNode":"6d8079812741151b","toSide":"top"},
-		{"id":"a5764cf41f93b2b0","fromNode":"68039ad372b310d0","fromSide":"left","toNode":"03f5c8e2be2d30a6","toSide":"right"}
+		{"id":"82984342f1ac4f97","fromNode":"74628d36734a8900","fromSide":"bottom","toNode":"53b6dc404a63b7ba","toSide":"top"}
 	]
 }
