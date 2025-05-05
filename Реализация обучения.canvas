@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"d013e34750e3f88f","type":"text","text":"Этап 1 - Подготовительный","x":-820,"y":-320,"width":280,"height":60,"color":"5"},
-		{"id":"ef75b771c37bb6e8","type":"text","text":"Этап 0 - Welcome book","x":-1420,"y":-320,"width":251,"height":60,"color":"5"},
+		{"id":"ef75b771c37bb6e8","type":"text","text":"Этап 0 - Welcome book","x":-1419,"y":-320,"width":250,"height":60,"color":"5"},
 		{"id":"537028a1c5d7851d","x":-1120,"y":-780,"width":250,"height":60,"color":"#00ffbf","type":"text","text":"1 раб день."},
 		{"id":"abadd9121f8bf96a","type":"text","text":"Создание компании. \nЧуть про покупку линии.\nДобавление каналов в линии.\nДобавление сотрудников.\nМетрики.\n\"Настройки\" компании.\nЧуть про вкладку финансы.\n","x":-540,"y":240,"width":250,"height":300,"color":"4"},
 		{"id":"68039ad372b310d0","type":"text","text":"Dialogs.pro","x":-540,"y":640,"width":250,"height":60,"color":"#ff0095"},
@@ -15,8 +15,9 @@
 		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграция.","x":-140,"y":10,"width":250,"height":60,"color":"6"},
 		{"id":"12e0c8df07a5cbee","x":-900,"y":471,"width":250,"height":69,"type":"text","text":"FAQ по платформе chatapp"},
 		{"id":"733950cd78d28db0","x":-900,"y":580,"width":250,"height":60,"type":"text","text":"FAQ по платформе Dialogs.pro"},
-		{"id":"89a2e73fab1de04c","x":-1419,"y":-168,"width":250,"height":178,"type":"text","text":"о компании. Цели компании, отделы и за что отвечают, руководители, кол-во сотрудников, плюшки для сотрудников."},
-		{"id":"a1ec952254833a0e","x":-1420,"y":390,"width":250,"height":58,"type":"text","text":"Какие цели и задачи у тех поддержки"}
+		{"id":"a1ec952254833a0e","x":-1420,"y":390,"width":250,"height":58,"type":"text","text":"Какие цели и задачи у тех поддержки"},
+		{"id":"89a2e73fab1de04c","x":-1419,"y":-197,"width":250,"height":178,"type":"text","text":"о компании. Цели компании, отделы и за что отвечают, руководители, кол-во сотрудников, плюшки для сотрудников."},
+		{"id":"962db8d96970e8f2","x":-1419,"y":40,"width":250,"height":60,"type":"text","text":"как проходит день сотрудника"}
 	],
 	"edges":[
 		{"id":"5000c63b53a44735","fromNode":"ef75b771c37bb6e8","fromSide":"right","toNode":"d013e34750e3f88f","toSide":"left"},
@@ -33,6 +34,7 @@
 		{"id":"57169ae6a69d99e3","fromNode":"d9ade519774a989c","fromSide":"bottom","toNode":"18b3badb8d37ee48","toSide":"bottom"},
 		{"id":"4ca2eb823073c091","fromNode":"ef0510a39083510b","fromSide":"bottom","toNode":"12e0c8df07a5cbee","toSide":"top"},
 		{"id":"ec41aeba5f3a59cf","fromNode":"12e0c8df07a5cbee","fromSide":"bottom","toNode":"733950cd78d28db0","toSide":"top"},
-		{"id":"74b6b33fe40e30b9","fromNode":"ef75b771c37bb6e8","fromSide":"bottom","toNode":"89a2e73fab1de04c","toSide":"top"}
+		{"id":"74b6b33fe40e30b9","fromNode":"ef75b771c37bb6e8","fromSide":"bottom","toNode":"89a2e73fab1de04c","toSide":"top"},
+		{"id":"c53a315bcdfd13a2","fromNode":"89a2e73fab1de04c","fromSide":"bottom","toNode":"962db8d96970e8f2","toSide":"top"}
 	]
 }
