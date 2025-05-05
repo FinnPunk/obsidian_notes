@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"98d571ea7ad394bb","x":-2151,"y":4110,"width":250,"height":60,"type":"text","text":""},
 		{"id":"4e6a26faf675ea95","type":"text","text":"### Работа с JIRA","x":-1760,"y":204,"width":250,"height":60,"color":"#89e6bf"},
 		{"id":"4833a849f44d50e5","type":"text","text":"Создание задач","x":-1942,"y":683,"width":250,"height":60,"color":"#89e6bf"},
 		{"id":"73f9f013a58744ac","type":"text","text":"Работа со своими задачами","x":-1580,"y":683,"width":250,"height":60,"color":"#89e6bf"},
@@ -35,8 +34,6 @@
 		{"id":"a1ec952254833a0e","type":"text","text":"Какие цели и задачи у тех поддержки.","x":-1220,"y":-343,"width":250,"height":60,"color":"#00a31b"},
 		{"id":"89a2e73fab1de04c","type":"text","text":"о компании. Цели компании, отделы и за что отвечают, руководители, кол-во сотрудников, плюшки для сотрудников.","x":-1600,"y":-402,"width":250,"height":178,"color":"#00a31b"},
 		{"id":"ef75b771c37bb6e8","type":"text","text":"### Этап 0 - Welcome book","x":-2010,"y":-353,"width":250,"height":80,"color":"#c20000"},
-		{"id":"537028a1c5d7851d","type":"text","text":"# 1 раб день.","x":-3620,"y":-353,"width":250,"height":80,"color":"#00ff2a"},
-		{"id":"2bc2328adba805d4","type":"text","text":"# 2 раб день.","x":-3620,"y":1612,"width":250,"height":83,"color":"#00ff2a"},
 		{"id":"f3eee0facffc0313","type":"text","text":"FAQ по частым проблемам не работы приложения ChatApp в Bitrix24 и их решения","x":-1685,"y":2778,"width":250,"height":130,"color":"#30c7f8"},
 		{"id":"667731754543bb35","type":"text","text":"Вкладка маркетплейс/прилоджение ChatApp","x":-1204,"y":2778,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"e591b40db36a6539","type":"text","text":"Вкладка CRM/Создание сделки","x":-1204,"y":2878,"width":250,"height":60,"color":"#30c7f8"},
@@ -58,7 +55,10 @@
 		{"id":"6e500b678d43d1a1","type":"text","text":"Как рассчитывается ЗП, зачем нужен bitcorp?\nЗа что даётся премия?","x":-1660,"y":4895,"width":250,"height":98,"color":"6"},
 		{"id":"52472a505fca042b","type":"text","text":"где и как быстро найти ответ на который не знаешь ответ?","x":-1660,"y":5178,"width":250,"height":144},
 		{"id":"f40c8c1ce2a4f1e6","type":"text","text":"Интерактивное тестирование(реальные кейсы и способы решения)","x":-2035,"y":5191,"width":250,"height":131},
-		{"id":"70398a1310a15fa6","type":"text","text":"практика - реальная проблема, и нужно найти к ней решение используя платформу.","x":-2035,"y":5395,"width":250,"height":129}
+		{"id":"70398a1310a15fa6","type":"text","text":"практика - реальная проблема, и нужно найти к ней решение используя платформу.","x":-2035,"y":5395,"width":250,"height":129},
+		{"id":"2bc2328adba805d4","type":"text","text":"# 2 раб день.","x":-2560,"y":1612,"width":250,"height":83,"color":"#00ff2a"},
+		{"id":"537028a1c5d7851d","type":"text","text":"# 1 раб день.","x":-2560,"y":-353,"width":250,"height":80,"color":"#00ff2a"},
+		{"id":"196e446036cf399b","type":"text","text":"# 2 раб день.","x":-2560,"y":4174,"width":250,"height":83,"color":"#00ff2a"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -123,6 +123,7 @@
 		{"id":"218a5373ac6a6d20","fromNode":"89a2e73fab1de04c","fromSide":"right","toNode":"a1ec952254833a0e","toSide":"left"},
 		{"id":"964d959dfd986e87","fromNode":"ef75b771c37bb6e8","fromSide":"right","toNode":"89a2e73fab1de04c","toSide":"left"},
 		{"id":"85d2f53a1d8ebddd","fromNode":"537028a1c5d7851d","fromSide":"right","toNode":"ef75b771c37bb6e8","toSide":"left"},
-		{"id":"f279fa4351d10b86","fromNode":"1dc4bdeb8e888860","fromSide":"bottom","toNode":"f681b0421e4ab2ba","toSide":"top"}
+		{"id":"f279fa4351d10b86","fromNode":"1dc4bdeb8e888860","fromSide":"bottom","toNode":"f681b0421e4ab2ba","toSide":"top"},
+		{"id":"e1d5707051f7bb37","fromNode":"196e446036cf399b","fromSide":"right","toNode":"f681b0421e4ab2ba","toSide":"left"}
 	]
 }
