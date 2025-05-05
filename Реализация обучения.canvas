@@ -2,17 +2,17 @@
 	"nodes":[
 		{"id":"d013e34750e3f88f","type":"text","text":"Этап 1 - Подготовительный","x":-820,"y":-320,"width":280,"height":60,"color":"5"},
 		{"id":"ef75b771c37bb6e8","type":"text","text":"Этап 0 - Welcome book","x":-1420,"y":-320,"width":251,"height":60,"color":"5"},
-		{"id":"4891dc73f7e02588","type":"text","text":"Этап 2 - Необходимая теория","x":80,"y":-320,"width":240,"height":60,"color":"5"},
-		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграция.","x":-170,"y":300,"width":250,"height":60,"color":"6"},
 		{"id":"537028a1c5d7851d","x":-1120,"y":-780,"width":250,"height":60,"color":"#00ffbf","type":"text","text":"1 раб день."},
-		{"id":"d100966d8d7ca8ff","type":"text","text":"Регистрация и вход на платформы","x":-540,"y":-120,"width":250,"height":61,"color":"4"},
-		{"id":"c7a269263f512cf8","type":"text","text":"Знакомство с интерфейсом","x":-540,"y":0,"width":250,"height":60,"color":"4"},
 		{"id":"abadd9121f8bf96a","type":"text","text":"Создание компании. \nЧуть про покупку линии.\nДобавление каналов в линии.\nДобавление сотрудников.\nМетрики.\n\"Настройки\" компании.\nЧуть про вкладку финансы.\n","x":-540,"y":240,"width":250,"height":300,"color":"4"},
 		{"id":"68039ad372b310d0","type":"text","text":"Dialogs.pro","x":-540,"y":640,"width":250,"height":60,"color":"#ff0095"},
 		{"id":"41a454b84090f2ef","type":"text","text":"Быстрые ответы\n","x":-540,"y":740,"width":250,"height":60,"color":"#ff0095"},
 		{"id":"d9ade519774a989c","type":"text","text":"Chatapp assistant","x":-540,"y":840,"width":250,"height":60,"color":"#ff0095"},
 		{"id":"ef0510a39083510b","type":"text","text":"Пояснение за \"Базу знаний\"","x":-900,"y":352,"width":250,"height":77,"color":"4"},
-		{"id":"18b3badb8d37ee48","type":"text","text":"Правила общения с клиентами","x":-170,"y":640,"width":250,"height":60,"color":"#ff0095"}
+		{"id":"18b3badb8d37ee48","type":"text","text":"Правила общения с клиентами","x":-170,"y":640,"width":250,"height":60,"color":"#ff0095"},
+		{"id":"4891dc73f7e02588","type":"text","text":"Этап 2 - Необходимая теория","x":400,"y":-320,"width":240,"height":60,"color":"5"},
+		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграция.","x":0,"y":292,"width":250,"height":60,"color":"6"},
+		{"id":"c7a269263f512cf8","type":"text","text":"Знакомство с интерфейсом","x":-540,"y":40,"width":250,"height":60,"color":"4"},
+		{"id":"d100966d8d7ca8ff","type":"text","text":"Регистрация и вход на платформы","x":-540,"y":-80,"width":250,"height":61,"color":"4"}
 	],
 	"edges":[
 		{"id":"5000c63b53a44735","fromNode":"ef75b771c37bb6e8","fromSide":"right","toNode":"d013e34750e3f88f","toSide":"left"},
