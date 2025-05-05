@@ -69,7 +69,6 @@
 		{"id":"cc42961a0292fe67","type":"text","text":"Вкладка AmoМаркет/приложение ChatApp","x":-1203,"y":6140,"width":250,"height":60,"color":"#85cef2"},
 		{"id":"3a9b66f65536ebad","type":"text","text":"Вкладка Сделки/Создание сделки/Воронки","x":-1203,"y":6240,"width":250,"height":100,"color":"#85cef2"},
 		{"id":"c3e6a4eb41cccd80","type":"text","text":"Практика/Общение с клиентом через приложение в dialogs.pro и создание и настройка сделки в AmoCrm","x":-804,"y":6328,"width":250,"height":185,"color":"#85cef2"},
-		{"id":"7f1519c43ded3c37","type":"text","text":"FAQ по частым проблемам не работы приложения ChatApp в AmoCrm и их решения","x":-1660,"y":6140,"width":250,"height":130,"color":"#85cef2"},
 		{"id":"775126da3807d4f1","type":"text","text":"Изучение базовых роботов и триггеров от Bitrix24","x":-805,"y":3151,"width":250,"height":111,"color":"#30c7f8"},
 		{"id":"8ccf0e98d5f161d5","type":"text","text":"Изучение базовых роботов от ChatApp","x":-805,"y":3311,"width":250,"height":80,"color":"#30c7f8"},
 		{"id":"de30c4183315b953","type":"text","text":"Вкладка CRM/Клиенты/Контакт-центр/Добавление каналов/Создание открытых линий/настройка их","x":-1204,"y":2991,"width":250,"height":160,"color":"#30c7f8"},
@@ -78,7 +77,12 @@
 		{"id":"3c916e5943e36ab6","type":"text","text":"Изучение базовых роботов от ChatApp","x":-804,"y":6800,"width":250,"height":80,"color":"#85cef2"},
 		{"id":"25f632af7f77f01b","type":"text","text":"FAQ по роботам и тригерам","x":-403,"y":3251,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"bca4fe6cb77f3a67","type":"text","text":"FAQ по роботам и тригерам","x":-420,"y":6740,"width":250,"height":60,"color":"#85cef2"},
-		{"id":"e24f303e0c9aa94b","type":"text","text":"Вкладка настроек/Настройки ChatApp","x":-1203,"y":6421,"width":250,"height":81,"color":"#85cef2"}
+		{"id":"e24f303e0c9aa94b","type":"text","text":"Вкладка настроек/Настройки ChatApp","x":-1203,"y":6421,"width":250,"height":81,"color":"#85cef2"},
+		{"id":"7f1519c43ded3c37","type":"text","text":"FAQ по частым проблемам не работы приложения ChatApp в AmoCrm и их решения","x":-1600,"y":6175,"width":250,"height":130,"color":"#85cef2"},
+		{"id":"4cd1fe517b6ec7e1","type":"text","text":"Примеры использования сценариев роботов и тригеров и логика работы.","x":-804,"y":6960,"width":250,"height":158,"color":"#85cef2"},
+		{"id":"7437d6bd4ef7d664","type":"text","text":"Практика 1","x":-804,"y":7192,"width":250,"height":60,"color":"#85cef2"},
+		{"id":"a62982480caa07ab","type":"text","text":"Практика 2","x":-804,"y":7329,"width":250,"height":60,"color":"#85cef2"},
+		{"id":"dda382df0683e432","type":"text","text":"### Работа 50% дня","x":-804,"y":7440,"width":250,"height":84,"color":"1"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -167,6 +171,10 @@
 		{"id":"7318375f2ad47ce0","fromNode":"3c916e5943e36ab6","fromSide":"right","toNode":"bca4fe6cb77f3a67","toSide":"left","fromEnd":"arrow"},
 		{"id":"ef42dcd47396243f","fromNode":"26583bd4f4f9a804","fromSide":"right","toNode":"bca4fe6cb77f3a67","toSide":"left","fromEnd":"arrow"},
 		{"id":"0ef8fb79dcdfeb61","fromNode":"26583bd4f4f9a804","fromSide":"bottom","toNode":"3c916e5943e36ab6","toSide":"top"},
-		{"id":"4664e3cabe381fc4","fromNode":"c3e6a4eb41cccd80","fromSide":"bottom","toNode":"26583bd4f4f9a804","toSide":"top"}
+		{"id":"4664e3cabe381fc4","fromNode":"c3e6a4eb41cccd80","fromSide":"bottom","toNode":"26583bd4f4f9a804","toSide":"top"},
+		{"id":"5d137317af8ed709","fromNode":"4cd1fe517b6ec7e1","fromSide":"bottom","toNode":"7437d6bd4ef7d664","toSide":"top"},
+		{"id":"d9409d2111d900b4","fromNode":"7437d6bd4ef7d664","fromSide":"bottom","toNode":"a62982480caa07ab","toSide":"top"},
+		{"id":"5e982f2bf261fc7f","fromNode":"3c916e5943e36ab6","fromSide":"bottom","toNode":"4cd1fe517b6ec7e1","toSide":"top"},
+		{"id":"4ac3f2c083372c8c","fromNode":"a62982480caa07ab","fromSide":"bottom","toNode":"dda382df0683e432","toSide":"top"}
 	]
 }
