@@ -54,7 +54,8 @@
 		{"id":"52a75bd5e0a32b88","type":"text","text":"Создание первого бота на приветствие клиента и получение данных от него. ","x":-1200,"y":3056,"width":250,"height":114,"color":"#30c7f8"},
 		{"id":"3236d4aa23340f85","type":"text","text":"небольшая теория о плюсах использования роботов, и облегчения работы при их использовании.","x":-1201,"y":3259,"width":250,"height":141,"color":"#30c7f8"},
 		{"id":"0698ec4ef8103cd0","type":"text","text":"Создание робота для создания ","x":-1202,"y":3488,"width":250,"height":60,"color":"#30c7f8"},
-		{"id":"2422e60920d542e7","type":"text","text":"Системные уведомления","x":-740,"y":2809,"width":250,"height":60,"color":"#30c7f8"}
+		{"id":"2422e60920d542e7","type":"text","text":"Системные уведомления","x":-740,"y":2809,"width":250,"height":60,"color":"#30c7f8"},
+		{"id":"2261d7519c725b23","x":-1200,"y":2320,"width":250,"height":60,"color":"#30c7f8","type":"text","text":"Работа с Bitrix24"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -104,7 +105,6 @@
 		{"id":"460d25836fa16d84","fromNode":"fba74419ed4297f1","fromSide":"bottom","toNode":"de7c20e59c994902","toSide":"top"},
 		{"id":"516f7cc5ac9134d8","fromNode":"0990977b50da3202","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"right"},
 		{"id":"f9a836c663d7b2ea","fromNode":"04f95a54a1d13158","fromSide":"bottom","toNode":"83d9f71a06470bc1","toSide":"top"},
-		{"id":"82984342f1ac4f97","fromNode":"74628d36734a8900","fromSide":"bottom","toNode":"53b6dc404a63b7ba","toSide":"top"},
 		{"id":"afea6e2793c69939","fromNode":"53b6dc404a63b7ba","fromSide":"bottom","toNode":"c33ceb90acc51c8e","toSide":"top"},
 		{"id":"8d75f0258bde85d7","fromNode":"c33ceb90acc51c8e","fromSide":"left","toNode":"667731754543bb35","toSide":"right"},
 		{"id":"5b4c0c2259e6f758","fromNode":"667731754543bb35","fromSide":"bottom","toNode":"e591b40db36a6539","toSide":"top"},
@@ -114,6 +114,8 @@
 		{"id":"fb074cc450c09644","fromNode":"670a9fb77c92a090","fromSide":"bottom","toNode":"52a75bd5e0a32b88","toSide":"top"},
 		{"id":"1c2d8eeff68fdcf8","fromNode":"52a75bd5e0a32b88","fromSide":"bottom","toNode":"3236d4aa23340f85","toSide":"top"},
 		{"id":"3941cd5208c51c2c","fromNode":"3236d4aa23340f85","fromSide":"bottom","toNode":"0698ec4ef8103cd0","toSide":"top"},
-		{"id":"c3af866978a1ffa4","fromNode":"670a9fb77c92a090","fromSide":"right","toNode":"2422e60920d542e7","toSide":"left","fromEnd":"arrow"}
+		{"id":"c3af866978a1ffa4","fromNode":"670a9fb77c92a090","fromSide":"right","toNode":"2422e60920d542e7","toSide":"left","fromEnd":"arrow"},
+		{"id":"e1cd6f8abe548b3b","fromNode":"74628d36734a8900","fromSide":"bottom","toNode":"2261d7519c725b23","toSide":"top"},
+		{"id":"40f5e54f7b4c35ed","fromNode":"2261d7519c725b23","fromSide":"bottom","toNode":"53b6dc404a63b7ba","toSide":"top"}
 	]
 }
