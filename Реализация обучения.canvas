@@ -73,9 +73,9 @@
 		{"id":"1bb62588216bba22","type":"text","text":"Вход на платформу AmoCrm","x":-804,"y":6040,"width":250,"height":80,"color":"#30c7f8"},
 		{"id":"382f2354a8c5d425","type":"text","text":"Интерфейс платформы","x":-804,"y":6200,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"c3e6a4eb41cccd80","type":"text","text":"Практика/Общение с клиентом через приложение в dialogs.pro и создание и настройка сделки в bitrix24","x":-804,"y":6317,"width":250,"height":185,"color":"#30c7f8"},
-		{"id":"eab1b8f8ec554199","type":"text","text":"Системные уведомления","x":-344,"y":6369,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграции в ChatApp","x":-867,"y":2260,"width":374,"height":60,"color":"6"},
-		{"id":"3a478694d0b16e75","x":-1685,"y":3078,"width":250,"height":60,"color":"#0189cb","type":"text","text":"Добавление сотрудника в Линию ChatApp"}
+		{"id":"3a478694d0b16e75","x":-1685,"y":3078,"width":250,"height":60,"color":"#0189cb","type":"text","text":"Добавление сотрудника в Линию ChatApp"},
+		{"id":"eab1b8f8ec554199","type":"text","text":"Системные уведомления","x":-340,"y":6380,"width":250,"height":60,"color":"#30c7f8"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
