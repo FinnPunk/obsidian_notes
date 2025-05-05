@@ -51,11 +51,12 @@
 		{"id":"53b6dc404a63b7ba","type":"text","text":"Вход на платформу Bitrix24","x":-1601,"y":2640,"width":250,"height":80,"color":"#30c7f8"},
 		{"id":"2261d7519c725b23","type":"text","text":"### Работа с Bitrix24","x":-1601,"y":2480,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"2bc2328adba805d4","type":"text","text":"# 2 раб день.","x":-1601,"y":1612,"width":250,"height":83,"color":"#00ff2a"},
-		{"id":"775126da3807d4f1","x":-1600,"y":3220,"width":250,"height":111,"type":"text","text":"Изучение базовых роботов и триггеров от Bitrix24"},
-		{"id":"8ccf0e98d5f161d5","x":-1600,"y":3380,"width":250,"height":80,"type":"text","text":"Изучение базовых роботов от ChatApp"},
-		{"id":"fd4655354ad65980","x":-1601,"y":3564,"width":250,"height":136,"type":"text","text":"Примеры использования сценариев роботов и тригеров и логика работы."},
-		{"id":"4f50dcfad0db32b8","x":-1601,"y":3796,"width":250,"height":60,"type":"text","text":"Практика 1"},
-		{"id":"1dc4bdeb8e888860","x":-1601,"y":3933,"width":250,"height":60,"type":"text","text":"Практика 2"}
+		{"id":"775126da3807d4f1","x":-1600,"y":3220,"width":250,"height":111,"color":"#000030","type":"text","text":"Изучение базовых роботов и триггеров от Bitrix24"},
+		{"id":"8ccf0e98d5f161d5","x":-1600,"y":3380,"width":250,"height":80,"color":"#000030","type":"text","text":"Изучение базовых роботов от ChatApp"},
+		{"id":"fd4655354ad65980","x":-1601,"y":3564,"width":250,"height":136,"color":"#000030","type":"text","text":"Примеры использования сценариев роботов и тригеров и логика работы."},
+		{"id":"4f50dcfad0db32b8","x":-1601,"y":3796,"width":250,"height":60,"color":"#000030","type":"text","text":"Практика 1"},
+		{"id":"1dc4bdeb8e888860","x":-1601,"y":3933,"width":250,"height":60,"color":"#000030","type":"text","text":"Практика 2"},
+		{"id":"25f632af7f77f01b","x":-1199,"y":3313,"width":250,"height":60,"color":"#000030","type":"text","text":"FAQ по роботам и тригерам"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -117,6 +118,8 @@
 		{"id":"c8b69850c15f6b2f","fromNode":"775126da3807d4f1","fromSide":"bottom","toNode":"8ccf0e98d5f161d5","toSide":"top"},
 		{"id":"324662abf7d53eb0","fromNode":"8ccf0e98d5f161d5","fromSide":"bottom","toNode":"fd4655354ad65980","toSide":"top"},
 		{"id":"5bd648354e53f063","fromNode":"fd4655354ad65980","fromSide":"bottom","toNode":"4f50dcfad0db32b8","toSide":"top"},
-		{"id":"fd6df9f4cfa62135","fromNode":"4f50dcfad0db32b8","fromSide":"bottom","toNode":"1dc4bdeb8e888860","toSide":"top"}
+		{"id":"fd6df9f4cfa62135","fromNode":"4f50dcfad0db32b8","fromSide":"bottom","toNode":"1dc4bdeb8e888860","toSide":"top"},
+		{"id":"4518523cfa253ab4","fromNode":"8ccf0e98d5f161d5","fromSide":"right","toNode":"25f632af7f77f01b","toSide":"left","fromEnd":"arrow"},
+		{"id":"ff8af726d70e805b","fromNode":"775126da3807d4f1","fromSide":"right","toNode":"25f632af7f77f01b","toSide":"left","fromEnd":"arrow"}
 	]
 }
