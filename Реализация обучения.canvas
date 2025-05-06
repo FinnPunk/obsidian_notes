@@ -111,7 +111,8 @@
 		{"id":"ec4645dd2e45de17","type":"text","text":"Подготовить несколько готовых сценариев, с их описание и логикой работы","x":-1160,"y":7174,"width":250,"height":131,"color":"1"},
 		{"id":"fd4655354ad65980","type":"text","text":"Примеры использования сценариев роботов и тригеров и логика работы.","x":-797,"y":3660,"width":250,"height":158,"color":"#30c7f8"},
 		{"id":"1dc4bdeb8e888860","type":"text","text":"Практика 2\nПоиск по номеру соц сети и начинать общение если найдена определённая соц сеть или просить номер для дальнейшей связи","x":-797,"y":4080,"width":250,"height":189,"color":"#30c7f8"},
-		{"id":"4f50dcfad0db32b8","type":"text","text":"Практика 1\nСоздание группы в тг и добавление туда сотрудника","x":-797,"y":3880,"width":250,"height":140,"color":"#30c7f8"}
+		{"id":"4f50dcfad0db32b8","type":"text","text":"Практика 1\nСоздание группы в тг и добавление туда сотрудника","x":-797,"y":3880,"width":250,"height":140,"color":"#30c7f8"},
+		{"id":"e101d46f7aa42c85","type":"text","text":"Создание робота для отправки файла и получение файла","x":-1129,"y":5425,"width":250,"height":110,"color":"4"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -228,6 +229,7 @@
 		{"id":"283607ad99d88144","fromNode":"9441c9fb6bcf447f","fromSide":"bottom","toNode":"250cdc0d5e2413a5","toSide":"top"},
 		{"id":"ce9f9ccfd57c249d","fromNode":"3a5ac9fcb0d69a72","fromSide":"right","toNode":"70398a1310a15fa6","toSide":"left"},
 		{"id":"59000d5cc32251b9","fromNode":"9103bfd9e73294bd","fromSide":"left","toNode":"70398a1310a15fa6","toSide":"right"},
-		{"id":"ba8e02396bfe2c93","fromNode":"ec4645dd2e45de17","fromSide":"right","toNode":"4cd1fe517b6ec7e1","toSide":"left"}
+		{"id":"ba8e02396bfe2c93","fromNode":"ec4645dd2e45de17","fromSide":"right","toNode":"4cd1fe517b6ec7e1","toSide":"left"},
+		{"id":"97111327a260c7da","fromNode":"e101d46f7aa42c85","fromSide":"right","toNode":"6f18302f719f698c","toSide":"left"}
 	]
 }
