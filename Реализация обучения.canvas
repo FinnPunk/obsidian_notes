@@ -103,7 +103,8 @@
 		{"id":"238a6d63537faeba","x":-796,"y":9560,"width":250,"height":60,"color":"#0189cb","type":"text","text":"Тестирование"},
 		{"id":"de4149d44aaa07e2","type":"text","text":"### Работа 50% дня","x":-796,"y":9720,"width":250,"height":84,"color":"1"},
 		{"id":"223e1666d40e92a7","x":-546,"y":8700,"width":250,"height":60,"color":"#0189cb","type":"text","text":"Open-ai ChatGPT"},
-		{"id":"722fd2466c540aac","type":"text","text":"FAQ по работе с AI","x":-546,"y":9089,"width":250,"height":60,"color":"#0189cb"}
+		{"id":"722fd2466c540aac","type":"text","text":"FAQ по работе с AI","x":-546,"y":9089,"width":250,"height":60,"color":"#0189cb"},
+		{"id":"b40872177f7791eb","type":"text","text":"# 5 раб день.\nпринцип работы 50/50","x":-1358,"y":9075,"width":250,"height":83,"color":"#00ff2a"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
