@@ -1,11 +1,8 @@
 {
 	"nodes":[
 		{"id":"e426e0bc78abe29b","type":"text","text":"Получение у HR всех логинов и паролей от всех платформ","x":-812,"y":-71,"width":265,"height":91,"color":"#00a31b"},
-		{"id":"89a2e73fab1de04c","type":"text","text":"О компании. Цели компании, отделы и за что отвечают, руководители, кол-во сотрудников, плюшки для сотрудников.","x":-1600,"y":-640,"width":250,"height":178,"color":"#00a31b"},
-		{"id":"ef75b771c37bb6e8","type":"text","text":"### Этап 0 - Welcome book","x":-2080,"y":-591,"width":320,"height":80,"color":"#c20000"},
 		{"id":"537028a1c5d7851d","type":"text","text":"# 1 раб день.\n","x":-2560,"y":-591,"width":250,"height":80,"color":"#00ff2a"},
 		{"id":"d013e34750e3f88f","type":"text","text":"### Этап 1 - Подготовительный","x":-812,"y":-598,"width":265,"height":93,"color":"#c20000"},
-		{"id":"a1ec952254833a0e","type":"text","text":"Какие цели и задачи у тех поддержки.","x":-1220,"y":-581,"width":250,"height":60,"color":"#00a31b"},
 		{"id":"0a1e8b44df277a60","type":"text","text":"### Работа с Conflurense","x":-720,"y":280,"width":250,"height":87,"color":"#0048af"},
 		{"id":"49dd4287300946b1","type":"text","text":"Вход на платформу","x":-720,"y":419,"width":250,"height":60,"color":"#0048af"},
 		{"id":"12b17f33e060e0d2","type":"text","text":"Знакомство с интерфейсом","x":-720,"y":530,"width":250,"height":60,"color":"#0048af"},
@@ -15,9 +12,6 @@
 		{"id":"de7c20e59c994902","type":"text","text":"Вход на платформу","x":-380,"y":402,"width":250,"height":60,"color":"#5865f2"},
 		{"id":"39ccdbc96b7e816c","type":"text","text":"Знакомство с интерфейсом","x":-380,"y":513,"width":250,"height":60,"color":"#5865f2"},
 		{"id":"0990977b50da3202","type":"text","text":"Правила использования Discord в работе.","x":-380,"y":620,"width":250,"height":60,"color":"#5865f2"},
-		{"id":"537af82b56f26222","type":"text","text":"Как брать отгулы?","x":-1883,"y":-300,"width":250,"height":60,"color":"4"},
-		{"id":"56b4ddf931482076","type":"text","text":"Премия? За что?","x":-1600,"y":-300,"width":250,"height":60,"color":"4"},
-		{"id":"111b82d28b0788e3","type":"text","text":"Обед? Пятничные вечера?","x":-1313,"y":-300,"width":250,"height":60,"color":"4"},
 		{"id":"6044fde32b14a0b4","type":"text","text":"БАЗА для особо не понимающих.","x":-40,"y":293,"width":250,"height":60,"color":"6"},
 		{"id":"0ae9f16f3d8e8de1","type":"text","text":"### Работа с ChatApp","x":-1062,"y":293,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"d100966d8d7ca8ff","type":"text","text":"Вход на платформу chatapp","x":-1062,"y":401,"width":250,"height":61,"color":"#0189cb"},
@@ -131,7 +125,13 @@
 		{"id":"ed3870ef548ad114","type":"text","text":"Практика, получение сообщений из добавленных соц. сетей\nОтвет на сообщения, быстрыми ответами/добавление своих быстрых ответов.","x":-797,"y":1560,"width":250,"height":209,"color":"#f54d85"},
 		{"id":"1bf43c1886f0f969","x":-1592,"y":6629,"width":250,"height":66,"color":"#85cef2","type":"text","text":"Добавление сотрудников"},
 		{"id":"c580735ddebc9548","x":-1477,"y":1320,"width":250,"height":60,"color":"#0189bc","type":"text","text":"Роли"},
-		{"id":"2bc2328adba805d4","type":"text","text":"# 2 раб день.","x":-2560,"y":1814,"width":250,"height":83,"color":"#00ff2a"}
+		{"id":"2bc2328adba805d4","type":"text","text":"# 2 раб день.","x":-2560,"y":1814,"width":250,"height":83,"color":"#00ff2a"},
+		{"id":"a1ec952254833a0e","type":"text","text":"Какие цели и задачи у тех поддержки.","x":-804,"y":-760,"width":250,"height":60,"color":"#00a31b"},
+		{"id":"89a2e73fab1de04c","type":"text","text":"О компании. Цели компании, отделы и за что отвечают, руководители, кол-во сотрудников, плюшки для сотрудников.","x":-804,"y":-1440,"width":250,"height":178,"color":"#00a31b"},
+		{"id":"ef75b771c37bb6e8","type":"text","text":"### Этап 0 - Welcome book","x":-839,"y":-1600,"width":320,"height":80,"color":"#c20000"},
+		{"id":"537af82b56f26222","type":"text","text":"Как брать отгулы?","x":-1087,"y":-920,"width":250,"height":60,"color":"4"},
+		{"id":"56b4ddf931482076","type":"text","text":"Премия? За что?","x":-804,"y":-920,"width":250,"height":60,"color":"4"},
+		{"id":"111b82d28b0788e3","type":"text","text":"Обед? Пятничные вечера?","x":-517,"y":-920,"width":250,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -139,7 +139,7 @@
 		{"id":"baadc7bec9247b68","fromNode":"41a454b84090f2ef","fromSide":"bottom","toNode":"d9ade519774a989c","toSide":"top"},
 		{"id":"4ca2eb823073c091","fromNode":"ef0510a39083510b","fromSide":"bottom","toNode":"12e0c8df07a5cbee","toSide":"top"},
 		{"id":"ec41aeba5f3a59cf","fromNode":"12e0c8df07a5cbee","fromSide":"bottom","toNode":"733950cd78d28db0","toSide":"top"},
-		{"id":"ed21301167fcd529","fromNode":"a1ec952254833a0e","fromSide":"right","toNode":"d013e34750e3f88f","toSide":"top"},
+		{"id":"ed21301167fcd529","fromNode":"a1ec952254833a0e","fromSide":"bottom","toNode":"d013e34750e3f88f","toSide":"top"},
 		{"id":"18204bb164406676","fromNode":"d100966d8d7ca8ff","fromSide":"bottom","toNode":"c7a269263f512cf8","toSide":"top"},
 		{"id":"e8a957591d556cdd","fromNode":"c7a269263f512cf8","fromSide":"bottom","toNode":"abadd9121f8bf96a","toSide":"top"},
 		{"id":"28d44bef6ff54cc8","fromNode":"d013e34750e3f88f","fromSide":"bottom","toNode":"e426e0bc78abe29b","toSide":"top"},
@@ -179,8 +179,8 @@
 		{"id":"fd6df9f4cfa62135","fromNode":"4f50dcfad0db32b8","fromSide":"bottom","toNode":"1dc4bdeb8e888860","toSide":"top"},
 		{"id":"4518523cfa253ab4","fromNode":"8ccf0e98d5f161d5","fromSide":"right","toNode":"25f632af7f77f01b","toSide":"left","fromEnd":"arrow"},
 		{"id":"ff8af726d70e805b","fromNode":"775126da3807d4f1","fromSide":"right","toNode":"25f632af7f77f01b","toSide":"left","fromEnd":"arrow"},
-		{"id":"218a5373ac6a6d20","fromNode":"89a2e73fab1de04c","fromSide":"right","toNode":"a1ec952254833a0e","toSide":"left"},
-		{"id":"964d959dfd986e87","fromNode":"ef75b771c37bb6e8","fromSide":"right","toNode":"89a2e73fab1de04c","toSide":"left"},
+		{"id":"218a5373ac6a6d20","fromNode":"56b4ddf931482076","fromSide":"bottom","toNode":"a1ec952254833a0e","toSide":"top"},
+		{"id":"964d959dfd986e87","fromNode":"ef75b771c37bb6e8","fromSide":"bottom","toNode":"89a2e73fab1de04c","toSide":"top"},
 		{"id":"85d2f53a1d8ebddd","fromNode":"537028a1c5d7851d","fromSide":"right","toNode":"ef75b771c37bb6e8","toSide":"left"},
 		{"id":"f279fa4351d10b86","fromNode":"1dc4bdeb8e888860","fromSide":"bottom","toNode":"f681b0421e4ab2ba","toSide":"top"},
 		{"id":"e1d5707051f7bb37","fromNode":"196e446036cf399b","fromSide":"right","toNode":"f681b0421e4ab2ba","toSide":"left"},
@@ -190,7 +190,6 @@
 		{"id":"55fd162ac2bfc96e","fromNode":"962db8d96970e8f2","fromSide":"right","toNode":"4ba9014728e65ddb","toSide":"left"},
 		{"id":"befce31a73f141ba","fromNode":"89a2e73fab1de04c","fromSide":"bottom","toNode":"537af82b56f26222","toSide":"top"},
 		{"id":"c06828a23bbea59f","fromNode":"89a2e73fab1de04c","fromSide":"bottom","toNode":"56b4ddf931482076","toSide":"top"},
-		{"id":"61681ceddaf9d606","fromNode":"89a2e73fab1de04c","fromSide":"bottom","toNode":"111b82d28b0788e3","toSide":"top"},
 		{"id":"41206457e4cc6abd","fromNode":"18b3badb8d37ee48","fromSide":"bottom","toNode":"71d2dfee7fb2e3da","toSide":"top"},
 		{"id":"92995f0a300a05bc","fromNode":"52472a505fca042b","fromSide":"bottom","toNode":"f40c8c1ce2a4f1e6","toSide":"top"},
 		{"id":"901d154378d68aee","fromNode":"71d2dfee7fb2e3da","fromSide":"bottom","toNode":"f40c8c1ce2a4f1e6","toSide":"top"},
@@ -271,6 +270,9 @@
 		{"id":"a58cc2c3fec26d65","fromNode":"0f4a9db8747d6294","fromSide":"bottom","toNode":"cd1d49085c9df790","toSide":"top"},
 		{"id":"c88196d8aea29474","fromNode":"cd1d49085c9df790","fromSide":"bottom","toNode":"ed3870ef548ad114","toSide":"top"},
 		{"id":"5822c10adca88d2a","fromNode":"3b014bd1a2ddd5dc","fromSide":"bottom","toNode":"c580735ddebc9548","toSide":"top"},
-		{"id":"0a907b65c13f41d4","fromNode":"2bc2328adba805d4","fromSide":"right","toNode":"57427b7aad480d0c","toSide":"left","color":"1"}
+		{"id":"0a907b65c13f41d4","fromNode":"2bc2328adba805d4","fromSide":"right","toNode":"57427b7aad480d0c","toSide":"left","color":"1"},
+		{"id":"4fcdc5a50b2551c6","fromNode":"89a2e73fab1de04c","fromSide":"bottom","toNode":"111b82d28b0788e3","toSide":"top"},
+		{"id":"bd314537f2866125","fromNode":"537af82b56f26222","fromSide":"bottom","toNode":"a1ec952254833a0e","toSide":"top"},
+		{"id":"64ba52ca787bce36","fromNode":"111b82d28b0788e3","fromSide":"bottom","toNode":"a1ec952254833a0e","toSide":"right"}
 	]
 }
