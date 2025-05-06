@@ -110,7 +110,8 @@
 		{"id":"d418931e6c777349","type":"text","text":"Open-ai ChatGPT","x":-500,"y":10576,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"250cdc0d5e2413a5","x":-796,"y":10576,"width":250,"height":60,"type":"text","text":"Инвайтер"},
 		{"id":"3a5ac9fcb0d69a72","x":-1129,"y":5615,"width":250,"height":60,"color":"1","type":"text","text":"Работа с JIRA"},
-		{"id":"9103bfd9e73294bd","type":"text","text":"Работа с базой знаний.","x":-432,"y":5615,"width":250,"height":60,"color":"1"}
+		{"id":"9103bfd9e73294bd","type":"text","text":"Работа с базой знаний.","x":-432,"y":5615,"width":250,"height":60,"color":"1"},
+		{"id":"ec4645dd2e45de17","type":"text","text":"Подготовить несколько готовых сценариев, с их описание и логикой работы","x":-1160,"y":7174,"width":250,"height":131,"color":"1"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -226,6 +227,7 @@
 		{"id":"3fd233ec61a860cc","fromNode":"90078444af6de722","fromSide":"bottom","toNode":"9441c9fb6bcf447f","toSide":"top"},
 		{"id":"283607ad99d88144","fromNode":"9441c9fb6bcf447f","fromSide":"bottom","toNode":"250cdc0d5e2413a5","toSide":"top"},
 		{"id":"ce9f9ccfd57c249d","fromNode":"3a5ac9fcb0d69a72","fromSide":"right","toNode":"70398a1310a15fa6","toSide":"left"},
-		{"id":"59000d5cc32251b9","fromNode":"9103bfd9e73294bd","fromSide":"left","toNode":"70398a1310a15fa6","toSide":"right"}
+		{"id":"59000d5cc32251b9","fromNode":"9103bfd9e73294bd","fromSide":"left","toNode":"70398a1310a15fa6","toSide":"right"},
+		{"id":"ba8e02396bfe2c93","fromNode":"ec4645dd2e45de17","fromSide":"right","toNode":"4cd1fe517b6ec7e1","toSide":"left"}
 	]
 }
