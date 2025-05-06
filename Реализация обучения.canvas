@@ -135,7 +135,8 @@
 		{"id":"dab6596ffc647f51","type":"text","text":"Практика","x":-796,"y":9840,"width":250,"height":60,"color":"6"},
 		{"id":"90078444af6de722","type":"text","text":"#### Этап 4. Вспомогательные функции сервиса","x":-796,"y":9080,"width":250,"height":100,"color":"1"},
 		{"id":"b40872177f7791eb","type":"text","text":"#### 5 раб день.\nпринцип работы 50/50","x":-2560,"y":9088,"width":250,"height":83,"color":"#00ff2a"},
-		{"id":"691d70788db70cfb","type":"text","text":" # КОНЕЦ!","x":-2560,"y":10320,"width":3780,"height":170,"color":"3"}
+		{"id":"691d70788db70cfb","type":"text","text":" # КОНЕЦ!","x":-2560,"y":10320,"width":3780,"height":170,"color":"3"},
+		{"id":"e9cb467a03aec9cd","x":-1428,"y":10758,"width":250,"height":60,"type":"text","text":"Конструктор ботов"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -273,6 +274,7 @@
 		{"id":"571dc9b3caa4fc41","fromNode":"b317466f74965f43","fromSide":"bottom","toNode":"0b9000d2d7939cb7","toSide":"top"},
 		{"id":"64d78d1f2cfaa195","fromNode":"dab6596ffc647f51","fromSide":"bottom","toNode":"b317466f74965f43","toSide":"top"},
 		{"id":"b0430c3e76be14cd","fromNode":"250cdc0d5e2413a5","fromSide":"bottom","toNode":"dab6596ffc647f51","toSide":"top"},
-		{"id":"26ee50692218b832","fromNode":"0b9000d2d7939cb7","fromSide":"bottom","toNode":"691d70788db70cfb","toSide":"top"}
+		{"id":"26ee50692218b832","fromNode":"0b9000d2d7939cb7","fromSide":"bottom","toNode":"691d70788db70cfb","toSide":"top"},
+		{"id":"f74528e9a112b0ef","fromNode":"691d70788db70cfb","fromSide":"bottom","toNode":"e9cb467a03aec9cd","toSide":"top","label":"Дальше"}
 	]
 }
