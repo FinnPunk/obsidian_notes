@@ -2,12 +2,11 @@
 	"nodes":[
 		{"id":"962db8d96970e8f2","type":"text","text":"как проходит рабочий день сотрудника тех поддержки в компании. \nпример: \nПриходит вовремя к 9 и включает пк и запускает всё необходимое;\nЗаказывает еду через чат бота;\nВыбирает удобное время для обеда;\nчерез что проходит работа.\nи т.д. (ДОПОЛНИТЬ)","x":-805,"y":1758,"width":250,"height":402,"color":"6"},
 		{"id":"57427b7aad480d0c","type":"text","text":"### Как проходит рабочий день сотрудника ТП.","x":-891,"y":1620,"width":422,"height":87,"color":"6"},
-		{"id":"2bc2328adba805d4","type":"text","text":"# 2 раб день.","x":-2560,"y":1612,"width":250,"height":83,"color":"#00ff2a"},
 		{"id":"6e500b678d43d1a1","type":"text","text":"зачем нужен bitcorp?","x":-400,"y":1758,"width":250,"height":50,"color":"6"},
 		{"id":"4ba9014728e65ddb","type":"text","text":"# Правила общения с клиентами\n- интерактивные примеры\n- реальные кейсы\n- ответственность","x":-100,"y":1758,"width":250,"height":322,"color":"6"},
 		{"id":"e426e0bc78abe29b","type":"text","text":"Получение у HR всех логинов и паролей от всех платформ","x":-812,"y":-71,"width":265,"height":91,"color":"#00a31b"},
 		{"id":"89a2e73fab1de04c","type":"text","text":"О компании. Цели компании, отделы и за что отвечают, руководители, кол-во сотрудников, плюшки для сотрудников.","x":-1600,"y":-640,"width":250,"height":178,"color":"#00a31b"},
-		{"id":"ef75b771c37bb6e8","type":"text","text":"### Этап 0 - Welcome book","x":-2010,"y":-591,"width":250,"height":80,"color":"#c20000"},
+		{"id":"ef75b771c37bb6e8","type":"text","text":"### Этап 0 - Welcome book","x":-2080,"y":-591,"width":320,"height":80,"color":"#c20000"},
 		{"id":"537028a1c5d7851d","type":"text","text":"# 1 раб день.","x":-2560,"y":-591,"width":250,"height":80,"color":"#00ff2a"},
 		{"id":"537af82b56f26222","type":"text","text":"Как брать отгулы?","x":-1883,"y":-278,"width":250,"height":60,"color":"4"},
 		{"id":"56b4ddf931482076","type":"text","text":"Премия? За что?","x":-1600,"y":-278,"width":250,"height":60,"color":"4"},
@@ -88,7 +87,8 @@
 		{"id":"fba74419ed4297f1","type":"text","text":"### Работа с DIscord","x":-380,"y":294,"width":250,"height":60,"color":"#5865f2"},
 		{"id":"de7c20e59c994902","type":"text","text":"Вход на платформу","x":-380,"y":402,"width":250,"height":60,"color":"#5865f2"},
 		{"id":"39ccdbc96b7e816c","type":"text","text":"Знакомство с интерфейсом","x":-380,"y":513,"width":250,"height":60,"color":"#5865f2"},
-		{"id":"0990977b50da3202","type":"text","text":"Правила использования Discord в работе.","x":-380,"y":620,"width":250,"height":60,"color":"#5865f2"}
+		{"id":"0990977b50da3202","type":"text","text":"Правила использования Discord в работе.","x":-380,"y":620,"width":250,"height":60,"color":"#5865f2"},
+		{"id":"2bc2328adba805d4","type":"text","text":"# 2 раб день.","x":-2561,"y":2429,"width":250,"height":83,"color":"#00ff2a"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -131,7 +131,6 @@
 		{"id":"40f5e54f7b4c35ed","fromNode":"2261d7519c725b23","fromSide":"bottom","toNode":"53b6dc404a63b7ba","toSide":"top"},
 		{"id":"c5407d3459bec4ea","fromNode":"9efb153deedec5aa","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"right"},
 		{"id":"f117dbef68b5dcb1","fromNode":"3854c108199af2a8","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"left"},
-		{"id":"959d3f6f3b1199a0","fromNode":"2bc2328adba805d4","fromSide":"right","toNode":"57427b7aad480d0c","toSide":"left"},
 		{"id":"a2b89b2857fe283c","fromNode":"57427b7aad480d0c","fromSide":"bottom","toNode":"962db8d96970e8f2","toSide":"top"},
 		{"id":"516f7cc5ac9134d8","fromNode":"0990977b50da3202","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"right"},
 		{"id":"b96a8d5979e7823c","fromNode":"670a9fb77c92a090","fromSide":"bottom","toNode":"775126da3807d4f1","toSide":"top"},
@@ -186,6 +185,7 @@
 		{"id":"e652b970c78ef55b","fromNode":"11f771359c296fe2","fromSide":"right","toNode":"5540b3894a321959","toSide":"left"},
 		{"id":"3ce6e253f3fa6df7","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"84288ae458f24d3d","toSide":"right"},
 		{"id":"7910d8024acf4c23","fromNode":"74628d36734a8900","fromSide":"bottom","toNode":"0ae9f16f3d8e8de1","toSide":"top"},
-		{"id":"836bec7ef119d019","fromNode":"ed3870ef548ad114","fromSide":"bottom","toNode":"2261d7519c725b23","toSide":"top"}
+		{"id":"836bec7ef119d019","fromNode":"ed3870ef548ad114","fromSide":"bottom","toNode":"2261d7519c725b23","toSide":"top"},
+		{"id":"107fb94a335235a4","fromNode":"2bc2328adba805d4","fromSide":"right","toNode":"0ae9f16f3d8e8de1","toSide":"left"}
 	]
 }
