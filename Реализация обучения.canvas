@@ -124,7 +124,9 @@
 		{"id":"ed3870ef548ad114","type":"text","text":"Практика, получение сообщений из добавленных соц. сетей\nОтвет на сообщения, быстрыми ответами/добавление своих быстрых ответов.","x":-1062,"y":1402,"width":250,"height":209,"color":"#f64b83"},
 		{"id":"40cef4608120a6cd","x":-1062,"y":904,"width":250,"height":110,"color":"#0189cb","type":"text","text":"Предоставление доступа сотруднику техподдержки"},
 		{"id":"24dbe1940c989e37","type":"text","text":"# ОПЛАТА?","x":1120,"y":7620,"width":291,"height":241,"color":"1"},
-		{"id":"42e9354fc4111c05","x":-1160,"y":7000,"width":250,"height":119,"color":"1","type":"text","text":"Как первым начать диалог с клиентом в мессенджере или CRM-системе"}
+		{"id":"42e9354fc4111c05","x":-1160,"y":7000,"width":250,"height":119,"color":"1","type":"text","text":"Как первым начать диалог с клиентом в мессенджере или CRM-системе"},
+		{"id":"6f276e4a542a3ade","x":-1520,"y":7030,"width":250,"height":60,"type":"text","text":"Синхронизация ответственных"},
+		{"id":"802004a6c5ce780a","x":-1330,"y":6861,"width":250,"height":60,"type":"text","text":"Доп знания по CRM"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -255,7 +257,8 @@
 		{"id":"030e87f5dc1eb4b9","fromNode":"9441c9fb6bcf447f","fromSide":"bottom","toNode":"3b693c0109f6f697","toSide":"top"},
 		{"id":"e06f2c4143325051","fromNode":"40cef4608120a6cd","fromSide":"bottom","toNode":"68039ad372b310d0","toSide":"top"},
 		{"id":"5b020f0dcdd62fc6","fromNode":"abadd9121f8bf96a","fromSide":"bottom","toNode":"40cef4608120a6cd","toSide":"top"},
-		{"id":"05a84162d865bcb6","fromNode":"42e9354fc4111c05","fromSide":"right","toNode":"4cd1fe517b6ec7e1","toSide":"left"},
-		{"id":"76574f1aa89dd3cb","fromNode":"3b014bd1a2ddd5dc","fromSide":"right","toNode":"abadd9121f8bf96a","toSide":"left"}
+		{"id":"76574f1aa89dd3cb","fromNode":"3b014bd1a2ddd5dc","fromSide":"right","toNode":"abadd9121f8bf96a","toSide":"left"},
+		{"id":"ad28d200eeedf5e2","fromNode":"42e9354fc4111c05","fromSide":"left","toNode":"6f276e4a542a3ade","toSide":"right"},
+		{"id":"0765a020e7406194","fromNode":"c3e6a4eb41cccd80","fromSide":"bottom","toNode":"802004a6c5ce780a","toSide":"top"}
 	]
 }
