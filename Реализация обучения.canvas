@@ -126,7 +126,8 @@
 		{"id":"24dbe1940c989e37","type":"text","text":"# ОПЛАТА?","x":1120,"y":7620,"width":291,"height":241,"color":"1"},
 		{"id":"42e9354fc4111c05","x":300,"y":7074,"width":250,"height":119,"color":"1","type":"text","text":"Как первым начать диалог с клиентом в мессенджере или CRM-системе"},
 		{"id":"6f276e4a542a3ade","x":-60,"y":7074,"width":250,"height":119,"color":"1","type":"text","text":"Синхронизация ответственных между Dialogs.pro с CRM-системами"},
-		{"id":"802004a6c5ce780a","x":140,"y":6940,"width":250,"height":60,"color":"1","type":"text","text":"Доп знания по CRM"}
+		{"id":"802004a6c5ce780a","x":140,"y":6940,"width":250,"height":60,"color":"1","type":"text","text":"Доп знания по CRM"},
+		{"id":"6f37a688f92d0323","x":-1472,"y":1339,"width":250,"height":60,"type":"text","text":"Метку"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -260,6 +261,7 @@
 		{"id":"76574f1aa89dd3cb","fromNode":"3b014bd1a2ddd5dc","fromSide":"right","toNode":"abadd9121f8bf96a","toSide":"left"},
 		{"id":"0765a020e7406194","fromNode":"c3e6a4eb41cccd80","fromSide":"bottom","toNode":"802004a6c5ce780a","toSide":"top"},
 		{"id":"41e6c670930debc2","fromNode":"802004a6c5ce780a","fromSide":"bottom","toNode":"6f276e4a542a3ade","toSide":"top"},
-		{"id":"c08540c124142f4f","fromNode":"802004a6c5ce780a","fromSide":"bottom","toNode":"42e9354fc4111c05","toSide":"top"}
+		{"id":"c08540c124142f4f","fromNode":"802004a6c5ce780a","fromSide":"bottom","toNode":"42e9354fc4111c05","toSide":"top"},
+		{"id":"80c45212d85b59fe","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"6f37a688f92d0323","toSide":"right"}
 	]
 }
