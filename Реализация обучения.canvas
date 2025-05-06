@@ -119,7 +119,8 @@
 		{"id":"d418931e6c777349","type":"text","text":"Open-ai ChatGPT","x":-607,"y":10576,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"0c50e38ef395f6d2","x":-420,"y":8700,"width":250,"height":60,"type":"text","text":"UTM метки"},
 		{"id":"b00b70d1cc7183ce","type":"text","text":"Bitrix24 UTM-метки","x":-280,"y":8858,"width":250,"height":60},
-		{"id":"981dafc6bf0479e5","x":-560,"y":8858,"width":250,"height":60,"type":"text","text":"AmoCRM UTM-метки"}
+		{"id":"981dafc6bf0479e5","x":-560,"y":8858,"width":250,"height":60,"type":"text","text":"AmoCRM UTM-метки"},
+		{"id":"3b693c0109f6f697","x":-280,"y":10576,"width":250,"height":60,"type":"text","text":"Электронная визитка"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -247,6 +248,7 @@
 		{"id":"7fad64f15a397a7d","fromNode":"250cdc0d5e2413a5","fromSide":"bottom","toNode":"5cf5a9d21c6f8dc9","toSide":"top"},
 		{"id":"22027e145d5808df","fromNode":"92cb75bab73f6449","fromSide":"bottom","toNode":"0c50e38ef395f6d2","toSide":"top"},
 		{"id":"fdd40ff9371d3ea6","fromNode":"0c50e38ef395f6d2","fromSide":"bottom","toNode":"981dafc6bf0479e5","toSide":"top"},
-		{"id":"e789b11ad51a18f9","fromNode":"0c50e38ef395f6d2","fromSide":"bottom","toNode":"b00b70d1cc7183ce","toSide":"top"}
+		{"id":"e789b11ad51a18f9","fromNode":"0c50e38ef395f6d2","fromSide":"bottom","toNode":"b00b70d1cc7183ce","toSide":"top"},
+		{"id":"030e87f5dc1eb4b9","fromNode":"9441c9fb6bcf447f","fromSide":"bottom","toNode":"3b693c0109f6f697","toSide":"top"}
 	]
 }
