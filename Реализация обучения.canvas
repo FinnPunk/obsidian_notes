@@ -97,7 +97,8 @@
 		{"id":"8c8b5ef33df194d7","x":-797,"y":8626,"width":250,"height":60,"type":"text","text":"Партнёрская программа"},
 		{"id":"108a53fd2c65920d","x":-1031,"y":8860,"width":250,"height":58,"type":"text","text":"Регистрация официального партнера"},
 		{"id":"a166472950809501","x":-1340,"y":9089,"width":250,"height":60,"type":"text","text":"Получение статуса официального партнера"},
-		{"id":"2677be5b21e34423","x":-1031,"y":9089,"width":250,"height":60,"type":"text","text":" Работа с лидами и клиентами"}
+		{"id":"2677be5b21e34423","x":-1031,"y":9089,"width":250,"height":60,"type":"text","text":" Работа с лидами и клиентами"},
+		{"id":"401af33586087dcb","x":-1031,"y":9264,"width":250,"height":96,"type":"text","text":"FAQ по работе с платформой для партнёров компании"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -201,6 +202,7 @@
 		{"id":"42da0e258bd94c1f","fromNode":"92cb75bab73f6449","fromSide":"bottom","toNode":"8c8b5ef33df194d7","toSide":"top"},
 		{"id":"b981c5d6fead0ad8","fromNode":"8c8b5ef33df194d7","fromSide":"bottom","toNode":"108a53fd2c65920d","toSide":"top"},
 		{"id":"bc73b877d67ca8b0","fromNode":"108a53fd2c65920d","fromSide":"bottom","toNode":"a166472950809501","toSide":"top"},
-		{"id":"629032f028b212a8","fromNode":"108a53fd2c65920d","fromSide":"bottom","toNode":"2677be5b21e34423","toSide":"top"}
+		{"id":"629032f028b212a8","fromNode":"108a53fd2c65920d","fromSide":"bottom","toNode":"2677be5b21e34423","toSide":"top"},
+		{"id":"d60513df19675e84","fromNode":"2677be5b21e34423","fromSide":"bottom","toNode":"401af33586087dcb","toSide":"top"}
 	]
 }
