@@ -104,7 +104,6 @@
 		{"id":"90078444af6de722","type":"text","text":"#### Этап 4. Вспомогательные функции сервиса","x":-796,"y":9912,"width":250,"height":100},
 		{"id":"9441c9fb6bcf447f","type":"text","text":"(Снова) Интерактивное тестирование (реальные кейсы и способы решения)","x":-796,"y":10120,"width":250,"height":131,"color":"6"},
 		{"id":"d418931e6c777349","type":"text","text":"Open-ai ChatGPT","x":-500,"y":10576,"width":250,"height":60,"color":"#0189cb"},
-		{"id":"250cdc0d5e2413a5","type":"text","text":"Инвайтер","x":-796,"y":10576,"width":250,"height":60},
 		{"id":"3a5ac9fcb0d69a72","type":"text","text":"Работа с JIRA","x":-1129,"y":5615,"width":250,"height":60,"color":"1"},
 		{"id":"9103bfd9e73294bd","type":"text","text":"Работа с базой знаний.","x":-432,"y":5615,"width":250,"height":60,"color":"1"},
 		{"id":"ec4645dd2e45de17","type":"text","text":"Подготовить несколько готовых сценариев, с их описание и логикой работы","x":-1160,"y":7174,"width":250,"height":131,"color":"1"},
@@ -112,10 +111,11 @@
 		{"id":"1dc4bdeb8e888860","type":"text","text":"Практика 2\nПоиск по номеру соц сети и начинать общение если найдена определённая соц сеть или просить номер для дальнейшей связи","x":-797,"y":4080,"width":250,"height":189,"color":"#30c7f8"},
 		{"id":"4f50dcfad0db32b8","type":"text","text":"Практика 1\nСоздание группы в тг и добавление туда сотрудника","x":-797,"y":3880,"width":250,"height":140,"color":"#30c7f8"},
 		{"id":"e101d46f7aa42c85","type":"text","text":"!!! СОЗДАТЬ ЗАДАЧУ ПО РОБОТАМ ChatApp","x":-1129,"y":5433,"width":250,"height":95,"color":"4"},
-		{"id":"878be752f1390bf2","type":"text","text":"Рассылка","x":-1373,"y":10576,"width":250,"height":60},
-		{"id":"dd5335d6c86bed46","x":-1680,"y":10800,"width":250,"height":60,"type":"text","text":"Ограничения рассылки"},
-		{"id":"ec848f677125eb95","x":-1373,"y":10800,"width":250,"height":60,"type":"text","text":"FAQ по рассылкам"},
-		{"id":"5cf5a9d21c6f8dc9","x":-1060,"y":10800,"width":250,"height":60,"type":"text","text":"Импорт контактов"}
+		{"id":"878be752f1390bf2","type":"text","text":"Рассылка","x":-1633,"y":10580,"width":250,"height":60},
+		{"id":"dd5335d6c86bed46","x":-1940,"y":10804,"width":250,"height":60,"type":"text","text":"Ограничения рассылки"},
+		{"id":"ec848f677125eb95","x":-1633,"y":10804,"width":250,"height":60,"type":"text","text":"FAQ по рассылкам"},
+		{"id":"5cf5a9d21c6f8dc9","x":-1320,"y":10804,"width":250,"height":60,"type":"text","text":"Импорт контактов"},
+		{"id":"250cdc0d5e2413a5","type":"text","text":"Инвайтер","x":-940,"y":10576,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
