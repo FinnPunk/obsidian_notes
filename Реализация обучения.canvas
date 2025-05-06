@@ -13,7 +13,6 @@
 		{"id":"107bcf28e236a40d","type":"text","text":"(Снова) Практика с роботами и триггерами (снова)","x":-796,"y":8200,"width":250,"height":100,"color":"6"},
 		{"id":"92cb75bab73f6449","type":"text","text":"(Снова) Практика - реальная проблема, и нужно найти к ней решение используя платформу.","x":-796,"y":8360,"width":250,"height":169,"color":"6"},
 		{"id":"5540b3894a321959","type":"text","text":"#### Этап 3. Углублённое обучение","x":-796,"y":7829,"width":250,"height":80,"color":"1"},
-		{"id":"26583bd4f4f9a804","type":"text","text":"Изучение базовых роботов и триггеров Salesbot","x":-796,"y":6840,"width":250,"height":111,"color":"#85cef2"},
 		{"id":"bca4fe6cb77f3a67","type":"text","text":"FAQ по роботам и тригерам","x":-412,"y":6940,"width":250,"height":60,"color":"#85cef2"},
 		{"id":"70398a1310a15fa6","type":"text","text":"Практика - реальная проблема, и нужно найти к ней решение используя платформу.","x":-796,"y":5580,"width":250,"height":129,"color":"6"},
 		{"id":"fd326db91640666b","type":"text","text":"### Работа 50% дня","x":-796,"y":5856,"width":250,"height":84,"color":"1"},
@@ -131,7 +130,8 @@
 		{"id":"eab1b8f8ec554199","type":"text","text":"Системные уведомления","x":-412,"y":6300,"width":250,"height":60,"color":"#85cef2"},
 		{"id":"802004a6c5ce780a","x":160,"y":6840,"width":250,"height":60,"color":"1","type":"text","text":"Доп знания по CRM"},
 		{"id":"6f276e4a542a3ade","x":-20,"y":7055,"width":250,"height":119,"color":"1","type":"text","text":"Синхронизация ответственных между Dialogs.pro с CRM-системами"},
-		{"id":"42e9354fc4111c05","x":320,"y":7055,"width":250,"height":119,"color":"1","type":"text","text":"Как первым начать диалог с клиентом в мессенджере или CRM-системе"}
+		{"id":"42e9354fc4111c05","x":320,"y":7055,"width":250,"height":119,"color":"1","type":"text","text":"Как первым начать диалог с клиентом в мессенджере или CRM-системе"},
+		{"id":"26583bd4f4f9a804","type":"text","text":"Изучение базовых роботов и триггеров Salesbot","x":-796,"y":6680,"width":250,"height":111,"color":"#85cef2"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -196,7 +196,7 @@
 		{"id":"05d05427e3c876b6","fromNode":"3a9b66f65536ebad","fromSide":"bottom","toNode":"e24f303e0c9aa94b","toSide":"top"},
 		{"id":"da44d59711a8d773","fromNode":"e24f303e0c9aa94b","fromSide":"right","toNode":"c3e6a4eb41cccd80","toSide":"left"},
 		{"id":"af3a52a45beb4600","fromNode":"1bb62588216bba22","fromSide":"left","toNode":"382f2354a8c5d425","toSide":"right"},
-		{"id":"a8a9bfc3db34e31a","fromNode":"c3e6a4eb41cccd80","fromSide":"right","toNode":"eab1b8f8ec554199","toSide":"left","fromEnd":"arrow"},
+		{"id":"a8a9bfc3db34e31a","fromNode":"c3e6a4eb41cccd80","fromSide":"right","toNode":"eab1b8f8ec554199","toSide":"bottom","fromEnd":"arrow"},
 		{"id":"d1f5cf493963c513","fromNode":"442daec470c43f98","fromSide":"bottom","toNode":"1bb62588216bba22","toSide":"top"},
 		{"id":"836c9a7e69993f25","fromNode":"de30c4183315b953","fromSide":"left","toNode":"3a478694d0b16e75","toSide":"right","fromEnd":"arrow"},
 		{"id":"1e066941533d3b2b","fromNode":"e591b40db36a6539","fromSide":"bottom","toNode":"de30c4183315b953","toSide":"top"},
@@ -251,7 +251,7 @@
 		{"id":"030e87f5dc1eb4b9","fromNode":"9441c9fb6bcf447f","fromSide":"bottom","toNode":"3b693c0109f6f697","toSide":"top"},
 		{"id":"5b020f0dcdd62fc6","fromNode":"abadd9121f8bf96a","fromSide":"bottom","toNode":"40cef4608120a6cd","toSide":"top"},
 		{"id":"76574f1aa89dd3cb","fromNode":"3b014bd1a2ddd5dc","fromSide":"right","toNode":"abadd9121f8bf96a","toSide":"left"},
-		{"id":"0765a020e7406194","fromNode":"c3e6a4eb41cccd80","fromSide":"bottom","toNode":"802004a6c5ce780a","toSide":"top"},
+		{"id":"0765a020e7406194","fromNode":"c3e6a4eb41cccd80","fromSide":"right","toNode":"802004a6c5ce780a","toSide":"top"},
 		{"id":"41e6c670930debc2","fromNode":"802004a6c5ce780a","fromSide":"bottom","toNode":"6f276e4a542a3ade","toSide":"top"},
 		{"id":"c08540c124142f4f","fromNode":"802004a6c5ce780a","fromSide":"bottom","toNode":"42e9354fc4111c05","toSide":"top"},
 		{"id":"bd0efc2ba2196f51","fromNode":"40cef4608120a6cd","fromSide":"right","toNode":"68039ad372b310d0","toSide":"top"},
