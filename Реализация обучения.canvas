@@ -89,7 +89,6 @@
 		{"id":"57427b7aad480d0c","type":"text","text":"### Как проходит рабочий день сотрудника ТП.","x":-883,"y":1812,"width":422,"height":87,"color":"6"},
 		{"id":"abe41b50c52f1dd0","type":"text","text":"# Работа с API?","x":1120,"y":6960,"width":291,"height":241,"color":"1"},
 		{"id":"263b35f3a8cebb79","type":"text","text":"# WABA? WACA?","x":1120,"y":7272,"width":291,"height":241,"color":"1"},
-		{"id":"9b5bce1f46e9e3bc","type":"text","text":"# UTM?","x":1120,"y":7600,"width":291,"height":241,"color":"1"},
 		{"id":"108a53fd2c65920d","type":"text","text":"Регистрация официального партнера","x":-1031,"y":8860,"width":250,"height":58,"color":"#0189cb"},
 		{"id":"a166472950809501","type":"text","text":"Получение статуса официального партнера","x":-1340,"y":9089,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"2677be5b21e34423","type":"text","text":" Работа с лидами и клиентами","x":-1031,"y":9089,"width":250,"height":60,"color":"#0189cb"},
@@ -117,7 +116,8 @@
 		{"id":"4bb109c980d955b6","type":"text","text":"Управление Telegram группами в ChatApp Dialog","x":-1477,"y":1071,"width":250,"height":116,"color":"#0189cb"},
 		{"id":"f581041e558725dc","type":"text","text":"Управление Telegram группами в ChatApp Dialog","x":-1280,"y":10548,"width":250,"height":116,"color":"#0189cb"},
 		{"id":"878be752f1390bf2","type":"text","text":"Рассылка","x":-1633,"y":10576,"width":250,"height":60},
-		{"id":"d418931e6c777349","type":"text","text":"Open-ai ChatGPT","x":-607,"y":10576,"width":250,"height":60,"color":"#0189cb"}
+		{"id":"d418931e6c777349","type":"text","text":"Open-ai ChatGPT","x":-607,"y":10576,"width":250,"height":60,"color":"#0189cb"},
+		{"id":"0c50e38ef395f6d2","x":-600,"y":8700,"width":250,"height":60,"type":"text","text":"UTM метки"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -242,6 +242,7 @@
 		{"id":"d970499aaa274dd1","fromNode":"4bb109c980d955b6","fromSide":"right","toNode":"abadd9121f8bf96a","toSide":"left","fromEnd":"arrow"},
 		{"id":"2981fe205a056c16","fromNode":"250cdc0d5e2413a5","fromSide":"left","toNode":"f581041e558725dc","toSide":"right","fromEnd":"arrow"},
 		{"id":"b52b4aa5d0900cee","fromNode":"f581041e558725dc","fromSide":"left","toNode":"878be752f1390bf2","toSide":"right","fromEnd":"arrow"},
-		{"id":"7fad64f15a397a7d","fromNode":"250cdc0d5e2413a5","fromSide":"bottom","toNode":"5cf5a9d21c6f8dc9","toSide":"top"}
+		{"id":"7fad64f15a397a7d","fromNode":"250cdc0d5e2413a5","fromSide":"bottom","toNode":"5cf5a9d21c6f8dc9","toSide":"top"},
+		{"id":"22027e145d5808df","fromNode":"92cb75bab73f6449","fromSide":"bottom","toNode":"0c50e38ef395f6d2","toSide":"top"}
 	]
 }
