@@ -108,7 +108,9 @@
 		{"id":"90078444af6de722","x":-796,"y":9912,"width":250,"height":100,"type":"text","text":"#### Этап 4. Вспомогательные функции сервиса"},
 		{"id":"9441c9fb6bcf447f","type":"text","text":"(Снова) Интерактивное тестирование (реальные кейсы и способы решения)","x":-796,"y":10120,"width":250,"height":131,"color":"6"},
 		{"id":"d418931e6c777349","type":"text","text":"Open-ai ChatGPT","x":-500,"y":10576,"width":250,"height":60,"color":"#0189cb"},
-		{"id":"250cdc0d5e2413a5","x":-796,"y":10576,"width":250,"height":60,"type":"text","text":"Инвайтер"}
+		{"id":"250cdc0d5e2413a5","x":-796,"y":10576,"width":250,"height":60,"type":"text","text":"Инвайтер"},
+		{"id":"3a5ac9fcb0d69a72","x":-1129,"y":5615,"width":250,"height":60,"color":"1","type":"text","text":"Работа с JIRA"},
+		{"id":"9103bfd9e73294bd","type":"text","text":"Работа с базой знаний.","x":-432,"y":5615,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -222,6 +224,8 @@
 		{"id":"28bd0ad1e7a7300e","fromNode":"9441c9fb6bcf447f","fromSide":"bottom","toNode":"d418931e6c777349","toSide":"top"},
 		{"id":"d4cff38a9954b2e1","fromNode":"de4149d44aaa07e2","fromSide":"bottom","toNode":"90078444af6de722","toSide":"top"},
 		{"id":"3fd233ec61a860cc","fromNode":"90078444af6de722","fromSide":"bottom","toNode":"9441c9fb6bcf447f","toSide":"top"},
-		{"id":"283607ad99d88144","fromNode":"9441c9fb6bcf447f","fromSide":"bottom","toNode":"250cdc0d5e2413a5","toSide":"top"}
+		{"id":"283607ad99d88144","fromNode":"9441c9fb6bcf447f","fromSide":"bottom","toNode":"250cdc0d5e2413a5","toSide":"top"},
+		{"id":"ce9f9ccfd57c249d","fromNode":"3a5ac9fcb0d69a72","fromSide":"right","toNode":"70398a1310a15fa6","toSide":"left"},
+		{"id":"59000d5cc32251b9","fromNode":"9103bfd9e73294bd","fromSide":"left","toNode":"70398a1310a15fa6","toSide":"right"}
 	]
 }
