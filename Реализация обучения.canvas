@@ -117,11 +117,11 @@
 		{"id":"b00b70d1cc7183ce","type":"text","text":"Bitrix24 UTM-метки","x":-280,"y":8858,"width":250,"height":60},
 		{"id":"981dafc6bf0479e5","x":-560,"y":8858,"width":250,"height":60,"type":"text","text":"AmoCRM UTM-метки"},
 		{"id":"3b693c0109f6f697","x":-280,"y":10576,"width":250,"height":60,"type":"text","text":"Электронная визитка"},
-		{"id":"40cef4608120a6cd","x":-1062,"y":930,"width":250,"height":110,"type":"text","text":"Предоставление доступа сотруднику техподдержки"},
-		{"id":"68039ad372b310d0","type":"text","text":"Dialogs.pro","x":-1062,"y":1100,"width":250,"height":60,"color":"#f64b83"},
-		{"id":"41a454b84090f2ef","type":"text","text":"Быстрые ответы\n","x":-1062,"y":1200,"width":250,"height":60,"color":"#f64b83"},
-		{"id":"d9ade519774a989c","type":"text","text":"Chatapp assistant","x":-1062,"y":1300,"width":250,"height":60,"color":"#f64b83"},
-		{"id":"ed3870ef548ad114","type":"text","text":"Практика, получение сообщений из добавленных соц. сетей\nОтвет на сообщения, быстрыми ответами/добавление своих быстрых ответов.","x":-1062,"y":1420,"width":250,"height":209,"color":"#f64b83"}
+		{"id":"68039ad372b310d0","type":"text","text":"Dialogs.pro","x":-1062,"y":1152,"width":250,"height":60,"color":"#f64b83"},
+		{"id":"41a454b84090f2ef","type":"text","text":"Быстрые ответы\n","x":-1062,"y":1252,"width":250,"height":60,"color":"#f64b83"},
+		{"id":"d9ade519774a989c","type":"text","text":"Chatapp assistant","x":-1062,"y":1352,"width":250,"height":60,"color":"#f64b83"},
+		{"id":"ed3870ef548ad114","type":"text","text":"Практика, получение сообщений из добавленных соц. сетей\nОтвет на сообщения, быстрыми ответами/добавление своих быстрых ответов.","x":-1062,"y":1472,"width":250,"height":209,"color":"#f64b83"},
+		{"id":"40cef4608120a6cd","x":-1062,"y":959,"width":250,"height":110,"color":"#0189cb","type":"text","text":"Предоставление доступа сотруднику техподдержки"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -250,6 +250,7 @@
 		{"id":"fdd40ff9371d3ea6","fromNode":"0c50e38ef395f6d2","fromSide":"bottom","toNode":"981dafc6bf0479e5","toSide":"top"},
 		{"id":"e789b11ad51a18f9","fromNode":"0c50e38ef395f6d2","fromSide":"bottom","toNode":"b00b70d1cc7183ce","toSide":"top"},
 		{"id":"030e87f5dc1eb4b9","fromNode":"9441c9fb6bcf447f","fromSide":"bottom","toNode":"3b693c0109f6f697","toSide":"top"},
-		{"id":"e06f2c4143325051","fromNode":"40cef4608120a6cd","fromSide":"bottom","toNode":"68039ad372b310d0","toSide":"top"}
+		{"id":"e06f2c4143325051","fromNode":"40cef4608120a6cd","fromSide":"bottom","toNode":"68039ad372b310d0","toSide":"top"},
+		{"id":"5b020f0dcdd62fc6","fromNode":"abadd9121f8bf96a","fromSide":"bottom","toNode":"40cef4608120a6cd","toSide":"top"}
 	]
 }
