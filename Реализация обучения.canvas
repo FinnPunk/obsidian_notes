@@ -102,12 +102,13 @@
 		{"id":"a17bd073aa969b8f","type":"text","text":"# Лид-сканер?","x":1120,"y":7960,"width":291,"height":241,"color":"1"},
 		{"id":"238a6d63537faeba","x":-796,"y":9560,"width":250,"height":60,"color":"#0189cb","type":"text","text":"Тестирование"},
 		{"id":"de4149d44aaa07e2","type":"text","text":"### Работа 50% дня","x":-796,"y":9720,"width":250,"height":84,"color":"1"},
-		{"id":"9441c9fb6bcf447f","type":"text","text":"(Снова) Интерактивное тестирование (реальные кейсы и способы решения)","x":-796,"y":10240,"width":250,"height":131,"color":"6"},
 		{"id":"878be752f1390bf2","x":-1093,"y":10576,"width":250,"height":60,"type":"text","text":"Рассылка"},
-		{"id":"d418931e6c777349","type":"text","text":"Open-ai ChatGPT","x":-607,"y":10515,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"546828d1a182631a","type":"text","text":"FAQ по работе с AI","x":-607,"y":10904,"width":250,"height":60,"color":"#0189cb"},
-		{"id":"90078444af6de722","x":-796,"y":9920,"width":250,"height":80,"type":"text","text":"Этап 4. Вспомогательные функции сервиса"},
-		{"id":"b40872177f7791eb","type":"text","text":"# 5 раб день.\nпринцип работы 50/50","x":-2552,"y":9920,"width":250,"height":83,"color":"#00ff2a"}
+		{"id":"b40872177f7791eb","type":"text","text":"# 5 раб день.\nпринцип работы 50/50","x":-2560,"y":9920,"width":250,"height":83,"color":"#00ff2a"},
+		{"id":"90078444af6de722","x":-796,"y":9912,"width":250,"height":100,"type":"text","text":"#### Этап 4. Вспомогательные функции сервиса"},
+		{"id":"9441c9fb6bcf447f","type":"text","text":"(Снова) Интерактивное тестирование (реальные кейсы и способы решения)","x":-796,"y":10120,"width":250,"height":131,"color":"6"},
+		{"id":"d418931e6c777349","type":"text","text":"Open-ai ChatGPT","x":-500,"y":10576,"width":250,"height":60,"color":"#0189cb"},
+		{"id":"250cdc0d5e2413a5","x":-796,"y":10576,"width":250,"height":60,"type":"text","text":"Инвайтер"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -219,6 +220,7 @@
 		{"id":"3535841a9e8cbc58","fromNode":"9441c9fb6bcf447f","fromSide":"bottom","toNode":"878be752f1390bf2","toSide":"top"},
 		{"id":"de52df968c88bfc3","fromNode":"d418931e6c777349","fromSide":"bottom","toNode":"546828d1a182631a","toSide":"top"},
 		{"id":"28bd0ad1e7a7300e","fromNode":"9441c9fb6bcf447f","fromSide":"bottom","toNode":"d418931e6c777349","toSide":"top"},
-		{"id":"d4cff38a9954b2e1","fromNode":"de4149d44aaa07e2","fromSide":"bottom","toNode":"90078444af6de722","toSide":"top"}
+		{"id":"d4cff38a9954b2e1","fromNode":"de4149d44aaa07e2","fromSide":"bottom","toNode":"90078444af6de722","toSide":"top"},
+		{"id":"3fd233ec61a860cc","fromNode":"90078444af6de722","fromSide":"bottom","toNode":"9441c9fb6bcf447f","toSide":"top"}
 	]
 }
