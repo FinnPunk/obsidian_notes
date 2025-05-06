@@ -31,7 +31,6 @@
 		{"id":"abadd9121f8bf96a","type":"text","text":"Создание компании. \nЧуть про покупку линии.\nДобавление каналов в линию.\nДобавление сотрудников.\nМетрики.\n\"Настройки\" компании.\nЧуть про вкладку финансы.\n","x":-1062,"y":611,"width":250,"height":300,"color":"#0189cb"},
 		{"id":"12e0c8df07a5cbee","type":"text","text":"FAQ по платформе chatapp","x":-1477,"y":728,"width":250,"height":67,"color":"#0189cb"},
 		{"id":"733950cd78d28db0","type":"text","text":"FAQ по платформе Dialogs.pro","x":-1477,"y":851,"width":250,"height":60,"color":"#0189cb"},
-		{"id":"84288ae458f24d3d","type":"text","text":"Создание Чат-бота tg","x":-1473,"y":959,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"4833a849f44d50e5","type":"text","text":"Создание задач","x":-2133,"y":773,"width":250,"height":60,"color":"#89e6bf"},
 		{"id":"4e6a26faf675ea95","type":"text","text":"### Работа с JIRA","x":-1951,"y":294,"width":250,"height":60,"color":"#89e6bf"},
 		{"id":"5b11b11984091a4c","type":"text","text":"Вход на платформу","x":-1951,"y":447,"width":250,"height":60,"color":"#89e6bf"},
@@ -115,7 +114,9 @@
 		{"id":"dd5335d6c86bed46","x":-1940,"y":10804,"width":250,"height":60,"type":"text","text":"Ограничения рассылки"},
 		{"id":"ec848f677125eb95","x":-1633,"y":10804,"width":250,"height":60,"type":"text","text":"FAQ по рассылкам"},
 		{"id":"5cf5a9d21c6f8dc9","x":-1320,"y":10804,"width":250,"height":60,"type":"text","text":"Импорт контактов"},
-		{"id":"250cdc0d5e2413a5","type":"text","text":"Инвайтер","x":-940,"y":10576,"width":250,"height":60}
+		{"id":"250cdc0d5e2413a5","type":"text","text":"Инвайтер","x":-940,"y":10576,"width":250,"height":60},
+		{"id":"84288ae458f24d3d","type":"text","text":"Создание Чат-бота tg","x":-1477,"y":959,"width":250,"height":60,"color":"#0189cb"},
+		{"id":"d216cf0c1b823e05","x":-1477,"y":1071,"width":250,"height":116,"color":"#0189cb","type":"text","text":"Управление Telegram группами в ChatApp Dialog"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -209,7 +210,7 @@
 		{"id":"dd4c64af5f18935b","fromNode":"dda382df0683e432","fromSide":"bottom","toNode":"5540b3894a321959","toSide":"top"},
 		{"id":"d2d3759130419a2e","fromNode":"5540b3894a321959","fromSide":"bottom","toNode":"9f3c57697e9d4233","toSide":"top"},
 		{"id":"e652b970c78ef55b","fromNode":"11f771359c296fe2","fromSide":"right","toNode":"5540b3894a321959","toSide":"left"},
-		{"id":"3ce6e253f3fa6df7","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"84288ae458f24d3d","toSide":"right"},
+		{"id":"3ce6e253f3fa6df7","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"84288ae458f24d3d","toSide":"right","fromEnd":"arrow"},
 		{"id":"61ecfd6591e59243","fromNode":"74628d36734a8900","fromSide":"bottom","toNode":"2261d7519c725b23","toSide":"top"},
 		{"id":"22454ebdf97c36d7","fromNode":"e426e0bc78abe29b","fromSide":"bottom","toNode":"6044fde32b14a0b4","toSide":"top"},
 		{"id":"b3af6449064f40b6","fromNode":"6044fde32b14a0b4","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"right"},
@@ -236,6 +237,7 @@
 		{"id":"97111327a260c7da","fromNode":"e101d46f7aa42c85","fromSide":"right","toNode":"6f18302f719f698c","toSide":"left"},
 		{"id":"d9569a8410418176","fromNode":"878be752f1390bf2","fromSide":"bottom","toNode":"dd5335d6c86bed46","toSide":"top"},
 		{"id":"0f2e1894c075bedb","fromNode":"878be752f1390bf2","fromSide":"bottom","toNode":"ec848f677125eb95","toSide":"top"},
-		{"id":"bbcfd292b58bbce0","fromNode":"878be752f1390bf2","fromSide":"bottom","toNode":"5cf5a9d21c6f8dc9","toSide":"top"}
+		{"id":"bbcfd292b58bbce0","fromNode":"878be752f1390bf2","fromSide":"bottom","toNode":"5cf5a9d21c6f8dc9","toSide":"top"},
+		{"id":"ed2a4f5d227a3f40","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"d216cf0c1b823e05","toSide":"right","fromEnd":"arrow"}
 	]
 }
