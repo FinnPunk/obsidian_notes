@@ -26,8 +26,7 @@
 		{"id":"71d2dfee7fb2e3da","type":"text","text":"\"Нет слэнгу!\" или как говорить простыми словами и понятно объяснять?","x":-652,"y":4960,"width":220,"height":138,"color":"6"},
 		{"id":"f40c8c1ce2a4f1e6","type":"text","text":"Интерактивное тестирование (реальные кейсы и способы решения)","x":-796,"y":5220,"width":250,"height":131,"color":"6"},
 		{"id":"6f18302f719f698c","type":"text","text":"Практика с роботами и триггерами (снова)","x":-796,"y":5440,"width":250,"height":80,"color":"6"},
-		{"id":"196e446036cf399b","type":"text","text":"### 3 раб день.\nпринцип работы 50/50","x":-2552,"y":4363,"width":250,"height":106,"color":"#00ff2a"},
-		{"id":"92b413073ee2662d","type":"text","text":"# 4 раб день.\nпринцип работы 50/50","x":-2552,"y":6041,"width":250,"height":83,"color":"#00ff2a"},
+		{"id":"92b413073ee2662d","type":"text","text":"## 4 раб день.\nпринцип работы 50/50","x":-2552,"y":6041,"width":250,"height":83,"color":"#00ff2a"},
 		{"id":"cc42961a0292fe67","type":"text","text":"Вкладка AmoМаркет/приложение ChatApp","x":-1195,"y":6340,"width":250,"height":60,"color":"#85cef2"},
 		{"id":"3a9b66f65536ebad","type":"text","text":"Вкладка Сделки/Создание сделки/Воронки","x":-1195,"y":6440,"width":250,"height":100,"color":"#85cef2"},
 		{"id":"7f1519c43ded3c37","type":"text","text":"FAQ по частым проблемам не работы приложения ChatApp в AmoCrm и их решения","x":-1592,"y":6375,"width":250,"height":130,"color":"#85cef2"},
@@ -131,7 +130,8 @@
 		{"id":"25f632af7f77f01b","type":"text","text":"FAQ по роботам и тригерам","x":-440,"y":3380,"width":250,"height":60,"color":"#30c7f8"},
 		{"id":"fd4655354ad65980","type":"text","text":"Примеры использования сценариев роботов и тригеров и логика работы.","x":-797,"y":3580,"width":250,"height":158,"color":"#30c7f8"},
 		{"id":"4f50dcfad0db32b8","type":"text","text":"Практика 1\nСоздание группы в тг и добавление туда сотрудника","x":-797,"y":3800,"width":250,"height":140,"color":"#30c7f8"},
-		{"id":"1dc4bdeb8e888860","type":"text","text":"Практика 2\nПоиск по номеру соц сети и начинать общение если найдена определённая соц сеть или просить номер для дальнейшей связи","x":-797,"y":4000,"width":250,"height":209,"color":"#30c7f8"}
+		{"id":"1dc4bdeb8e888860","type":"text","text":"Практика 2\nПоиск по номеру соц сети и начинать общение если найдена определённая соц сеть или просить номер для дальнейшей связи","x":-797,"y":4000,"width":250,"height":209,"color":"#30c7f8"},
+		{"id":"196e446036cf399b","type":"text","text":"### 3 раб день.\nпринцип работы 50/50","x":-2560,"y":4363,"width":250,"height":106,"color":"#00ff2a"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -176,7 +176,7 @@
 		{"id":"964d959dfd986e87","fromNode":"ef75b771c37bb6e8","fromSide":"bottom","toNode":"89a2e73fab1de04c","toSide":"top"},
 		{"id":"85d2f53a1d8ebddd","fromNode":"537028a1c5d7851d","fromSide":"right","toNode":"ef75b771c37bb6e8","toSide":"left","color":"1"},
 		{"id":"f279fa4351d10b86","fromNode":"1dc4bdeb8e888860","fromSide":"bottom","toNode":"f681b0421e4ab2ba","toSide":"top"},
-		{"id":"e1d5707051f7bb37","fromNode":"196e446036cf399b","fromSide":"right","toNode":"f681b0421e4ab2ba","toSide":"left"},
+		{"id":"e1d5707051f7bb37","fromNode":"196e446036cf399b","fromSide":"right","toNode":"f681b0421e4ab2ba","toSide":"left","color":"1"},
 		{"id":"c5d9f7bd8bef9e53","fromNode":"f681b0421e4ab2ba","fromSide":"bottom","toNode":"18b3badb8d37ee48","toSide":"top"},
 		{"id":"ba1a83fc6918fb12","fromNode":"18b3badb8d37ee48","fromSide":"bottom","toNode":"52472a505fca042b","toSide":"top"},
 		{"id":"062572d33a8ff155","fromNode":"962db8d96970e8f2","fromSide":"right","toNode":"6e500b678d43d1a1","toSide":"left"},
