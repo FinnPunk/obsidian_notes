@@ -93,7 +93,9 @@
 		{"id":"57427b7aad480d0c","type":"text","text":"### Как проходит рабочий день сотрудника ТП.","x":-883,"y":1812,"width":422,"height":87,"color":"6"},
 		{"id":"abe41b50c52f1dd0","x":1120,"y":6960,"width":291,"height":241,"color":"1","type":"text","text":"# Работа с API?"},
 		{"id":"263b35f3a8cebb79","type":"text","text":"# WABA? WACA?","x":1120,"y":7272,"width":291,"height":241,"color":"1"},
-		{"id":"9b5bce1f46e9e3bc","type":"text","text":"# UTM?","x":1120,"y":7600,"width":291,"height":241,"color":"1"}
+		{"id":"9b5bce1f46e9e3bc","type":"text","text":"# UTM?","x":1120,"y":7600,"width":291,"height":241,"color":"1"},
+		{"id":"8c8b5ef33df194d7","x":-797,"y":8626,"width":250,"height":60,"type":"text","text":"Партнёрская программа"},
+		{"id":"108a53fd2c65920d","x":-1031,"y":8860,"width":250,"height":60,"type":"text","text":"Регистрация в партнёрской программе"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -193,6 +195,8 @@
 		{"id":"b3af6449064f40b6","fromNode":"6044fde32b14a0b4","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"right"},
 		{"id":"f288df8305e775b0","fromNode":"e426e0bc78abe29b","fromSide":"bottom","toNode":"0ae9f16f3d8e8de1","toSide":"top"},
 		{"id":"b1ec23d2973746b8","fromNode":"ed3870ef548ad114","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"top"},
-		{"id":"803e994882128a0e","fromNode":"962db8d96970e8f2","fromSide":"bottom","toNode":"74628d36734a8900","toSide":"top"}
+		{"id":"803e994882128a0e","fromNode":"962db8d96970e8f2","fromSide":"bottom","toNode":"74628d36734a8900","toSide":"top"},
+		{"id":"42da0e258bd94c1f","fromNode":"92cb75bab73f6449","fromSide":"bottom","toNode":"8c8b5ef33df194d7","toSide":"top"},
+		{"id":"b981c5d6fead0ad8","fromNode":"8c8b5ef33df194d7","fromSide":"bottom","toNode":"108a53fd2c65920d","toSide":"top"}
 	]
 }
