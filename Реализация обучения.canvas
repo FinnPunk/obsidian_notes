@@ -26,6 +26,11 @@
 		{"id":"fd326db91640666b","type":"text","text":"### Работа 50% дня","x":-804,"y":5656,"width":250,"height":84,"color":"1"},
 		{"id":"442daec470c43f98","type":"text","text":"Работа с AmoCrm","x":-804,"y":5852,"width":250,"height":60,"color":"#85cef2"},
 		{"id":"92b413073ee2662d","type":"text","text":"# 4 раб день.\nпринцип работы 50/50","x":-2560,"y":5841,"width":250,"height":83,"color":"#00ff2a"},
+		{"id":"0a1e8b44df277a60","type":"text","text":"### Работа с Conflurense","x":-469,"y":293,"width":250,"height":87,"color":"#0048af"},
+		{"id":"fba74419ed4297f1","type":"text","text":"### Работа с DIscord","x":-80,"y":293,"width":250,"height":60,"color":"#5865f2"},
+		{"id":"de7c20e59c994902","type":"text","text":"Вход на платформу","x":-80,"y":401,"width":250,"height":60,"color":"#5865f2"},
+		{"id":"39ccdbc96b7e816c","type":"text","text":"Знакомство с интерфейсом","x":-80,"y":512,"width":250,"height":60,"color":"#5865f2"},
+		{"id":"0990977b50da3202","type":"text","text":"Правила использования Discord в работе.","x":-80,"y":619,"width":250,"height":60,"color":"#5865f2"},
 		{"id":"0ae9f16f3d8e8de1","type":"text","text":"### Работа с ChatApp","x":-805,"y":293,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"d100966d8d7ca8ff","type":"text","text":"Вход на платформу chatapp","x":-805,"y":401,"width":250,"height":61,"color":"#0189cb"},
 		{"id":"c7a269263f512cf8","type":"text","text":"Знакомство с интерфейсом","x":-805,"y":501,"width":250,"height":60,"color":"#0189cb"},
@@ -54,6 +59,10 @@
 		{"id":"111b82d28b0788e3","type":"text","text":"Обед","x":-1313,"y":-278,"width":250,"height":60,"color":"4"},
 		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграции в ChatApp","x":-867,"y":2260,"width":374,"height":60,"color":"6"},
 		{"id":"3a478694d0b16e75","type":"text","text":"Добавление сотрудника в Линию ChatApp","x":-1685,"y":3078,"width":250,"height":60,"color":"#0189cb"},
+		{"id":"49dd4287300946b1","type":"text","text":"Вход на платформу","x":-469,"y":432,"width":250,"height":60,"color":"#0048af"},
+		{"id":"12b17f33e060e0d2","type":"text","text":"Знакомство с интерфейсом","x":-469,"y":543,"width":250,"height":60,"color":"#0048af"},
+		{"id":"0cdcfe38c315e747","type":"text","text":"Создание документов для работы","x":-469,"y":650,"width":250,"height":60,"color":"#0048af"},
+		{"id":"9efb153deedec5aa","type":"text","text":"Ознакомление с базовыми функциями","x":-469,"y":760,"width":250,"height":62,"color":"#0048af"},
 		{"id":"196e446036cf399b","type":"text","text":"# 3 раб день.\nпринцип работы 50/50","x":-2560,"y":4163,"width":250,"height":106,"color":"#00ff2a"},
 		{"id":"1bb62588216bba22","type":"text","text":"Вход на платформу AmoCrm","x":-804,"y":5980,"width":250,"height":80,"color":"#85cef2"},
 		{"id":"382f2354a8c5d425","type":"text","text":"Интерфейс платформы","x":-804,"y":6140,"width":250,"height":60,"color":"#85cef2"},
@@ -79,15 +88,7 @@
 		{"id":"107bcf28e236a40d","type":"text","text":"(Снова) Практика с роботами и триггерами (снова)","x":-804,"y":8000,"width":250,"height":100,"color":"6"},
 		{"id":"92cb75bab73f6449","type":"text","text":"(Снова) Практика - реальная проблема, и нужно найти к ней решение используя платформу.","x":-804,"y":8160,"width":250,"height":169,"color":"6"},
 		{"id":"11f771359c296fe2","type":"text","text":"# 5 раб день.\nпринцип работы 50/50","x":-2560,"y":7629,"width":250,"height":83,"color":"#00ff2a"},
-		{"id":"0a1e8b44df277a60","type":"text","text":"### Работа с Conflurense","x":-160,"y":293,"width":250,"height":87,"color":"#0048af"},
-		{"id":"fba74419ed4297f1","type":"text","text":"### Работа с DIscord","x":229,"y":293,"width":250,"height":60,"color":"#5865f2"},
-		{"id":"de7c20e59c994902","type":"text","text":"Вход на платформу","x":229,"y":401,"width":250,"height":60,"color":"#5865f2"},
-		{"id":"39ccdbc96b7e816c","type":"text","text":"Знакомство с интерфейсом","x":229,"y":512,"width":250,"height":60,"color":"#5865f2"},
-		{"id":"0990977b50da3202","type":"text","text":"Правила использования Discord в работе.","x":229,"y":619,"width":250,"height":60,"color":"#5865f2"},
-		{"id":"49dd4287300946b1","type":"text","text":"Вход на платформу","x":-160,"y":432,"width":250,"height":60,"color":"#0048af"},
-		{"id":"12b17f33e060e0d2","type":"text","text":"Знакомство с интерфейсом","x":-160,"y":543,"width":250,"height":60,"color":"#0048af"},
-		{"id":"0cdcfe38c315e747","type":"text","text":"Создание документов для работы","x":-160,"y":650,"width":250,"height":60,"color":"#0048af"},
-		{"id":"9efb153deedec5aa","type":"text","text":"Ознакомление с базовыми функциями","x":-160,"y":760,"width":250,"height":62,"color":"#0048af"}
+		{"id":"84288ae458f24d3d","x":-1166,"y":959,"width":250,"height":60,"type":"text","text":"Создание Чат-бота tg"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -185,6 +186,7 @@
 		{"id":"4209e9b0489bd21b","fromNode":"107bcf28e236a40d","fromSide":"bottom","toNode":"92cb75bab73f6449","toSide":"top"},
 		{"id":"dd4c64af5f18935b","fromNode":"dda382df0683e432","fromSide":"bottom","toNode":"5540b3894a321959","toSide":"top"},
 		{"id":"d2d3759130419a2e","fromNode":"5540b3894a321959","fromSide":"bottom","toNode":"9f3c57697e9d4233","toSide":"top"},
-		{"id":"e652b970c78ef55b","fromNode":"11f771359c296fe2","fromSide":"right","toNode":"5540b3894a321959","toSide":"left"}
+		{"id":"e652b970c78ef55b","fromNode":"11f771359c296fe2","fromSide":"right","toNode":"5540b3894a321959","toSide":"left"},
+		{"id":"3ce6e253f3fa6df7","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"84288ae458f24d3d","toSide":"right"}
 	]
 }
