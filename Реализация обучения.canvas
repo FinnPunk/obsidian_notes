@@ -129,7 +129,8 @@
 		{"id":"41a454b84090f2ef","type":"text","text":"Быстрые ответы\n","x":-797,"y":1120,"width":250,"height":60,"color":"#f64b83"},
 		{"id":"68039ad372b310d0","type":"text","text":"Dialogs.pro","x":-797,"y":1040,"width":250,"height":60,"color":"#f64b83"},
 		{"id":"cd1d49085c9df790","x":-797,"y":1440,"width":250,"height":100,"type":"text","text":"Комментарии и пользовательские поля в профиле клиента"},
-		{"id":"ed3870ef548ad114","type":"text","text":"Практика, получение сообщений из добавленных соц. сетей\nОтвет на сообщения, быстрыми ответами/добавление своих быстрых ответов.","x":-797,"y":1560,"width":250,"height":209,"color":"#f54d85"}
+		{"id":"ed3870ef548ad114","type":"text","text":"Практика, получение сообщений из добавленных соц. сетей\nОтвет на сообщения, быстрыми ответами/добавление своих быстрых ответов.","x":-797,"y":1560,"width":250,"height":209,"color":"#f54d85"},
+		{"id":"1bf43c1886f0f969","x":-1592,"y":6629,"width":250,"height":66,"type":"text","text":"Добавление сотрудников"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -264,6 +265,7 @@
 		{"id":"c08540c124142f4f","fromNode":"802004a6c5ce780a","fromSide":"bottom","toNode":"42e9354fc4111c05","toSide":"top"},
 		{"id":"bd0efc2ba2196f51","fromNode":"40cef4608120a6cd","fromSide":"right","toNode":"68039ad372b310d0","toSide":"top"},
 		{"id":"927b97e475595773","fromNode":"d9ade519774a989c","fromSide":"bottom","toNode":"6f37a688f92d0323","toSide":"top"},
-		{"id":"624b3c04c827af99","fromNode":"6f37a688f92d0323","fromSide":"bottom","toNode":"0f4a9db8747d6294","toSide":"top"}
+		{"id":"624b3c04c827af99","fromNode":"6f37a688f92d0323","fromSide":"bottom","toNode":"0f4a9db8747d6294","toSide":"top"},
+		{"id":"5aa778d79640860a","fromNode":"1bf43c1886f0f969","fromSide":"right","toNode":"e24f303e0c9aa94b","toSide":"left","fromEnd":"arrow"}
 	]
 }
