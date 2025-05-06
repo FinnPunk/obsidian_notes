@@ -94,15 +94,16 @@
 		{"id":"abe41b50c52f1dd0","x":1120,"y":6960,"width":291,"height":241,"color":"1","type":"text","text":"# Работа с API?"},
 		{"id":"263b35f3a8cebb79","type":"text","text":"# WABA? WACA?","x":1120,"y":7272,"width":291,"height":241,"color":"1"},
 		{"id":"9b5bce1f46e9e3bc","type":"text","text":"# UTM?","x":1120,"y":7600,"width":291,"height":241,"color":"1"},
-		{"id":"108a53fd2c65920d","x":-1031,"y":8860,"width":250,"height":58,"color":"4","type":"text","text":"Регистрация официального партнера"},
-		{"id":"a166472950809501","x":-1340,"y":9089,"width":250,"height":60,"color":"4","type":"text","text":"Получение статуса официального партнера"},
-		{"id":"2677be5b21e34423","x":-1031,"y":9089,"width":250,"height":60,"color":"4","type":"text","text":" Работа с лидами и клиентами"},
-		{"id":"401af33586087dcb","x":-1031,"y":9264,"width":250,"height":96,"color":"4","type":"text","text":"FAQ по работе с платформой для партнёров компании"},
-		{"id":"8c8b5ef33df194d7","x":-1031,"y":8700,"width":250,"height":60,"color":"4","type":"text","text":"Партнёрская программа"},
-		{"id":"223e1666d40e92a7","x":-561,"y":8690,"width":250,"height":60,"color":"4","type":"text","text":"Open-ai ChatGPT"},
+		{"id":"108a53fd2c65920d","x":-1031,"y":8860,"width":250,"height":58,"color":"#0189cb","type":"text","text":"Регистрация официального партнера"},
+		{"id":"a166472950809501","x":-1340,"y":9089,"width":250,"height":60,"color":"#0189cb","type":"text","text":"Получение статуса официального партнера"},
+		{"id":"2677be5b21e34423","x":-1031,"y":9089,"width":250,"height":60,"color":"#0189cb","type":"text","text":" Работа с лидами и клиентами"},
+		{"id":"401af33586087dcb","x":-1031,"y":9264,"width":250,"height":96,"color":"#0189cb","type":"text","text":"FAQ по работе с платформой для партнёров компании"},
+		{"id":"8c8b5ef33df194d7","x":-1031,"y":8700,"width":250,"height":60,"color":"#0189cb","type":"text","text":"Партнёрская программа"},
 		{"id":"a17bd073aa969b8f","type":"text","text":"# Лид-сканер?","x":1120,"y":7960,"width":291,"height":241,"color":"1"},
-		{"id":"238a6d63537faeba","x":-796,"y":9560,"width":250,"height":60,"color":"4","type":"text","text":"Тестирование"},
-		{"id":"de4149d44aaa07e2","type":"text","text":"### Работа 50% дня","x":-796,"y":9720,"width":250,"height":84,"color":"1"}
+		{"id":"238a6d63537faeba","x":-796,"y":9560,"width":250,"height":60,"color":"#0189cb","type":"text","text":"Тестирование"},
+		{"id":"de4149d44aaa07e2","type":"text","text":"### Работа 50% дня","x":-796,"y":9720,"width":250,"height":84,"color":"1"},
+		{"id":"223e1666d40e92a7","x":-546,"y":8700,"width":250,"height":60,"color":"#0189cb","type":"text","text":"Open-ai ChatGPT"},
+		{"id":"722fd2466c540aac","type":"text","text":"FAQ по работе с AI","x":-546,"y":9089,"width":250,"height":60,"color":"#0189cb"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -209,8 +210,9 @@
 		{"id":"629032f028b212a8","fromNode":"108a53fd2c65920d","fromSide":"bottom","toNode":"2677be5b21e34423","toSide":"top"},
 		{"id":"d60513df19675e84","fromNode":"2677be5b21e34423","fromSide":"bottom","toNode":"401af33586087dcb","toSide":"top"},
 		{"id":"47e307cbe0c99203","fromNode":"92cb75bab73f6449","fromSide":"bottom","toNode":"223e1666d40e92a7","toSide":"top"},
-		{"id":"b129fe07e9ab76b9","fromNode":"223e1666d40e92a7","fromSide":"bottom","toNode":"238a6d63537faeba","toSide":"top"},
 		{"id":"c6bf3a06e57b2572","fromNode":"401af33586087dcb","fromSide":"bottom","toNode":"238a6d63537faeba","toSide":"top"},
-		{"id":"a49ccfe7ad301e6c","fromNode":"238a6d63537faeba","fromSide":"bottom","toNode":"de4149d44aaa07e2","toSide":"top"}
+		{"id":"a49ccfe7ad301e6c","fromNode":"238a6d63537faeba","fromSide":"bottom","toNode":"de4149d44aaa07e2","toSide":"top"},
+		{"id":"a67849fd3740e1ac","fromNode":"223e1666d40e92a7","fromSide":"bottom","toNode":"722fd2466c540aac","toSide":"top"},
+		{"id":"61248cdf9f9c39bd","fromNode":"722fd2466c540aac","fromSide":"bottom","toNode":"238a6d63537faeba","toSide":"top"}
 	]
 }
