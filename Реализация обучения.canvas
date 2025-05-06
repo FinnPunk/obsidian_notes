@@ -2,10 +2,6 @@
 	"nodes":[
 		{"id":"e426e0bc78abe29b","type":"text","text":"Получение у HR всех логинов и паролей от всех платформ","x":-812,"y":-71,"width":265,"height":91,"color":"#00a31b"},
 		{"id":"0a1e8b44df277a60","type":"text","text":"### Работа с Conflurense","x":-720,"y":280,"width":250,"height":87,"color":"#0048af"},
-		{"id":"49dd4287300946b1","type":"text","text":"Вход на платформу","x":-720,"y":419,"width":250,"height":60,"color":"#0048af"},
-		{"id":"12b17f33e060e0d2","type":"text","text":"Знакомство с интерфейсом","x":-720,"y":530,"width":250,"height":60,"color":"#0048af"},
-		{"id":"0cdcfe38c315e747","type":"text","text":"Создание документов для работы","x":-720,"y":637,"width":250,"height":60,"color":"#0048af"},
-		{"id":"9efb153deedec5aa","type":"text","text":"Ознакомление с базовыми функциями","x":-720,"y":747,"width":250,"height":62,"color":"#0048af"},
 		{"id":"fba74419ed4297f1","type":"text","text":"### Работа с DIscord","x":-380,"y":294,"width":250,"height":60,"color":"#5865f2"},
 		{"id":"de7c20e59c994902","type":"text","text":"Вход на платформу","x":-380,"y":402,"width":250,"height":60,"color":"#5865f2"},
 		{"id":"39ccdbc96b7e816c","type":"text","text":"Знакомство с интерфейсом","x":-380,"y":513,"width":250,"height":60,"color":"#5865f2"},
@@ -105,7 +101,6 @@
 		{"id":"42e9354fc4111c05","x":300,"y":7074,"width":250,"height":119,"color":"1","type":"text","text":"Как первым начать диалог с клиентом в мессенджере или CRM-системе"},
 		{"id":"6f276e4a542a3ade","x":-60,"y":7074,"width":250,"height":119,"color":"1","type":"text","text":"Синхронизация ответственных между Dialogs.pro с CRM-системами"},
 		{"id":"802004a6c5ce780a","x":140,"y":6940,"width":250,"height":60,"color":"1","type":"text","text":"Доп знания по CRM"},
-		{"id":"3b014bd1a2ddd5dc","x":-1477,"y":1212,"width":250,"height":60,"color":"#0189bc","type":"text","text":"Добавление сотрудников."},
 		{"id":"0f4a9db8747d6294","x":-797,"y":1360,"width":250,"height":60,"color":"#f54d85","type":"text","text":"Внутренние сообщения"},
 		{"id":"6f37a688f92d0323","x":-797,"y":1280,"width":250,"height":60,"color":"#f54d85","type":"text","text":"Теги/Метки диалогов"},
 		{"id":"d9ade519774a989c","type":"text","text":"Chatapp assistant","x":-797,"y":1200,"width":250,"height":60,"color":"#f54d85"},
@@ -114,7 +109,6 @@
 		{"id":"cd1d49085c9df790","x":-797,"y":1440,"width":250,"height":100,"type":"text","text":"Комментарии и пользовательские поля в профиле клиента"},
 		{"id":"ed3870ef548ad114","type":"text","text":"Практика, получение сообщений из добавленных соц. сетей\nОтвет на сообщения, быстрыми ответами/добавление своих быстрых ответов.","x":-797,"y":1560,"width":250,"height":209,"color":"#f54d85"},
 		{"id":"1bf43c1886f0f969","x":-1592,"y":6629,"width":250,"height":66,"color":"#85cef2","type":"text","text":"Добавление сотрудников"},
-		{"id":"c580735ddebc9548","x":-1477,"y":1320,"width":250,"height":60,"color":"#0189bc","type":"text","text":"Роли"},
 		{"id":"2bc2328adba805d4","type":"text","text":"# 2 раб день.","x":-2560,"y":1814,"width":250,"height":83,"color":"#00ff2a"},
 		{"id":"d013e34750e3f88f","type":"text","text":"### Этап 1 - Подготовительный","x":-812,"y":-238,"width":265,"height":93,"color":"#c20000"},
 		{"id":"537028a1c5d7851d","type":"text","text":"# 1 раб день.\n","x":-2560,"y":-920,"width":250,"height":80,"color":"#00ff2a"},
@@ -131,7 +125,13 @@
 		{"id":"12e0c8df07a5cbee","type":"text","text":"FAQ по платформе chatapp","x":-1477,"y":589,"width":250,"height":67,"color":"#0189cb"},
 		{"id":"733950cd78d28db0","type":"text","text":"FAQ по платформе Dialogs.pro","x":-1477,"y":682,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"84288ae458f24d3d","type":"text","text":"Создание Чат-бота tg","x":-1477,"y":792,"width":250,"height":60,"color":"#0189cb"},
-		{"id":"4bb109c980d955b6","type":"text","text":"Управление Telegram группами в ChatApp Dialog","x":-1477,"y":876,"width":250,"height":116,"color":"#0189cb"}
+		{"id":"4bb109c980d955b6","type":"text","text":"Управление Telegram группами в ChatApp Dialog","x":-1477,"y":876,"width":250,"height":116,"color":"#0189cb"},
+		{"id":"3b014bd1a2ddd5dc","x":-1477,"y":1014,"width":250,"height":60,"color":"#0189bc","type":"text","text":"Добавление сотрудников."},
+		{"id":"c580735ddebc9548","x":-1477,"y":1120,"width":250,"height":60,"color":"#0189bc","type":"text","text":"Роли"},
+		{"id":"49dd4287300946b1","type":"text","text":"Вход на платформу","x":-720,"y":402,"width":250,"height":60,"color":"#0048af"},
+		{"id":"12b17f33e060e0d2","type":"text","text":"Знакомство с интерфейсом","x":-720,"y":499,"width":250,"height":60,"color":"#0048af"},
+		{"id":"0cdcfe38c315e747","type":"text","text":"Создание документов для работы","x":-720,"y":596,"width":250,"height":60,"color":"#0048af"},
+		{"id":"9efb153deedec5aa","type":"text","text":"Ознакомление с базовыми функциями","x":-720,"y":700,"width":250,"height":62,"color":"#0048af"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -268,6 +268,7 @@
 		{"id":"0a907b65c13f41d4","fromNode":"2bc2328adba805d4","fromSide":"right","toNode":"57427b7aad480d0c","toSide":"left","color":"1"},
 		{"id":"64ba52ca787bce36","fromNode":"111b82d28b0788e3","fromSide":"bottom","toNode":"a1ec952254833a0e","toSide":"right"},
 		{"id":"46f89fb96cdad5e1","fromNode":"537af82b56f26222","fromSide":"right","toNode":"56b4ddf931482076","toSide":"left"},
-		{"id":"b247dae6b091e3ea","fromNode":"56b4ddf931482076","fromSide":"right","toNode":"111b82d28b0788e3","toSide":"left"}
+		{"id":"b247dae6b091e3ea","fromNode":"56b4ddf931482076","fromSide":"right","toNode":"111b82d28b0788e3","toSide":"left"},
+		{"id":"a0c205736b578b81","fromNode":"733950cd78d28db0","fromSide":"right","toNode":"abadd9121f8bf96a","toSide":"left","fromEnd":"arrow"}
 	]
 }
