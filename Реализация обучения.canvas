@@ -118,7 +118,8 @@
 		{"id":"878be752f1390bf2","type":"text","text":"Рассылка","x":-1633,"y":10576,"width":250,"height":60},
 		{"id":"d418931e6c777349","type":"text","text":"Open-ai ChatGPT","x":-607,"y":10576,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"0c50e38ef395f6d2","x":-600,"y":8700,"width":250,"height":60,"type":"text","text":"UTM метки"},
-		{"id":"981dafc6bf0479e5","x":-600,"y":8840,"width":250,"height":60,"type":"text","text":"AMO"}
+		{"id":"981dafc6bf0479e5","x":-600,"y":8840,"width":250,"height":60,"type":"text","text":"AmoCRM UTM-метки"},
+		{"id":"b00b70d1cc7183ce","type":"text","text":"AmoCRM UTM-метки","x":-600,"y":8918,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
