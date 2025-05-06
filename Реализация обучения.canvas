@@ -130,8 +130,8 @@
 		{"id":"d418931e6c777349","type":"text","text":"Open-ai ChatGPT","x":-607,"y":9944,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"546828d1a182631a","type":"text","text":"FAQ по работе с AI","x":-607,"y":10272,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"3b693c0109f6f697","x":-280,"y":9944,"width":250,"height":60,"type":"text","text":"Электронная визитка"},
-		{"id":"90078444af6de722","type":"text","text":"#### Этап 4. Вспомогательные функции сервиса","x":-796,"y":9280,"width":250,"height":100},
-		{"id":"b40872177f7791eb","type":"text","text":"# 5 раб день.\nпринцип работы 50/50","x":-2560,"y":9288,"width":250,"height":83,"color":"#00ff2a"}
+		{"id":"90078444af6de722","type":"text","text":"#### Этап 4. Вспомогательные функции сервиса","x":-796,"y":9280,"width":250,"height":100,"color":"1"},
+		{"id":"b40872177f7791eb","type":"text","text":"#### 5 раб день.\nпринцип работы 50/50","x":-2560,"y":9288,"width":250,"height":83,"color":"#00ff2a"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -227,7 +227,7 @@
 		{"id":"d60513df19675e84","fromNode":"2677be5b21e34423","fromSide":"bottom","toNode":"401af33586087dcb","toSide":"top"},
 		{"id":"c6bf3a06e57b2572","fromNode":"401af33586087dcb","fromSide":"right","toNode":"238a6d63537faeba","toSide":"left"},
 		{"id":"a49ccfe7ad301e6c","fromNode":"238a6d63537faeba","fromSide":"bottom","toNode":"de4149d44aaa07e2","toSide":"top"},
-		{"id":"f80b941b375f8963","fromNode":"b40872177f7791eb","fromSide":"right","toNode":"90078444af6de722","toSide":"left"},
+		{"id":"f80b941b375f8963","fromNode":"b40872177f7791eb","fromSide":"right","toNode":"90078444af6de722","toSide":"left","color":"1"},
 		{"id":"3535841a9e8cbc58","fromNode":"9441c9fb6bcf447f","fromSide":"bottom","toNode":"878be752f1390bf2","toSide":"top"},
 		{"id":"de52df968c88bfc3","fromNode":"d418931e6c777349","fromSide":"bottom","toNode":"546828d1a182631a","toSide":"top"},
 		{"id":"28bd0ad1e7a7300e","fromNode":"9441c9fb6bcf447f","fromSide":"bottom","toNode":"d418931e6c777349","toSide":"top"},
