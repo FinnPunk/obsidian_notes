@@ -115,7 +115,8 @@
 		{"id":"ec848f677125eb95","x":-1633,"y":10804,"width":250,"height":60,"type":"text","text":"FAQ по рассылкам"},
 		{"id":"5cf5a9d21c6f8dc9","x":-1320,"y":10804,"width":250,"height":60,"type":"text","text":"Импорт контактов"},
 		{"id":"250cdc0d5e2413a5","type":"text","text":"Инвайтер","x":-940,"y":10576,"width":250,"height":60},
-		{"id":"84288ae458f24d3d","type":"text","text":"Создание Чат-бота tg","x":-1477,"y":959,"width":250,"height":60,"color":"#0189cb"}
+		{"id":"84288ae458f24d3d","type":"text","text":"Создание Чат-бота tg","x":-1477,"y":959,"width":250,"height":60,"color":"#0189cb"},
+		{"id":"4bb109c980d955b6","type":"text","text":"Управление Telegram группами в ChatApp Dialog","x":-1477,"y":1071,"width":250,"height":116,"color":"#0189cb"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
