@@ -124,7 +124,7 @@
 		{"id":"4bb109c980d955b6","type":"text","text":"Управление Telegram группами в ChatApp Dialog","x":-1477,"y":1061,"width":250,"height":116,"color":"#0189cb"},
 		{"id":"3b014bd1a2ddd5dc","x":-1477,"y":1212,"width":250,"height":60,"color":"#0189bc","type":"text","text":"Добавление сотрудников."},
 		{"id":"0f4a9db8747d6294","x":-797,"y":1360,"width":250,"height":60,"color":"#f54d85","type":"text","text":"Внутренние сообщения"},
-		{"id":"6f37a688f92d0323","x":-797,"y":1280,"width":250,"height":60,"color":"#f54d85","type":"text","text":"Метки чатов"},
+		{"id":"6f37a688f92d0323","x":-797,"y":1280,"width":250,"height":60,"color":"#f54d85","type":"text","text":"Теги/Метки диалогов"},
 		{"id":"d9ade519774a989c","type":"text","text":"Chatapp assistant","x":-797,"y":1200,"width":250,"height":60,"color":"#f54d85"},
 		{"id":"41a454b84090f2ef","type":"text","text":"Быстрые ответы\n","x":-797,"y":1120,"width":250,"height":60,"color":"#f64b83"},
 		{"id":"68039ad372b310d0","type":"text","text":"Dialogs.pro","x":-797,"y":1040,"width":250,"height":60,"color":"#f64b83"},
