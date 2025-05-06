@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"e426e0bc78abe29b","type":"text","text":"Получение у HR всех логинов и паролей от всех платформ","x":-812,"y":-71,"width":265,"height":91,"color":"#00a31b"},
-		{"id":"537028a1c5d7851d","type":"text","text":"# 1 раб день.\n","x":-2560,"y":-591,"width":250,"height":80,"color":"#00ff2a"},
 		{"id":"d013e34750e3f88f","type":"text","text":"### Этап 1 - Подготовительный","x":-812,"y":-598,"width":265,"height":93,"color":"#c20000"},
 		{"id":"0a1e8b44df277a60","type":"text","text":"### Работа с Conflurense","x":-720,"y":280,"width":250,"height":87,"color":"#0048af"},
 		{"id":"49dd4287300946b1","type":"text","text":"Вход на платформу","x":-720,"y":419,"width":250,"height":60,"color":"#0048af"},
@@ -127,11 +126,12 @@
 		{"id":"c580735ddebc9548","x":-1477,"y":1320,"width":250,"height":60,"color":"#0189bc","type":"text","text":"Роли"},
 		{"id":"2bc2328adba805d4","type":"text","text":"# 2 раб день.","x":-2560,"y":1814,"width":250,"height":83,"color":"#00ff2a"},
 		{"id":"a1ec952254833a0e","type":"text","text":"Какие цели и задачи у тех поддержки.","x":-804,"y":-760,"width":250,"height":60,"color":"#00a31b"},
-		{"id":"89a2e73fab1de04c","type":"text","text":"О компании. Цели компании, отделы и за что отвечают, руководители, кол-во сотрудников, плюшки для сотрудников.","x":-804,"y":-1440,"width":250,"height":178,"color":"#00a31b"},
-		{"id":"ef75b771c37bb6e8","type":"text","text":"### Этап 0 - Welcome book","x":-839,"y":-1600,"width":320,"height":80,"color":"#c20000"},
-		{"id":"537af82b56f26222","type":"text","text":"Как брать отгулы?","x":-1087,"y":-920,"width":250,"height":60,"color":"4"},
-		{"id":"56b4ddf931482076","type":"text","text":"Премия? За что?","x":-804,"y":-920,"width":250,"height":60,"color":"4"},
-		{"id":"111b82d28b0788e3","type":"text","text":"Обед? Пятничные вечера?","x":-517,"y":-920,"width":250,"height":60,"color":"4"}
+		{"id":"537af82b56f26222","type":"text","text":"Как брать отгулы?","x":-1087,"y":-880,"width":250,"height":60,"color":"4"},
+		{"id":"56b4ddf931482076","type":"text","text":"Премия? За что?","x":-804,"y":-880,"width":250,"height":60,"color":"4"},
+		{"id":"111b82d28b0788e3","type":"text","text":"Обед? Пятничные вечера?","x":-517,"y":-880,"width":250,"height":60,"color":"4"},
+		{"id":"89a2e73fab1de04c","type":"text","text":"О компании. Цели компании, отделы и за что отвечают, руководители, кол-во сотрудников, плюшки для сотрудников.","x":-804,"y":-1120,"width":250,"height":178,"color":"#00a31b"},
+		{"id":"ef75b771c37bb6e8","type":"text","text":"### Этап 0 - Welcome book","x":-839,"y":-1280,"width":320,"height":80,"color":"#c20000"},
+		{"id":"537028a1c5d7851d","type":"text","text":"# 1 раб день.\n","x":-2560,"y":-1280,"width":250,"height":80,"color":"#00ff2a"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -179,17 +179,15 @@
 		{"id":"fd6df9f4cfa62135","fromNode":"4f50dcfad0db32b8","fromSide":"bottom","toNode":"1dc4bdeb8e888860","toSide":"top"},
 		{"id":"4518523cfa253ab4","fromNode":"8ccf0e98d5f161d5","fromSide":"right","toNode":"25f632af7f77f01b","toSide":"left","fromEnd":"arrow"},
 		{"id":"ff8af726d70e805b","fromNode":"775126da3807d4f1","fromSide":"right","toNode":"25f632af7f77f01b","toSide":"left","fromEnd":"arrow"},
-		{"id":"218a5373ac6a6d20","fromNode":"56b4ddf931482076","fromSide":"bottom","toNode":"a1ec952254833a0e","toSide":"top"},
 		{"id":"964d959dfd986e87","fromNode":"ef75b771c37bb6e8","fromSide":"bottom","toNode":"89a2e73fab1de04c","toSide":"top"},
-		{"id":"85d2f53a1d8ebddd","fromNode":"537028a1c5d7851d","fromSide":"right","toNode":"ef75b771c37bb6e8","toSide":"left"},
+		{"id":"85d2f53a1d8ebddd","fromNode":"537028a1c5d7851d","fromSide":"right","toNode":"ef75b771c37bb6e8","toSide":"left","color":"1"},
 		{"id":"f279fa4351d10b86","fromNode":"1dc4bdeb8e888860","fromSide":"bottom","toNode":"f681b0421e4ab2ba","toSide":"top"},
 		{"id":"e1d5707051f7bb37","fromNode":"196e446036cf399b","fromSide":"right","toNode":"f681b0421e4ab2ba","toSide":"left"},
 		{"id":"c5d9f7bd8bef9e53","fromNode":"f681b0421e4ab2ba","fromSide":"bottom","toNode":"18b3badb8d37ee48","toSide":"top"},
 		{"id":"ba1a83fc6918fb12","fromNode":"18b3badb8d37ee48","fromSide":"bottom","toNode":"52472a505fca042b","toSide":"top"},
 		{"id":"062572d33a8ff155","fromNode":"962db8d96970e8f2","fromSide":"right","toNode":"6e500b678d43d1a1","toSide":"left"},
 		{"id":"55fd162ac2bfc96e","fromNode":"962db8d96970e8f2","fromSide":"right","toNode":"4ba9014728e65ddb","toSide":"left"},
-		{"id":"befce31a73f141ba","fromNode":"89a2e73fab1de04c","fromSide":"bottom","toNode":"537af82b56f26222","toSide":"top"},
-		{"id":"c06828a23bbea59f","fromNode":"89a2e73fab1de04c","fromSide":"bottom","toNode":"56b4ddf931482076","toSide":"top"},
+		{"id":"befce31a73f141ba","fromNode":"89a2e73fab1de04c","fromSide":"left","toNode":"537af82b56f26222","toSide":"top"},
 		{"id":"41206457e4cc6abd","fromNode":"18b3badb8d37ee48","fromSide":"bottom","toNode":"71d2dfee7fb2e3da","toSide":"top"},
 		{"id":"92995f0a300a05bc","fromNode":"52472a505fca042b","fromSide":"bottom","toNode":"f40c8c1ce2a4f1e6","toSide":"top"},
 		{"id":"901d154378d68aee","fromNode":"71d2dfee7fb2e3da","fromSide":"bottom","toNode":"f40c8c1ce2a4f1e6","toSide":"top"},
@@ -271,8 +269,8 @@
 		{"id":"c88196d8aea29474","fromNode":"cd1d49085c9df790","fromSide":"bottom","toNode":"ed3870ef548ad114","toSide":"top"},
 		{"id":"5822c10adca88d2a","fromNode":"3b014bd1a2ddd5dc","fromSide":"bottom","toNode":"c580735ddebc9548","toSide":"top"},
 		{"id":"0a907b65c13f41d4","fromNode":"2bc2328adba805d4","fromSide":"right","toNode":"57427b7aad480d0c","toSide":"left","color":"1"},
-		{"id":"4fcdc5a50b2551c6","fromNode":"89a2e73fab1de04c","fromSide":"bottom","toNode":"111b82d28b0788e3","toSide":"top"},
-		{"id":"bd314537f2866125","fromNode":"537af82b56f26222","fromSide":"bottom","toNode":"a1ec952254833a0e","toSide":"top"},
-		{"id":"64ba52ca787bce36","fromNode":"111b82d28b0788e3","fromSide":"bottom","toNode":"a1ec952254833a0e","toSide":"right"}
+		{"id":"64ba52ca787bce36","fromNode":"111b82d28b0788e3","fromSide":"bottom","toNode":"a1ec952254833a0e","toSide":"right"},
+		{"id":"46f89fb96cdad5e1","fromNode":"537af82b56f26222","fromSide":"right","toNode":"56b4ddf931482076","toSide":"left"},
+		{"id":"b247dae6b091e3ea","fromNode":"56b4ddf931482076","fromSide":"right","toNode":"111b82d28b0788e3","toSide":"left"}
 	]
 }
