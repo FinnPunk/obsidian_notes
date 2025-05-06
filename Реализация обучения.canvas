@@ -122,7 +122,8 @@
 		{"id":"41a454b84090f2ef","type":"text","text":"Быстрые ответы\n","x":-1062,"y":1182,"width":250,"height":60,"color":"#f64b83"},
 		{"id":"d9ade519774a989c","type":"text","text":"Chatapp assistant","x":-1062,"y":1282,"width":250,"height":60,"color":"#f64b83"},
 		{"id":"ed3870ef548ad114","type":"text","text":"Практика, получение сообщений из добавленных соц. сетей\nОтвет на сообщения, быстрыми ответами/добавление своих быстрых ответов.","x":-1062,"y":1402,"width":250,"height":209,"color":"#f64b83"},
-		{"id":"40cef4608120a6cd","x":-1062,"y":904,"width":250,"height":110,"color":"#0189cb","type":"text","text":"Предоставление доступа сотруднику техподдержки"}
+		{"id":"40cef4608120a6cd","x":-1062,"y":904,"width":250,"height":110,"color":"#0189cb","type":"text","text":"Предоставление доступа сотруднику техподдержки"},
+		{"id":"24dbe1940c989e37","type":"text","text":"# ОПЛАТА?","x":1120,"y":7620,"width":291,"height":241,"color":"1"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
