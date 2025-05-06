@@ -94,11 +94,11 @@
 		{"id":"abe41b50c52f1dd0","x":1120,"y":6960,"width":291,"height":241,"color":"1","type":"text","text":"# Работа с API?"},
 		{"id":"263b35f3a8cebb79","type":"text","text":"# WABA? WACA?","x":1120,"y":7272,"width":291,"height":241,"color":"1"},
 		{"id":"9b5bce1f46e9e3bc","type":"text","text":"# UTM?","x":1120,"y":7600,"width":291,"height":241,"color":"1"},
-		{"id":"8c8b5ef33df194d7","x":-797,"y":8626,"width":250,"height":60,"type":"text","text":"Партнёрская программа"},
 		{"id":"108a53fd2c65920d","x":-1031,"y":8860,"width":250,"height":58,"type":"text","text":"Регистрация официального партнера"},
 		{"id":"a166472950809501","x":-1340,"y":9089,"width":250,"height":60,"type":"text","text":"Получение статуса официального партнера"},
 		{"id":"2677be5b21e34423","x":-1031,"y":9089,"width":250,"height":60,"type":"text","text":" Работа с лидами и клиентами"},
-		{"id":"401af33586087dcb","x":-1031,"y":9264,"width":250,"height":96,"type":"text","text":"FAQ по работе с платформой для партнёров компании"}
+		{"id":"401af33586087dcb","x":-1031,"y":9264,"width":250,"height":96,"type":"text","text":"FAQ по работе с платформой для партнёров компании"},
+		{"id":"8c8b5ef33df194d7","x":-1031,"y":8700,"width":250,"height":60,"type":"text","text":"Партнёрская программа"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
