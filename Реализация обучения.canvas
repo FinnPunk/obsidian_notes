@@ -99,7 +99,8 @@
 		{"id":"2677be5b21e34423","x":-1031,"y":9089,"width":250,"height":60,"type":"text","text":" Работа с лидами и клиентами"},
 		{"id":"401af33586087dcb","x":-1031,"y":9264,"width":250,"height":96,"type":"text","text":"FAQ по работе с платформой для партнёров компании"},
 		{"id":"8c8b5ef33df194d7","x":-1031,"y":8700,"width":250,"height":60,"type":"text","text":"Партнёрская программа"},
-		{"id":"223e1666d40e92a7","x":-561,"y":8690,"width":250,"height":60,"type":"text","text":"Open-ai ChatGPT"}
+		{"id":"223e1666d40e92a7","x":-561,"y":8690,"width":250,"height":60,"type":"text","text":"Open-ai ChatGPT"},
+		{"id":"a17bd073aa969b8f","type":"text","text":"# Лид-сканер?","x":1120,"y":7960,"width":291,"height":241,"color":"1"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
