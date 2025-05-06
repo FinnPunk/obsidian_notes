@@ -115,7 +115,7 @@
 		{"id":"878be752f1390bf2","type":"text","text":"Рассылка","x":-1373,"y":10576,"width":250,"height":60},
 		{"id":"dd5335d6c86bed46","x":-1680,"y":10800,"width":250,"height":60,"type":"text","text":"Ограничения рассылки"},
 		{"id":"ec848f677125eb95","x":-1373,"y":10800,"width":250,"height":60,"type":"text","text":"FAQ по рассылкам"},
-		{"id":"5cf5a9d21c6f8dc9","x":-1065,"y":10785,"width":250,"height":60,"type":"text","text":"Импорт "}
+		{"id":"5cf5a9d21c6f8dc9","x":-1060,"y":10800,"width":250,"height":60,"type":"text","text":"Импорт контактов"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
