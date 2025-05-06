@@ -121,6 +121,7 @@
 		{"id":"981dafc6bf0479e5","type":"text","text":"AmoCRM UTM-метки","x":-796,"y":8538,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"b00b70d1cc7183ce","type":"text","text":"Bitrix24 UTM-метки","x":-500,"y":8538,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"878be752f1390bf2","type":"text","text":"Рассылка","x":-1633,"y":9546,"width":250,"height":60,"color":"#0189bc"},
+		{"id":"f581041e558725dc","type":"text","text":"Управление Telegram группами в ChatApp Dialog","x":-1280,"y":9518,"width":250,"height":116,"color":"#0189bc"},
 		{"id":"ec848f677125eb95","type":"text","text":"FAQ по рассылкам","x":-1633,"y":9660,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"dd5335d6c86bed46","type":"text","text":"Ограничения рассылки","x":-1940,"y":9780,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"5cf5a9d21c6f8dc9","type":"text","text":"Импорт контактов","x":-1633,"y":9780,"width":250,"height":60,"color":"#0189bc"},
@@ -134,8 +135,7 @@
 		{"id":"dab6596ffc647f51","type":"text","text":"Практика","x":-796,"y":9840,"width":250,"height":60,"color":"6"},
 		{"id":"90078444af6de722","type":"text","text":"#### Этап 4. Вспомогательные функции сервиса","x":-796,"y":9080,"width":250,"height":100,"color":"1"},
 		{"id":"b40872177f7791eb","type":"text","text":"#### 5 раб день.\nпринцип работы 50/50","x":-2560,"y":9088,"width":250,"height":83,"color":"#00ff2a"},
-		{"id":"691d70788db70cfb","type":"text","text":"# КОНЕЦ!","x":-2071,"y":10440,"width":2800,"height":170,"color":"3"},
-		{"id":"f581041e558725dc","type":"text","text":"Управление Telegram группами в ChatApp Dialog","x":-1190,"y":10440,"width":250,"height":116,"color":"#0189bc"}
+		{"id":"691d70788db70cfb","type":"text","text":" # КОНЕЦ!","x":-2560,"y":10320,"width":3780,"height":170,"color":"3"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
