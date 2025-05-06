@@ -88,7 +88,7 @@
 		{"id":"92cb75bab73f6449","type":"text","text":"(Снова) Практика - реальная проблема, и нужно найти к ней решение используя платформу.","x":-804,"y":8160,"width":250,"height":169,"color":"6"},
 		{"id":"11f771359c296fe2","type":"text","text":"# 5 раб день.\nпринцип работы 50/50","x":-2560,"y":7629,"width":250,"height":83,"color":"#00ff2a"},
 		{"id":"84288ae458f24d3d","x":-1166,"y":959,"width":250,"height":60,"color":"#0189cb","type":"text","text":"Создание Чат-бота tg"},
-		{"id":"5540b3894a321959","type":"text","text":"#### Этап 3. Углублённое обучение","x":-804,"y":7620,"width":250,"height":80,"color":"1"}
+		{"id":"5540b3894a321959","type":"text","text":"#### Этап 3. Углублённое обучение","x":-804,"y":7629,"width":250,"height":80,"color":"1"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -102,7 +102,6 @@
 		{"id":"e8a957591d556cdd","fromNode":"c7a269263f512cf8","fromSide":"bottom","toNode":"abadd9121f8bf96a","toSide":"top"},
 		{"id":"28d44bef6ff54cc8","fromNode":"d013e34750e3f88f","fromSide":"bottom","toNode":"e426e0bc78abe29b","toSide":"top"},
 		{"id":"e5f35bece9da66db","fromNode":"e426e0bc78abe29b","fromSide":"bottom","toNode":"4e6a26faf675ea95","toSide":"top"},
-		{"id":"41dca7e59b93261b","fromNode":"e426e0bc78abe29b","fromSide":"bottom","toNode":"0ae9f16f3d8e8de1","toSide":"top"},
 		{"id":"a2aa1b8a0cf8cc59","fromNode":"e426e0bc78abe29b","fromSide":"bottom","toNode":"0a1e8b44df277a60","toSide":"top"},
 		{"id":"07a46f6ee29b2d91","fromNode":"0ae9f16f3d8e8de1","fromSide":"bottom","toNode":"d100966d8d7ca8ff","toSide":"top"},
 		{"id":"000cba2e7542e9c3","fromNode":"5b11b11984091a4c","fromSide":"bottom","toNode":"eaf7615acc3ff139","toSide":"top"},
@@ -129,13 +128,11 @@
 		{"id":"f9d77e2fc41061ec","fromNode":"667731754543bb35","fromSide":"left","toNode":"f3eee0facffc0313","toSide":"right","fromEnd":"arrow"},
 		{"id":"b6c1069aadad47fa","fromNode":"de30c4183315b953","fromSide":"right","toNode":"670a9fb77c92a090","toSide":"left"},
 		{"id":"c3af866978a1ffa4","fromNode":"670a9fb77c92a090","fromSide":"right","toNode":"2422e60920d542e7","toSide":"left","fromEnd":"arrow"},
-		{"id":"e1cd6f8abe548b3b","fromNode":"74628d36734a8900","fromSide":"bottom","toNode":"2261d7519c725b23","toSide":"top"},
 		{"id":"40f5e54f7b4c35ed","fromNode":"2261d7519c725b23","fromSide":"bottom","toNode":"53b6dc404a63b7ba","toSide":"top"},
 		{"id":"c5407d3459bec4ea","fromNode":"9efb153deedec5aa","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"right"},
 		{"id":"f117dbef68b5dcb1","fromNode":"3854c108199af2a8","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"left"},
 		{"id":"959d3f6f3b1199a0","fromNode":"2bc2328adba805d4","fromSide":"right","toNode":"57427b7aad480d0c","toSide":"left"},
 		{"id":"a2b89b2857fe283c","fromNode":"57427b7aad480d0c","fromSide":"bottom","toNode":"962db8d96970e8f2","toSide":"top"},
-		{"id":"18477ca39be7f50a","fromNode":"ed3870ef548ad114","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"top"},
 		{"id":"516f7cc5ac9134d8","fromNode":"0990977b50da3202","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"right"},
 		{"id":"b96a8d5979e7823c","fromNode":"670a9fb77c92a090","fromSide":"bottom","toNode":"775126da3807d4f1","toSide":"top"},
 		{"id":"c8b69850c15f6b2f","fromNode":"775126da3807d4f1","fromSide":"bottom","toNode":"8ccf0e98d5f161d5","toSide":"top"},
