@@ -108,7 +108,6 @@
 		{"id":"5cf5a9d21c6f8dc9","x":-1320,"y":10804,"width":250,"height":60,"type":"text","text":"Импорт контактов"},
 		{"id":"250cdc0d5e2413a5","type":"text","text":"Инвайтер","x":-940,"y":10576,"width":250,"height":60},
 		{"id":"84288ae458f24d3d","type":"text","text":"Создание Чат-бота tg","x":-1477,"y":959,"width":250,"height":60,"color":"#0189cb"},
-		{"id":"4bb109c980d955b6","type":"text","text":"Управление Telegram группами в ChatApp Dialog","x":-1477,"y":1071,"width":250,"height":116,"color":"#0189cb"},
 		{"id":"f581041e558725dc","type":"text","text":"Управление Telegram группами в ChatApp Dialog","x":-1280,"y":10548,"width":250,"height":116,"color":"#0189cb"},
 		{"id":"878be752f1390bf2","type":"text","text":"Рассылка","x":-1633,"y":10576,"width":250,"height":60},
 		{"id":"d418931e6c777349","type":"text","text":"Open-ai ChatGPT","x":-607,"y":10576,"width":250,"height":60,"color":"#0189cb"},
@@ -117,7 +116,6 @@
 		{"id":"981dafc6bf0479e5","x":-560,"y":8858,"width":250,"height":60,"type":"text","text":"AmoCRM UTM-метки"},
 		{"id":"3b693c0109f6f697","x":-280,"y":10576,"width":250,"height":60,"type":"text","text":"Электронная визитка"},
 		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграции в ChatApp","x":-859,"y":2460,"width":374,"height":60,"color":"6"},
-		{"id":"3b014bd1a2ddd5dc","x":-1477,"y":1222,"width":250,"height":60,"color":"#0189bc","type":"text","text":"Добавление сотрудников."},
 		{"id":"68039ad372b310d0","type":"text","text":"Dialogs.pro","x":-1062,"y":1082,"width":250,"height":60,"color":"#f64b83"},
 		{"id":"41a454b84090f2ef","type":"text","text":"Быстрые ответы\n","x":-1062,"y":1182,"width":250,"height":60,"color":"#f64b83"},
 		{"id":"d9ade519774a989c","type":"text","text":"Chatapp assistant","x":-1062,"y":1282,"width":250,"height":60,"color":"#f64b83"},
@@ -127,7 +125,9 @@
 		{"id":"42e9354fc4111c05","x":300,"y":7074,"width":250,"height":119,"color":"1","type":"text","text":"Как первым начать диалог с клиентом в мессенджере или CRM-системе"},
 		{"id":"6f276e4a542a3ade","x":-60,"y":7074,"width":250,"height":119,"color":"1","type":"text","text":"Синхронизация ответственных между Dialogs.pro с CRM-системами"},
 		{"id":"802004a6c5ce780a","x":140,"y":6940,"width":250,"height":60,"color":"1","type":"text","text":"Доп знания по CRM"},
-		{"id":"6f37a688f92d0323","x":-1472,"y":1339,"width":250,"height":60,"type":"text","text":"Метки чатов"}
+		{"id":"4bb109c980d955b6","type":"text","text":"Управление Telegram группами в ChatApp Dialog","x":-1477,"y":1061,"width":250,"height":116,"color":"#0189cb"},
+		{"id":"3b014bd1a2ddd5dc","x":-1477,"y":1212,"width":250,"height":60,"color":"#0189bc","type":"text","text":"Добавление сотрудников."},
+		{"id":"6f37a688f92d0323","x":-1477,"y":1302,"width":250,"height":60,"color":"#0189bc","type":"text","text":"Метки чатов"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
