@@ -117,7 +117,7 @@
 		{"id":"981dafc6bf0479e5","x":-560,"y":8858,"width":250,"height":60,"type":"text","text":"AmoCRM UTM-метки"},
 		{"id":"3b693c0109f6f697","x":-280,"y":10576,"width":250,"height":60,"type":"text","text":"Электронная визитка"},
 		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграции в ChatApp","x":-859,"y":2460,"width":374,"height":60,"color":"6"},
-		{"id":"3b014bd1a2ddd5dc","x":-1477,"y":1222,"width":250,"height":60,"type":"text","text":"Добавление сотрудников."},
+		{"id":"3b014bd1a2ddd5dc","x":-1477,"y":1222,"width":250,"height":60,"color":"#0189bc","type":"text","text":"Добавление сотрудников."},
 		{"id":"68039ad372b310d0","type":"text","text":"Dialogs.pro","x":-1062,"y":1082,"width":250,"height":60,"color":"#f64b83"},
 		{"id":"41a454b84090f2ef","type":"text","text":"Быстрые ответы\n","x":-1062,"y":1182,"width":250,"height":60,"color":"#f64b83"},
 		{"id":"d9ade519774a989c","type":"text","text":"Chatapp assistant","x":-1062,"y":1282,"width":250,"height":60,"color":"#f64b83"},
