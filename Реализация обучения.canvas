@@ -73,13 +73,9 @@
 		{"id":"4ba9014728e65ddb","type":"text","text":"## Правила общения с клиентами\n- интерактивные примеры\n- реальные кейсы\n- ответственность","x":-400,"y":1860,"width":250,"height":300,"color":"6"},
 		{"id":"6e500b678d43d1a1","type":"text","text":"Зачем нужен bitcorp?","x":-400,"y":1758,"width":250,"height":50,"color":"6"},
 		{"id":"0ae9f16f3d8e8de1","type":"text","text":"### Работа с ChatApp","x":-805,"y":2272,"width":250,"height":60,"color":"#0189cb"},
-		{"id":"ef0510a39083510b","type":"text","text":"FAST Пояснение за \"Базу знаний\"","x":-1170,"y":2590,"width":250,"height":58,"color":"#0189cb"},
-		{"id":"12e0c8df07a5cbee","type":"text","text":"FAQ по платформе chatapp","x":-1170,"y":2707,"width":250,"height":67,"color":"#0189cb"},
 		{"id":"d100966d8d7ca8ff","type":"text","text":"Вход на платформу chatapp","x":-805,"y":2380,"width":250,"height":61,"color":"#0189cb"},
 		{"id":"c7a269263f512cf8","type":"text","text":"Знакомство с интерфейсом","x":-805,"y":2480,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"abadd9121f8bf96a","type":"text","text":"Создание компании. \nЧуть про покупку линии.\nДобавление каналов в линию.\nДобавление сотрудников.\nМетрики.\n\"Настройки\" компании.\nЧуть про вкладку финансы.\n","x":-805,"y":2590,"width":250,"height":300,"color":"#0189cb"},
-		{"id":"733950cd78d28db0","type":"text","text":"FAQ по платформе Dialogs.pro","x":-1170,"y":2830,"width":250,"height":60,"color":"#0189cb"},
-		{"id":"84288ae458f24d3d","type":"text","text":"Создание Чат-бота tg","x":-1166,"y":2938,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"68039ad372b310d0","type":"text","text":"Dialogs.pro","x":-805,"y":2990,"width":250,"height":60,"color":"#f64b83"},
 		{"id":"41a454b84090f2ef","type":"text","text":"Быстрые ответы\n","x":-805,"y":3090,"width":250,"height":60,"color":"#f64b83"},
 		{"id":"d9ade519774a989c","type":"text","text":"Chatapp assistant","x":-805,"y":3190,"width":250,"height":60,"color":"#f64b83"},
@@ -89,7 +85,11 @@
 		{"id":"537af82b56f26222","type":"text","text":"Как брать отгулы?","x":-1883,"y":-300,"width":250,"height":60,"color":"4"},
 		{"id":"56b4ddf931482076","type":"text","text":"Премия? За что?","x":-1600,"y":-300,"width":250,"height":60,"color":"4"},
 		{"id":"111b82d28b0788e3","type":"text","text":"Обед? Пятничные вечера?","x":-1313,"y":-300,"width":250,"height":60,"color":"4"},
-		{"id":"6044fde32b14a0b4","type":"text","text":"БАЗА для особо не понимающих.","x":-40,"y":293,"width":250,"height":60,"color":"6"}
+		{"id":"6044fde32b14a0b4","type":"text","text":"БАЗА для особо не понимающих.","x":-40,"y":293,"width":250,"height":60,"color":"6"},
+		{"id":"ef0510a39083510b","type":"text","text":"FAST Пояснение за \"Базу знаний\"","x":-1220,"y":2590,"width":250,"height":58,"color":"#0189cb"},
+		{"id":"12e0c8df07a5cbee","type":"text","text":"FAQ по платформе chatapp","x":-1220,"y":2707,"width":250,"height":67,"color":"#0189cb"},
+		{"id":"733950cd78d28db0","type":"text","text":"FAQ по платформе Dialogs.pro","x":-1220,"y":2830,"width":250,"height":60,"color":"#0189cb"},
+		{"id":"84288ae458f24d3d","type":"text","text":"Создание Чат-бота tg","x":-1216,"y":2938,"width":250,"height":60,"color":"#0189cb"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
