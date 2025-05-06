@@ -118,7 +118,7 @@
 		{"id":"401af33586087dcb","type":"text","text":"FAQ по работе с платформой для партнёров компании","x":-1151,"y":8984,"width":250,"height":96,"color":"#0189bc"},
 		{"id":"981dafc6bf0479e5","x":-660,"y":8578,"width":250,"height":60,"color":"#0189bc","type":"text","text":"AmoCRM UTM-метки"},
 		{"id":"b00b70d1cc7183ce","type":"text","text":"Bitrix24 UTM-метки","x":-220,"y":8578,"width":250,"height":60,"color":"#0189bc"},
-		{"id":"238a6d63537faeba","type":"text","text":"Тестирование","x":-796,"y":9002,"width":250,"height":60,"color":"#0189bc"},
+		{"id":"238a6d63537faeba","type":"text","text":"Тестирование","x":-796,"y":9002,"width":250,"height":60,"color":"6"},
 		{"id":"de4149d44aaa07e2","type":"text","text":"### Работа 50% дня","x":-796,"y":9120,"width":250,"height":84,"color":"1"},
 		{"id":"9441c9fb6bcf447f","type":"text","text":"(Снова) Интерактивное тестирование (реальные кейсы и способы решения)","x":-796,"y":9488,"width":250,"height":131,"color":"6"},
 		{"id":"90078444af6de722","type":"text","text":"#### Этап 4. Вспомогательные функции сервиса","x":-796,"y":9280,"width":250,"height":100,"color":"1"},
@@ -128,13 +128,13 @@
 		{"id":"f581041e558725dc","type":"text","text":"Управление Telegram группами в ChatApp Dialog","x":-1280,"y":9718,"width":250,"height":116,"color":"#0189bc"},
 		{"id":"d418931e6c777349","type":"text","text":"Open-ai ChatGPT","x":-620,"y":9746,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"3b693c0109f6f697","x":-293,"y":9746,"width":250,"height":60,"color":"#0189bc","type":"text","text":"Электронная визитка"},
-		{"id":"0b9000d2d7939cb7","type":"text","text":"### Работа 50% дня","x":-796,"y":10400,"width":250,"height":84,"color":"1"},
-		{"id":"b317466f74965f43","x":-796,"y":10280,"width":250,"height":60,"type":"text","text":"Тестирование"},
-		{"id":"dab6596ffc647f51","x":-796,"y":10180,"width":250,"height":60,"type":"text","text":"Практика"},
 		{"id":"546828d1a182631a","type":"text","text":"FAQ по работе с AI","x":-620,"y":9860,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"ec848f677125eb95","x":-1633,"y":9860,"width":250,"height":60,"color":"#0189bc","type":"text","text":"FAQ по рассылкам"},
 		{"id":"dd5335d6c86bed46","x":-1940,"y":9980,"width":250,"height":60,"color":"#0189bc","type":"text","text":"Ограничения рассылки"},
-		{"id":"5cf5a9d21c6f8dc9","x":-1633,"y":9980,"width":250,"height":60,"color":"#0189bc","type":"text","text":"Импорт контактов"}
+		{"id":"5cf5a9d21c6f8dc9","x":-1633,"y":9980,"width":250,"height":60,"color":"#0189bc","type":"text","text":"Импорт контактов"},
+		{"id":"0b9000d2d7939cb7","type":"text","text":"### Работа 50% дня","x":-796,"y":10260,"width":250,"height":84,"color":"1"},
+		{"id":"b317466f74965f43","x":-796,"y":10140,"width":250,"height":60,"color":"6","type":"text","text":"Тестирование"},
+		{"id":"dab6596ffc647f51","x":-796,"y":10040,"width":250,"height":60,"color":"6","type":"text","text":"Практика"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -236,7 +236,6 @@
 		{"id":"28bd0ad1e7a7300e","fromNode":"9441c9fb6bcf447f","fromSide":"bottom","toNode":"d418931e6c777349","toSide":"top"},
 		{"id":"d4cff38a9954b2e1","fromNode":"de4149d44aaa07e2","fromSide":"bottom","toNode":"90078444af6de722","toSide":"top"},
 		{"id":"3fd233ec61a860cc","fromNode":"90078444af6de722","fromSide":"bottom","toNode":"9441c9fb6bcf447f","toSide":"top"},
-		{"id":"283607ad99d88144","fromNode":"9441c9fb6bcf447f","fromSide":"bottom","toNode":"250cdc0d5e2413a5","toSide":"top"},
 		{"id":"ce9f9ccfd57c249d","fromNode":"3a5ac9fcb0d69a72","fromSide":"right","toNode":"70398a1310a15fa6","toSide":"left"},
 		{"id":"59000d5cc32251b9","fromNode":"9103bfd9e73294bd","fromSide":"left","toNode":"70398a1310a15fa6","toSide":"right"},
 		{"id":"ba8e02396bfe2c93","fromNode":"ec4645dd2e45de17","fromSide":"right","toNode":"4cd1fe517b6ec7e1","toSide":"left"},
@@ -271,6 +270,7 @@
 		{"id":"ec3dccbb9ee3a6b7","fromNode":"5cf5a9d21c6f8dc9","fromSide":"top","toNode":"ec848f677125eb95","toSide":"bottom"},
 		{"id":"76d9f07db5f2c022","fromNode":"ec848f677125eb95","fromSide":"top","toNode":"878be752f1390bf2","toSide":"bottom"},
 		{"id":"571dc9b3caa4fc41","fromNode":"b317466f74965f43","fromSide":"bottom","toNode":"0b9000d2d7939cb7","toSide":"top"},
-		{"id":"64d78d1f2cfaa195","fromNode":"dab6596ffc647f51","fromSide":"bottom","toNode":"b317466f74965f43","toSide":"top"}
+		{"id":"64d78d1f2cfaa195","fromNode":"dab6596ffc647f51","fromSide":"bottom","toNode":"b317466f74965f43","toSide":"top"},
+		{"id":"b0430c3e76be14cd","fromNode":"250cdc0d5e2413a5","fromSide":"bottom","toNode":"dab6596ffc647f51","toSide":"top"}
 	]
 }
