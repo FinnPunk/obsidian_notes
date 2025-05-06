@@ -24,7 +24,7 @@
 		{"id":"d100966d8d7ca8ff","type":"text","text":"Вход на платформу chatapp","x":-1062,"y":401,"width":250,"height":61,"color":"#0189cb"},
 		{"id":"c7a269263f512cf8","type":"text","text":"Знакомство с интерфейсом","x":-1062,"y":501,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"ef0510a39083510b","type":"text","text":"FAST Пояснение за \"Базу знаний\"","x":-1477,"y":611,"width":250,"height":58,"color":"#0189cb"},
-		{"id":"abadd9121f8bf96a","type":"text","text":"Создание компании. \nЧуть про покупку линии.\nДобавление каналов в линию.\nМетрики.\n\"Настройки\" компании.\nЧуть про вкладку финансы.\n","x":-1062,"y":611,"width":250,"height":300,"color":"#0189cb"},
+		{"id":"abadd9121f8bf96a","type":"text","text":"Создание компании. \nЧуть про покупку линии.\nДобавление каналов в линию.\nМетрики.\n\"Настройки\" компании.\nЧуть про вкладку финансы.","x":-1062,"y":611,"width":250,"height":240,"color":"#0189cb"},
 		{"id":"12e0c8df07a5cbee","type":"text","text":"FAQ по платформе chatapp","x":-1477,"y":728,"width":250,"height":67,"color":"#0189cb"},
 		{"id":"733950cd78d28db0","type":"text","text":"FAQ по платформе Dialogs.pro","x":-1477,"y":851,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"4833a849f44d50e5","type":"text","text":"Создание задач","x":-2133,"y":773,"width":250,"height":60,"color":"#89e6bf"},
@@ -116,13 +116,13 @@
 		{"id":"b00b70d1cc7183ce","type":"text","text":"Bitrix24 UTM-метки","x":-280,"y":8858,"width":250,"height":60},
 		{"id":"981dafc6bf0479e5","x":-560,"y":8858,"width":250,"height":60,"type":"text","text":"AmoCRM UTM-метки"},
 		{"id":"3b693c0109f6f697","x":-280,"y":10576,"width":250,"height":60,"type":"text","text":"Электронная визитка"},
-		{"id":"68039ad372b310d0","type":"text","text":"Dialogs.pro","x":-1062,"y":1152,"width":250,"height":60,"color":"#f64b83"},
-		{"id":"41a454b84090f2ef","type":"text","text":"Быстрые ответы\n","x":-1062,"y":1252,"width":250,"height":60,"color":"#f64b83"},
-		{"id":"d9ade519774a989c","type":"text","text":"Chatapp assistant","x":-1062,"y":1352,"width":250,"height":60,"color":"#f64b83"},
-		{"id":"ed3870ef548ad114","type":"text","text":"Практика, получение сообщений из добавленных соц. сетей\nОтвет на сообщения, быстрыми ответами/добавление своих быстрых ответов.","x":-1062,"y":1472,"width":250,"height":209,"color":"#f64b83"},
-		{"id":"40cef4608120a6cd","x":-1062,"y":959,"width":250,"height":110,"color":"#0189cb","type":"text","text":"Предоставление доступа сотруднику техподдержки"},
 		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграции в ChatApp","x":-859,"y":2460,"width":374,"height":60,"color":"6"},
-		{"id":"3b014bd1a2ddd5dc","x":-1477,"y":1222,"width":250,"height":60,"type":"text","text":"Добавление сотрудников."}
+		{"id":"3b014bd1a2ddd5dc","x":-1477,"y":1222,"width":250,"height":60,"type":"text","text":"Добавление сотрудников."},
+		{"id":"68039ad372b310d0","type":"text","text":"Dialogs.pro","x":-1062,"y":1082,"width":250,"height":60,"color":"#f64b83"},
+		{"id":"41a454b84090f2ef","type":"text","text":"Быстрые ответы\n","x":-1062,"y":1182,"width":250,"height":60,"color":"#f64b83"},
+		{"id":"d9ade519774a989c","type":"text","text":"Chatapp assistant","x":-1062,"y":1282,"width":250,"height":60,"color":"#f64b83"},
+		{"id":"ed3870ef548ad114","type":"text","text":"Практика, получение сообщений из добавленных соц. сетей\nОтвет на сообщения, быстрыми ответами/добавление своих быстрых ответов.","x":-1062,"y":1402,"width":250,"height":209,"color":"#f64b83"},
+		{"id":"40cef4608120a6cd","x":-1062,"y":904,"width":250,"height":110,"color":"#0189cb","type":"text","text":"Предоставление доступа сотруднику техподдержки"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
