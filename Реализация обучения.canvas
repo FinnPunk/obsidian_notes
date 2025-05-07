@@ -66,7 +66,6 @@
 		{"id":"6f37a688f92d0323","type":"text","text":"Теги/Метки диалогов","x":-797,"y":1260,"width":250,"height":60,"color":"#fd4e89"},
 		{"id":"cd1d49085c9df790","type":"text","text":"Комментарии и пользовательские поля в профиле клиента","x":-797,"y":1420,"width":250,"height":100,"color":"#fd4e89"},
 		{"id":"ed3870ef548ad114","type":"text","text":"Практика, получение сообщений из добавленных соц. сетей\nОтвет на сообщения, быстрыми ответами/добавление своих быстрых ответов.","x":-797,"y":1540,"width":250,"height":209,"color":"#fd4e89"},
-		{"id":"28ed6d03a413a826","type":"file","file":"image.jpg","x":-100,"y":1812,"width":480,"height":640},
 		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграции в ChatApp","x":-859,"y":2392,"width":374,"height":60,"color":"6"},
 		{"id":"2261d7519c725b23","type":"text","text":"### Работа с Bitrix24","x":-797,"y":2520,"width":250,"height":78,"color":"#30c7f8"},
 		{"id":"53b6dc404a63b7ba","type":"text","text":"Вход на платформу Bitrix24 (Создание своего пространства на другую почту )","x":-797,"y":2660,"width":250,"height":118,"color":"#30c7f8"},
@@ -138,7 +137,8 @@
 		{"id":"691d70788db70cfb","type":"text","text":" # КОНЕЦ!","x":-2560,"y":10320,"width":3780,"height":170,"color":"3"},
 		{"id":"e9cb467a03aec9cd","type":"text","text":"Конструктор ботов","x":-1428,"y":10758,"width":250,"height":60},
 		{"id":"3c4c49169f7415d6","type":"text","text":"Уровни диалогов","x":-1460,"y":1020,"width":250,"height":60,"color":"#0189bc"},
-		{"id":"2e8db8e528e3db88","x":40,"y":9546,"width":250,"height":60,"color":"#0189bc","type":"text","text":"Хранилище S3"}
+		{"id":"2e8db8e528e3db88","type":"text","text":"Хранилище S3","x":40,"y":9546,"width":250,"height":60,"color":"#0189bc"},
+		{"id":"28ed6d03a413a826","type":"file","file":"image.jpg","x":-1280,"y":1950,"width":302,"height":402}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
