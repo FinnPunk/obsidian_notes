@@ -139,8 +139,8 @@
 		{"id":"3c4c49169f7415d6","type":"text","text":"Уровни диалогов","x":-1460,"y":1020,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"2e8db8e528e3db88","type":"text","text":"Хранилище S3","x":40,"y":9546,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"28ed6d03a413a826","type":"file","file":"image.jpg","x":-1280,"y":1950,"width":302,"height":402},
-		{"id":"e6d700caa4979f6e","x":-40,"y":2052,"width":250,"height":60,"color":"6","type":"text","text":"штрафы"},
-		{"id":"95f292533107734e","x":-41,"y":2191,"width":250,"height":60,"color":"6","type":"text","text":"увольнение"}
+		{"id":"e6d700caa4979f6e","type":"text","text":"штрафы","x":-40,"y":2052,"width":250,"height":60,"color":"6"},
+		{"id":"95f292533107734e","type":"text","text":"увольнение","x":-41,"y":2191,"width":250,"height":60,"color":"6"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
