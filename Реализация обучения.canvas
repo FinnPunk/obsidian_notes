@@ -138,7 +138,9 @@
 		{"id":"e9cb467a03aec9cd","type":"text","text":"Конструктор ботов","x":-1428,"y":10758,"width":250,"height":60},
 		{"id":"3c4c49169f7415d6","type":"text","text":"Уровни диалогов","x":-1460,"y":1020,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"2e8db8e528e3db88","type":"text","text":"Хранилище S3","x":40,"y":9546,"width":250,"height":60,"color":"#0189bc"},
-		{"id":"28ed6d03a413a826","type":"file","file":"image.jpg","x":-1280,"y":1950,"width":302,"height":402}
+		{"id":"28ed6d03a413a826","type":"file","file":"image.jpg","x":-1280,"y":1950,"width":302,"height":402},
+		{"id":"e6d700caa4979f6e","x":-40,"y":2052,"width":250,"height":60,"color":"6","type":"text","text":"штрафы"},
+		{"id":"95f292533107734e","x":-41,"y":2191,"width":250,"height":60,"color":"6","type":"text","text":"увольнение"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -279,6 +281,8 @@
 		{"id":"26ee50692218b832","fromNode":"0b9000d2d7939cb7","fromSide":"bottom","toNode":"691d70788db70cfb","toSide":"top"},
 		{"id":"f74528e9a112b0ef","fromNode":"691d70788db70cfb","fromSide":"bottom","toNode":"e9cb467a03aec9cd","toSide":"top","label":"Дальше"},
 		{"id":"3449eef8b3e0d0ed","fromNode":"c580735ddebc9548","fromSide":"bottom","toNode":"3c4c49169f7415d6","toSide":"top"},
-		{"id":"6997f3e01ba8ac57","fromNode":"9441c9fb6bcf447f","fromSide":"right","toNode":"2e8db8e528e3db88","toSide":"top"}
+		{"id":"6997f3e01ba8ac57","fromNode":"9441c9fb6bcf447f","fromSide":"right","toNode":"2e8db8e528e3db88","toSide":"top"},
+		{"id":"be349c7c0fcdd95c","fromNode":"4ba9014728e65ddb","fromSide":"right","toNode":"e6d700caa4979f6e","toSide":"left"},
+		{"id":"2c2e7914bc05e5c1","fromNode":"e6d700caa4979f6e","fromSide":"bottom","toNode":"95f292533107734e","toSide":"top"}
 	]
 }
