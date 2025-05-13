@@ -159,7 +159,9 @@
 		{"id":"1cd5851df217b11d","x":-79,"y":471,"width":250,"height":60,"type":"text","text":"Соц.Сети"},
 		{"id":"861811bb263691f4","x":-79,"y":625,"width":250,"height":60,"type":"text","text":"Правила, изучение, зачем?"},
 		{"id":"670a9fb77c92a090","type":"text","text":"Практика/Общение с клиентом через приложение в dialogs.pro и создание и настройка сделки в bitrix24","x":-797,"y":2965,"width":250,"height":185,"color":"#30c7f8"},
-		{"id":"cf807b111deb2b46","x":-796,"y":3200,"width":250,"height":120,"type":"text","text":"создание открытых линий, подключение коннектора."}
+		{"id":"cf807b111deb2b46","x":-796,"y":3200,"width":250,"height":120,"type":"text","text":"создание открытых линий, подключение коннектора."},
+		{"id":"bb56a4341c4872ba","x":-1219,"y":3236,"width":250,"height":60,"type":"text","text":"права доступа"},
+		{"id":"5c7efd2f3f5f5fa9","x":-1649,"y":2563,"width":250,"height":60,"type":"text","text":"Yclints"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -318,6 +320,8 @@
 		{"id":"2eff3b74c764c6d8","fromNode":"6044fde32b14a0b4","fromSide":"bottom","toNode":"1cd5851df217b11d","toSide":"top"},
 		{"id":"5e37311335ec8e0c","fromNode":"1cd5851df217b11d","fromSide":"bottom","toNode":"861811bb263691f4","toSide":"top"},
 		{"id":"34e445fc8899155d","fromNode":"c33ceb90acc51c8e","fromSide":"bottom","toNode":"670a9fb77c92a090","toSide":"top"},
-		{"id":"c62f7364d48542e0","fromNode":"670a9fb77c92a090","fromSide":"bottom","toNode":"cf807b111deb2b46","toSide":"top"}
+		{"id":"c62f7364d48542e0","fromNode":"670a9fb77c92a090","fromSide":"bottom","toNode":"cf807b111deb2b46","toSide":"top"},
+		{"id":"6841dac0f69943cb","fromNode":"cf807b111deb2b46","fromSide":"left","toNode":"bb56a4341c4872ba","toSide":"right"},
+		{"id":"1d8d61d1a1850fcd","fromNode":"74628d36734a8900","fromSide":"left","toNode":"5c7efd2f3f5f5fa9","toSide":"top","label":"Знакомство"}
 	]
 }
