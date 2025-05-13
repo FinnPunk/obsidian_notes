@@ -57,7 +57,7 @@
 		{"id":"12e0c8df07a5cbee","type":"text","text":"FAQ по платформе chatapp","x":-1460,"y":382,"width":250,"height":67,"color":"#0189cb"},
 		{"id":"abadd9121f8bf96a","type":"text","text":"Создание компании. \nЧуть про покупку линии.\nДобавление каналов в линию.\nМетрики.\n\"Настройки\" компании.\nЧуть про вкладку финансы.","x":-1020,"y":585,"width":250,"height":240,"color":"#0189cb"},
 		{"id":"c7a269263f512cf8","type":"text","text":"Знакомство с интерфейсом","x":-1020,"y":498,"width":250,"height":60,"color":"#0189cb"},
-		{"id":"d100966d8d7ca8ff","type":"text","text":"Вход на платформу chatapp","x":-1020,"y":401,"width":250,"height":60,"color":"#0189cb"},
+		{"id":"d100966d8d7ca8ff","type":"text","text":"Вход на платформу chatapp(создание нового аккаунта)","x":-1020,"y":382,"width":250,"height":93,"color":"#0189cb"},
 		{"id":"40cef4608120a6cd","type":"text","text":"Предоставление доступа сотруднику техподдержки","x":-1020,"y":863,"width":250,"height":110,"color":"#0189cb"},
 		{"id":"68039ad372b310d0","type":"text","text":"Dialogs.pro","x":-797,"y":1020,"width":250,"height":60,"color":"#fd4e89"},
 		{"id":"41a454b84090f2ef","type":"text","text":"Быстрые ответы\n","x":-797,"y":1100,"width":250,"height":60,"color":"#fd4e89"},
