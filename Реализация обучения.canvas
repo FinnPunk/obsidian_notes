@@ -141,7 +141,8 @@
 		{"id":"28ed6d03a413a826","type":"file","file":"image.jpg","x":-1280,"y":1950,"width":302,"height":402},
 		{"id":"e6d700caa4979f6e","type":"text","text":"штрафы","x":-40,"y":2052,"width":250,"height":60,"color":"6"},
 		{"id":"95f292533107734e","type":"text","text":"увольнение","x":-41,"y":2191,"width":250,"height":60,"color":"6"},
-		{"id":"68708808c257fc1f","type":"text","text":"# Поверсное обучение Bot Gate","x":1120,"y":6640,"width":291,"height":241,"color":"1"}
+		{"id":"68708808c257fc1f","type":"text","text":"# Поверсное обучение Bot Gate","x":1120,"y":6640,"width":291,"height":241,"color":"1"},
+		{"id":"ffc8becc521cb1a6","x":1620,"y":7273,"width":250,"height":60,"type":"text","text":"обучают сами руководители"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -284,6 +285,7 @@
 		{"id":"3449eef8b3e0d0ed","fromNode":"c580735ddebc9548","fromSide":"bottom","toNode":"3c4c49169f7415d6","toSide":"top"},
 		{"id":"6997f3e01ba8ac57","fromNode":"9441c9fb6bcf447f","fromSide":"right","toNode":"2e8db8e528e3db88","toSide":"top"},
 		{"id":"be349c7c0fcdd95c","fromNode":"4ba9014728e65ddb","fromSide":"right","toNode":"e6d700caa4979f6e","toSide":"left"},
-		{"id":"2c2e7914bc05e5c1","fromNode":"e6d700caa4979f6e","fromSide":"bottom","toNode":"95f292533107734e","toSide":"top"}
+		{"id":"2c2e7914bc05e5c1","fromNode":"e6d700caa4979f6e","fromSide":"bottom","toNode":"95f292533107734e","toSide":"top"},
+		{"id":"f2ecadf55006b5b0","fromNode":"263b35f3a8cebb79","fromSide":"right","toNode":"ffc8becc521cb1a6","toSide":"left"}
 	]
 }
