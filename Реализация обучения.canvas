@@ -42,11 +42,6 @@
 		{"id":"39ccdbc96b7e816c","type":"text","text":"Знакомство с интерфейсом","x":-400,"y":498,"width":250,"height":60,"color":"#5865f2"},
 		{"id":"0990977b50da3202","type":"text","text":"Правила использования Discord в работе.","x":-400,"y":595,"width":250,"height":60,"color":"#5865f2"},
 		{"id":"6044fde32b14a0b4","type":"text","text":"БАЗА для особо не понимающих.","x":-80,"y":292,"width":250,"height":60,"color":"6"},
-		{"id":"0a1e8b44df277a60","type":"text","text":"### Работа с Conflurense","x":-720,"y":279,"width":250,"height":87,"color":"#0048af"},
-		{"id":"49dd4287300946b1","type":"text","text":"Вход на платформу","x":-720,"y":401,"width":250,"height":60,"color":"#0048af"},
-		{"id":"12b17f33e060e0d2","type":"text","text":"Знакомство с интерфейсом","x":-720,"y":498,"width":250,"height":60,"color":"#0048af"},
-		{"id":"0cdcfe38c315e747","type":"text","text":"Создание документов для работы","x":-720,"y":595,"width":250,"height":60,"color":"#0048af"},
-		{"id":"9efb153deedec5aa","type":"text","text":"Ознакомление с базовыми функциями","x":-720,"y":699,"width":250,"height":62,"color":"#0048af"},
 		{"id":"0ae9f16f3d8e8de1","type":"text","text":"### Работа с ChatApp","x":-1020,"y":293,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"733950cd78d28db0","type":"text","text":"FAQ по платформе Dialogs.pro","x":-1460,"y":475,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"84288ae458f24d3d","type":"text","text":"Создание Чат-бота tg","x":-1460,"y":585,"width":250,"height":60,"color":"#0189cb"},
@@ -161,7 +156,12 @@
 		{"id":"670a9fb77c92a090","type":"text","text":"Практика/Общение с клиентом через приложение в dialogs.pro и создание и настройка сделки в bitrix24","x":-797,"y":2965,"width":250,"height":185,"color":"#30c7f8"},
 		{"id":"cf807b111deb2b46","x":-796,"y":3200,"width":250,"height":120,"type":"text","text":"создание открытых линий, подключение коннектора."},
 		{"id":"bb56a4341c4872ba","x":-1219,"y":3236,"width":250,"height":60,"type":"text","text":"права доступа"},
-		{"id":"5c7efd2f3f5f5fa9","x":-1649,"y":2563,"width":250,"height":60,"type":"text","text":"Yclints"}
+		{"id":"5c7efd2f3f5f5fa9","x":-1649,"y":2563,"width":250,"height":60,"type":"text","text":"Yclints"},
+		{"id":"49dd4287300946b1","type":"text","text":"Вход на платформу","x":-720,"y":416,"width":250,"height":60,"color":"#0048af"},
+		{"id":"12b17f33e060e0d2","type":"text","text":"Знакомство с интерфейсом","x":-720,"y":513,"width":250,"height":60,"color":"#0048af"},
+		{"id":"0cdcfe38c315e747","type":"text","text":"Создание документов для работы","x":-720,"y":610,"width":250,"height":60,"color":"#0048af"},
+		{"id":"9efb153deedec5aa","type":"text","text":"Ознакомление с базовыми функциями","x":-720,"y":714,"width":250,"height":62,"color":"#0048af"},
+		{"id":"0a1e8b44df277a60","type":"text","text":"### Работа с Conflurense","x":-720,"y":294,"width":250,"height":87,"color":"#0048af"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
