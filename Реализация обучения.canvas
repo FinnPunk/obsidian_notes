@@ -141,7 +141,7 @@
 		{"id":"28ed6d03a413a826","type":"file","file":"image.jpg","x":-1280,"y":1950,"width":302,"height":402},
 		{"id":"e6d700caa4979f6e","type":"text","text":"штрафы","x":-40,"y":2052,"width":250,"height":60,"color":"6"},
 		{"id":"95f292533107734e","type":"text","text":"увольнение","x":-41,"y":2191,"width":250,"height":60,"color":"6"},
-		{"id":"68708808c257fc1f","type":"text","text":"# Поверсное обучение КБ","x":1120,"y":6640,"width":291,"height":241,"color":"1"}
+		{"id":"68708808c257fc1f","type":"text","text":"# Поверсное обучение Bot Gate","x":1120,"y":6640,"width":291,"height":241,"color":"1"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
