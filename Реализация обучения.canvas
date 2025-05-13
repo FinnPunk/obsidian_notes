@@ -142,7 +142,17 @@
 		{"id":"e6d700caa4979f6e","type":"text","text":"штрафы","x":-40,"y":2052,"width":250,"height":60,"color":"6"},
 		{"id":"95f292533107734e","type":"text","text":"увольнение","x":-41,"y":2191,"width":250,"height":60,"color":"6"},
 		{"id":"68708808c257fc1f","type":"text","text":"# Поверсное обучение Bot Gate","x":1120,"y":6640,"width":291,"height":241,"color":"1"},
-		{"id":"ffc8becc521cb1a6","x":1620,"y":7273,"width":250,"height":60,"type":"text","text":"обучают сами руководители"}
+		{"id":"ffc8becc521cb1a6","x":1620,"y":7273,"width":250,"height":60,"type":"text","text":"обучают сами руководители"},
+		{"id":"cd93be6347f06e47","type":"text","text":"Работа с AmoCrm","x":755,"y":2562,"width":250,"height":60,"color":"#85cef2"},
+		{"id":"3dae9506119bb3ec","type":"text","text":"Регистрация на платформе AmoCrm","x":755,"y":2690,"width":250,"height":80,"color":"#85cef2"},
+		{"id":"884993f59e7b1ce9","type":"text","text":"Интерфейс платформы","x":356,"y":2700,"width":250,"height":60,"color":"#85cef2"},
+		{"id":"fa4b23dc5a409139","type":"text","text":"Вкладка AmoМаркет/приложение ChatApp","x":356,"y":2810,"width":250,"height":60,"color":"#85cef2"},
+		{"id":"d9bc805380271332","type":"text","text":"Вкладка Сделки/Создание сделки/Воронки","x":356,"y":2915,"width":250,"height":100,"color":"#85cef2"},
+		{"id":"a7056dd615bcb6da","type":"text","text":"Вкладка настроек/Настройки ChatApp","x":356,"y":3068,"width":250,"height":81,"color":"#85cef2"},
+		{"id":"b052062c0d5b4780","type":"text","text":"Добавление сотрудников","x":-41,"y":3076,"width":250,"height":66,"color":"#85cef2"},
+		{"id":"6ab3f741f10b1cb7","type":"text","text":"FAQ по частым проблемам не работы приложения ChatApp в AmoCrm и их решения","x":-41,"y":2700,"width":250,"height":130,"color":"#85cef2"},
+		{"id":"83b7f0316e68ffab","type":"text","text":"Практика/Общение с клиентом через приложение в dialogs.pro и создание и настройка сделки в AmoCrm","x":755,"y":2964,"width":250,"height":185,"color":"#85cef2"},
+		{"id":"7ea938b3241fddaa","type":"text","text":"Системные уведомления","x":1139,"y":2810,"width":250,"height":60,"color":"#85cef2"}
 	],
 	"edges":[
 		{"id":"05ef19bea7519215","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right","fromEnd":"arrow"},
@@ -226,7 +236,7 @@
 		{"id":"d2d3759130419a2e","fromNode":"5540b3894a321959","fromSide":"bottom","toNode":"9f3c57697e9d4233","toSide":"top"},
 		{"id":"e652b970c78ef55b","fromNode":"11f771359c296fe2","fromSide":"right","toNode":"5540b3894a321959","toSide":"left","color":"1"},
 		{"id":"3ce6e253f3fa6df7","fromNode":"abadd9121f8bf96a","fromSide":"left","toNode":"84288ae458f24d3d","toSide":"right","fromEnd":"arrow"},
-		{"id":"61ecfd6591e59243","fromNode":"74628d36734a8900","fromSide":"bottom","toNode":"2261d7519c725b23","toSide":"top"},
+		{"id":"61ecfd6591e59243","fromNode":"74628d36734a8900","fromSide":"bottom","toNode":"2261d7519c725b23","toSide":"top","label":"Знакомство"},
 		{"id":"22454ebdf97c36d7","fromNode":"e426e0bc78abe29b","fromSide":"right","toNode":"6044fde32b14a0b4","toSide":"top"},
 		{"id":"f288df8305e775b0","fromNode":"e426e0bc78abe29b","fromSide":"left","toNode":"0ae9f16f3d8e8de1","toSide":"top"},
 		{"id":"b1ec23d2973746b8","fromNode":"ed3870ef548ad114","fromSide":"bottom","toNode":"57427b7aad480d0c","toSide":"top"},
@@ -286,6 +296,16 @@
 		{"id":"6997f3e01ba8ac57","fromNode":"9441c9fb6bcf447f","fromSide":"right","toNode":"2e8db8e528e3db88","toSide":"top"},
 		{"id":"be349c7c0fcdd95c","fromNode":"4ba9014728e65ddb","fromSide":"right","toNode":"e6d700caa4979f6e","toSide":"left"},
 		{"id":"2c2e7914bc05e5c1","fromNode":"e6d700caa4979f6e","fromSide":"bottom","toNode":"95f292533107734e","toSide":"top"},
-		{"id":"f2ecadf55006b5b0","fromNode":"263b35f3a8cebb79","fromSide":"right","toNode":"ffc8becc521cb1a6","toSide":"left"}
+		{"id":"f2ecadf55006b5b0","fromNode":"263b35f3a8cebb79","fromSide":"right","toNode":"ffc8becc521cb1a6","toSide":"left"},
+		{"id":"aaf7d1c5b5e42369","fromNode":"cd93be6347f06e47","fromSide":"bottom","toNode":"3dae9506119bb3ec","toSide":"top"},
+		{"id":"5ed379aca985c983","fromNode":"3dae9506119bb3ec","fromSide":"left","toNode":"884993f59e7b1ce9","toSide":"right"},
+		{"id":"3245669b3fe0dec6","fromNode":"884993f59e7b1ce9","fromSide":"bottom","toNode":"fa4b23dc5a409139","toSide":"top"},
+		{"id":"3023d6c3bf074e93","fromNode":"fa4b23dc5a409139","fromSide":"left","toNode":"6ab3f741f10b1cb7","toSide":"right","fromEnd":"arrow"},
+		{"id":"e325de8dec873ea2","fromNode":"fa4b23dc5a409139","fromSide":"bottom","toNode":"d9bc805380271332","toSide":"top"},
+		{"id":"6ac09b2eacef2f6a","fromNode":"d9bc805380271332","fromSide":"bottom","toNode":"a7056dd615bcb6da","toSide":"top"},
+		{"id":"4fca5dede8e91e7c","fromNode":"a7056dd615bcb6da","fromSide":"right","toNode":"83b7f0316e68ffab","toSide":"left"},
+		{"id":"25329b573af366c2","fromNode":"b052062c0d5b4780","fromSide":"right","toNode":"a7056dd615bcb6da","toSide":"left","fromEnd":"arrow"},
+		{"id":"98657b7bb5197e3e","fromNode":"83b7f0316e68ffab","fromSide":"right","toNode":"7ea938b3241fddaa","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"0a9eb9a5e080d4a9","fromNode":"74628d36734a8900","fromSide":"right","toNode":"cd93be6347f06e47","toSide":"top","label":"Знакомство"}
 	]
 }
