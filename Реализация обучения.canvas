@@ -43,12 +43,6 @@
 		{"id":"0990977b50da3202","type":"text","text":"Правила использования Discord в работе.","x":-400,"y":595,"width":250,"height":60,"color":"#5865f2"},
 		{"id":"6044fde32b14a0b4","type":"text","text":"БАЗА для особо не понимающих.","x":-80,"y":292,"width":250,"height":60,"color":"6"},
 		{"id":"0ae9f16f3d8e8de1","type":"text","text":"### Работа с ChatApp","x":-1020,"y":293,"width":250,"height":60,"color":"#0189cb"},
-		{"id":"733950cd78d28db0","type":"text","text":"FAQ по платформе Dialogs.pro","x":-1460,"y":475,"width":250,"height":60,"color":"#0189cb"},
-		{"id":"84288ae458f24d3d","type":"text","text":"✅ Создание Чат-бота tg","x":-1460,"y":585,"width":250,"height":60,"color":"#0189cb"},
-		{"id":"3b014bd1a2ddd5dc","type":"text","text":"Добавление сотрудников.","x":-1460,"y":807,"width":250,"height":60,"color":"#0189bc"},
-		{"id":"c580735ddebc9548","type":"text","text":"Роли","x":-1460,"y":913,"width":250,"height":60,"color":"#0189bc"},
-		{"id":"ef0510a39083510b","type":"text","text":"FAST Пояснение за \"Базу знаний\"","x":-1460,"y":294,"width":250,"height":58,"color":"#0189cb"},
-		{"id":"12e0c8df07a5cbee","type":"text","text":"FAQ по платформе chatapp","x":-1460,"y":382,"width":250,"height":67,"color":"#0189cb"},
 		{"id":"c7a269263f512cf8","type":"text","text":"Знакомство с интерфейсом","x":-1020,"y":498,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"d100966d8d7ca8ff","type":"text","text":"Вход на платформу chatapp(создание нового аккаунта)","x":-1020,"y":382,"width":250,"height":93,"color":"#0189cb"},
 		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграции в ChatApp","x":-859,"y":2392,"width":374,"height":60,"color":"6"},
@@ -106,7 +100,6 @@
 		{"id":"b40872177f7791eb","type":"text","text":"#### 5 раб день.\nпринцип работы 50/50","x":-2560,"y":9088,"width":250,"height":83,"color":"#00ff2a"},
 		{"id":"691d70788db70cfb","type":"text","text":" # КОНЕЦ!","x":-2560,"y":10320,"width":3780,"height":170,"color":"3"},
 		{"id":"e9cb467a03aec9cd","type":"text","text":"Конструктор ботов","x":-1428,"y":10758,"width":250,"height":60},
-		{"id":"3c4c49169f7415d6","type":"text","text":"Уровни диалогов","x":-1460,"y":1020,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"2e8db8e528e3db88","type":"text","text":"Хранилище S3","x":40,"y":9546,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"28ed6d03a413a826","type":"file","file":"image.jpg","x":-1280,"y":1950,"width":302,"height":402},
 		{"id":"e6d700caa4979f6e","type":"text","text":"штрафы","x":-40,"y":2052,"width":250,"height":60,"color":"6"},
@@ -160,13 +153,20 @@
 		{"id":"0f4a9db8747d6294","type":"text","text":"Внутренние сообщения","x":-166,"y":1370,"width":250,"height":60,"color":"#fd4e89"},
 		{"id":"cd1d49085c9df790","type":"text","text":"Комментарии и пользовательские поля в профиле клиента","x":-166,"y":1450,"width":250,"height":100,"color":"#fd4e89"},
 		{"id":"40a5ae158bc175e6","type":"text","text":"Создание компании. ","x":-1020,"y":580,"width":250,"height":60},
-		{"id":"4bb109c980d955b6","type":"text","text":"Управление Telegram группами в ChatApp Dialog","x":-1460,"y":670,"width":250,"height":116,"color":"#0189cb"},
 		{"id":"cafaf3dacd35c551","x":-1020,"y":672,"width":250,"height":60,"type":"text","text":"Добавление каналов"},
 		{"id":"40cef4608120a6cd","type":"text","text":"Предоставление доступа сотруднику техподдержки","x":-1020,"y":1027,"width":250,"height":110,"color":"#0189cb"},
 		{"id":"8bb406d0a8ddf3b8","type":"text","text":"Метрики компании","x":-1020,"y":764,"width":250,"height":60},
 		{"id":"aca3fc1ee446bb25","type":"text","text":"\"Настройки\" компании","x":-1020,"y":844,"width":250,"height":60},
 		{"id":"cf8a5dce86d501d5","type":"text","text":"Вкладку финансы","x":-1020,"y":934,"width":250,"height":60},
-		{"id":"18441b8f4400dd06","x":-747,"y":934,"width":250,"height":60,"type":"text","text":"Покупка линии. чуть"}
+		{"id":"18441b8f4400dd06","x":-747,"y":934,"width":250,"height":60,"type":"text","text":"Покупка линии. чуть"},
+		{"id":"ef0510a39083510b","type":"text","text":"FAST Пояснение за \"Базу знаний\"","x":-797,"y":1449,"width":250,"height":58,"color":"#0189cb"},
+		{"id":"733950cd78d28db0","type":"text","text":"FAQ по платформе Dialogs.pro","x":-797,"y":1630,"width":250,"height":60,"color":"#0189cb"},
+		{"id":"12e0c8df07a5cbee","type":"text","text":"FAQ по платформе chatapp","x":-797,"y":1537,"width":250,"height":67,"color":"#0189cb"},
+		{"id":"3b014bd1a2ddd5dc","type":"text","text":"Добавление сотрудников.","x":-1420,"y":814,"width":250,"height":60,"color":"#0189bc"},
+		{"id":"c580735ddebc9548","type":"text","text":"Роли","x":-1420,"y":920,"width":250,"height":60,"color":"#0189bc"},
+		{"id":"3c4c49169f7415d6","type":"text","text":"Уровни диалогов","x":-1420,"y":1027,"width":250,"height":60,"color":"#0189bc"},
+		{"id":"4bb109c980d955b6","type":"text","text":"Управление Telegram группами в ChatApp Dialog","x":-1420,"y":677,"width":250,"height":116,"color":"#0189cb"},
+		{"id":"84288ae458f24d3d","type":"text","text":"✅ Создание Чат-бота tg","x":-1420,"y":580,"width":250,"height":60,"color":"#0189cb"}
 	],
 	"edges":[
 		{"id":"d871bf02e05a634b","fromNode":"68039ad372b310d0","fromSide":"bottom","toNode":"41a454b84090f2ef","toSide":"top"},
@@ -328,6 +328,8 @@
 		{"id":"0fb771c9f0a614c2","fromNode":"cf8a5dce86d501d5","fromSide":"right","toNode":"18441b8f4400dd06","toSide":"left"},
 		{"id":"acc582cd2ccb5eab","fromNode":"40a5ae158bc175e6","fromSide":"bottom","toNode":"cafaf3dacd35c551","toSide":"top"},
 		{"id":"a5ba09b0258bcf9d","fromNode":"cafaf3dacd35c551","fromSide":"bottom","toNode":"8bb406d0a8ddf3b8","toSide":"top"},
-		{"id":"83b0b4e50e474376","fromNode":"4bb109c980d955b6","fromSide":"right","toNode":"cafaf3dacd35c551","toSide":"left"}
+		{"id":"673c737013117250","fromNode":"84288ae458f24d3d","fromSide":"right","toNode":"cafaf3dacd35c551","toSide":"left"},
+		{"id":"0811faa7f3840d1f","fromNode":"3b014bd1a2ddd5dc","fromSide":"right","toNode":"aca3fc1ee446bb25","toSide":"left","fromEnd":"arrow"},
+		{"id":"0c01aa9cfe6f0d54","fromNode":"4bb109c980d955b6","fromSide":"top","toNode":"84288ae458f24d3d","toSide":"bottom","fromEnd":"arrow"}
 	]
 }
