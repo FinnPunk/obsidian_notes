@@ -162,10 +162,10 @@
 		{"id":"ef0510a39083510b","type":"text","text":"FAST Пояснение за \"Базу знаний\"","x":-797,"y":1449,"width":250,"height":58,"color":"#0189cb"},
 		{"id":"733950cd78d28db0","type":"text","text":"FAQ по платформе Dialogs.pro","x":-797,"y":1630,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"12e0c8df07a5cbee","type":"text","text":"FAQ по платформе chatapp","x":-797,"y":1537,"width":250,"height":67,"color":"#0189cb"},
-		{"id":"3b014bd1a2ddd5dc","type":"text","text":"Добавление сотрудников.","x":-1420,"y":814,"width":250,"height":60,"color":"#0189bc"},
-		{"id":"c580735ddebc9548","type":"text","text":"Роли","x":-1420,"y":920,"width":250,"height":60,"color":"#0189bc"},
+		{"id":"3b014bd1a2ddd5dc","type":"text","text":"Добавление сотрудников.","x":-1420,"y":844,"width":250,"height":60,"color":"#0189bc"},
+		{"id":"c580735ddebc9548","type":"text","text":"Роли","x":-1420,"y":934,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"3c4c49169f7415d6","type":"text","text":"Уровни диалогов","x":-1420,"y":1027,"width":250,"height":60,"color":"#0189bc"},
-		{"id":"4bb109c980d955b6","type":"text","text":"Управление Telegram группами в ChatApp Dialog","x":-1420,"y":677,"width":250,"height":116,"color":"#0189cb"},
+		{"id":"4bb109c980d955b6","type":"text","text":"Управление Telegram группами в ChatApp Dialog","x":-1420,"y":708,"width":250,"height":116,"color":"#0189cb"},
 		{"id":"84288ae458f24d3d","type":"text","text":"✅ Создание Чат-бота tg","x":-1420,"y":580,"width":250,"height":60,"color":"#0189cb"}
 	],
 	"edges":[
