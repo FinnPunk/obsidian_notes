@@ -29,7 +29,6 @@
 		{"id":"d013e34750e3f88f","type":"text","text":"### Этап 1 - Подготовительный","x":-812,"y":-238,"width":265,"height":93,"color":"#c20000"},
 		{"id":"537028a1c5d7851d","type":"text","text":"# 1 раб день.\n","x":-2560,"y":-920,"width":250,"height":80,"color":"#00ff2a"},
 		{"id":"a1ec952254833a0e","type":"text","text":"Какие цели и задачи у тех поддержки.","x":-804,"y":-400,"width":250,"height":60,"color":"#00a31b"},
-		{"id":"537af82b56f26222","type":"text","text":"Как брать отгулы?","x":-1087,"y":-520,"width":250,"height":60,"color":"4"},
 		{"id":"56b4ddf931482076","type":"text","text":"Премия? За что?","x":-804,"y":-520,"width":250,"height":60,"color":"4"},
 		{"id":"111b82d28b0788e3","type":"text","text":"Обед? Пятничные вечера?","x":-517,"y":-520,"width":250,"height":60,"color":"4"},
 		{"id":"89a2e73fab1de04c","type":"text","text":"О компании. Цели компании, отделы и за что отвечают, руководители, кол-во сотрудников, плюшки для сотрудников.","x":-804,"y":-760,"width":250,"height":178,"color":"#00a31b"},
@@ -162,11 +161,12 @@
 		{"id":"c580735ddebc9548","type":"text","text":"✅Роли","x":-1420,"y":934,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"3c4c49169f7415d6","type":"text","text":"**❓**Уровни диалогов","x":-1420,"y":1027,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"4bb109c980d955b6","type":"text","text":"Управление Telegram группами в ChatApp Dialog","x":-1420,"y":708,"width":250,"height":116,"color":"#0189cb"},
-		{"id":"1cd5851df217b11d","type":"text","text":"Соц.Сети","x":-80,"y":401,"width":250,"height":60,"color":"6"},
-		{"id":"861811bb263691f4","type":"text","text":"Правила, изучение, зачем?","x":-80,"y":498,"width":250,"height":60,"color":"6"},
 		{"id":"84288ae458f24d3d","type":"text","text":"✅ Создание Чат-бота tg","x":-1420,"y":580,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"cf8a5dce86d501d5","type":"text","text":"Вкладку финансы","x":-1781,"y":2885,"width":250,"height":60,"color":"#0189bc"},
-		{"id":"18441b8f4400dd06","type":"text","text":"Покупка линии. чуть","x":-1508,"y":2885,"width":250,"height":60,"color":"#0189bc"}
+		{"id":"18441b8f4400dd06","type":"text","text":"Покупка линии. чуть","x":-1508,"y":2885,"width":250,"height":60,"color":"#0189bc"},
+		{"id":"1cd5851df217b11d","type":"text","text":"Соц.Сети","x":-1087,"y":-400,"width":250,"height":60,"color":"6"},
+		{"id":"861811bb263691f4","type":"text","text":"Правила, изучение, зачем?","x":-1087,"y":-303,"width":250,"height":60,"color":"6"},
+		{"id":"537af82b56f26222","type":"text","text":"Как брать отгулы?","x":-1420,"y":-520,"width":250,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"d871bf02e05a634b","fromNode":"68039ad372b310d0","fromSide":"bottom","toNode":"41a454b84090f2ef","toSide":"top"},
@@ -315,7 +315,6 @@
 		{"id":"0999f1d6c9d34f05","fromNode":"d3656b40dde19633","fromSide":"bottom","toNode":"298e26aadb8c250d","toSide":"top"},
 		{"id":"9ebfd6fb944b4f72","fromNode":"298e26aadb8c250d","fromSide":"bottom","toNode":"dcc9bc72239cfb85","toSide":"top"},
 		{"id":"8657f7a0a5695eb6","fromNode":"4b32af94d538f74e","fromSide":"bottom","toNode":"79c1e30148e4e4bf","toSide":"top"},
-		{"id":"2eff3b74c764c6d8","fromNode":"6044fde32b14a0b4","fromSide":"bottom","toNode":"1cd5851df217b11d","toSide":"top"},
 		{"id":"5e37311335ec8e0c","fromNode":"1cd5851df217b11d","fromSide":"bottom","toNode":"861811bb263691f4","toSide":"top"},
 		{"id":"34e445fc8899155d","fromNode":"c33ceb90acc51c8e","fromSide":"bottom","toNode":"670a9fb77c92a090","toSide":"top"},
 		{"id":"c62f7364d48542e0","fromNode":"670a9fb77c92a090","fromSide":"bottom","toNode":"cf807b111deb2b46","toSide":"top"},
