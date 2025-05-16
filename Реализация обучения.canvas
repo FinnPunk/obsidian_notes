@@ -164,9 +164,8 @@
 		{"id":"84288ae458f24d3d","type":"text","text":"✅ Создание Чат-бота tg","x":-1420,"y":580,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"cf8a5dce86d501d5","type":"text","text":"Вкладку финансы","x":-1781,"y":2885,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"18441b8f4400dd06","type":"text","text":"Покупка линии. чуть","x":-1508,"y":2885,"width":250,"height":60,"color":"#0189bc"},
-		{"id":"1cd5851df217b11d","type":"text","text":"Соц.Сети","x":-1087,"y":-400,"width":250,"height":60,"color":"6"},
-		{"id":"861811bb263691f4","type":"text","text":"Правила, изучение, зачем?","x":-1087,"y":-303,"width":250,"height":60,"color":"6"},
-		{"id":"537af82b56f26222","type":"text","text":"Как брать отгулы?","x":-1420,"y":-520,"width":250,"height":60,"color":"4"}
+		{"id":"537af82b56f26222","type":"text","text":"Как брать отгулы?","x":-1420,"y":-520,"width":250,"height":60,"color":"4"},
+		{"id":"1cd5851df217b11d","type":"text","text":"Соц.Сети","x":-1100,"y":-520,"width":250,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"d871bf02e05a634b","fromNode":"68039ad372b310d0","fromSide":"bottom","toNode":"41a454b84090f2ef","toSide":"top"},
@@ -274,7 +273,6 @@
 		{"id":"5822c10adca88d2a","fromNode":"3b014bd1a2ddd5dc","fromSide":"bottom","toNode":"c580735ddebc9548","toSide":"top"},
 		{"id":"0a907b65c13f41d4","fromNode":"2bc2328adba805d4","fromSide":"right","toNode":"57427b7aad480d0c","toSide":"left","color":"1"},
 		{"id":"64ba52ca787bce36","fromNode":"111b82d28b0788e3","fromSide":"bottom","toNode":"a1ec952254833a0e","toSide":"right"},
-		{"id":"46f89fb96cdad5e1","fromNode":"537af82b56f26222","fromSide":"right","toNode":"56b4ddf931482076","toSide":"left"},
 		{"id":"b247dae6b091e3ea","fromNode":"56b4ddf931482076","fromSide":"right","toNode":"111b82d28b0788e3","toSide":"left"},
 		{"id":"b969265f73da895d","fromNode":"dd5335d6c86bed46","fromSide":"bottom","toNode":"5cf5a9d21c6f8dc9","toSide":"bottom"},
 		{"id":"ec3dccbb9ee3a6b7","fromNode":"5cf5a9d21c6f8dc9","fromSide":"top","toNode":"ec848f677125eb95","toSide":"bottom"},
@@ -315,7 +313,6 @@
 		{"id":"0999f1d6c9d34f05","fromNode":"d3656b40dde19633","fromSide":"bottom","toNode":"298e26aadb8c250d","toSide":"top"},
 		{"id":"9ebfd6fb944b4f72","fromNode":"298e26aadb8c250d","fromSide":"bottom","toNode":"dcc9bc72239cfb85","toSide":"top"},
 		{"id":"8657f7a0a5695eb6","fromNode":"4b32af94d538f74e","fromSide":"bottom","toNode":"79c1e30148e4e4bf","toSide":"top"},
-		{"id":"5e37311335ec8e0c","fromNode":"1cd5851df217b11d","fromSide":"bottom","toNode":"861811bb263691f4","toSide":"top"},
 		{"id":"34e445fc8899155d","fromNode":"c33ceb90acc51c8e","fromSide":"bottom","toNode":"670a9fb77c92a090","toSide":"top"},
 		{"id":"c62f7364d48542e0","fromNode":"670a9fb77c92a090","fromSide":"bottom","toNode":"cf807b111deb2b46","toSide":"top"},
 		{"id":"6841dac0f69943cb","fromNode":"cf807b111deb2b46","fromSide":"left","toNode":"bb56a4341c4872ba","toSide":"right"},
@@ -328,6 +325,8 @@
 		{"id":"673c737013117250","fromNode":"84288ae458f24d3d","fromSide":"right","toNode":"cafaf3dacd35c551","toSide":"left"},
 		{"id":"0811faa7f3840d1f","fromNode":"3b014bd1a2ddd5dc","fromSide":"right","toNode":"aca3fc1ee446bb25","toSide":"left","fromEnd":"arrow"},
 		{"id":"0c01aa9cfe6f0d54","fromNode":"4bb109c980d955b6","fromSide":"top","toNode":"84288ae458f24d3d","toSide":"bottom","fromEnd":"arrow"},
-		{"id":"f434369d6cbeb5f5","fromNode":"aca3fc1ee446bb25","fromSide":"bottom","toNode":"40cef4608120a6cd","toSide":"top"}
+		{"id":"f434369d6cbeb5f5","fromNode":"aca3fc1ee446bb25","fromSide":"bottom","toNode":"40cef4608120a6cd","toSide":"top"},
+		{"id":"90f71d9dbfe98b4c","fromNode":"537af82b56f26222","fromSide":"right","toNode":"1cd5851df217b11d","toSide":"left"},
+		{"id":"50462c7ae4af5306","fromNode":"1cd5851df217b11d","fromSide":"right","toNode":"56b4ddf931482076","toSide":"left"}
 	]
 }
