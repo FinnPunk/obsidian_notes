@@ -155,8 +155,6 @@
 		{"id":"40cef4608120a6cd","type":"text","text":"Предоставление доступа сотруднику техподдержки","x":-1020,"y":1027,"width":250,"height":110,"color":"#0189bc"},
 		{"id":"8bb406d0a8ddf3b8","type":"text","text":"✅Метрики компании","x":-1020,"y":764,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"aca3fc1ee446bb25","type":"text","text":"✅\"Настройки\" компании","x":-1020,"y":844,"width":250,"height":60,"color":"#0189bc"},
-		{"id":"cf8a5dce86d501d5","type":"text","text":"Вкладку финансы","x":-1020,"y":934,"width":250,"height":60,"color":"#0189bc"},
-		{"id":"18441b8f4400dd06","type":"text","text":"Покупка линии. чуть","x":-747,"y":934,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"ef0510a39083510b","type":"text","text":"FAST Пояснение за \"Базу знаний\"","x":-797,"y":1449,"width":250,"height":58,"color":"#0189cb"},
 		{"id":"733950cd78d28db0","type":"text","text":"FAQ по платформе Dialogs.pro","x":-797,"y":1630,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"12e0c8df07a5cbee","type":"text","text":"FAQ по платформе chatapp","x":-797,"y":1537,"width":250,"height":67,"color":"#0189cb"},
@@ -166,7 +164,9 @@
 		{"id":"4bb109c980d955b6","type":"text","text":"Управление Telegram группами в ChatApp Dialog","x":-1420,"y":708,"width":250,"height":116,"color":"#0189cb"},
 		{"id":"1cd5851df217b11d","type":"text","text":"Соц.Сети","x":-80,"y":401,"width":250,"height":60,"color":"6"},
 		{"id":"861811bb263691f4","type":"text","text":"Правила, изучение, зачем?","x":-80,"y":498,"width":250,"height":60,"color":"6"},
-		{"id":"84288ae458f24d3d","type":"text","text":"✅ Создание Чат-бота tg","x":-1420,"y":580,"width":250,"height":60,"color":"#0189cb"}
+		{"id":"84288ae458f24d3d","type":"text","text":"✅ Создание Чат-бота tg","x":-1420,"y":580,"width":250,"height":60,"color":"#0189cb"},
+		{"id":"cf8a5dce86d501d5","type":"text","text":"Вкладку финансы","x":-1781,"y":2885,"width":250,"height":60,"color":"#0189bc"},
+		{"id":"18441b8f4400dd06","type":"text","text":"Покупка линии. чуть","x":-1508,"y":2885,"width":250,"height":60,"color":"#0189bc"}
 	],
 	"edges":[
 		{"id":"d871bf02e05a634b","fromNode":"68039ad372b310d0","fromSide":"bottom","toNode":"41a454b84090f2ef","toSide":"top"},
@@ -323,13 +323,12 @@
 		{"id":"1d8d61d1a1850fcd","fromNode":"74628d36734a8900","fromSide":"left","toNode":"5c7efd2f3f5f5fa9","toSide":"top","label":"Знакомство"},
 		{"id":"ff92265f344401f4","fromNode":"c7a269263f512cf8","fromSide":"bottom","toNode":"40a5ae158bc175e6","toSide":"top"},
 		{"id":"234a9844eca4d42a","fromNode":"8bb406d0a8ddf3b8","fromSide":"bottom","toNode":"aca3fc1ee446bb25","toSide":"top"},
-		{"id":"a3df7de4e5bd9e4c","fromNode":"aca3fc1ee446bb25","fromSide":"bottom","toNode":"cf8a5dce86d501d5","toSide":"top"},
-		{"id":"44ec9a4778f5cb21","fromNode":"cf8a5dce86d501d5","fromSide":"bottom","toNode":"40cef4608120a6cd","toSide":"top"},
 		{"id":"0fb771c9f0a614c2","fromNode":"cf8a5dce86d501d5","fromSide":"right","toNode":"18441b8f4400dd06","toSide":"left"},
 		{"id":"acc582cd2ccb5eab","fromNode":"40a5ae158bc175e6","fromSide":"bottom","toNode":"cafaf3dacd35c551","toSide":"top"},
 		{"id":"a5ba09b0258bcf9d","fromNode":"cafaf3dacd35c551","fromSide":"bottom","toNode":"8bb406d0a8ddf3b8","toSide":"top"},
 		{"id":"673c737013117250","fromNode":"84288ae458f24d3d","fromSide":"right","toNode":"cafaf3dacd35c551","toSide":"left"},
 		{"id":"0811faa7f3840d1f","fromNode":"3b014bd1a2ddd5dc","fromSide":"right","toNode":"aca3fc1ee446bb25","toSide":"left","fromEnd":"arrow"},
-		{"id":"0c01aa9cfe6f0d54","fromNode":"4bb109c980d955b6","fromSide":"top","toNode":"84288ae458f24d3d","toSide":"bottom","fromEnd":"arrow"}
+		{"id":"0c01aa9cfe6f0d54","fromNode":"4bb109c980d955b6","fromSide":"top","toNode":"84288ae458f24d3d","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"f434369d6cbeb5f5","fromNode":"aca3fc1ee446bb25","fromSide":"bottom","toNode":"40cef4608120a6cd","toSide":"top"}
 	]
 }
