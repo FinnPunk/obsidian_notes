@@ -142,13 +142,6 @@
 		{"id":"0cdcfe38c315e747","type":"text","text":"✅Создание документов для работы","x":-720,"y":610,"width":250,"height":60,"color":"#0048af"},
 		{"id":"9efb153deedec5aa","type":"text","text":"✅Ознакомление с базовыми функциями","x":-720,"y":714,"width":250,"height":62,"color":"#0048af"},
 		{"id":"0a1e8b44df277a60","type":"text","text":"### ✅Работа с Conflurense","x":-720,"y":294,"width":250,"height":87,"color":"#0048af"},
-		{"id":"ed3870ef548ad114","type":"text","text":"Практика, получение сообщений из добавленных соц. сетей\nОтвет на сообщения, быстрыми ответами/добавление своих быстрых ответов.","x":-166,"y":1570,"width":250,"height":209,"color":"#fd4e89"},
-		{"id":"68039ad372b310d0","type":"text","text":"Dialogs.pro","x":-166,"y":1050,"width":250,"height":60,"color":"#fd4e89"},
-		{"id":"41a454b84090f2ef","type":"text","text":"Быстрые ответы\n","x":-166,"y":1130,"width":250,"height":60,"color":"#fd4e89"},
-		{"id":"d9ade519774a989c","type":"text","text":"Chatapp assistant","x":-166,"y":1210,"width":250,"height":60,"color":"#fd4e89"},
-		{"id":"6f37a688f92d0323","type":"text","text":"Теги/Метки диалогов","x":-166,"y":1290,"width":250,"height":60,"color":"#fd4e89"},
-		{"id":"0f4a9db8747d6294","type":"text","text":"Внутренние сообщения","x":-166,"y":1370,"width":250,"height":60,"color":"#fd4e89"},
-		{"id":"cd1d49085c9df790","type":"text","text":"Комментарии и пользовательские поля в профиле клиента","x":-166,"y":1450,"width":250,"height":100,"color":"#fd4e89"},
 		{"id":"40a5ae158bc175e6","type":"text","text":"✅Создание компании. ","x":-1020,"y":580,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"cafaf3dacd35c551","type":"text","text":"✅Добавление каналов","x":-1020,"y":672,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"40cef4608120a6cd","type":"text","text":"Предоставление доступа сотруднику техподдержки","x":-1020,"y":1027,"width":250,"height":110,"color":"#0189bc"},
@@ -165,11 +158,16 @@
 		{"id":"cf8a5dce86d501d5","type":"text","text":"Вкладку финансы","x":-1781,"y":2885,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"18441b8f4400dd06","type":"text","text":"Покупка линии. чуть","x":-1508,"y":2885,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"537af82b56f26222","type":"text","text":"Как брать отгулы?","x":-1420,"y":-520,"width":250,"height":60,"color":"4"},
-		{"id":"1cd5851df217b11d","type":"text","text":"Соц.Сети","x":-1100,"y":-520,"width":250,"height":60,"color":"4"}
+		{"id":"1cd5851df217b11d","type":"text","text":"Соц.Сети","x":-1100,"y":-520,"width":250,"height":60,"color":"4"},
+		{"id":"d9ade519774a989c","type":"text","text":"✅Chatapp assistant","x":-470,"y":1050,"width":250,"height":60,"color":"#fd4e89"},
+		{"id":"41a454b84090f2ef","type":"text","text":"✅Быстрые ответы\n","x":-740,"y":1050,"width":250,"height":60,"color":"#fd4e89"},
+		{"id":"68039ad372b310d0","type":"text","text":"Dialogs.pro","x":-200,"y":1050,"width":250,"height":60,"color":"#fd4e89"},
+		{"id":"6f37a688f92d0323","type":"text","text":"Теги/Метки диалогов","x":-200,"y":1141,"width":250,"height":60,"color":"#fd4e89"},
+		{"id":"ed3870ef548ad114","type":"text","text":"Практика, получение сообщений из добавленных соц. сетей\nОтвет на сообщения, быстрыми ответами/добавление своих быстрых ответов.","x":-200,"y":1421,"width":250,"height":209,"color":"#fd4e89"},
+		{"id":"0f4a9db8747d6294","type":"text","text":"Внутренние сообщения","x":-200,"y":1221,"width":250,"height":60,"color":"#fd4e89"},
+		{"id":"cd1d49085c9df790","type":"text","text":"Комментарии и пользовательские поля в профиле клиента","x":-200,"y":1301,"width":250,"height":100,"color":"#fd4e89"}
 	],
 	"edges":[
-		{"id":"d871bf02e05a634b","fromNode":"68039ad372b310d0","fromSide":"bottom","toNode":"41a454b84090f2ef","toSide":"top"},
-		{"id":"baadc7bec9247b68","fromNode":"41a454b84090f2ef","fromSide":"bottom","toNode":"d9ade519774a989c","toSide":"top"},
 		{"id":"4ca2eb823073c091","fromNode":"ef0510a39083510b","fromSide":"bottom","toNode":"12e0c8df07a5cbee","toSide":"top"},
 		{"id":"ec41aeba5f3a59cf","fromNode":"12e0c8df07a5cbee","fromSide":"bottom","toNode":"733950cd78d28db0","toSide":"top"},
 		{"id":"ed21301167fcd529","fromNode":"a1ec952254833a0e","fromSide":"bottom","toNode":"d013e34750e3f88f","toSide":"top"},
@@ -264,8 +262,6 @@
 		{"id":"0765a020e7406194","fromNode":"c3e6a4eb41cccd80","fromSide":"right","toNode":"802004a6c5ce780a","toSide":"top"},
 		{"id":"41e6c670930debc2","fromNode":"802004a6c5ce780a","fromSide":"bottom","toNode":"6f276e4a542a3ade","toSide":"top"},
 		{"id":"c08540c124142f4f","fromNode":"802004a6c5ce780a","fromSide":"bottom","toNode":"42e9354fc4111c05","toSide":"top"},
-		{"id":"bd0efc2ba2196f51","fromNode":"40cef4608120a6cd","fromSide":"right","toNode":"68039ad372b310d0","toSide":"left"},
-		{"id":"927b97e475595773","fromNode":"d9ade519774a989c","fromSide":"bottom","toNode":"6f37a688f92d0323","toSide":"top"},
 		{"id":"624b3c04c827af99","fromNode":"6f37a688f92d0323","fromSide":"bottom","toNode":"0f4a9db8747d6294","toSide":"top"},
 		{"id":"5aa778d79640860a","fromNode":"1bf43c1886f0f969","fromSide":"right","toNode":"e24f303e0c9aa94b","toSide":"left","fromEnd":"arrow"},
 		{"id":"a58cc2c3fec26d65","fromNode":"0f4a9db8747d6294","fromSide":"bottom","toNode":"cd1d49085c9df790","toSide":"top"},
@@ -327,6 +323,10 @@
 		{"id":"0c01aa9cfe6f0d54","fromNode":"4bb109c980d955b6","fromSide":"top","toNode":"84288ae458f24d3d","toSide":"bottom","fromEnd":"arrow"},
 		{"id":"f434369d6cbeb5f5","fromNode":"aca3fc1ee446bb25","fromSide":"bottom","toNode":"40cef4608120a6cd","toSide":"top"},
 		{"id":"90f71d9dbfe98b4c","fromNode":"537af82b56f26222","fromSide":"right","toNode":"1cd5851df217b11d","toSide":"left"},
-		{"id":"50462c7ae4af5306","fromNode":"1cd5851df217b11d","fromSide":"right","toNode":"56b4ddf931482076","toSide":"left"}
+		{"id":"50462c7ae4af5306","fromNode":"1cd5851df217b11d","fromSide":"right","toNode":"56b4ddf931482076","toSide":"left"},
+		{"id":"3f69e2cdcb38dd53","fromNode":"40cef4608120a6cd","fromSide":"right","toNode":"41a454b84090f2ef","toSide":"left"},
+		{"id":"2c498727a696b2aa","fromNode":"41a454b84090f2ef","fromSide":"right","toNode":"d9ade519774a989c","toSide":"left"},
+		{"id":"b14cc685faecb19d","fromNode":"d9ade519774a989c","fromSide":"right","toNode":"68039ad372b310d0","toSide":"left"},
+		{"id":"6ecc01860eff2d50","fromNode":"68039ad372b310d0","fromSide":"bottom","toNode":"6f37a688f92d0323","toSide":"top"}
 	]
 }
