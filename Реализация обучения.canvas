@@ -164,7 +164,7 @@
 		{"id":"12e0c8df07a5cbee","type":"text","text":"FAQ по платформе chatapp","x":-797,"y":1585,"width":250,"height":67,"color":"#0189cb"},
 		{"id":"56b4ddf931482076","type":"text","text":"Премия? За что?","x":-812,"y":-520,"width":250,"height":60,"color":"4"},
 		{"id":"537af82b56f26222","type":"text","text":"Как брать отгулы?","x":-1428,"y":-520,"width":250,"height":60,"color":"4"},
-		{"id":"1cd5851df217b11d","type":"text","text":"Соц.Сети","x":-1108,"y":-520,"width":250,"height":60,"color":"4"},
+		{"id":"1cd5851df217b11d","type":"text","text":"✅Соц.Сети","x":-1108,"y":-520,"width":250,"height":60,"color":"4"},
 		{"id":"819c94ea4592492c","x":-508,"y":-520,"width":250,"height":60,"color":"4","type":"text","text":"Обед?"},
 		{"id":"111b82d28b0788e3","type":"text","text":"✅Пятничные вечера?","x":-228,"y":-520,"width":250,"height":60,"color":"4"}
 	],
