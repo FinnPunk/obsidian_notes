@@ -166,7 +166,8 @@
 		{"id":"1cd5851df217b11d","type":"text","text":"✅Соц.Сети","x":-1108,"y":-520,"width":250,"height":60,"color":"4"},
 		{"id":"819c94ea4592492c","type":"text","text":"✅Обед?","x":-508,"y":-520,"width":250,"height":60,"color":"4"},
 		{"id":"111b82d28b0788e3","type":"text","text":"✅Пятничные вечера?","x":-228,"y":-520,"width":250,"height":60,"color":"4"},
-		{"id":"a1ec952254833a0e","type":"text","text":"Какие цели и задачи у тех поддержки.","x":-804,"y":-340,"width":250,"height":60,"color":"#00a31b"}
+		{"id":"a1ec952254833a0e","type":"text","text":"Какие цели и задачи у тех поддержки.","x":-804,"y":-340,"width":250,"height":60,"color":"#00a31b"},
+		{"id":"bbe2b2d4fa89754f","x":-1428,"y":-360,"width":250,"height":60,"type":"text","text":"Узнать про документы"}
 	],
 	"edges":[
 		{"id":"4ca2eb823073c091","fromNode":"ef0510a39083510b","fromSide":"bottom","toNode":"12e0c8df07a5cbee","toSide":"top"},
@@ -330,6 +331,7 @@
 		{"id":"6ecc01860eff2d50","fromNode":"68039ad372b310d0","fromSide":"bottom","toNode":"6f37a688f92d0323","toSide":"top"},
 		{"id":"40b06ee9773a6ec0","fromNode":"ed3870ef548ad114","fromSide":"left","toNode":"ef0510a39083510b","toSide":"right"},
 		{"id":"02a4af5359592786","fromNode":"56b4ddf931482076","fromSide":"right","toNode":"819c94ea4592492c","toSide":"left"},
-		{"id":"2464ecb63c73d7c0","fromNode":"819c94ea4592492c","fromSide":"right","toNode":"111b82d28b0788e3","toSide":"left"}
+		{"id":"2464ecb63c73d7c0","fromNode":"819c94ea4592492c","fromSide":"right","toNode":"111b82d28b0788e3","toSide":"left"},
+		{"id":"b6b83084b0742b6a","fromNode":"537af82b56f26222","fromSide":"bottom","toNode":"bbe2b2d4fa89754f","toSide":"top"}
 	]
 }
