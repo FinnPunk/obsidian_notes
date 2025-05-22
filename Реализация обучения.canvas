@@ -38,7 +38,7 @@
 		{"id":"39ccdbc96b7e816c","type":"text","text":"✅Знакомство с интерфейсом","x":-400,"y":498,"width":250,"height":60,"color":"#5865f2"},
 		{"id":"0990977b50da3202","type":"text","text":"✅Правила использования Discord в работе.","x":-400,"y":595,"width":250,"height":60,"color":"#5865f2"},
 		{"id":"6044fde32b14a0b4","type":"text","text":"✅БАЗА для особо не понимающих.","x":-80,"y":292,"width":250,"height":60,"color":"6"},
-		{"id":"0ae9f16f3d8e8de1","type":"text","text":"### ✅Работа с ChatApp","x":-1020,"y":293,"width":250,"height":60,"color":"#0189bc"},
+		{"id":"0ae9f16f3d8e8de1","type":"text","text":"### ✅Работа с ChatApp","x":-1020,"y":260,"width":250,"height":93,"color":"#0189bc"},
 		{"id":"c7a269263f512cf8","type":"text","text":"✅Знакомство с интерфейсом","x":-1020,"y":498,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"d100966d8d7ca8ff","type":"text","text":"✅Вход на платформу chatapp(создание нового аккаунта)","x":-1020,"y":382,"width":250,"height":93,"color":"#0189bc"},
 		{"id":"74628d36734a8900","type":"text","text":"Вкладка интеграции в ChatApp","x":-859,"y":2392,"width":374,"height":60,"color":"6"},
