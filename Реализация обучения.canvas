@@ -28,7 +28,6 @@
 		{"id":"2bc2328adba805d4","type":"text","text":"# 2 раб день.","x":-2560,"y":1814,"width":250,"height":83,"color":"#00ff2a"},
 		{"id":"d013e34750e3f88f","type":"text","text":"### Этап 1 - Подготовительный","x":-812,"y":-238,"width":265,"height":93,"color":"#c20000"},
 		{"id":"537028a1c5d7851d","type":"text","text":"# 1 раб день.\n","x":-2560,"y":-920,"width":250,"height":80,"color":"#00ff2a"},
-		{"id":"a1ec952254833a0e","type":"text","text":"Какие цели и задачи у тех поддержки.","x":-804,"y":-400,"width":250,"height":60,"color":"#00a31b"},
 		{"id":"89a2e73fab1de04c","type":"text","text":"О компании. Цели компании, отделы и за что отвечают, руководители, кол-во сотрудников, плюшки для сотрудников.","x":-804,"y":-760,"width":250,"height":178,"color":"#00a31b"},
 		{"id":"ef75b771c37bb6e8","type":"text","text":"### Этап 0 - Welcome book","x":-839,"y":-920,"width":320,"height":80,"color":"#c20000"},
 		{"id":"4833a849f44d50e5","type":"text","text":"✅ Создание задач","x":-2120,"y":732,"width":250,"height":60,"color":"#89e6bf"},
@@ -166,7 +165,8 @@
 		{"id":"537af82b56f26222","type":"text","text":"Как брать отгулы?","x":-1428,"y":-520,"width":250,"height":60,"color":"4"},
 		{"id":"1cd5851df217b11d","type":"text","text":"✅Соц.Сети","x":-1108,"y":-520,"width":250,"height":60,"color":"4"},
 		{"id":"819c94ea4592492c","x":-508,"y":-520,"width":250,"height":60,"color":"4","type":"text","text":"✅Обед?"},
-		{"id":"111b82d28b0788e3","type":"text","text":"✅Пятничные вечера?","x":-228,"y":-520,"width":250,"height":60,"color":"4"}
+		{"id":"111b82d28b0788e3","type":"text","text":"✅Пятничные вечера?","x":-228,"y":-520,"width":250,"height":60,"color":"4"},
+		{"id":"a1ec952254833a0e","type":"text","text":"Какие цели и задачи у тех поддержки.","x":-804,"y":-340,"width":250,"height":60,"color":"#00a31b"}
 	],
 	"edges":[
 		{"id":"4ca2eb823073c091","fromNode":"ef0510a39083510b","fromSide":"bottom","toNode":"12e0c8df07a5cbee","toSide":"top"},
