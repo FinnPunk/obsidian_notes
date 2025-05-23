@@ -167,7 +167,7 @@
 		{"id":"819c94ea4592492c","type":"text","text":"✅Обед?","x":-508,"y":-520,"width":250,"height":60,"color":"4"},
 		{"id":"111b82d28b0788e3","type":"text","text":"✅Пятничные вечера?","x":-228,"y":-520,"width":250,"height":60,"color":"4"},
 		{"id":"a1ec952254833a0e","type":"text","text":"Какие цели и задачи у тех поддержки.","x":-804,"y":-340,"width":250,"height":60,"color":"#00a31b"},
-		{"id":"bbe2b2d4fa89754f","x":-1428,"y":-360,"width":250,"height":60,"type":"text","text":"Узнать про документы"}
+		{"id":"bbe2b2d4fa89754f","type":"text","text":"Узнать про документы","x":-1428,"y":-360,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"4ca2eb823073c091","fromNode":"ef0510a39083510b","fromSide":"bottom","toNode":"12e0c8df07a5cbee","toSide":"top"},
