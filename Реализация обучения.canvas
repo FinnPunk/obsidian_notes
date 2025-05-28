@@ -167,10 +167,10 @@
 		{"id":"bbe2b2d4fa89754f","type":"text","text":"Узнать про документы","x":-1428,"y":-360,"width":250,"height":60},
 		{"id":"bb56a4341c4872ba","type":"text","text":"права доступа","x":-1633,"y":3416,"width":250,"height":60},
 		{"id":"cf807b111deb2b46","type":"text","text":"создание открытых линий, подключение коннектора.","x":-1210,"y":3380,"width":250,"height":120},
-		{"id":"4d05ad4891728c42","x":-353,"y":-760,"width":250,"height":60,"type":"text","text":"О компании. "},
-		{"id":"3bf1ff5920f7f7c4","x":-519,"y":-671,"width":250,"height":60,"type":"text","text":"Цели компании,"},
-		{"id":"fd38be259786934d","x":-611,"y":-788,"width":250,"height":60,"type":"text","text":" отделы и за что отвечают, руководители"},
-		{"id":"89a2e73fab1de04c","type":"text","text":", кол-во сотрудников, плюшки для сотрудников.","x":-1428,"y":-788,"width":250,"height":178,"color":"#00a31b"}
+		{"id":"fd38be259786934d","x":-1428,"y":-645,"width":250,"height":60,"color":"4","type":"text","text":"Отделы и за что отвечают, руководители"},
+		{"id":"5b3aaf9d528491a9","x":-1108,"y":-645,"width":250,"height":60,"color":"4","type":"text","text":"Плюшки для сотрудников."},
+		{"id":"4d05ad4891728c42","x":-804,"y":-780,"width":250,"height":60,"color":"4","type":"text","text":"О компании. "},
+		{"id":"3bf1ff5920f7f7c4","x":-804,"y":-645,"width":250,"height":60,"color":"4","type":"text","text":"Цели компании,"}
 	],
 	"edges":[
 		{"id":"4ca2eb823073c091","fromNode":"ef0510a39083510b","fromSide":"bottom","toNode":"12e0c8df07a5cbee","toSide":"top"},
@@ -197,14 +197,13 @@
 		{"id":"afea6e2793c69939","fromNode":"53b6dc404a63b7ba","fromSide":"bottom","toNode":"c33ceb90acc51c8e","toSide":"top"},
 		{"id":"40f5e54f7b4c35ed","fromNode":"2261d7519c725b23","fromSide":"bottom","toNode":"53b6dc404a63b7ba","toSide":"top"},
 		{"id":"a2b89b2857fe283c","fromNode":"57427b7aad480d0c","fromSide":"bottom","toNode":"962db8d96970e8f2","toSide":"top"},
-		{"id":"964d959dfd986e87","fromNode":"ef75b771c37bb6e8","fromSide":"bottom","toNode":"89a2e73fab1de04c","toSide":"top"},
 		{"id":"85d2f53a1d8ebddd","fromNode":"537028a1c5d7851d","fromSide":"right","toNode":"ef75b771c37bb6e8","toSide":"left","color":"1"},
 		{"id":"e1d5707051f7bb37","fromNode":"196e446036cf399b","fromSide":"right","toNode":"f681b0421e4ab2ba","toSide":"left","color":"1"},
 		{"id":"c5d9f7bd8bef9e53","fromNode":"f681b0421e4ab2ba","fromSide":"bottom","toNode":"18b3badb8d37ee48","toSide":"top"},
 		{"id":"ba1a83fc6918fb12","fromNode":"18b3badb8d37ee48","fromSide":"bottom","toNode":"52472a505fca042b","toSide":"top"},
 		{"id":"062572d33a8ff155","fromNode":"962db8d96970e8f2","fromSide":"right","toNode":"6e500b678d43d1a1","toSide":"left"},
 		{"id":"55fd162ac2bfc96e","fromNode":"962db8d96970e8f2","fromSide":"right","toNode":"4ba9014728e65ddb","toSide":"left"},
-		{"id":"befce31a73f141ba","fromNode":"fd38be259786934d","fromSide":"left","toNode":"537af82b56f26222","toSide":"top"},
+		{"id":"befce31a73f141ba","fromNode":"fd38be259786934d","fromSide":"bottom","toNode":"537af82b56f26222","toSide":"top"},
 		{"id":"41206457e4cc6abd","fromNode":"18b3badb8d37ee48","fromSide":"bottom","toNode":"71d2dfee7fb2e3da","toSide":"top"},
 		{"id":"92995f0a300a05bc","fromNode":"52472a505fca042b","fromSide":"bottom","toNode":"f40c8c1ce2a4f1e6","toSide":"top"},
 		{"id":"901d154378d68aee","fromNode":"71d2dfee7fb2e3da","fromSide":"bottom","toNode":"f40c8c1ce2a4f1e6","toSide":"top"},
@@ -335,7 +334,9 @@
 		{"id":"02a4af5359592786","fromNode":"56b4ddf931482076","fromSide":"right","toNode":"819c94ea4592492c","toSide":"left"},
 		{"id":"2464ecb63c73d7c0","fromNode":"819c94ea4592492c","fromSide":"right","toNode":"111b82d28b0788e3","toSide":"left"},
 		{"id":"b6b83084b0742b6a","fromNode":"537af82b56f26222","fromSide":"bottom","toNode":"bbe2b2d4fa89754f","toSide":"top"},
-		{"id":"f05695bb51b0d244","fromNode":"4d05ad4891728c42","fromSide":"left","toNode":"3bf1ff5920f7f7c4","toSide":"right"},
-		{"id":"56899f58c1901882","fromNode":"3bf1ff5920f7f7c4","fromSide":"left","toNode":"fd38be259786934d","toSide":"right"}
+		{"id":"f05695bb51b0d244","fromNode":"4d05ad4891728c42","fromSide":"bottom","toNode":"3bf1ff5920f7f7c4","toSide":"top"},
+		{"id":"e2eb9e4f7eadd3e1","fromNode":"5b3aaf9d528491a9","fromSide":"left","toNode":"fd38be259786934d","toSide":"right"},
+		{"id":"82a307beac580815","fromNode":"3bf1ff5920f7f7c4","fromSide":"left","toNode":"5b3aaf9d528491a9","toSide":"right"},
+		{"id":"877a93b02ac587be","fromNode":"ef75b771c37bb6e8","fromSide":"bottom","toNode":"4d05ad4891728c42","toSide":"top"}
 	]
 }
