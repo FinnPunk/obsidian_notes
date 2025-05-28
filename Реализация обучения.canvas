@@ -167,10 +167,10 @@
 		{"id":"bbe2b2d4fa89754f","type":"text","text":"Узнать про документы","x":-1428,"y":-360,"width":250,"height":60},
 		{"id":"bb56a4341c4872ba","type":"text","text":"права доступа","x":-1633,"y":3416,"width":250,"height":60},
 		{"id":"cf807b111deb2b46","type":"text","text":"создание открытых линий, подключение коннектора.","x":-1210,"y":3380,"width":250,"height":120},
-		{"id":"fd38be259786934d","x":-1428,"y":-645,"width":250,"height":60,"color":"4","type":"text","text":"Отделы и за что отвечают, руководители"},
-		{"id":"5b3aaf9d528491a9","x":-1108,"y":-645,"width":250,"height":60,"color":"4","type":"text","text":"Плюшки для сотрудников."},
-		{"id":"4d05ad4891728c42","x":-804,"y":-780,"width":250,"height":60,"color":"4","type":"text","text":"О компании. "},
-		{"id":"3bf1ff5920f7f7c4","x":-804,"y":-645,"width":250,"height":60,"color":"4","type":"text","text":"Цели компании,"}
+		{"id":"fd38be259786934d","x":-1428,"y":-645,"width":250,"height":60,"color":"4","type":"text","text":"✅Отделы и за что отвечают, руководители"},
+		{"id":"5b3aaf9d528491a9","x":-1108,"y":-645,"width":250,"height":60,"color":"4","type":"text","text":"Плюшки для сотрудников"},
+		{"id":"4d05ad4891728c42","x":-804,"y":-780,"width":250,"height":60,"color":"4","type":"text","text":"О компании"},
+		{"id":"3bf1ff5920f7f7c4","x":-804,"y":-645,"width":250,"height":60,"color":"4","type":"text","text":"Цели компании"}
 	],
 	"edges":[
 		{"id":"4ca2eb823073c091","fromNode":"ef0510a39083510b","fromSide":"bottom","toNode":"12e0c8df07a5cbee","toSide":"top"},
