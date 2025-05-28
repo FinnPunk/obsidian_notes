@@ -131,8 +131,6 @@
 		{"id":"4b32af94d538f74e","type":"text","text":"### Работа с Bitrix24","x":-2977,"y":2547,"width":250,"height":78,"color":"#30c7f8"},
 		{"id":"79c1e30148e4e4bf","type":"text","text":"Вход на платформу Bitrix24 (Создание своего пространства на другую почту )","x":-2977,"y":2667,"width":250,"height":118,"color":"#30c7f8"},
 		{"id":"670a9fb77c92a090","type":"text","text":"Практика/Общение с клиентом через приложение в dialogs.pro и создание и настройка сделки в bitrix24","x":-797,"y":2965,"width":250,"height":185,"color":"#30c7f8"},
-		{"id":"cf807b111deb2b46","type":"text","text":"создание открытых линий, подключение коннектора.","x":-796,"y":3200,"width":250,"height":120},
-		{"id":"bb56a4341c4872ba","type":"text","text":"права доступа","x":-1219,"y":3236,"width":250,"height":60},
 		{"id":"5c7efd2f3f5f5fa9","type":"text","text":"Yclients","x":-1649,"y":2563,"width":250,"height":60},
 		{"id":"49dd4287300946b1","type":"text","text":"✅Вход на платформу","x":-720,"y":416,"width":250,"height":60,"color":"#0048af"},
 		{"id":"12b17f33e060e0d2","type":"text","text":"✅Знакомство с интерфейсом","x":-720,"y":513,"width":250,"height":60,"color":"#0048af"},
@@ -167,7 +165,9 @@
 		{"id":"819c94ea4592492c","type":"text","text":"✅Обед?","x":-508,"y":-520,"width":250,"height":60,"color":"4"},
 		{"id":"111b82d28b0788e3","type":"text","text":"✅Пятничные вечера?","x":-228,"y":-520,"width":250,"height":60,"color":"4"},
 		{"id":"a1ec952254833a0e","type":"text","text":"Какие цели и задачи у тех поддержки.","x":-804,"y":-340,"width":250,"height":60,"color":"#00a31b"},
-		{"id":"bbe2b2d4fa89754f","type":"text","text":"Узнать про документы","x":-1428,"y":-360,"width":250,"height":60}
+		{"id":"bbe2b2d4fa89754f","type":"text","text":"Узнать про документы","x":-1428,"y":-360,"width":250,"height":60},
+		{"id":"bb56a4341c4872ba","type":"text","text":"права доступа","x":-1633,"y":3416,"width":250,"height":60},
+		{"id":"cf807b111deb2b46","type":"text","text":"создание открытых линий, подключение коннектора.","x":-1210,"y":3380,"width":250,"height":120}
 	],
 	"edges":[
 		{"id":"4ca2eb823073c091","fromNode":"ef0510a39083510b","fromSide":"bottom","toNode":"12e0c8df07a5cbee","toSide":"top"},
@@ -311,7 +311,6 @@
 		{"id":"9ebfd6fb944b4f72","fromNode":"298e26aadb8c250d","fromSide":"bottom","toNode":"dcc9bc72239cfb85","toSide":"top"},
 		{"id":"8657f7a0a5695eb6","fromNode":"4b32af94d538f74e","fromSide":"bottom","toNode":"79c1e30148e4e4bf","toSide":"top"},
 		{"id":"34e445fc8899155d","fromNode":"c33ceb90acc51c8e","fromSide":"bottom","toNode":"670a9fb77c92a090","toSide":"top"},
-		{"id":"c62f7364d48542e0","fromNode":"670a9fb77c92a090","fromSide":"bottom","toNode":"cf807b111deb2b46","toSide":"top"},
 		{"id":"6841dac0f69943cb","fromNode":"cf807b111deb2b46","fromSide":"left","toNode":"bb56a4341c4872ba","toSide":"right"},
 		{"id":"1d8d61d1a1850fcd","fromNode":"74628d36734a8900","fromSide":"left","toNode":"5c7efd2f3f5f5fa9","toSide":"top","label":"Знакомство"},
 		{"id":"ff92265f344401f4","fromNode":"c7a269263f512cf8","fromSide":"bottom","toNode":"40a5ae158bc175e6","toSide":"top"},
