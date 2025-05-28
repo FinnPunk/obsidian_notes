@@ -148,8 +148,6 @@
 		{"id":"5b3aaf9d528491a9","x":-1108,"y":-645,"width":250,"height":60,"color":"4","type":"text","text":"Плюшки для сотрудников"},
 		{"id":"4d05ad4891728c42","x":-804,"y":-780,"width":250,"height":60,"color":"4","type":"text","text":"О компании"},
 		{"id":"3bf1ff5920f7f7c4","x":-804,"y":-645,"width":250,"height":60,"color":"4","type":"text","text":"Цели компании"},
-		{"id":"bb56a4341c4872ba","type":"text","text":"права доступа","x":-2072,"y":2268,"width":250,"height":60},
-		{"id":"cf807b111deb2b46","type":"text","text":"создание открытых линий, подключение коннектора.","x":-1649,"y":2232,"width":250,"height":120},
 		{"id":"39415988b83a5bd4","type":"text","text":"Практика/Общение с клиентом через приложение в dialogs.pro и создание и настройка сделки в bitrix24","x":-797,"y":3040,"width":250,"height":185,"color":"#30c7f8"},
 		{"id":"6d30435d385e6bae","type":"text","text":"Изучение базовых роботов и триггеров от Bitrix24","x":-797,"y":3270,"width":250,"height":111,"color":"#30c7f8"},
 		{"id":"3c6f2a0fc1a203c8","type":"text","text":"FAQ по роботам и тригерам","x":-460,"y":3374,"width":250,"height":60,"color":"#30c7f8"},
@@ -165,8 +163,10 @@
 		{"id":"37eb980d78d4d6b9","type":"text","text":"Вкладка CRM/Клиенты/Контакт-центр/Добавление каналов/Создание открытых линий/настройка их","x":-1096,"y":3053,"width":250,"height":160,"color":"#30c7f8"},
 		{"id":"02aaffbb4aa2b579","type":"text","text":"✅FAQ по частым проблемам не работы приложения ChatApp в Bitrix24 и их решения","x":-1440,"y":2852,"width":250,"height":130,"color":"#30c7f8"},
 		{"id":"1efdd56832ee5c21","type":"text","text":"✅Добавление сотрудника в Линию ChatApp","x":-1440,"y":3103,"width":250,"height":60,"color":"#0189cb"},
-		{"id":"cf8a5dce86d501d5","type":"text","text":"Вкладку финансы","x":-1880,"y":2060,"width":250,"height":60,"color":"#0189bc"},
-		{"id":"18441b8f4400dd06","type":"text","text":"Покупка линии. чуть","x":-1607,"y":2060,"width":250,"height":60,"color":"#0189bc"}
+		{"id":"cf8a5dce86d501d5","type":"text","text":"Вкладку финансы","x":-1922,"y":2060,"width":250,"height":60,"color":"#0189bc"},
+		{"id":"18441b8f4400dd06","type":"text","text":"Покупка линии. чуть","x":-1649,"y":2060,"width":250,"height":60,"color":"#0189bc"},
+		{"id":"cf807b111deb2b46","type":"text","text":"создание открытых линий, подключение коннектора.","x":-1649,"y":2200,"width":250,"height":120},
+		{"id":"bb56a4341c4872ba","type":"text","text":"права доступа","x":-1922,"y":2230,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"4ca2eb823073c091","fromNode":"ef0510a39083510b","fromSide":"bottom","toNode":"12e0c8df07a5cbee","toSide":"top"},
