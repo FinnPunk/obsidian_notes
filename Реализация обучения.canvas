@@ -157,8 +157,8 @@
 		{"id":"3d4cb8d58b484b40","type":"text","text":"Вкладка настроек/Настройки ChatApp","x":437,"y":3101,"width":250,"height":81,"color":"#85cef2"},
 		{"id":"1a118cb82c31b6d8","type":"text","text":"Подготовить несколько готовых сценариев, с их описание и логикой работы","x":437,"y":3533,"width":250,"height":131,"color":"1"},
 		{"id":"5c7efd2f3f5f5fa9","type":"text","text":"Yclients","x":-2120,"y":2565,"width":250,"height":60,"color":"3"},
-		{"id":"834b89d04855c38e","x":-2120,"y":2782,"width":250,"height":60,"type":"text","text":"Интеграция ChatApp"},
-		{"id":"f8f3d89a237d1779","x":-2118,"y":2968,"width":250,"height":60,"type":"text","text":""}
+		{"id":"834b89d04855c38e","x":-2120,"y":2729,"width":250,"height":60,"color":"3","type":"text","text":"Интеграция ChatApp"},
+		{"id":"f8f3d89a237d1779","x":-2120,"y":2892,"width":250,"height":60,"color":"3","type":"text","text":"Настройки + Уведомления ChatApp"}
 	],
 	"edges":[
 		{"id":"4ca2eb823073c091","fromNode":"ef0510a39083510b","fromSide":"bottom","toNode":"12e0c8df07a5cbee","toSide":"top"},
