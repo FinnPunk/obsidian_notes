@@ -157,7 +157,8 @@
 		{"id":"3d4cb8d58b484b40","type":"text","text":"Вкладка настроек/Настройки ChatApp","x":437,"y":3101,"width":250,"height":81,"color":"#85cef2"},
 		{"id":"1a118cb82c31b6d8","type":"text","text":"Подготовить несколько готовых сценариев, с их описание и логикой работы","x":437,"y":3533,"width":250,"height":131,"color":"1"},
 		{"id":"5c7efd2f3f5f5fa9","type":"text","text":"Yclients","x":-2120,"y":2565,"width":250,"height":60,"color":"3"},
-		{"id":"834b89d04855c38e","x":-2120,"y":2782,"width":250,"height":60,"type":"text","text":"Интеграция "}
+		{"id":"834b89d04855c38e","x":-2120,"y":2782,"width":250,"height":60,"type":"text","text":"Интеграция ChatApp"},
+		{"id":"f8f3d89a237d1779","x":-2118,"y":2968,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"4ca2eb823073c091","fromNode":"ef0510a39083510b","fromSide":"bottom","toNode":"12e0c8df07a5cbee","toSide":"top"},
@@ -311,6 +312,7 @@
 		{"id":"3813393b614070d2","fromNode":"c245bdae0e18dbe8","fromSide":"bottom","toNode":"ec3202f787e05ef8","toSide":"top"},
 		{"id":"ea004267b04f426f","fromNode":"ec3202f787e05ef8","fromSide":"bottom","toNode":"409d2ea7c167ecb6","toSide":"top"},
 		{"id":"e98a9bccb1d3d5bb","fromNode":"74628d36734a8900","fromSide":"right","toNode":"2696f2c2e9e3b887","toSide":"top"},
-		{"id":"59cb6da12b5d402e","fromNode":"5c7efd2f3f5f5fa9","fromSide":"bottom","toNode":"834b89d04855c38e","toSide":"top"}
+		{"id":"59cb6da12b5d402e","fromNode":"5c7efd2f3f5f5fa9","fromSide":"bottom","toNode":"834b89d04855c38e","toSide":"top"},
+		{"id":"e8eef82c96480443","fromNode":"834b89d04855c38e","fromSide":"bottom","toNode":"f8f3d89a237d1779","toSide":"top"}
 	]
 }
