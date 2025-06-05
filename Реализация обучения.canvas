@@ -108,7 +108,7 @@
 		{"id":"263b35f3a8cebb79","type":"text","text":"# WABA? WACA?","x":795,"y":4928,"width":291,"height":241,"color":"1"},
 		{"id":"24dbe1940c989e37","type":"text","text":"# ОПЛАТА?","x":795,"y":5276,"width":291,"height":241,"color":"1"},
 		{"id":"a17bd073aa969b8f","type":"text","text":"# Лид-сканер?","x":795,"y":5616,"width":291,"height":241,"color":"1"},
-		{"id":"68708808c257fc1f","type":"text","text":"# Поверсное обучение Bot Gate","x":795,"y":4296,"width":291,"height":241,"color":"1"},
+		{"id":"68708808c257fc1f","type":"text","text":"# Поверхностное обучение Bot Gate","x":795,"y":4296,"width":291,"height":241,"color":"1"},
 		{"id":"1a118cb82c31b6d8","type":"text","text":"Подготовить несколько готовых сценариев, с их описание и логикой работы","x":440,"y":3526,"width":250,"height":144,"color":"1"},
 		{"id":"c245bdae0e18dbe8","type":"text","text":"✅Практика","x":836,"y":3800,"width":250,"height":60,"color":"6"},
 		{"id":"196e446036cf399b","type":"text","text":"### 3 раб день.\nпринцип работы 50/50","x":-2560,"y":3871,"width":250,"height":106,"color":"#00ff2a"},
