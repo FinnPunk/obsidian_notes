@@ -40,7 +40,7 @@
 		{"id":"aca3fc1ee446bb25","type":"text","text":"✅\"Настройки\" компании","x":-1020,"y":844,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"3b014bd1a2ddd5dc","type":"text","text":"✅Добавление сотрудников.","x":-1420,"y":844,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"c580735ddebc9548","type":"text","text":"✅Роли","x":-1420,"y":934,"width":250,"height":60,"color":"#0189bc"},
-		{"id":"3c4c49169f7415d6","type":"text","text":"❓Уровни диалогов","x":-1420,"y":1027,"width":250,"height":60,"color":"#0189bc"},
+		{"id":"3c4c49169f7415d6","type":"text","text":"✅Уровни диалогов","x":-1420,"y":1027,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"4bb109c980d955b6","type":"text","text":"Управление Telegram группами в ChatApp Dialog","x":-1420,"y":708,"width":250,"height":116,"color":"#0189cb"},
 		{"id":"84288ae458f24d3d","type":"text","text":"✅ Создание Чат-бота tg","x":-1420,"y":580,"width":250,"height":60,"color":"#0189cb"},
 		{"id":"d9ade519774a989c","type":"text","text":"✅Chatapp assistant","x":-470,"y":1050,"width":250,"height":60,"color":"#fd4e89"},
