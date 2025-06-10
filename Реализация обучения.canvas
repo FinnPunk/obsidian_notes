@@ -141,7 +141,8 @@
 		{"id":"fa71c2d4fdf70654","type":"text","text":"Доп знания по CRM","x":-40,"y":4128,"width":250,"height":60,"color":"1"},
 		{"id":"367cbfe1a5ae6179","type":"text","text":"Синхронизация ответственных между Dialogs.pro с CRM-системами","x":-224,"y":4306,"width":250,"height":119,"color":"1"},
 		{"id":"78fc42a14960f5e8","type":"text","text":"Как первым начать диалог с клиентом в мессенджере или CRM-системе","x":137,"y":4306,"width":250,"height":119,"color":"1"},
-		{"id":"a166472950809501","type":"text","text":"Вывод средств","x":-1520,"y":4369,"width":250,"height":59,"color":"#0189bc"}
+		{"id":"27f0401e3ae3c594","type":"text","text":"Покупка линии\nВывод средств","x":-1520,"y":4369,"width":250,"height":59,"color":"#0189bc"},
+		{"id":"a166472950809501","type":"text","text":"Вывод средств","x":-1520,"y":4265,"width":250,"height":59,"color":"#0189bc"}
 	],
 	"edges":[
 		{"id":"4ca2eb823073c091","fromNode":"ef0510a39083510b","fromSide":"bottom","toNode":"12e0c8df07a5cbee","toSide":"top"},
@@ -177,7 +178,7 @@
 		{"id":"803e994882128a0e","fromNode":"962db8d96970e8f2","fromSide":"bottom","toNode":"74628d36734a8900","toSide":"top"},
 		{"id":"42da0e258bd94c1f","fromNode":"92cb75bab73f6449","fromSide":"left","toNode":"8c8b5ef33df194d7","toSide":"top"},
 		{"id":"b981c5d6fead0ad8","fromNode":"8c8b5ef33df194d7","fromSide":"bottom","toNode":"108a53fd2c65920d","toSide":"top"},
-		{"id":"bc73b877d67ca8b0","fromNode":"2677be5b21e34423","fromSide":"left","toNode":"a166472950809501","toSide":"right","fromEnd":"arrow"},
+		{"id":"bc73b877d67ca8b0","fromNode":"2677be5b21e34423","fromSide":"left","toNode":"27f0401e3ae3c594","toSide":"right","fromEnd":"arrow"},
 		{"id":"629032f028b212a8","fromNode":"108a53fd2c65920d","fromSide":"bottom","toNode":"2677be5b21e34423","toSide":"top"},
 		{"id":"d60513df19675e84","fromNode":"2677be5b21e34423","fromSide":"bottom","toNode":"401af33586087dcb","toSide":"top"},
 		{"id":"c6bf3a06e57b2572","fromNode":"401af33586087dcb","fromSide":"right","toNode":"238a6d63537faeba","toSide":"left"},
@@ -281,6 +282,7 @@
 		{"id":"85abc46eb1dfae78","fromNode":"891865ce37b07798","fromSide":"bottom","toNode":"5540b3894a321959","toSide":"top"},
 		{"id":"aa61c3ed5ec3f4db","fromNode":"5540b3894a321959","fromSide":"bottom","toNode":"92cb75bab73f6449","toSide":"top"},
 		{"id":"fb5149671715c17e","fromNode":"37eb980d78d4d6b9","fromSide":"bottom","toNode":"cf807b111deb2b46","toSide":"top"},
-		{"id":"62b9e41da61ca374","fromNode":"92cb75bab73f6449","fromSide":"right","toNode":"fa71c2d4fdf70654","toSide":"top"}
+		{"id":"62b9e41da61ca374","fromNode":"92cb75bab73f6449","fromSide":"right","toNode":"fa71c2d4fdf70654","toSide":"top"},
+		{"id":"2d1d9cdd40a2d73c","fromNode":"108a53fd2c65920d","fromSide":"left","toNode":"a166472950809501","toSide":"right"}
 	]
 }
