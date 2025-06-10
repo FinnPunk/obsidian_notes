@@ -143,7 +143,8 @@
 		{"id":"a166472950809501","type":"text","text":"Настройка уведомлений","x":-1860,"y":4264,"width":250,"height":59,"color":"#0189bc"},
 		{"id":"0c1f36e5a26e9923","type":"text","text":"NRF линия","x":-1860,"y":4426,"width":250,"height":59,"color":"#0189bc"},
 		{"id":"27f0401e3ae3c594","type":"text","text":"Покупка линии\nВывод средств","x":-2200,"y":4426,"width":250,"height":59,"color":"#0189bc"},
-		{"id":"401af33586087dcb","type":"text","text":"FAQ по работе с платформой для партнёров компании","x":-1512,"y":4408,"width":250,"height":96,"color":"#0189bc"}
+		{"id":"401af33586087dcb","type":"text","text":"FAQ по работе с платформой для партнёров компании","x":-1512,"y":4408,"width":250,"height":96,"color":"#0189bc"},
+		{"id":"8b32b5355d6830a3","type":"text","text":"яндекс.метрика","x":-1100,"y":4248,"width":250,"height":60,"color":"#0189bc"}
 	],
 	"edges":[
 		{"id":"4ca2eb823073c091","fromNode":"ef0510a39083510b","fromSide":"bottom","toNode":"12e0c8df07a5cbee","toSide":"top"},
@@ -285,6 +286,7 @@
 		{"id":"62b9e41da61ca374","fromNode":"92cb75bab73f6449","fromSide":"right","toNode":"fa71c2d4fdf70654","toSide":"top"},
 		{"id":"2d1d9cdd40a2d73c","fromNode":"108a53fd2c65920d","fromSide":"left","toNode":"a166472950809501","toSide":"right"},
 		{"id":"0ae2c6e2f209d86a","fromNode":"27f0401e3ae3c594","fromSide":"right","toNode":"0c1f36e5a26e9923","toSide":"left"},
-		{"id":"75bcf3a1f101c0c5","fromNode":"2677be5b21e34423","fromSide":"bottom","toNode":"27f0401e3ae3c594","toSide":"top"}
+		{"id":"75bcf3a1f101c0c5","fromNode":"2677be5b21e34423","fromSide":"bottom","toNode":"27f0401e3ae3c594","toSide":"top"},
+		{"id":"769d24bc07612ea3","fromNode":"0c50e38ef395f6d2","fromSide":"left","toNode":"8b32b5355d6830a3","toSide":"top"}
 	]
 }
