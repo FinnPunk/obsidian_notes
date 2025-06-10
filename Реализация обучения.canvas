@@ -86,10 +86,7 @@
 		{"id":"afa6d7c334f6ff53","type":"text","text":"✅Изучение базовых роботов и триггеров Salesbot","x":836,"y":3223,"width":250,"height":111,"color":"#85cef2"},
 		{"id":"d94c4237f16d2da1","type":"text","text":"✅FAQ по роботам и тригерам","x":1192,"y":3323,"width":250,"height":60,"color":"#85cef2"},
 		{"id":"b38d8eaf379b0ee0","type":"text","text":"✅Изучение базовых роботов от ChatApp","x":836,"y":3383,"width":250,"height":80,"color":"#85cef2"},
-		{"id":"fa71c2d4fdf70654","type":"text","text":"Доп знания по CRM","x":1792,"y":3383,"width":250,"height":60,"color":"1"},
 		{"id":"b2709000d22fd182","type":"text","text":"✅Использование сценариев роботов и тригеров и логика работы.","x":836,"y":3519,"width":250,"height":158,"color":"6"},
-		{"id":"367cbfe1a5ae6179","type":"text","text":"Синхронизация ответственных между Dialogs.pro с CRM-системами","x":1612,"y":3598,"width":250,"height":119,"color":"1"},
-		{"id":"78fc42a14960f5e8","type":"text","text":"Как первым начать диалог с клиентом в мессенджере или CRM-системе","x":1973,"y":3598,"width":250,"height":119,"color":"1"},
 		{"id":"1c99fc4d376209db","type":"text","text":"✅FAQ по частым проблемам не работы приложения ChatApp в AmoCrm и их решения","x":40,"y":2733,"width":250,"height":130,"color":"#85cef2"},
 		{"id":"741ca722fe4f5395","type":"text","text":"✅Интерфейс платформы","x":437,"y":2733,"width":250,"height":60,"color":"#85cef2"},
 		{"id":"2696f2c2e9e3b887","type":"text","text":"✅Работа с AmoCrm","x":836,"y":2595,"width":250,"height":60,"color":"#85cef2"},
@@ -107,7 +104,7 @@
 		{"id":"24dbe1940c989e37","type":"text","text":"# ОПЛАТА?","x":795,"y":5276,"width":291,"height":241,"color":"1"},
 		{"id":"a17bd073aa969b8f","type":"text","text":"# Лид-сканер?","x":795,"y":5616,"width":291,"height":241,"color":"1"},
 		{"id":"68708808c257fc1f","type":"text","text":"# Поверхностное обучение Bot Gate","x":795,"y":4296,"width":291,"height":241,"color":"1"},
-		{"id":"1a118cb82c31b6d8","type":"text","text":"Подготовить несколько готовых сценариев, с их описание и логикой работы","x":440,"y":3526,"width":250,"height":144,"color":"1"},
+		{"id":"1a118cb82c31b6d8","type":"text","text":"✅Подготовить несколько готовых сценариев, с их описание и логикой работы","x":440,"y":3526,"width":250,"height":144,"color":"1"},
 		{"id":"c245bdae0e18dbe8","type":"text","text":"✅Практика","x":836,"y":3800,"width":250,"height":60,"color":"6"},
 		{"id":"2e8db8e528e3db88","type":"text","text":"Хранилище S3","x":40,"y":5365,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"691d70788db70cfb","type":"text","text":" # КОНЕЦ!","x":-2561,"y":6028,"width":3780,"height":170,"color":"3"},
@@ -140,8 +137,11 @@
 		{"id":"a166472950809501","type":"text","text":"Получение статуса официального партнера","x":-1461,"y":4368,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"196e446036cf399b","type":"text","text":"### 3 раб день.\nпринцип работы 50/50","x":-2561,"y":3760,"width":250,"height":106,"color":"#00ff2a"},
 		{"id":"b40872177f7791eb","type":"text","text":"#### 4 раб день.\nпринцип работы 50/50","x":-2561,"y":4796,"width":250,"height":83,"color":"#00ff2a"},
-		{"id":"bb56a4341c4872ba","type":"text","text":"✅права доступа","x":-1369,"y":3284,"width":250,"height":60,"color":"#000030"},
-		{"id":"cf807b111deb2b46","type":"text","text":"✅создание открытых линий, подключение коннектора.","x":-1096,"y":3254,"width":250,"height":120,"color":"#000030"}
+		{"id":"bb56a4341c4872ba","type":"text","text":"✅права доступа","x":-1369,"y":3284,"width":250,"height":60,"color":"#30c7f8"},
+		{"id":"cf807b111deb2b46","type":"text","text":"✅создание открытых линий, подключение коннектора.","x":-1096,"y":3254,"width":250,"height":120,"color":"#30c7f8"},
+		{"id":"fa71c2d4fdf70654","type":"text","text":"Доп знания по CRM","x":-40,"y":4128,"width":250,"height":60,"color":"1"},
+		{"id":"367cbfe1a5ae6179","type":"text","text":"Синхронизация ответственных между Dialogs.pro с CRM-системами","x":-224,"y":4306,"width":250,"height":119,"color":"1"},
+		{"id":"78fc42a14960f5e8","type":"text","text":"Как первым начать диалог с клиентом в мессенджере или CRM-системе","x":137,"y":4306,"width":250,"height":119,"color":"1"}
 	],
 	"edges":[
 		{"id":"4ca2eb823073c091","fromNode":"ef0510a39083510b","fromSide":"bottom","toNode":"12e0c8df07a5cbee","toSide":"top"},
@@ -266,7 +266,6 @@
 		{"id":"537ebe764eea909f","fromNode":"350f4ba75eb774f3","fromSide":"right","toNode":"3d4cb8d58b484b40","toSide":"left","fromEnd":"arrow"},
 		{"id":"fbf08b00baabe17a","fromNode":"ed72345c2f7ad645","fromSide":"right","toNode":"034e871ff8611566","toSide":"bottom","fromEnd":"arrow"},
 		{"id":"f80e70435ac0bf5c","fromNode":"ed72345c2f7ad645","fromSide":"bottom","toNode":"afa6d7c334f6ff53","toSide":"top"},
-		{"id":"249e7a4b6a34efa1","fromNode":"ed72345c2f7ad645","fromSide":"right","toNode":"fa71c2d4fdf70654","toSide":"top"},
 		{"id":"ad74e70d3107e460","fromNode":"fa71c2d4fdf70654","fromSide":"bottom","toNode":"367cbfe1a5ae6179","toSide":"top"},
 		{"id":"53ecddfbd810b984","fromNode":"fa71c2d4fdf70654","fromSide":"bottom","toNode":"78fc42a14960f5e8","toSide":"top"},
 		{"id":"386ed428e7843adf","fromNode":"afa6d7c334f6ff53","fromSide":"right","toNode":"d94c4237f16d2da1","toSide":"left","fromEnd":"arrow"},
@@ -281,6 +280,7 @@
 		{"id":"12e7468053d2d54c","fromNode":"196e446036cf399b","fromSide":"right","toNode":"5540b3894a321959","toSide":"left"},
 		{"id":"85abc46eb1dfae78","fromNode":"891865ce37b07798","fromSide":"bottom","toNode":"5540b3894a321959","toSide":"top"},
 		{"id":"aa61c3ed5ec3f4db","fromNode":"5540b3894a321959","fromSide":"bottom","toNode":"92cb75bab73f6449","toSide":"top"},
-		{"id":"fb5149671715c17e","fromNode":"37eb980d78d4d6b9","fromSide":"bottom","toNode":"cf807b111deb2b46","toSide":"top"}
+		{"id":"fb5149671715c17e","fromNode":"37eb980d78d4d6b9","fromSide":"bottom","toNode":"cf807b111deb2b46","toSide":"top"},
+		{"id":"62b9e41da61ca374","fromNode":"92cb75bab73f6449","fromSide":"right","toNode":"fa71c2d4fdf70654","toSide":"top"}
 	]
 }
