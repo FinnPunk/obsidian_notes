@@ -2,10 +2,14 @@
 	"nodes":[
 		{"id":"4cfd0bef69db40e8","x":-20,"y":-280,"width":250,"height":60,"type":"text","text":"Создание instagram"},
 		{"id":"3387e16e8a6dab0c","x":-20,"y":-160,"width":250,"height":60,"type":"text","text":"Оформление"},
-		{"id":"5e9b5f1bddbc9fe6","x":183,"y":24,"width":250,"height":60,"type":"text","text":"Брендбук+палитра"}
+		{"id":"8ceeec3bc620c37d","x":620,"y":56,"width":250,"height":60,"type":"text","text":"палитра"},
+		{"id":"31beb03fe1b26204","x":1020,"y":56,"width":250,"height":60,"type":"text","text":"заготовки"},
+		{"id":"5e9b5f1bddbc9fe6","x":1340,"y":58,"width":297,"height":56,"type":"text","text":"Брендбук"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
-		{"id":"70706b1b91e2e8c4","fromNode":"3387e16e8a6dab0c","fromSide":"bottom","toNode":"5e9b5f1bddbc9fe6","toSide":"top"}
+		{"id":"70706b1b91e2e8c4","fromNode":"3387e16e8a6dab0c","fromSide":"bottom","toNode":"8ceeec3bc620c37d","toSide":"top"},
+		{"id":"eb031dd9ec2a9437","fromNode":"31beb03fe1b26204","fromSide":"right","toNode":"5e9b5f1bddbc9fe6","toSide":"left"},
+		{"id":"bfdcdfdb8392a149","fromNode":"8ceeec3bc620c37d","fromSide":"right","toNode":"31beb03fe1b26204","toSide":"left"}
 	]
 }
