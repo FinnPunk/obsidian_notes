@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4cfd0bef69db40e8","x":-20,"y":-280,"width":250,"height":60,"type":"text","text":"Создание instagram"},
+		{"id":"3387e16e8a6dab0c","x":-20,"y":-160,"width":250,"height":60,"type":"text","text":"Оформление"},
+		{"id":"5e9b5f1bddbc9fe6","x":183,"y":24,"width":250,"height":60,"type":"text","text":"Брендбук+палитра"}
+	],
+	"edges":[
+		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
+		{"id":"70706b1b91e2e8c4","fromNode":"3387e16e8a6dab0c","fromSide":"bottom","toNode":"5e9b5f1bddbc9fe6","toSide":"top"}
+	]
+}
