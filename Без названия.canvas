@@ -9,7 +9,8 @@
 		{"id":"4cfd0bef69db40e8","x":-360,"y":-440,"width":250,"height":60,"type":"text","text":"Создание instagram"},
 		{"id":"dad6fd266849c691","x":-360,"y":-160,"width":250,"height":60,"type":"text","text":"Создание телеграм бота"},
 		{"id":"d95c1bd799c50805","x":-706,"y":82,"width":250,"height":60,"type":"text","text":"Создание сервера из raspberry"},
-		{"id":"1829c49f668d8c98","x":-993,"y":345,"width":250,"height":60,"type":"text","text":"Функционал добавления "}
+		{"id":"1829c49f668d8c98","x":-993,"y":345,"width":250,"height":60,"type":"text","text":"Функционал добавления карточек"},
+		{"id":"d67ba6432b6d4c5f","x":-706,"y":345,"width":250,"height":60,"type":"text","text":"Функционал геолокации мест"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -20,6 +21,7 @@
 		{"id":"b10a7f0243e9b0ac","fromNode":"3e03245f677b2ed7","fromSide":"right","toNode":"59a69a4ed361a71b","toSide":"left"},
 		{"id":"4c20d7af8849451e","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"dad6fd266849c691","toSide":"top"},
 		{"id":"d8eec9ce8ce68763","fromNode":"dad6fd266849c691","fromSide":"bottom","toNode":"d95c1bd799c50805","toSide":"top"},
-		{"id":"1bd33906c1f153c9","fromNode":"d95c1bd799c50805","fromSide":"bottom","toNode":"1829c49f668d8c98","toSide":"top"}
+		{"id":"1bd33906c1f153c9","fromNode":"d95c1bd799c50805","fromSide":"bottom","toNode":"1829c49f668d8c98","toSide":"top"},
+		{"id":"c96fc3215c52f5de","fromNode":"d95c1bd799c50805","fromSide":"bottom","toNode":"d67ba6432b6d4c5f","toSide":"top"}
 	]
 }
