@@ -30,7 +30,9 @@
 		{"id":"1829c49f668d8c98","type":"text","text":"Функционал добавления карточек мест","x":-993,"y":300,"width":250,"height":60,"color":"5"},
 		{"id":"5b5539babe70ef4a","type":"text","text":"Функционал удаления/редактирования мест","x":-993,"y":395,"width":250,"height":60,"color":"5"},
 		{"id":"99dfe21ebf89d99d","type":"text","text":"Привлекательный и не пугающий дизайн","x":-1280,"y":455,"width":250,"height":60,"color":"5"},
-		{"id":"dc19e33018f87213","type":"text","text":" Может использование MiniApp приложения в тг и вк\n\n!!!ИЗУЧИТЬ ","x":-1280,"y":760,"width":824,"height":160,"color":"1"}
+		{"id":"31ef2d09b6cd4f6f","x":-1280,"y":660,"width":250,"height":60,"color":"5","type":"text","text":"Рассылки"},
+		{"id":"585d526e91cd3b49","x":-1280,"y":560,"width":250,"height":60,"color":"5","type":"text","text":"Подписка на рассылки"},
+		{"id":"dc19e33018f87213","type":"text","text":" Может использование MiniApp приложения в тг и вк\n\n!!!ИЗУЧИТЬ ","x":-1280,"y":860,"width":824,"height":160,"color":"1"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -64,6 +66,8 @@
 		{"id":"9b67f5cf2d7c38f6","fromNode":"7c77b3130db08f59","fromSide":"bottom","toNode":"59a69a4ed361a71b","toSide":"top"},
 		{"id":"12ad433b9ffc080c","fromNode":"3e03245f677b2ed7","fromSide":"right","toNode":"59a69a4ed361a71b","toSide":"left","fromEnd":"arrow"},
 		{"id":"31f3abee897fd943","fromNode":"e2068730c64ac1c0","fromSide":"right","toNode":"4cfd0bef69db40e8","toSide":"top"},
-		{"id":"f1c1336ee5215050","fromNode":"e2068730c64ac1c0","fromSide":"bottom","toNode":"dad6fd266849c691","toSide":"top"}
+		{"id":"f1c1336ee5215050","fromNode":"e2068730c64ac1c0","fromSide":"bottom","toNode":"dad6fd266849c691","toSide":"top"},
+		{"id":"2f3702ee5fc3fdf4","fromNode":"99dfe21ebf89d99d","fromSide":"bottom","toNode":"585d526e91cd3b49","toSide":"top"},
+		{"id":"2fc1a15d3d4889c9","fromNode":"585d526e91cd3b49","fromSide":"bottom","toNode":"31ef2d09b6cd4f6f","toSide":"top"}
 	]
 }
