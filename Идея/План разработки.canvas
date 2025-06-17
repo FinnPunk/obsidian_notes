@@ -18,7 +18,7 @@
 		{"id":"3640d9e2a5185d48","x":-360,"y":80,"width":250,"height":60,"type":"text","text":"Оформление и название"},
 		{"id":"99dfe21ebf89d99d","x":-1280,"y":500,"width":250,"height":60,"type":"text","text":"Привлекательный и не пугающий дизайн"},
 		{"id":"61582f043e0bd29f","x":-1280,"y":300,"width":250,"height":105,"type":"text","text":"Использование кнопок, для удобного использования"},
-		{"id":"dc19e33018f87213","x":-997,"y":761,"width":250,"height":60,"type":"text","text":"Может использование моб приложения в тг и вк"}
+		{"id":"dc19e33018f87213","x":-1280,"y":600,"width":824,"height":160,"color":"1","type":"text","text":"Может использование MiniApp приложения в тг и вк\n\n!!!ИЗУЧИТЬ"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -36,7 +36,6 @@
 		{"id":"adcb8665ddad2a5b","fromNode":"2e2a66217e8553a5","fromSide":"bottom","toNode":"b37a43b196a22c1e","toSide":"top"},
 		{"id":"265031ea92367ade","fromNode":"dad6fd266849c691","fromSide":"bottom","toNode":"3640d9e2a5185d48","toSide":"top"},
 		{"id":"a9bc69c55add9721","fromNode":"d95c1bd799c50805","fromSide":"bottom","toNode":"61582f043e0bd29f","toSide":"top"},
-		{"id":"559b5979940ed1ad","fromNode":"61582f043e0bd29f","fromSide":"bottom","toNode":"99dfe21ebf89d99d","toSide":"top"},
-		{"id":"cb463bfe14a2e510","fromNode":"99dfe21ebf89d99d","fromSide":"bottom","toNode":"dc19e33018f87213","toSide":"top"}
+		{"id":"559b5979940ed1ad","fromNode":"61582f043e0bd29f","fromSide":"bottom","toNode":"99dfe21ebf89d99d","toSide":"top"}
 	]
 }
