@@ -15,7 +15,8 @@
 		{"id":"d67ba6432b6d4c5f","x":-706,"y":500,"width":250,"height":60,"type":"text","text":"Функционал геолокации мест"},
 		{"id":"2e2a66217e8553a5","x":-706,"y":300,"width":250,"height":60,"type":"text","text":"Функционал приёма геолокации"},
 		{"id":"205f96eed6cb1360","x":-1393,"y":-640,"width":400,"height":400,"color":"2","type":"file","file":"Идея/Терминология.md"},
-		{"id":"3640d9e2a5185d48","x":-231,"y":53,"width":250,"height":60,"type":"text","text":""}
+		{"id":"3640d9e2a5185d48","x":-360,"y":80,"width":250,"height":60,"type":"text","text":"Оформление и название"},
+		{"id":"61582f043e0bd29f","x":-1280,"y":395,"width":250,"height":60,"type":"text","text":"Использование кнопок, для удобного использования"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -31,6 +32,7 @@
 		{"id":"a11679dbe688093d","fromNode":"1829c49f668d8c98","fromSide":"bottom","toNode":"5b5539babe70ef4a","toSide":"top"},
 		{"id":"6f8149a9f8c21022","fromNode":"d95c1bd799c50805","fromSide":"bottom","toNode":"2e2a66217e8553a5","toSide":"top"},
 		{"id":"adcb8665ddad2a5b","fromNode":"2e2a66217e8553a5","fromSide":"bottom","toNode":"b37a43b196a22c1e","toSide":"top"},
-		{"id":"265031ea92367ade","fromNode":"dad6fd266849c691","fromSide":"bottom","toNode":"3640d9e2a5185d48","toSide":"top"}
+		{"id":"265031ea92367ade","fromNode":"dad6fd266849c691","fromSide":"bottom","toNode":"3640d9e2a5185d48","toSide":"top"},
+		{"id":"a9bc69c55add9721","fromNode":"d95c1bd799c50805","fromSide":"bottom","toNode":"61582f043e0bd29f","toSide":"top"}
 	]
 }
