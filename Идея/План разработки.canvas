@@ -19,10 +19,11 @@
 		{"id":"5e9b5f1bddbc9fe6","x":504,"y":204,"width":297,"height":56,"color":"6","type":"text","text":"Брендбук"},
 		{"id":"3e03245f677b2ed7","x":884,"y":202,"width":250,"height":60,"color":"6","type":"text","text":"Дизайн реклам"},
 		{"id":"59a69a4ed361a71b","x":1204,"y":202,"width":250,"height":60,"color":"6","type":"text","text":"Анимированные рекламы"},
-		{"id":"2235e8a80824c130","x":-839,"y":-420,"width":371,"height":106,"type":"text","text":"Сквозная аналитика, UTM Метки"},
 		{"id":"9f39e29ce0868c7d","x":-1812,"y":-137,"width":250,"height":60,"color":"2","type":"text","text":"Сайт"},
 		{"id":"c053840f8166eaa4","x":-1812,"y":199,"width":250,"height":60,"color":"2","type":"text","text":"Десктоп версия"},
-		{"id":"cf58df0d51ef2291","x":-1812,"y":82,"width":250,"height":60,"color":"2","type":"text","text":"Моб приложение"}
+		{"id":"cf58df0d51ef2291","x":-1812,"y":82,"width":250,"height":60,"color":"2","type":"text","text":"Моб приложение"},
+		{"id":"2235e8a80824c130","x":-899,"y":-520,"width":371,"height":106,"type":"text","text":"Сквозная аналитика, UTM Метки"},
+		{"id":"aa9bde77520da5fa","x":-2122,"y":82,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -41,9 +42,12 @@
 		{"id":"265031ea92367ade","fromNode":"dad6fd266849c691","fromSide":"bottom","toNode":"3640d9e2a5185d48","toSide":"top"},
 		{"id":"a9bc69c55add9721","fromNode":"d95c1bd799c50805","fromSide":"bottom","toNode":"61582f043e0bd29f","toSide":"top"},
 		{"id":"559b5979940ed1ad","fromNode":"61582f043e0bd29f","fromSide":"bottom","toNode":"99dfe21ebf89d99d","toSide":"top"},
-		{"id":"f39418c5e05ad705","fromNode":"2235e8a80824c130","fromSide":"bottom","toNode":"dad6fd266849c691","toSide":"top","fromEnd":"arrow"},
+		{"id":"f39418c5e05ad705","fromNode":"2235e8a80824c130","fromSide":"bottom","toNode":"dad6fd266849c691","toSide":"top","fromEnd":"arrow","label":"Вывод информации админу"},
 		{"id":"c91a7f0dba628274","fromNode":"dad6fd266849c691","fromSide":"left","toNode":"9f39e29ce0868c7d","toSide":"right"},
 		{"id":"f0f9a93484702e5d","fromNode":"9f39e29ce0868c7d","fromSide":"bottom","toNode":"cf58df0d51ef2291","toSide":"top"},
-		{"id":"133447c230d47712","fromNode":"cf58df0d51ef2291","fromSide":"bottom","toNode":"c053840f8166eaa4","toSide":"top"}
+		{"id":"133447c230d47712","fromNode":"cf58df0d51ef2291","fromSide":"bottom","toNode":"c053840f8166eaa4","toSide":"top"},
+		{"id":"9b68ff078c115ea9","fromNode":"2235e8a80824c130","fromSide":"left","toNode":"9f39e29ce0868c7d","toSide":"top","fromEnd":"arrow"},
+		{"id":"2961445b53832b54","fromNode":"2235e8a80824c130","fromSide":"right","toNode":"4cfd0bef69db40e8","toSide":"top","fromEnd":"arrow"},
+		{"id":"f74bede287789c80","fromNode":"9f39e29ce0868c7d","fromSide":"bottom","toNode":"aa9bde77520da5fa","toSide":"top"}
 	]
 }
