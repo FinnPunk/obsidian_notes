@@ -19,7 +19,7 @@
 		{"id":"5e9b5f1bddbc9fe6","x":504,"y":204,"width":297,"height":56,"color":"6","type":"text","text":"Брендбук"},
 		{"id":"3e03245f677b2ed7","x":884,"y":202,"width":250,"height":60,"color":"6","type":"text","text":"Дизайн реклам"},
 		{"id":"59a69a4ed361a71b","x":1204,"y":202,"width":250,"height":60,"color":"6","type":"text","text":"Анимированные рекламы"},
-		{"id":"2235e8a80824c130","x":-1651,"y":-244,"width":250,"height":60,"type":"text","text":"Сквозная аналитика, использво"}
+		{"id":"2235e8a80824c130","x":-487,"y":980,"width":371,"height":106,"type":"text","text":"Сквозная аналитика, UTM Метки"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -37,6 +37,7 @@
 		{"id":"adcb8665ddad2a5b","fromNode":"2e2a66217e8553a5","fromSide":"bottom","toNode":"b37a43b196a22c1e","toSide":"top"},
 		{"id":"265031ea92367ade","fromNode":"dad6fd266849c691","fromSide":"bottom","toNode":"3640d9e2a5185d48","toSide":"top"},
 		{"id":"a9bc69c55add9721","fromNode":"d95c1bd799c50805","fromSide":"bottom","toNode":"61582f043e0bd29f","toSide":"top"},
-		{"id":"559b5979940ed1ad","fromNode":"61582f043e0bd29f","fromSide":"bottom","toNode":"99dfe21ebf89d99d","toSide":"top"}
+		{"id":"559b5979940ed1ad","fromNode":"61582f043e0bd29f","fromSide":"bottom","toNode":"99dfe21ebf89d99d","toSide":"top"},
+		{"id":"02fbeca7281947f4","fromNode":"2235e8a80824c130","fromSide":"left","toNode":"dad6fd266849c691","toSide":"left"}
 	]
 }
