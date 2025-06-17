@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"d95c1bd799c50805","x":-706,"y":82,"width":250,"height":60,"color":"5","type":"text","text":"Создание сервера из raspberry"},
 		{"id":"1829c49f668d8c98","x":-993,"y":395,"width":250,"height":60,"color":"5","type":"text","text":"Функционал добавления карточек мест"},
 		{"id":"5b5539babe70ef4a","x":-993,"y":500,"width":250,"height":60,"color":"5","type":"text","text":"Функционал удаления/редактирования мест"},
 		{"id":"b37a43b196a22c1e","x":-706,"y":395,"width":250,"height":60,"color":"5","type":"text","text":"Функционал отправки места "},
@@ -9,9 +8,6 @@
 		{"id":"99dfe21ebf89d99d","x":-1280,"y":500,"width":250,"height":60,"color":"5","type":"text","text":"Привлекательный и не пугающий дизайн"},
 		{"id":"61582f043e0bd29f","x":-1280,"y":300,"width":250,"height":105,"color":"5","type":"text","text":"Использование кнопок, для удобного использования"},
 		{"id":"dc19e33018f87213","x":-1280,"y":600,"width":824,"height":160,"color":"1","type":"text","text":" Может использование MiniApp приложения в тг и вк\n\n!!!ИЗУЧИТЬ "},
-		{"id":"3640d9e2a5185d48","x":-993,"y":82,"width":250,"height":60,"color":"5","type":"text","text":"Оформление и название"},
-		{"id":"205f96eed6cb1360","x":-826,"y":-820,"width":740,"height":200,"color":"2","type":"file","file":"Идея/Терминология.md"},
-		{"id":"dad6fd266849c691","x":-839,"y":-138,"width":250,"height":60,"color":"5","type":"text","text":"Создание телеграм бота"},
 		{"id":"4cfd0bef69db40e8","x":-116,"y":-138,"width":250,"height":60,"color":"6","type":"text","text":"Создание instagram"},
 		{"id":"3387e16e8a6dab0c","x":-116,"y":82,"width":250,"height":60,"color":"6","type":"text","text":"Оформление"},
 		{"id":"8ceeec3bc620c37d","x":-116,"y":202,"width":250,"height":60,"color":"6","type":"text","text":"палитра"},
@@ -19,11 +15,15 @@
 		{"id":"5e9b5f1bddbc9fe6","x":504,"y":204,"width":297,"height":56,"color":"6","type":"text","text":"Брендбук"},
 		{"id":"3e03245f677b2ed7","x":884,"y":202,"width":250,"height":60,"color":"6","type":"text","text":"Дизайн реклам"},
 		{"id":"59a69a4ed361a71b","x":1204,"y":202,"width":250,"height":60,"color":"6","type":"text","text":"Анимированные рекламы"},
-		{"id":"9f39e29ce0868c7d","x":-1812,"y":-137,"width":250,"height":60,"color":"2","type":"text","text":"Сайт"},
-		{"id":"c053840f8166eaa4","x":-1812,"y":199,"width":250,"height":60,"color":"2","type":"text","text":"Десктоп версия"},
-		{"id":"cf58df0d51ef2291","x":-1812,"y":82,"width":250,"height":60,"color":"2","type":"text","text":"Моб приложение"},
-		{"id":"2235e8a80824c130","x":-899,"y":-520,"width":371,"height":106,"type":"text","text":"Сквозная аналитика, UTM Метки"},
-		{"id":"aa9bde77520da5fa","x":-2122,"y":82,"width":250,"height":60,"type":"text","text":""}
+		{"id":"c053840f8166eaa4","x":-1692,"y":199,"width":250,"height":60,"color":"2","type":"text","text":"Десктоп версия"},
+		{"id":"9f39e29ce0868c7d","x":-1692,"y":-137,"width":250,"height":60,"color":"2","type":"text","text":"Сайт"},
+		{"id":"cf58df0d51ef2291","x":-1692,"y":82,"width":250,"height":60,"color":"2","type":"text","text":"Моб приложение"},
+		{"id":"aa9bde77520da5fa","x":-2000,"y":82,"width":250,"height":60,"color":"2","type":"text","text":"Отзывы от экспертов"},
+		{"id":"3640d9e2a5185d48","x":-1124,"y":83,"width":250,"height":60,"color":"5","type":"text","text":"Оформление и название"},
+		{"id":"dad6fd266849c691","x":-970,"y":-137,"width":250,"height":60,"color":"5","type":"text","text":"Создание телеграм бота"},
+		{"id":"d95c1bd799c50805","x":-837,"y":83,"width":250,"height":60,"color":"5","type":"text","text":"Создание сервера из raspberry"},
+		{"id":"2235e8a80824c130","x":-1030,"y":-519,"width":371,"height":106,"type":"text","text":"Сквозная аналитика, UTM Метки"},
+		{"id":"205f96eed6cb1360","x":-1214,"y":-820,"width":740,"height":200,"color":"2","type":"file","file":"Идея/Терминология.md"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
