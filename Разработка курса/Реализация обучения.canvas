@@ -115,12 +115,6 @@
 		{"id":"e9cb467a03aec9cd","type":"text","text":"Конструктор ботов","x":-1429,"y":6370,"width":250,"height":60},
 		{"id":"dd5335d6c86bed46","type":"text","text":"Ограничения рассылки","x":-1941,"y":5392,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"5cf5a9d21c6f8dc9","type":"text","text":"Импорт контактов","x":-1634,"y":5392,"width":250,"height":60,"color":"#0189bc"},
-		{"id":"68708808c257fc1f","type":"text","text":"# Поверхностное обучение Bot Gate","x":795,"y":4200,"width":291,"height":241,"color":"1"},
-		{"id":"abe41b50c52f1dd0","type":"text","text":"# Работа с API?","x":795,"y":4520,"width":291,"height":241,"color":"1"},
-		{"id":"263b35f3a8cebb79","type":"text","text":"# WABA? WACA?","x":795,"y":4832,"width":291,"height":241,"color":"1"},
-		{"id":"24dbe1940c989e37","type":"text","text":"# ОПЛАТА?","x":795,"y":5180,"width":291,"height":241,"color":"1"},
-		{"id":"a17bd073aa969b8f","type":"text","text":"# Лид-сканер?","x":795,"y":5520,"width":291,"height":241,"color":"1"},
-		{"id":"ffc8becc521cb1a6","type":"text","text":"обучают сами руководители","x":1295,"y":4833,"width":250,"height":60},
 		{"id":"8c8b5ef33df194d7","type":"text","text":"✅Что такое партнёрская программа?","x":-1512,"y":4020,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"2677be5b21e34423","type":"text","text":"✅Работа с лидами и клиентами","x":-2200,"y":4156,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"a166472950809501","type":"text","text":"✅Настройка уведомлений","x":-1860,"y":4156,"width":250,"height":59,"color":"#0189bc"},
@@ -143,7 +137,13 @@
 		{"id":"d418931e6c777349","type":"text","text":"Open-ai ChatGPT","x":-796,"y":5070,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"546828d1a182631a","type":"text","text":"FAQ по работе с AI","x":-796,"y":5184,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"3b693c0109f6f697","type":"text","text":"Электронная визитка","x":-460,"y":5070,"width":250,"height":60,"color":"#0189bc"},
-		{"id":"2e8db8e528e3db88","type":"text","text":"Хранилище S3","x":-140,"y":5070,"width":250,"height":60,"color":"#0189bc"}
+		{"id":"2e8db8e528e3db88","type":"text","text":"Хранилище S3","x":-140,"y":5070,"width":250,"height":60,"color":"#0189bc"},
+		{"id":"a17bd073aa969b8f","type":"text","text":"# Лид-сканер?","x":928,"y":5528,"width":291,"height":241,"color":"1"},
+		{"id":"68708808c257fc1f","type":"text","text":"# Поверхностное обучение Bot Gate","x":928,"y":4208,"width":291,"height":241,"color":"1"},
+		{"id":"abe41b50c52f1dd0","type":"text","text":"# Работа с API?","x":928,"y":4528,"width":291,"height":241,"color":"1"},
+		{"id":"263b35f3a8cebb79","type":"text","text":"# WABA? WACA?","x":928,"y":4840,"width":291,"height":241,"color":"1"},
+		{"id":"24dbe1940c989e37","type":"text","text":"# ОПЛАТА?","x":928,"y":5188,"width":291,"height":241,"color":"1"},
+		{"id":"ffc8becc521cb1a6","type":"text","text":"обучают сами руководители","x":1428,"y":4841,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"4ca2eb823073c091","fromNode":"ef0510a39083510b","fromSide":"bottom","toNode":"12e0c8df07a5cbee","toSide":"top"},
