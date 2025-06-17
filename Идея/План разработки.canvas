@@ -15,10 +15,6 @@
 		{"id":"5e9b5f1bddbc9fe6","x":504,"y":204,"width":297,"height":56,"color":"6","type":"text","text":"Брендбук"},
 		{"id":"3e03245f677b2ed7","x":884,"y":202,"width":250,"height":60,"color":"6","type":"text","text":"Дизайн реклам"},
 		{"id":"59a69a4ed361a71b","x":1204,"y":202,"width":250,"height":60,"color":"6","type":"text","text":"Анимированные рекламы"},
-		{"id":"c053840f8166eaa4","x":-1692,"y":199,"width":250,"height":60,"color":"2","type":"text","text":"Десктоп версия"},
-		{"id":"9f39e29ce0868c7d","x":-1692,"y":-137,"width":250,"height":60,"color":"2","type":"text","text":"Сайт"},
-		{"id":"cf58df0d51ef2291","x":-1692,"y":82,"width":250,"height":60,"color":"2","type":"text","text":"Моб приложение"},
-		{"id":"aa9bde77520da5fa","x":-2000,"y":82,"width":250,"height":60,"color":"2","type":"text","text":"Отзывы от экспертов"},
 		{"id":"dad6fd266849c691","x":-970,"y":-137,"width":250,"height":60,"color":"5","type":"text","text":"Создание телеграм бота"},
 		{"id":"2235e8a80824c130","x":-1030,"y":-519,"width":371,"height":106,"type":"text","text":"Сквозная аналитика, UTM Метки\nRoistat"},
 		{"id":"205f96eed6cb1360","x":-1214,"y":-820,"width":740,"height":200,"color":"2","type":"file","file":"Идея/Терминология.md"},
@@ -29,7 +25,12 @@
 		{"id":"7c77b3130db08f59","x":340,"y":382,"width":250,"height":60,"type":"text","text":"Для карточек"},
 		{"id":"f50567c1ee346945","x":-400,"y":700,"width":250,"height":60,"color":"1","type":"text","text":"Резервирование данных"},
 		{"id":"0bb7fa368ac6297b","x":-400,"y":600,"width":250,"height":60,"color":"1","type":"text","text":"Покупка жесткого диска"},
-		{"id":"e2068730c64ac1c0","x":12,"y":-519,"width":250,"height":60,"type":"text","text":"Контент план на год и на праздники"}
+		{"id":"e2068730c64ac1c0","x":-238,"y":-519,"width":250,"height":106,"type":"text","text":"Контент план на полгода"},
+		{"id":"c053840f8166eaa4","x":-2092,"y":199,"width":250,"height":60,"color":"2","type":"text","text":"Десктоп версия"},
+		{"id":"9f39e29ce0868c7d","x":-2092,"y":-137,"width":250,"height":60,"color":"2","type":"text","text":"Сайт"},
+		{"id":"cf58df0d51ef2291","x":-2092,"y":82,"width":250,"height":60,"color":"2","type":"text","text":"Моб приложение"},
+		{"id":"aa9bde77520da5fa","x":-2400,"y":82,"width":250,"height":60,"color":"2","type":"text","text":"Отзывы от экспертов"},
+		{"id":"d060b5fe7f344661","x":-1660,"y":101,"width":250,"height":60,"color":"5","type":"text","text":"Система отзывов и обратной связи"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -59,6 +60,7 @@
 		{"id":"f14408d4955da425","fromNode":"31beb03fe1b26204","fromSide":"bottom","toNode":"8bd201a87fbb3d79","toSide":"top"},
 		{"id":"fbbb08593edd3451","fromNode":"31beb03fe1b26204","fromSide":"bottom","toNode":"7c77b3130db08f59","toSide":"top"},
 		{"id":"891abade3eb2db9a","fromNode":"d95c1bd799c50805","fromSide":"right","toNode":"0bb7fa368ac6297b","toSide":"top"},
-		{"id":"8f4a93d692db92d8","fromNode":"0bb7fa368ac6297b","fromSide":"bottom","toNode":"f50567c1ee346945","toSide":"top"}
+		{"id":"8f4a93d692db92d8","fromNode":"0bb7fa368ac6297b","fromSide":"bottom","toNode":"f50567c1ee346945","toSide":"top"},
+		{"id":"0f10d878982658ec","fromNode":"6d86c6e6d60fb00f","fromSide":"left","toNode":"d060b5fe7f344661","toSide":"right"}
 	]
 }
