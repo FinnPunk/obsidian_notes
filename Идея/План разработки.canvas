@@ -34,7 +34,8 @@
 		{"id":"7c77b3130db08f59","type":"text","text":"Для карточек","x":688,"y":382,"width":250,"height":60},
 		{"id":"59a69a4ed361a71b","type":"text","text":"Анимированные рекламы","x":688,"y":500,"width":250,"height":60,"color":"6"},
 		{"id":"2235e8a80824c130","type":"text","text":"Сквозная аналитика, UTM Метки\nRoistat","x":-1093,"y":-519,"width":371,"height":106,"color":"1"},
-		{"id":"e2068730c64ac1c0","type":"text","text":"Контент план на полгода","x":-680,"y":-360,"width":250,"height":60,"color":"1"}
+		{"id":"e2068730c64ac1c0","type":"text","text":"Контент план на полгода","x":-680,"y":-360,"width":250,"height":60,"color":"1"},
+		{"id":"b95148f4f6da0930","x":532,"y":-360,"width":250,"height":60,"color":"3","type":"text","text":"⁉️Яндекс директ"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -71,6 +72,7 @@
 		{"id":"f1c1336ee5215050","fromNode":"e2068730c64ac1c0","fromSide":"bottom","toNode":"dad6fd266849c691","toSide":"top"},
 		{"id":"2f3702ee5fc3fdf4","fromNode":"99dfe21ebf89d99d","fromSide":"bottom","toNode":"585d526e91cd3b49","toSide":"top"},
 		{"id":"2fc1a15d3d4889c9","fromNode":"585d526e91cd3b49","fromSide":"bottom","toNode":"31ef2d09b6cd4f6f","toSide":"top"},
-		{"id":"d9d681b4d585c33f","fromNode":"3490346a450ff5db","fromSide":"right","toNode":"4cfd0bef69db40e8","toSide":"left","fromEnd":"arrow"}
+		{"id":"d9d681b4d585c33f","fromNode":"3490346a450ff5db","fromSide":"right","toNode":"4cfd0bef69db40e8","toSide":"left","fromEnd":"arrow"},
+		{"id":"48caa5c437d33083","fromNode":"b95148f4f6da0930","fromSide":"bottom","toNode":"31beb03fe1b26204","toSide":"top"}
 	]
 }
