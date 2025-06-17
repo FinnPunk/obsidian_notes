@@ -1,13 +1,9 @@
 {
 	"nodes":[
-		{"id":"1829c49f668d8c98","type":"text","text":"Функционал добавления карточек мест","x":-993,"y":395,"width":250,"height":60,"color":"5"},
-		{"id":"5b5539babe70ef4a","type":"text","text":"Функционал удаления/редактирования мест","x":-993,"y":500,"width":250,"height":60,"color":"5"},
 		{"id":"b37a43b196a22c1e","type":"text","text":"Функционал отправки места ","x":-706,"y":395,"width":250,"height":60,"color":"5"},
 		{"id":"d67ba6432b6d4c5f","type":"text","text":"Функционал геолокации мест","x":-706,"y":500,"width":250,"height":60,"color":"5"},
 		{"id":"2e2a66217e8553a5","type":"text","text":"Функционал приёма геолокации","x":-706,"y":300,"width":250,"height":60,"color":"5"},
-		{"id":"99dfe21ebf89d99d","type":"text","text":"Привлекательный и не пугающий дизайн","x":-1280,"y":500,"width":250,"height":60,"color":"5"},
 		{"id":"61582f043e0bd29f","type":"text","text":"Использование кнопок, для удобного использования","x":-1280,"y":300,"width":250,"height":105,"color":"5"},
-		{"id":"dc19e33018f87213","type":"text","text":" Может использование MiniApp приложения в тг и вк\n\n!!!ИЗУЧИТЬ ","x":-1280,"y":600,"width":824,"height":160,"color":"1"},
 		{"id":"4cfd0bef69db40e8","type":"text","text":"Создание instagram","x":-116,"y":-138,"width":250,"height":60,"color":"6"},
 		{"id":"3387e16e8a6dab0c","type":"text","text":"Оформление","x":-116,"y":82,"width":250,"height":60,"color":"6"},
 		{"id":"8ceeec3bc620c37d","type":"text","text":"Палитра","x":-116,"y":202,"width":250,"height":60,"color":"6"},
@@ -30,7 +26,11 @@
 		{"id":"59a69a4ed361a71b","type":"text","text":"Анимированные рекламы","x":728,"y":500,"width":250,"height":60,"color":"6"},
 		{"id":"dad6fd266849c691","type":"text","text":"Создание телеграм бота","x":-993,"y":-138,"width":250,"height":60,"color":"5"},
 		{"id":"2235e8a80824c130","type":"text","text":"Сквозная аналитика, UTM Метки\nRoistat","x":-1053,"y":-519,"width":371,"height":106},
-		{"id":"e2068730c64ac1c0","type":"text","text":"Контент план на полгода","x":-560,"y":-320,"width":250,"height":60}
+		{"id":"e2068730c64ac1c0","type":"text","text":"Контент план на полгода","x":-640,"y":-360,"width":250,"height":60},
+		{"id":"1829c49f668d8c98","type":"text","text":"Функционал добавления карточек мест","x":-993,"y":300,"width":250,"height":60,"color":"5"},
+		{"id":"5b5539babe70ef4a","type":"text","text":"Функционал удаления/редактирования мест","x":-993,"y":395,"width":250,"height":60,"color":"5"},
+		{"id":"99dfe21ebf89d99d","type":"text","text":"Привлекательный и не пугающий дизайн","x":-1280,"y":455,"width":250,"height":60,"color":"5"},
+		{"id":"dc19e33018f87213","type":"text","text":" Может использование MiniApp приложения в тг и вк\n\n!!!ИЗУЧИТЬ ","x":-1280,"y":760,"width":824,"height":160,"color":"1"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -64,6 +64,6 @@
 		{"id":"9b67f5cf2d7c38f6","fromNode":"7c77b3130db08f59","fromSide":"bottom","toNode":"59a69a4ed361a71b","toSide":"top"},
 		{"id":"12ad433b9ffc080c","fromNode":"3e03245f677b2ed7","fromSide":"right","toNode":"59a69a4ed361a71b","toSide":"left","fromEnd":"arrow"},
 		{"id":"31f3abee897fd943","fromNode":"e2068730c64ac1c0","fromSide":"right","toNode":"4cfd0bef69db40e8","toSide":"top"},
-		{"id":"f1c1336ee5215050","fromNode":"e2068730c64ac1c0","fromSide":"left","toNode":"dad6fd266849c691","toSide":"top"}
+		{"id":"f1c1336ee5215050","fromNode":"e2068730c64ac1c0","fromSide":"bottom","toNode":"dad6fd266849c691","toSide":"top"}
 	]
 }
