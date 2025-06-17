@@ -32,7 +32,8 @@
 		{"id":"99dfe21ebf89d99d","type":"text","text":"Привлекательный и не пугающий дизайн","x":-1280,"y":455,"width":250,"height":60,"color":"5"},
 		{"id":"31ef2d09b6cd4f6f","x":-1280,"y":660,"width":250,"height":120,"color":"5","type":"text","text":"Не навязывающие рассылки в другом боте, чтобы не произошла блокировка основного"},
 		{"id":"585d526e91cd3b49","x":-1280,"y":560,"width":250,"height":60,"color":"5","type":"text","text":"Подписка на рассылки"},
-		{"id":"dc19e33018f87213","type":"text","text":" Может использование MiniApp приложения в тг и вк\n\n!!!ИЗУЧИТЬ ","x":-1280,"y":860,"width":824,"height":160,"color":"1"}
+		{"id":"dc19e33018f87213","type":"text","text":" Может использование MiniApp приложения в тг и вк\n\n!!!ИЗУЧИТЬ ","x":-1620,"y":860,"width":1470,"height":160,"color":"1"},
+		{"id":"3490346a450ff5db","x":-1427,"y":-318,"width":250,"height":60,"type":"text","text":"Запомм"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
