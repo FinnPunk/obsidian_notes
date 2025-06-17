@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"0a99b2574bee0f94","x":-2480,"y":-560,"width":3520,"height":1720,"type":"group","label":"Version One"},
+		{"id":"0a99b2574bee0f94","x":-2480,"y":-560,"width":3520,"height":1720,"color":"#8fb44b","type":"group","label":"Version One"},
 		{"id":"205f96eed6cb1360","type":"file","file":"Идея/Терминология.md","x":-1214,"y":-820,"width":740,"height":240,"color":"2"},
 		{"id":"61582f043e0bd29f","type":"text","text":"Использование кнопок, для удобного использования","x":-1320,"y":300,"width":250,"height":105,"color":"5"},
 		{"id":"1829c49f668d8c98","type":"text","text":"Функционал добавления карточек мест","x":-1033,"y":300,"width":250,"height":60,"color":"5"},
