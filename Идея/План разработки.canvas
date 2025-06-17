@@ -11,8 +11,6 @@
 		{"id":"4cfd0bef69db40e8","x":-116,"y":-138,"width":250,"height":60,"color":"6","type":"text","text":"Создание instagram"},
 		{"id":"3387e16e8a6dab0c","x":-116,"y":82,"width":250,"height":60,"color":"6","type":"text","text":"Оформление"},
 		{"id":"8ceeec3bc620c37d","x":-116,"y":202,"width":250,"height":60,"color":"6","type":"text","text":"палитра"},
-		{"id":"31beb03fe1b26204","x":184,"y":202,"width":250,"height":60,"color":"6","type":"text","text":"заготовки"},
-		{"id":"5e9b5f1bddbc9fe6","x":504,"y":204,"width":297,"height":56,"color":"6","type":"text","text":"Брендбук"},
 		{"id":"3e03245f677b2ed7","x":884,"y":202,"width":250,"height":60,"color":"6","type":"text","text":"Дизайн реклам"},
 		{"id":"59a69a4ed361a71b","x":1204,"y":202,"width":250,"height":60,"color":"6","type":"text","text":"Анимированные рекламы"},
 		{"id":"dad6fd266849c691","x":-970,"y":-137,"width":250,"height":60,"color":"5","type":"text","text":"Создание телеграм бота"},
@@ -21,8 +19,6 @@
 		{"id":"3640d9e2a5185d48","x":-993,"y":82,"width":250,"height":60,"color":"5","type":"text","text":"Оформление и название"},
 		{"id":"d95c1bd799c50805","x":-706,"y":82,"width":250,"height":60,"color":"5","type":"text","text":"Создание сервера из raspberry"},
 		{"id":"6d86c6e6d60fb00f","x":-1280,"y":82,"width":250,"height":98,"color":"5","type":"text","text":"Розыгрыши промокодов/тайных слов"},
-		{"id":"8bd201a87fbb3d79","x":12,"y":382,"width":250,"height":60,"type":"text","text":"Для монтажа"},
-		{"id":"7c77b3130db08f59","x":340,"y":382,"width":250,"height":60,"type":"text","text":"Для карточек"},
 		{"id":"f50567c1ee346945","x":-400,"y":700,"width":250,"height":60,"color":"1","type":"text","text":"Резервирование данных"},
 		{"id":"0bb7fa368ac6297b","x":-400,"y":600,"width":250,"height":60,"color":"1","type":"text","text":"Покупка жесткого диска"},
 		{"id":"e2068730c64ac1c0","x":-238,"y":-519,"width":250,"height":106,"type":"text","text":"Контент план на полгода"},
@@ -30,14 +26,16 @@
 		{"id":"9f39e29ce0868c7d","x":-2092,"y":-137,"width":250,"height":60,"color":"2","type":"text","text":"Сайт"},
 		{"id":"cf58df0d51ef2291","x":-2092,"y":82,"width":250,"height":60,"color":"2","type":"text","text":"Моб приложение"},
 		{"id":"aa9bde77520da5fa","x":-2400,"y":82,"width":250,"height":60,"color":"2","type":"text","text":"Отзывы от экспертов"},
-		{"id":"d060b5fe7f344661","x":-1660,"y":101,"width":250,"height":60,"color":"5","type":"text","text":"Система отзывов и обратной связи"}
+		{"id":"d060b5fe7f344661","x":-1620,"y":82,"width":250,"height":98,"color":"5","type":"text","text":"Система отзывов и обратной связи"},
+		{"id":"5e9b5f1bddbc9fe6","x":200,"y":204,"width":297,"height":56,"color":"6","type":"text","text":"Брендбук"},
+		{"id":"31beb03fe1b26204","x":572,"y":202,"width":250,"height":60,"color":"6","type":"text","text":"заготовки"},
+		{"id":"8bd201a87fbb3d79","x":400,"y":382,"width":250,"height":60,"type":"text","text":"Для монтажа"},
+		{"id":"7c77b3130db08f59","x":728,"y":382,"width":250,"height":60,"type":"text","text":"Для карточек"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
 		{"id":"70706b1b91e2e8c4","fromNode":"3387e16e8a6dab0c","fromSide":"bottom","toNode":"8ceeec3bc620c37d","toSide":"top"},
-		{"id":"eb031dd9ec2a9437","fromNode":"31beb03fe1b26204","fromSide":"right","toNode":"5e9b5f1bddbc9fe6","toSide":"left"},
-		{"id":"bfdcdfdb8392a149","fromNode":"8ceeec3bc620c37d","fromSide":"right","toNode":"31beb03fe1b26204","toSide":"left"},
-		{"id":"b1bd4ea7e91d4034","fromNode":"5e9b5f1bddbc9fe6","fromSide":"right","toNode":"3e03245f677b2ed7","toSide":"left"},
+		{"id":"b1bd4ea7e91d4034","fromNode":"5e9b5f1bddbc9fe6","fromSide":"right","toNode":"31beb03fe1b26204","toSide":"left"},
 		{"id":"b10a7f0243e9b0ac","fromNode":"3e03245f677b2ed7","fromSide":"right","toNode":"59a69a4ed361a71b","toSide":"left"},
 		{"id":"4c20d7af8849451e","fromNode":"4cfd0bef69db40e8","fromSide":"left","toNode":"dad6fd266849c691","toSide":"right","fromEnd":"arrow"},
 		{"id":"d8eec9ce8ce68763","fromNode":"dad6fd266849c691","fromSide":"bottom","toNode":"d95c1bd799c50805","toSide":"top"},
@@ -61,6 +59,7 @@
 		{"id":"fbbb08593edd3451","fromNode":"31beb03fe1b26204","fromSide":"bottom","toNode":"7c77b3130db08f59","toSide":"top"},
 		{"id":"891abade3eb2db9a","fromNode":"d95c1bd799c50805","fromSide":"right","toNode":"0bb7fa368ac6297b","toSide":"top"},
 		{"id":"8f4a93d692db92d8","fromNode":"0bb7fa368ac6297b","fromSide":"bottom","toNode":"f50567c1ee346945","toSide":"top"},
-		{"id":"0f10d878982658ec","fromNode":"6d86c6e6d60fb00f","fromSide":"left","toNode":"d060b5fe7f344661","toSide":"right"}
+		{"id":"0f10d878982658ec","fromNode":"6d86c6e6d60fb00f","fromSide":"left","toNode":"d060b5fe7f344661","toSide":"right"},
+		{"id":"882c88ed4fa82904","fromNode":"8ceeec3bc620c37d","fromSide":"right","toNode":"5e9b5f1bddbc9fe6","toSide":"left"}
 	]
 }
