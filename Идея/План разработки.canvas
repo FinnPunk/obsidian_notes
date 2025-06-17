@@ -8,7 +8,7 @@
 		{"id":"3387e16e8a6dab0c","type":"text","text":"Оформление","x":-116,"y":82,"width":250,"height":60,"color":"6"},
 		{"id":"8ceeec3bc620c37d","type":"text","text":"Палитра","x":-116,"y":202,"width":250,"height":60,"color":"6"},
 		{"id":"205f96eed6cb1360","type":"file","file":"Идея/Терминология.md","x":-1214,"y":-820,"width":740,"height":240,"color":"2"},
-		{"id":"3640d9e2a5185d48","type":"text","text":"Оформление и название","x":-993,"y":82,"width":250,"height":60,"color":"5"},
+		{"id":"3640d9e2a5185d48","type":"text","text":"Оформление","x":-993,"y":82,"width":250,"height":60,"color":"5"},
 		{"id":"d95c1bd799c50805","type":"text","text":"Создание сервера из raspberry","x":-706,"y":82,"width":250,"height":60,"color":"5"},
 		{"id":"6d86c6e6d60fb00f","type":"text","text":"Розыгрыши промокодов/тайных слов","x":-1280,"y":82,"width":250,"height":98,"color":"5"},
 		{"id":"f50567c1ee346945","type":"text","text":"Резервирование данных","x":-400,"y":700,"width":250,"height":60,"color":"1"},
@@ -33,13 +33,13 @@
 		{"id":"31ef2d09b6cd4f6f","x":-1280,"y":660,"width":250,"height":120,"color":"5","type":"text","text":"Не навязывающие рассылки в другом боте, чтобы не произошла блокировка основного"},
 		{"id":"585d526e91cd3b49","x":-1280,"y":560,"width":250,"height":60,"color":"5","type":"text","text":"Подписка на рассылки"},
 		{"id":"dc19e33018f87213","type":"text","text":" Может использование MiniApp приложения в тг и вк\n\n!!!ИЗУЧИТЬ ","x":-1620,"y":860,"width":1470,"height":160,"color":"1"},
-		{"id":"3490346a450ff5db","x":-1427,"y":-318,"width":250,"height":60,"type":"text","text":"Запомм"}
+		{"id":"3490346a450ff5db","x":-540,"y":-167,"width":272,"height":118,"color":"1","type":"text","text":"Запоминающее название с ассоциацией простой для заедания в голове"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
 		{"id":"70706b1b91e2e8c4","fromNode":"3387e16e8a6dab0c","fromSide":"bottom","toNode":"8ceeec3bc620c37d","toSide":"top"},
 		{"id":"b1bd4ea7e91d4034","fromNode":"5e9b5f1bddbc9fe6","fromSide":"right","toNode":"31beb03fe1b26204","toSide":"left"},
-		{"id":"4c20d7af8849451e","fromNode":"4cfd0bef69db40e8","fromSide":"left","toNode":"dad6fd266849c691","toSide":"right","fromEnd":"arrow"},
+		{"id":"4c20d7af8849451e","fromNode":"3490346a450ff5db","fromSide":"left","toNode":"dad6fd266849c691","toSide":"right","fromEnd":"arrow"},
 		{"id":"d8eec9ce8ce68763","fromNode":"dad6fd266849c691","fromSide":"bottom","toNode":"d95c1bd799c50805","toSide":"top"},
 		{"id":"1bd33906c1f153c9","fromNode":"d95c1bd799c50805","fromSide":"bottom","toNode":"1829c49f668d8c98","toSide":"top"},
 		{"id":"acfaa8b1e6d28a1b","fromNode":"b37a43b196a22c1e","fromSide":"bottom","toNode":"d67ba6432b6d4c5f","toSide":"top"},
@@ -69,6 +69,7 @@
 		{"id":"31f3abee897fd943","fromNode":"e2068730c64ac1c0","fromSide":"right","toNode":"4cfd0bef69db40e8","toSide":"top"},
 		{"id":"f1c1336ee5215050","fromNode":"e2068730c64ac1c0","fromSide":"bottom","toNode":"dad6fd266849c691","toSide":"top"},
 		{"id":"2f3702ee5fc3fdf4","fromNode":"99dfe21ebf89d99d","fromSide":"bottom","toNode":"585d526e91cd3b49","toSide":"top"},
-		{"id":"2fc1a15d3d4889c9","fromNode":"585d526e91cd3b49","fromSide":"bottom","toNode":"31ef2d09b6cd4f6f","toSide":"top"}
+		{"id":"2fc1a15d3d4889c9","fromNode":"585d526e91cd3b49","fromSide":"bottom","toNode":"31ef2d09b6cd4f6f","toSide":"top"},
+		{"id":"d9d681b4d585c33f","fromNode":"3490346a450ff5db","fromSide":"right","toNode":"4cfd0bef69db40e8","toSide":"left","fromEnd":"arrow"}
 	]
 }
