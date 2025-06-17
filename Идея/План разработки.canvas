@@ -24,7 +24,9 @@
 		{"id":"205f96eed6cb1360","x":-1214,"y":-820,"width":740,"height":200,"color":"2","type":"file","file":"Идея/Терминология.md"},
 		{"id":"3640d9e2a5185d48","x":-993,"y":82,"width":250,"height":60,"color":"5","type":"text","text":"Оформление и название"},
 		{"id":"d95c1bd799c50805","x":-706,"y":82,"width":250,"height":60,"color":"5","type":"text","text":"Создание сервера из raspberry"},
-		{"id":"6d86c6e6d60fb00f","x":-1280,"y":82,"width":250,"height":98,"color":"5","type":"text","text":"Розыгрыши промокодов/тайных слов"}
+		{"id":"6d86c6e6d60fb00f","x":-1280,"y":82,"width":250,"height":98,"color":"5","type":"text","text":"Розыгрыши промокодов/тайных слов"},
+		{"id":"8bd201a87fbb3d79","x":12,"y":382,"width":250,"height":60,"type":"text","text":"Для монтажа"},
+		{"id":"7c77b3130db08f59","x":340,"y":382,"width":250,"height":60,"type":"text","text":"Для карточек"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -50,6 +52,8 @@
 		{"id":"9b68ff078c115ea9","fromNode":"2235e8a80824c130","fromSide":"left","toNode":"9f39e29ce0868c7d","toSide":"top","fromEnd":"arrow"},
 		{"id":"2961445b53832b54","fromNode":"2235e8a80824c130","fromSide":"right","toNode":"4cfd0bef69db40e8","toSide":"top","fromEnd":"arrow"},
 		{"id":"f74bede287789c80","fromNode":"9f39e29ce0868c7d","fromSide":"bottom","toNode":"aa9bde77520da5fa","toSide":"top"},
-		{"id":"18bf453658a2ae4b","fromNode":"dad6fd266849c691","fromSide":"bottom","toNode":"6d86c6e6d60fb00f","toSide":"top"}
+		{"id":"18bf453658a2ae4b","fromNode":"dad6fd266849c691","fromSide":"bottom","toNode":"6d86c6e6d60fb00f","toSide":"top"},
+		{"id":"f14408d4955da425","fromNode":"31beb03fe1b26204","fromSide":"bottom","toNode":"8bd201a87fbb3d79","toSide":"top"},
+		{"id":"fbbb08593edd3451","fromNode":"31beb03fe1b26204","fromSide":"bottom","toNode":"7c77b3130db08f59","toSide":"top"}
 	]
 }
