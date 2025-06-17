@@ -111,14 +111,10 @@
 		{"id":"90078444af6de722","type":"text","text":"#### Этап 4. Вспомогательные функции сервиса","x":-797,"y":4692,"width":250,"height":100,"color":"1"},
 		{"id":"b40872177f7791eb","type":"text","text":"#### 4 раб день.\nпринцип работы 50/50","x":-2561,"y":4700,"width":250,"height":83,"color":"#00ff2a"},
 		{"id":"ec848f677125eb95","type":"text","text":"FAQ по рассылкам","x":-1634,"y":5272,"width":250,"height":60,"color":"#0189bc"},
-		{"id":"d418931e6c777349","type":"text","text":"Open-ai ChatGPT","x":-621,"y":5158,"width":250,"height":60,"color":"#0189bc"},
-		{"id":"546828d1a182631a","type":"text","text":"FAQ по работе с AI","x":-621,"y":5272,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"3b693c0109f6f697","type":"text","text":"Электронная визитка","x":-294,"y":5158,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"2e8db8e528e3db88","type":"text","text":"Хранилище S3","x":40,"y":5269,"width":250,"height":60,"color":"#0189bc"},
-		{"id":"b317466f74965f43","type":"text","text":"Тестирование","x":-797,"y":5552,"width":250,"height":60,"color":"6"},
 		{"id":"691d70788db70cfb","type":"text","text":" # КОНЕЦ!","x":-2561,"y":5932,"width":3780,"height":170,"color":"3"},
 		{"id":"e9cb467a03aec9cd","type":"text","text":"Конструктор ботов","x":-1429,"y":6370,"width":250,"height":60},
-		{"id":"0b9000d2d7939cb7","type":"text","text":"### Работа 50% дня","x":-797,"y":5672,"width":250,"height":84,"color":"1"},
 		{"id":"dd5335d6c86bed46","type":"text","text":"Ограничения рассылки","x":-1941,"y":5392,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"5cf5a9d21c6f8dc9","type":"text","text":"Импорт контактов","x":-1634,"y":5392,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"68708808c257fc1f","type":"text","text":"# Поверхностное обучение Bot Gate","x":795,"y":4200,"width":291,"height":241,"color":"1"},
@@ -143,7 +139,11 @@
 		{"id":"f581041e558725dc","type":"text","text":"Управление Telegram группами в ChatApp Dialog","x":-1281,"y":5072,"width":250,"height":116,"color":"#0189bc"},
 		{"id":"878be752f1390bf2","type":"text","text":"Рассылка","x":-1634,"y":5100,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"250cdc0d5e2413a5","type":"text","text":"Инвайтер","x":-1281,"y":5272,"width":250,"height":60,"color":"#0189bc"},
-		{"id":"dab6596ffc647f51","type":"text","text":"Практика","x":-797,"y":5431,"width":250,"height":60,"color":"6"}
+		{"id":"b317466f74965f43","type":"text","text":"Тестирование","x":-796,"y":5611,"width":250,"height":60,"color":"6"},
+		{"id":"0b9000d2d7939cb7","type":"text","text":"### Работа 50% дня","x":-796,"y":5731,"width":250,"height":84,"color":"1"},
+		{"id":"dab6596ffc647f51","type":"text","text":"Практика","x":-796,"y":5490,"width":250,"height":60,"color":"6"},
+		{"id":"d418931e6c777349","type":"text","text":"Open-ai ChatGPT","x":-840,"y":5072,"width":250,"height":60,"color":"#0189bc"},
+		{"id":"546828d1a182631a","type":"text","text":"FAQ по работе с AI","x":-840,"y":5186,"width":250,"height":60,"color":"#0189bc"}
 	],
 	"edges":[
 		{"id":"4ca2eb823073c091","fromNode":"ef0510a39083510b","fromSide":"bottom","toNode":"12e0c8df07a5cbee","toSide":"top"},
