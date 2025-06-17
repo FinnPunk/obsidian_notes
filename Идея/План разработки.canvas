@@ -27,8 +27,9 @@
 		{"id":"6d86c6e6d60fb00f","x":-1280,"y":82,"width":250,"height":98,"color":"5","type":"text","text":"Розыгрыши промокодов/тайных слов"},
 		{"id":"8bd201a87fbb3d79","x":12,"y":382,"width":250,"height":60,"type":"text","text":"Для монтажа"},
 		{"id":"7c77b3130db08f59","x":340,"y":382,"width":250,"height":60,"type":"text","text":"Для карточек"},
-		{"id":"0bb7fa368ac6297b","x":-400,"y":300,"width":250,"height":60,"type":"text","text":"Покупка жесткого диска"},
-		{"id":"f50567c1ee346945","x":-400,"y":395,"width":250,"height":60,"type":"text","text":"Резервирование данных"}
+		{"id":"f50567c1ee346945","x":-400,"y":700,"width":250,"height":60,"color":"1","type":"text","text":"Резервирование данных"},
+		{"id":"0bb7fa368ac6297b","x":-400,"y":600,"width":250,"height":60,"color":"1","type":"text","text":"Покупка жесткого диска"},
+		{"id":"e2068730c64ac1c0","x":12,"y":-519,"width":250,"height":60,"type":"text","text":"Контент план на год и на праздники"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
