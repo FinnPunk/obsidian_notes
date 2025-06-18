@@ -35,7 +35,7 @@
 		{"id":"8bd201a87fbb3d79","type":"text","text":"Для монтажа","x":360,"y":382,"width":250,"height":60},
 		{"id":"3e03245f677b2ed7","type":"text","text":"Дизайн реклам","x":360,"y":500,"width":250,"height":60,"color":"6"},
 		{"id":"0bb7fa368ac6297b","type":"text","text":"Покупка жесткого диска","x":-444,"y":300,"width":250,"height":60,"color":"1"},
-		{"id":"ab81f5544bfc32f4","x":-444,"y":395,"width":250,"height":60,"type":"text","text":"Создание корпуса для охлаждения "},
+		{"id":"ab81f5544bfc32f4","x":-444,"y":395,"width":250,"height":60,"color":"1","type":"text","text":"Создание корпуса для охлаждения "},
 		{"id":"f50567c1ee346945","type":"text","text":"Резервирование данных","x":-444,"y":500,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
