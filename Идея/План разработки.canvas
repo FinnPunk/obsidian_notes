@@ -56,7 +56,9 @@
 		{"id":"fbd0299bfbe6b473","x":-2200,"y":1440,"width":250,"height":60,"type":"text","text":"занос в базу данных неинтересных мест по ID"},
 		{"id":"7231b548110faf5c","x":-1800,"y":1440,"width":250,"height":60,"type":"text","text":"Заносится в базу данных интересных мест по ID"},
 		{"id":"05b9a898216426f0","x":-1480,"y":1280,"width":250,"height":134,"type":"text","text":"Составление списка мест для напоминаний админу раз в неделю для заполнения"},
-		{"id":"d7be16ebe0380a96","x":-1120,"y":1063,"width":310,"height":247,"type":"text","text":"Возможность заполнения мест с указанием отзыва через параметры:\n{smile} -  смайл-настроением\n{cost} - цен\n{menu} - ассортимента\n{text} - описанием\nотправка изображений"}
+		{"id":"d7be16ebe0380a96","x":-1120,"y":1063,"width":310,"height":247,"type":"text","text":"Возможность заполнения мест с указанием отзыва через параметры:\n{smile} -  смайл-настроением\n{cost} - цен\n{menu} - ассортимента\n{text} - описанием\nотправка изображений"},
+		{"id":"d5b1abdad47332f2","x":-585,"y":1063,"width":250,"height":60,"type":"text","text":"Показ карточки и дизайна её."},
+		{"id":"c28adf468d3b4d70","x":-370,"y":1269,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -118,6 +120,9 @@
 		{"id":"4660e8c8220f1cbb","fromNode":"c66ac4b4e799b938","fromSide":"bottom","toNode":"7231b548110faf5c","toSide":"top","label":"True"},
 		{"id":"5a8e568a669d76bb","fromNode":"c66ac4b4e799b938","fromSide":"bottom","toNode":"fbd0299bfbe6b473","toSide":"top","label":"False"},
 		{"id":"ad800c73861c7cf7","fromNode":"7231b548110faf5c","fromSide":"right","toNode":"05b9a898216426f0","toSide":"left"},
-		{"id":"c4f9537151776328","fromNode":"05b9a898216426f0","fromSide":"right","toNode":"d7be16ebe0380a96","toSide":"left"}
+		{"id":"c4f9537151776328","fromNode":"05b9a898216426f0","fromSide":"right","toNode":"d7be16ebe0380a96","toSide":"left"},
+		{"id":"c67de75faf146c30","fromNode":"d7be16ebe0380a96","fromSide":"right","toNode":"d5b1abdad47332f2","toSide":"left"},
+		{"id":"4422b6bb332db4ae","fromNode":"d5b1abdad47332f2","fromSide":"bottom","toNode":"d7be16ebe0380a96","toSide":"bottom","label":"edit"},
+		{"id":"ad6c56eb7f3654eb","fromNode":"d5b1abdad47332f2","fromSide":"bottom","toNode":"c28adf468d3b4d70","toSide":"top"}
 	]
 }
