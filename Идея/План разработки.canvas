@@ -40,7 +40,6 @@
 		{"id":"ab81f5544bfc32f4","type":"text","text":"Создание корпуса для охлаждения ","x":-444,"y":395,"width":250,"height":60,"color":"1"},
 		{"id":"f50567c1ee346945","type":"text","text":"Резервирование данных","x":-444,"y":500,"width":250,"height":60,"color":"1"},
 		{"id":"c66ac4b4e799b938","type":"text","text":"Отправка админу этих новых мест для оценки","x":-2000,"y":1280,"width":250,"height":60,"color":"6"},
-		{"id":"d9bd2e9a5cdace12","type":"text","text":"Обновление мест в городе по районам","x":-2342,"y":1280,"width":250,"height":60,"color":"6"},
 		{"id":"fbd0299bfbe6b473","type":"text","text":"занос в базу данных неинтересных мест по ID","x":-2200,"y":1440,"width":250,"height":60,"color":"1"},
 		{"id":"7231b548110faf5c","type":"text","text":"Заносится в базу данных интересных мест по ID","x":-1800,"y":1440,"width":250,"height":60,"color":"6"},
 		{"id":"05b9a898216426f0","type":"text","text":"Составление списка мест для напоминаний админу раз в неделю для заполнения","x":-1480,"y":1280,"width":250,"height":134,"color":"6"},
@@ -60,7 +59,9 @@
 		{"id":"5df08325b5724b4b","type":"text","text":"Пользователь выбирает категорию","x":-2000,"y":2040,"width":250,"height":60,"color":"2"},
 		{"id":"4766fd694585181b","type":"text","text":"Пользователю предлагается...","x":-891,"y":2320,"width":250,"height":60,"color":"1"},
 		{"id":"7c47f07a7fafe9bd","type":"text","text":"проверка по базе данных расположения мест ","x":-1660,"y":1980,"width":250,"height":100,"color":"4"},
-		{"id":"de4ab3844662f0ce","type":"text","text":"выбирает радиус поиска","x":-2000,"y":1960,"width":250,"height":60,"color":"5"}
+		{"id":"de4ab3844662f0ce","type":"text","text":"выбирает радиус поиска","x":-2000,"y":1960,"width":250,"height":60,"color":"5"},
+		{"id":"d9bd2e9a5cdace12","type":"text","text":"Обновление мест в городе по районам","x":-2360,"y":1093,"width":250,"height":60,"color":"6"},
+		{"id":"8344fc27945d918d","x":-2000,"y":1068,"width":250,"height":144,"color":"6","type":"text","text":"Составление списка с ссылками на яндекс карты и сортировка мест по ID"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -118,13 +119,14 @@
 		{"id":"db7e1eb0d6db06ab","fromNode":"0616df3f13bc7c4e","fromSide":"right","toNode":"2a56b0e9459f9aa9","toSide":"left","color":"4"},
 		{"id":"7898625d878757c5","fromNode":"2a56b0e9459f9aa9","fromSide":"right","toNode":"5e284744bbf313e9","toSide":"left","color":"4"},
 		{"id":"c8fdd5519534c87e","fromNode":"7c47f07a7fafe9bd","fromSide":"right","toNode":"8c64775152adee93","toSide":"left","color":"4"},
-		{"id":"e78261bc1efb2021","fromNode":"d9bd2e9a5cdace12","fromSide":"right","toNode":"c66ac4b4e799b938","toSide":"left","color":"4"},
+		{"id":"e78261bc1efb2021","fromNode":"d9bd2e9a5cdace12","fromSide":"right","toNode":"8344fc27945d918d","toSide":"left","color":"4"},
 		{"id":"4660e8c8220f1cbb","fromNode":"c66ac4b4e799b938","fromSide":"bottom","toNode":"7231b548110faf5c","toSide":"top","color":"4","label":"True"},
 		{"id":"5a8e568a669d76bb","fromNode":"c66ac4b4e799b938","fromSide":"bottom","toNode":"fbd0299bfbe6b473","toSide":"top","color":"1","label":"False"},
 		{"id":"ad800c73861c7cf7","fromNode":"7231b548110faf5c","fromSide":"right","toNode":"05b9a898216426f0","toSide":"left","color":"4"},
 		{"id":"c4f9537151776328","fromNode":"05b9a898216426f0","fromSide":"right","toNode":"d7be16ebe0380a96","toSide":"left","color":"4"},
 		{"id":"c67de75faf146c30","fromNode":"d7be16ebe0380a96","fromSide":"right","toNode":"d5b1abdad47332f2","toSide":"left","color":"4"},
 		{"id":"4422b6bb332db4ae","fromNode":"d5b1abdad47332f2","fromSide":"bottom","toNode":"d7be16ebe0380a96","toSide":"bottom","color":"1","label":"edit"},
-		{"id":"ad6c56eb7f3654eb","fromNode":"d5b1abdad47332f2","fromSide":"right","toNode":"c28adf468d3b4d70","toSide":"left","color":"4","label":"save"}
+		{"id":"ad6c56eb7f3654eb","fromNode":"d5b1abdad47332f2","fromSide":"right","toNode":"c28adf468d3b4d70","toSide":"left","color":"4","label":"save"},
+		{"id":"4226e0ae595d603e","fromNode":"8344fc27945d918d","fromSide":"bottom","toNode":"c66ac4b4e799b938","toSide":"top","color":"4"}
 	]
 }
