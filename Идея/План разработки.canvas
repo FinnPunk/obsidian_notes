@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"0a99b2574bee0f94","type":"group","x":-2480,"y":-560,"width":3520,"height":2540,"color":"#8fb44b","label":"Version One"},
+		{"id":"0a99b2574bee0f94","type":"group","x":-2480,"y":-560,"width":3520,"height":2880,"color":"#8fb44b","label":"Version One"},
 		{"id":"205f96eed6cb1360","type":"file","file":"Идея/Терминология.md","x":-1214,"y":-940,"width":740,"height":360,"color":"2"},
 		{"id":"aa9bde77520da5fa","type":"text","text":"Отзывы от экспертов","x":-2440,"y":82,"width":250,"height":60,"color":"2"},
 		{"id":"9f39e29ce0868c7d","type":"text","text":"Сайт","x":-2132,"y":-137,"width":250,"height":60,"color":"2"},
@@ -49,7 +49,9 @@
 		{"id":"0616df3f13bc7c4e","x":-10,"y":1120,"width":250,"height":91,"type":"text","text":"При нажатии на кнопку места, появляется карточка места"},
 		{"id":"4791976069e9f88c","x":-10,"y":1315,"width":250,"height":90,"type":"text","text":"Кнопка следующее, создаёт список следующих мест"},
 		{"id":"4766fd694585181b","x":-891,"y":1560,"width":250,"height":60,"type":"text","text":"Пользователю предлагается..."},
-		{"id":"2a56b0e9459f9aa9","x":540,"y":1240,"width":250,"height":104,"type":"text","text":"отправляеься ссылка на карту маршрута до этого места"}
+		{"id":"2a56b0e9459f9aa9","x":340,"y":1219,"width":250,"height":104,"type":"text","text":"отправляеься ссылка на карту маршрута до этого места"},
+		{"id":"5e284744bbf313e9","x":660,"y":1223,"width":260,"height":94,"type":"text","text":"отзыв смайл-настроениями о чат-боте"},
+		{"id":"5415a5667d8fea6c","x":-1369,"y":1865,"width":250,"height":60,"type":"text","text":"Пасс"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -104,6 +106,8 @@
 		{"id":"8aaa8623bc068d3e","fromNode":"6c7017eacf0bddb6","fromSide":"right","toNode":"5df08325b5724b4b","toSide":"left"},
 		{"id":"1fc067230fe2b0eb","fromNode":"4791976069e9f88c","fromSide":"bottom","toNode":"4766fd694585181b","toSide":"right","label":"FALSE"},
 		{"id":"50b9f03191a1806c","fromNode":"4766fd694585181b","fromSide":"left","toNode":"5df08325b5724b4b","toSide":"bottom"},
-		{"id":"db7e1eb0d6db06ab","fromNode":"0616df3f13bc7c4e","fromSide":"right","toNode":"2a56b0e9459f9aa9","toSide":"left","label":"\n"}
+		{"id":"db7e1eb0d6db06ab","fromNode":"0616df3f13bc7c4e","fromSide":"right","toNode":"2a56b0e9459f9aa9","toSide":"left"},
+		{"id":"7898625d878757c5","fromNode":"2a56b0e9459f9aa9","fromSide":"right","toNode":"5e284744bbf313e9","toSide":"left"},
+		{"id":"c8fdd5519534c87e","fromNode":"7c47f07a7fafe9bd","fromSide":"right","toNode":"8c64775152adee93","toSide":"left"}
 	]
 }
