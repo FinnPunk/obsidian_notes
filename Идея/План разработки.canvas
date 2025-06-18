@@ -48,7 +48,8 @@
 		{"id":"a6bf72780194f730","x":-891,"y":1120,"width":250,"height":60,"type":"text","text":"сортируется по ценами с дешёвого до дорогого"},
 		{"id":"0616df3f13bc7c4e","x":-10,"y":1120,"width":250,"height":91,"type":"text","text":"При нажатии на кнопку места, появляется карточка места"},
 		{"id":"4791976069e9f88c","x":-10,"y":1315,"width":250,"height":90,"type":"text","text":"Кнопка следующее, создаёт список следующих мест"},
-		{"id":"4766fd694585181b","x":-891,"y":1560,"width":250,"height":60,"type":"text","text":"Пользователю предлагается..."}
+		{"id":"4766fd694585181b","x":-891,"y":1560,"width":250,"height":60,"type":"text","text":"Пользователю предлагается..."},
+		{"id":"2a56b0e9459f9aa9","x":540,"y":1240,"width":250,"height":104,"type":"text","text":"отправляеься ссылка на карту маршрута до этого места"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -102,6 +103,7 @@
 		{"id":"3e83ea4096253df6","fromNode":"5df08325b5724b4b","fromSide":"right","toNode":"7c47f07a7fafe9bd","toSide":"left"},
 		{"id":"8aaa8623bc068d3e","fromNode":"6c7017eacf0bddb6","fromSide":"right","toNode":"5df08325b5724b4b","toSide":"left"},
 		{"id":"1fc067230fe2b0eb","fromNode":"4791976069e9f88c","fromSide":"bottom","toNode":"4766fd694585181b","toSide":"right","label":"FALSE"},
-		{"id":"50b9f03191a1806c","fromNode":"4766fd694585181b","fromSide":"left","toNode":"5df08325b5724b4b","toSide":"bottom"}
+		{"id":"50b9f03191a1806c","fromNode":"4766fd694585181b","fromSide":"left","toNode":"5df08325b5724b4b","toSide":"bottom"},
+		{"id":"db7e1eb0d6db06ab","fromNode":"0616df3f13bc7c4e","fromSide":"right","toNode":"2a56b0e9459f9aa9","toSide":"left","label":"\n"}
 	]
 }
