@@ -44,7 +44,7 @@
 		{"id":"b5c8865f4957edad","x":-621,"y":1240,"width":250,"height":60,"type":"text","text":"Сортируется по отзывам(кол-во звезд)"},
 		{"id":"a6bf72780194f730","x":-621,"y":1120,"width":250,"height":60,"type":"text","text":"сортируется по ценами с дешёвого до дорогого"},
 		{"id":"9a3eef3b24e28404","x":-621,"y":1360,"width":250,"height":60,"type":"text","text":"Сортируется по дизайну места"},
-		{"id":"fe969f2667a18471","x":-189,"y":1244,"width":250,"height":60,"type":"text","text":"Составляется список кнопок с названиями мест и "}
+		{"id":"fe969f2667a18471","x":-190,"y":1213,"width":310,"height":115,"type":"text","text":"Составляется список кнопок с названиями мест\nС указаниями смайл-настроений"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -90,6 +90,8 @@
 		{"id":"5e02f32317997f42","fromNode":"8c64775152adee93","fromSide":"right","toNode":"a6bf72780194f730","toSide":"left"},
 		{"id":"dc9f92b6e40fcee4","fromNode":"8c64775152adee93","fromSide":"right","toNode":"b5c8865f4957edad","toSide":"left"},
 		{"id":"34539ad59b177d0c","fromNode":"8c64775152adee93","fromSide":"right","toNode":"9a3eef3b24e28404","toSide":"left"},
-		{"id":"5b3e22871fa1aed4","fromNode":"9a3eef3b24e28404","fromSide":"right","toNode":"fe969f2667a18471","toSide":"left"}
+		{"id":"5b3e22871fa1aed4","fromNode":"9a3eef3b24e28404","fromSide":"right","toNode":"fe969f2667a18471","toSide":"left"},
+		{"id":"3bff8be379f0dd2b","fromNode":"b5c8865f4957edad","fromSide":"right","toNode":"fe969f2667a18471","toSide":"left"},
+		{"id":"a261fdc83327823e","fromNode":"a6bf72780194f730","fromSide":"right","toNode":"fe969f2667a18471","toSide":"left"}
 	]
 }
