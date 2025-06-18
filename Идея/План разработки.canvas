@@ -65,8 +65,11 @@
 		{"id":"eaa6a211f6055a72","type":"text","text":"Админ обращается для отправки базы данных","x":-2360,"y":1660,"width":250,"height":60,"color":"#fb00ff"},
 		{"id":"657a19cde3e3272c","x":-2360,"y":1780,"width":250,"height":60,"type":"text","text":"какой?"},
 		{"id":"3c2f1b9f51a20957","x":-1958,"y":1656,"width":250,"height":60,"type":"text","text":"Лайк"},
+		{"id":"95e6b6f83c3c18aa","x":-1958,"y":1904,"width":250,"height":60,"type":"text","text":"One"},
 		{"id":"29c97a6544c8c33c","x":-1958,"y":1780,"width":250,"height":60,"type":"text","text":"Фейл"},
-		{"id":"95e6b6f83c3c18aa","x":-1958,"y":1904,"width":250,"height":60,"type":"text","text":"One"}
+		{"id":"8a1621ad5aa27c56","x":-1560,"y":1780,"width":250,"height":60,"type":"text","text":"Действия?"},
+		{"id":"ea85e1650674c85c","x":-1184,"y":1626,"width":250,"height":60,"type":"text","text":"Удалить с указанием списка ID через ;"},
+		{"id":"fdc55286ad1a9e0e","x":-1190,"y":1780,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -136,6 +139,11 @@
 		{"id":"02549a43201de1c5","fromNode":"eaa6a211f6055a72","fromSide":"bottom","toNode":"657a19cde3e3272c","toSide":"top"},
 		{"id":"aaa940ca7c811db4","fromNode":"657a19cde3e3272c","fromSide":"right","toNode":"3c2f1b9f51a20957","toSide":"left"},
 		{"id":"231a691102159df2","fromNode":"657a19cde3e3272c","fromSide":"right","toNode":"29c97a6544c8c33c","toSide":"left"},
-		{"id":"adecb9c985b1a806","fromNode":"657a19cde3e3272c","fromSide":"right","toNode":"95e6b6f83c3c18aa","toSide":"left"}
+		{"id":"adecb9c985b1a806","fromNode":"657a19cde3e3272c","fromSide":"right","toNode":"95e6b6f83c3c18aa","toSide":"left"},
+		{"id":"142cda14bdb02a0d","fromNode":"95e6b6f83c3c18aa","fromSide":"right","toNode":"8a1621ad5aa27c56","toSide":"left"},
+		{"id":"99dec0afd95986c5","fromNode":"29c97a6544c8c33c","fromSide":"right","toNode":"8a1621ad5aa27c56","toSide":"left"},
+		{"id":"8aba988589d99f74","fromNode":"3c2f1b9f51a20957","fromSide":"right","toNode":"8a1621ad5aa27c56","toSide":"left"},
+		{"id":"c12d00b1f5712feb","fromNode":"8a1621ad5aa27c56","fromSide":"right","toNode":"ea85e1650674c85c","toSide":"left"},
+		{"id":"9c1744ea5176d955","fromNode":"8a1621ad5aa27c56","fromSide":"right","toNode":"fdc55286ad1a9e0e","toSide":"left"}
 	]
 }
