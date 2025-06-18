@@ -64,7 +64,7 @@
 		{"id":"4766fd694585181b","type":"text","text":"Пользователю предлагается...","x":-891,"y":2720,"width":250,"height":60,"color":"1"},
 		{"id":"eaa6a211f6055a72","type":"text","text":"Админ обращается для отправки базы данных","x":-2360,"y":1660,"width":250,"height":60,"color":"#fb00ff"},
 		{"id":"657a19cde3e3272c","x":-2360,"y":1780,"width":250,"height":60,"type":"text","text":"какой?"},
-		{"id":"3c2f1b9f51a20957","x":-1958,"y":1656,"width":250,"height":60,"type":"text","text":""}
+		{"id":"3c2f1b9f51a20957","x":-1958,"y":1656,"width":250,"height":60,"type":"text","text":"Неинтересных мест"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
