@@ -22,7 +22,6 @@
 		{"id":"2235e8a80824c130","type":"text","text":"Сквозная аналитика, UTM Метки\nRoistat","x":-1093,"y":-519,"width":371,"height":106,"color":"1"},
 		{"id":"61582f043e0bd29f","type":"text","text":"Использование кнопок, для удобного использования","x":-1320,"y":300,"width":250,"height":105,"color":"5"},
 		{"id":"99dfe21ebf89d99d","type":"text","text":"Привлекательный и не пугающий дизайн","x":-1320,"y":455,"width":250,"height":60,"color":"5"},
-		{"id":"f50567c1ee346945","type":"text","text":"Резервирование данных","x":-440,"y":700,"width":250,"height":60,"color":"1"},
 		{"id":"8ceeec3bc620c37d","type":"text","text":"Палитра","x":-156,"y":202,"width":250,"height":60,"color":"6"},
 		{"id":"5e9b5f1bddbc9fe6","type":"text","text":"Брендбук","x":160,"y":204,"width":297,"height":56,"color":"6"},
 		{"id":"31beb03fe1b26204","type":"text","text":"заготовки","x":532,"y":202,"width":250,"height":60,"color":"6"},
@@ -36,7 +35,8 @@
 		{"id":"8bd201a87fbb3d79","type":"text","text":"Для монтажа","x":360,"y":382,"width":250,"height":60},
 		{"id":"3e03245f677b2ed7","type":"text","text":"Дизайн реклам","x":360,"y":500,"width":250,"height":60,"color":"6"},
 		{"id":"0bb7fa368ac6297b","type":"text","text":"Покупка жесткого диска","x":-444,"y":300,"width":250,"height":60,"color":"1"},
-		{"id":"ab81f5544bfc32f4","x":-345,"y":471,"width":250,"height":60,"type":"text","text":"Создание корпуса для охлаждения "}
+		{"id":"ab81f5544bfc32f4","x":-444,"y":395,"width":250,"height":60,"type":"text","text":"Создание корпуса для охлаждения "},
+		{"id":"f50567c1ee346945","type":"text","text":"Резервирование данных","x":-444,"y":500,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -63,7 +63,7 @@
 		{"id":"f14408d4955da425","fromNode":"31beb03fe1b26204","fromSide":"bottom","toNode":"8bd201a87fbb3d79","toSide":"top"},
 		{"id":"fbbb08593edd3451","fromNode":"31beb03fe1b26204","fromSide":"bottom","toNode":"7c77b3130db08f59","toSide":"top"},
 		{"id":"891abade3eb2db9a","fromNode":"d95c1bd799c50805","fromSide":"right","toNode":"0bb7fa368ac6297b","toSide":"top"},
-		{"id":"8f4a93d692db92d8","fromNode":"0bb7fa368ac6297b","fromSide":"bottom","toNode":"f50567c1ee346945","toSide":"top"},
+		{"id":"8f4a93d692db92d8","fromNode":"0bb7fa368ac6297b","fromSide":"bottom","toNode":"ab81f5544bfc32f4","toSide":"top"},
 		{"id":"0f10d878982658ec","fromNode":"6d86c6e6d60fb00f","fromSide":"left","toNode":"d060b5fe7f344661","toSide":"right"},
 		{"id":"882c88ed4fa82904","fromNode":"8ceeec3bc620c37d","fromSide":"right","toNode":"5e9b5f1bddbc9fe6","toSide":"left"},
 		{"id":"8055efb7c9095b42","fromNode":"8bd201a87fbb3d79","fromSide":"bottom","toNode":"3e03245f677b2ed7","toSide":"top"},
@@ -74,6 +74,7 @@
 		{"id":"2f3702ee5fc3fdf4","fromNode":"99dfe21ebf89d99d","fromSide":"bottom","toNode":"585d526e91cd3b49","toSide":"top"},
 		{"id":"2fc1a15d3d4889c9","fromNode":"585d526e91cd3b49","fromSide":"bottom","toNode":"31ef2d09b6cd4f6f","toSide":"top"},
 		{"id":"d9d681b4d585c33f","fromNode":"3490346a450ff5db","fromSide":"right","toNode":"4cfd0bef69db40e8","toSide":"left","fromEnd":"arrow"},
-		{"id":"48caa5c437d33083","fromNode":"b95148f4f6da0930","fromSide":"bottom","toNode":"31beb03fe1b26204","toSide":"top"}
+		{"id":"48caa5c437d33083","fromNode":"b95148f4f6da0930","fromSide":"bottom","toNode":"31beb03fe1b26204","toSide":"top"},
+		{"id":"5f12666b780d2e1e","fromNode":"ab81f5544bfc32f4","fromSide":"bottom","toNode":"f50567c1ee346945","toSide":"top"}
 	]
 }
