@@ -75,7 +75,7 @@
 		{"id":"8de8e1016a251912","x":-799,"y":1780,"width":250,"height":60,"type":"text","text":"Фейл"},
 		{"id":"aa01724bd235ea7c","x":-460,"y":1688,"width":250,"height":97,"type":"text","text":"Закидывание со всей информацией для будущего"},
 		{"id":"df22f56225f36a80","x":-799,"y":1904,"width":250,"height":60,"type":"text","text":"Сохранение в текущей базе данных"},
-		{"id":"597d83896632cbda","x":-1184,"y":2000,"width":250,"height":60,"type":"text","text":""}
+		{"id":"597d83896632cbda","x":-1184,"y":2000,"width":250,"height":60,"type":"text","text":"Block"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
