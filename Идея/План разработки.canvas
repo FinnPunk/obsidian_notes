@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"0a99b2574bee0f94","type":"group","x":-2480,"y":-560,"width":3520,"height":1720,"color":"#8fb44b","label":"Version One"},
+		{"id":"0a99b2574bee0f94","type":"group","x":-2480,"y":-560,"width":3520,"height":2120,"color":"#8fb44b","label":"Version One"},
 		{"id":"205f96eed6cb1360","type":"file","file":"Идея/Терминология.md","x":-1214,"y":-820,"width":740,"height":240,"color":"2"},
 		{"id":"aa9bde77520da5fa","type":"text","text":"Отзывы от экспертов","x":-2440,"y":82,"width":250,"height":60,"color":"2"},
 		{"id":"9f39e29ce0868c7d","type":"text","text":"Сайт","x":-2132,"y":-137,"width":250,"height":60,"color":"2"},
@@ -36,7 +36,8 @@
 		{"id":"3e03245f677b2ed7","type":"text","text":"Дизайн реклам","x":360,"y":500,"width":250,"height":60,"color":"6"},
 		{"id":"0bb7fa368ac6297b","type":"text","text":"Покупка жесткого диска","x":-444,"y":300,"width":250,"height":60,"color":"1"},
 		{"id":"ab81f5544bfc32f4","x":-444,"y":395,"width":250,"height":60,"color":"1","type":"text","text":"Создание корпуса для охлаждения "},
-		{"id":"f50567c1ee346945","type":"text","text":"Резервирование данных","x":-444,"y":500,"width":250,"height":60,"color":"1"}
+		{"id":"f50567c1ee346945","type":"text","text":"Резервирование данных","x":-444,"y":500,"width":250,"height":60,"color":"1"},
+		{"id":"6c7017eacf0bddb6","x":-2120,"y":1240,"width":250,"height":60,"type":"text","text":"Человек отправляет геоло"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
