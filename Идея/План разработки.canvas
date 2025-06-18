@@ -51,11 +51,12 @@
 		{"id":"6c7017eacf0bddb6","x":-2342,"y":1720,"width":250,"height":60,"color":"5","type":"text","text":"Человек отправляет геолокацию чат боту."},
 		{"id":"5df08325b5724b4b","x":-2000,"y":1760,"width":250,"height":60,"color":"2","type":"text","text":"Пользователь выбирает категорию"},
 		{"id":"de4ab3844662f0ce","x":-2000,"y":1680,"width":250,"height":60,"color":"5","type":"text","text":"выбирает радиус поиска"},
-		{"id":"d9bd2e9a5cdace12","x":-2342,"y":1280,"width":250,"height":60,"type":"text","text":"Обновление мест в городе по районам"},
 		{"id":"c66ac4b4e799b938","x":-2000,"y":1280,"width":250,"height":60,"type":"text","text":"Отправка админу этих новых мест для оценки"},
-		{"id":"fbd0299bfbe6b473","x":-1600,"y":1360,"width":250,"height":60,"type":"text","text":"занос в базу данных неинтересных мест"},
-		{"id":"7231b548110faf5c","x":-1600,"y":1193,"width":250,"height":87,"type":"text","text":"Заносится в базу данных интересных мест"},
-		{"id":"05b9a898216426f0","x":-1240,"y":1256,"width":250,"height":109,"type":"text","text":"Составление списка мест для напоминаний админу раз в неделю для заполнения"}
+		{"id":"05b9a898216426f0","x":-1240,"y":1243,"width":250,"height":134,"type":"text","text":"Составление списка мест для напоминаний админу раз в неделю для заполнения"},
+		{"id":"d7be16ebe0380a96","x":-832,"y":1213,"width":250,"height":60,"type":"text","text":""},
+		{"id":"d9bd2e9a5cdace12","x":-2342,"y":1280,"width":250,"height":60,"type":"text","text":"Обновление мест в городе по районам"},
+		{"id":"fbd0299bfbe6b473","x":-2200,"y":1440,"width":250,"height":60,"type":"text","text":"занос в базу данных неинтересных мест по ID"},
+		{"id":"7231b548110faf5c","x":-1720,"y":1413,"width":250,"height":87,"type":"text","text":"Заносится в базу данных интересных мест по ID"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -114,8 +115,9 @@
 		{"id":"7898625d878757c5","fromNode":"2a56b0e9459f9aa9","fromSide":"right","toNode":"5e284744bbf313e9","toSide":"left"},
 		{"id":"c8fdd5519534c87e","fromNode":"7c47f07a7fafe9bd","fromSide":"right","toNode":"8c64775152adee93","toSide":"left"},
 		{"id":"e78261bc1efb2021","fromNode":"d9bd2e9a5cdace12","fromSide":"right","toNode":"c66ac4b4e799b938","toSide":"left"},
-		{"id":"4660e8c8220f1cbb","fromNode":"c66ac4b4e799b938","fromSide":"right","toNode":"7231b548110faf5c","toSide":"left","label":"True"},
-		{"id":"5a8e568a669d76bb","fromNode":"c66ac4b4e799b938","fromSide":"right","toNode":"fbd0299bfbe6b473","toSide":"left","label":"False"},
-		{"id":"ad800c73861c7cf7","fromNode":"7231b548110faf5c","fromSide":"right","toNode":"05b9a898216426f0","toSide":"left"}
+		{"id":"4660e8c8220f1cbb","fromNode":"c66ac4b4e799b938","fromSide":"bottom","toNode":"7231b548110faf5c","toSide":"top","label":"True"},
+		{"id":"5a8e568a669d76bb","fromNode":"c66ac4b4e799b938","fromSide":"bottom","toNode":"fbd0299bfbe6b473","toSide":"top","label":"False"},
+		{"id":"ad800c73861c7cf7","fromNode":"7231b548110faf5c","fromSide":"right","toNode":"05b9a898216426f0","toSide":"left"},
+		{"id":"c4f9537151776328","fromNode":"05b9a898216426f0","fromSide":"right","toNode":"d7be16ebe0380a96","toSide":"left"}
 	]
 }
