@@ -43,8 +43,6 @@
 		{"id":"fbd0299bfbe6b473","type":"text","text":"Заносится в Фейл по ID","x":-2200,"y":1440,"width":250,"height":60,"color":"1"},
 		{"id":"7231b548110faf5c","type":"text","text":"Заносится в Лайк по ID","x":-1800,"y":1440,"width":250,"height":60,"color":"6"},
 		{"id":"05b9a898216426f0","type":"text","text":"Составление списка мест для напоминаний админу раз в неделю для заполнения","x":-1480,"y":1280,"width":250,"height":134,"color":"6"},
-		{"id":"d7be16ebe0380a96","type":"text","text":"Возможность заполнения мест с указанием отзыва через параметры:\n{smile} -  смайл-настроением\n{cost} - цен\n{menu} - ассортимента\n{text} - описанием\n{class} - категория места\nотправка изображений\nМестоположение берётся из парсера","x":-1120,"y":1063,"width":310,"height":337,"color":"6"},
-		{"id":"d5b1abdad47332f2","type":"text","text":"Показ карточки и дизайна её.","x":-585,"y":1063,"width":250,"height":60,"color":"6"},
 		{"id":"c28adf468d3b4d70","type":"text","text":"Сохранение в базу данных карточек","x":-135,"y":1063,"width":250,"height":60,"color":"1"},
 		{"id":"d9bd2e9a5cdace12","type":"text","text":"Обновление мест в городе по районам","x":-2360,"y":1093,"width":250,"height":60,"color":"#fb00ff"},
 		{"id":"8344fc27945d918d","x":-2000,"y":1068,"width":250,"height":144,"color":"6","type":"text","text":"Заполнение One ссылками на яндекс.карты и сортировка мест по ID"},
@@ -68,9 +66,11 @@
 		{"id":"95e6b6f83c3c18aa","x":-1958,"y":1904,"width":250,"height":60,"type":"text","text":"One"},
 		{"id":"29c97a6544c8c33c","x":-1958,"y":1780,"width":250,"height":60,"type":"text","text":"Фейл"},
 		{"id":"8a1621ad5aa27c56","x":-1560,"y":1780,"width":250,"height":60,"type":"text","text":"Действия?"},
-		{"id":"ea85e1650674c85c","x":-1184,"y":1626,"width":250,"height":60,"type":"text","text":"Удалить с указанием списка ID через ;"},
 		{"id":"fdc55286ad1a9e0e","x":-1184,"y":1780,"width":250,"height":60,"type":"text","text":"Редактирование места по ID"},
-		{"id":"7acfd682405b06e4","x":-1184,"y":1904,"width":250,"height":60,"type":"text","text":""}
+		{"id":"d7be16ebe0380a96","type":"text","text":"Возможность заполнения мест с указанием отзыва через параметры:\n{smile} -  смайл-настроением\n{cost} - цен\n{menu} - ассортимента\n{text} - описанием\n{class} - категория места\nотправка изображений\nМестоположение берётся из парсера","x":-1120,"y":1179,"width":310,"height":337,"color":"6"},
+		{"id":"d5b1abdad47332f2","type":"text","text":"Показ карточки и дизайна её.","x":-760,"y":1317,"width":250,"height":60,"color":"6"},
+		{"id":"ea85e1650674c85c","x":-1184,"y":1660,"width":250,"height":60,"type":"text","text":"Удалить с указанием списка ID через ;"},
+		{"id":"7acfd682405b06e4","x":-1184,"y":1900,"width":250,"height":60,"type":"text","text":"Перенести в "}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -133,7 +133,7 @@
 		{"id":"5a8e568a669d76bb","fromNode":"c66ac4b4e799b938","fromSide":"bottom","toNode":"fbd0299bfbe6b473","toSide":"top","color":"1","label":"False"},
 		{"id":"ad800c73861c7cf7","fromNode":"7231b548110faf5c","fromSide":"right","toNode":"05b9a898216426f0","toSide":"left","color":"4"},
 		{"id":"c4f9537151776328","fromNode":"05b9a898216426f0","fromSide":"right","toNode":"d7be16ebe0380a96","toSide":"left","color":"4"},
-		{"id":"c67de75faf146c30","fromNode":"d7be16ebe0380a96","fromSide":"right","toNode":"d5b1abdad47332f2","toSide":"left","color":"4"},
+		{"id":"c67de75faf146c30","fromNode":"d7be16ebe0380a96","fromSide":"top","toNode":"d5b1abdad47332f2","toSide":"top","color":"4","label":"Save"},
 		{"id":"4422b6bb332db4ae","fromNode":"d5b1abdad47332f2","fromSide":"bottom","toNode":"d7be16ebe0380a96","toSide":"bottom","color":"1","label":"edit"},
 		{"id":"ad6c56eb7f3654eb","fromNode":"d5b1abdad47332f2","fromSide":"right","toNode":"c28adf468d3b4d70","toSide":"left","color":"4","label":"save"},
 		{"id":"4226e0ae595d603e","fromNode":"8344fc27945d918d","fromSide":"bottom","toNode":"c66ac4b4e799b938","toSide":"top","color":"4"},
