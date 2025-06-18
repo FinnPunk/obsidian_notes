@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"0a99b2574bee0f94","type":"group","x":-2480,"y":-560,"width":3520,"height":2120,"color":"#8fb44b","label":"Version One"},
-		{"id":"205f96eed6cb1360","type":"file","file":"Идея/Терминология.md","x":-1214,"y":-820,"width":740,"height":240,"color":"2"},
+		{"id":"205f96eed6cb1360","type":"file","file":"Идея/Терминология.md","x":-1214,"y":-880,"width":740,"height":300,"color":"2"},
 		{"id":"aa9bde77520da5fa","type":"text","text":"Отзывы от экспертов","x":-2440,"y":82,"width":250,"height":60,"color":"2"},
 		{"id":"9f39e29ce0868c7d","type":"text","text":"Сайт","x":-2132,"y":-137,"width":250,"height":60,"color":"2"},
 		{"id":"cf58df0d51ef2291","type":"text","text":"Моб приложение","x":-2132,"y":82,"width":250,"height":60,"color":"2"},
@@ -40,7 +40,9 @@
 		{"id":"6c7017eacf0bddb6","x":-2220,"y":1240,"width":250,"height":60,"color":"5","type":"text","text":"Человек отправляет геолокацию чат боту."},
 		{"id":"de4ab3844662f0ce","x":-1820,"y":1240,"width":250,"height":60,"color":"5","type":"text","text":"выбирает радиус поиска"},
 		{"id":"7c47f07a7fafe9bd","x":-1445,"y":1220,"width":250,"height":100,"color":"5","type":"text","text":"проверка по базе данных расположения мест "},
-		{"id":"8c64775152adee93","x":-1050,"y":1230,"width":250,"height":80,"type":"text","text":"составляется топ 3-10 по категориям"}
+		{"id":"8c64775152adee93","x":-1050,"y":1230,"width":250,"height":80,"color":"5","type":"text","text":"составляется топ 3-10 по категориям"},
+		{"id":"a6bf72780194f730","x":-621,"y":1140,"width":250,"height":60,"type":"text","text":"сортируется по ценами с дешёвого до дорогого"},
+		{"id":"b5c8865f4957edad","x":-647,"y":1245,"width":250,"height":60,"type":"text","text":"Сортируется по отзывам(кол)"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -82,6 +84,8 @@
 		{"id":"5f12666b780d2e1e","fromNode":"ab81f5544bfc32f4","fromSide":"bottom","toNode":"f50567c1ee346945","toSide":"top"},
 		{"id":"4cbc84f82096386c","fromNode":"6c7017eacf0bddb6","fromSide":"right","toNode":"de4ab3844662f0ce","toSide":"left","color":"4"},
 		{"id":"534b11461e30fe9b","fromNode":"de4ab3844662f0ce","fromSide":"right","toNode":"7c47f07a7fafe9bd","toSide":"left","color":"4"},
-		{"id":"cc8c3f53091744f9","fromNode":"7c47f07a7fafe9bd","fromSide":"right","toNode":"8c64775152adee93","toSide":"left"}
+		{"id":"cc8c3f53091744f9","fromNode":"7c47f07a7fafe9bd","fromSide":"right","toNode":"8c64775152adee93","toSide":"left"},
+		{"id":"5e02f32317997f42","fromNode":"8c64775152adee93","fromSide":"right","toNode":"a6bf72780194f730","toSide":"left"},
+		{"id":"dc9f92b6e40fcee4","fromNode":"8c64775152adee93","fromSide":"right","toNode":"b5c8865f4957edad","toSide":"left"}
 	]
 }
