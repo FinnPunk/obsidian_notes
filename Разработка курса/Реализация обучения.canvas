@@ -141,7 +141,7 @@
 		{"id":"5cf5a9d21c6f8dc9","type":"text","text":"✅Импорт контактов","x":-1512,"y":5390,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"f581041e558725dc","type":"text","text":"Управление Telegram группами в ChatApp Dialog","x":-1159,"y":5070,"width":250,"height":116,"color":"#0189bc"},
 		{"id":"878be752f1390bf2","type":"text","text":"✅Рассылка","x":-1512,"y":5098,"width":250,"height":60,"color":"#0189bc"},
-		{"id":"250cdc0d5e2413a5","type":"text","text":"Инвайтер","x":-1159,"y":5270,"width":250,"height":60,"color":"#0189bc"},
+		{"id":"250cdc0d5e2413a5","type":"text","text":"✅Инвайтер","x":-1159,"y":5270,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"68708808c257fc1f","type":"text","text":"# Поверхностное обучение Bot Gate","x":-2480,"y":2711,"width":291,"height":241,"color":"1"},
 		{"id":"ffc8becc521cb1a6","type":"text","text":"# обучают сами руководители","x":1280,"y":4873,"width":300,"height":175,"color":"4"}
 	],
