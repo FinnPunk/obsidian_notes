@@ -39,7 +39,8 @@
 		{"id":"f50567c1ee346945","type":"text","text":"Резервирование данных","x":-444,"y":500,"width":250,"height":60,"color":"1"},
 		{"id":"6c7017eacf0bddb6","x":-2220,"y":1240,"width":250,"height":60,"color":"5","type":"text","text":"Человек отправляет геолокацию чат боту."},
 		{"id":"de4ab3844662f0ce","x":-1820,"y":1240,"width":250,"height":60,"color":"5","type":"text","text":"выбирает радиус поиска"},
-		{"id":"7c47f07a7fafe9bd","x":-1445,"y":1220,"width":250,"height":100,"color":"5","type":"text","text":"проверка по базе данных расположения мест "}
+		{"id":"7c47f07a7fafe9bd","x":-1445,"y":1220,"width":250,"height":100,"color":"5","type":"text","text":"проверка по базе данных расположения мест "},
+		{"id":"8c64775152adee93","x":-1050,"y":1230,"width":250,"height":80,"type":"text","text":"составляется топ 3-10 по категориям"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -80,6 +81,7 @@
 		{"id":"48caa5c437d33083","fromNode":"b95148f4f6da0930","fromSide":"bottom","toNode":"31beb03fe1b26204","toSide":"top"},
 		{"id":"5f12666b780d2e1e","fromNode":"ab81f5544bfc32f4","fromSide":"bottom","toNode":"f50567c1ee346945","toSide":"top"},
 		{"id":"4cbc84f82096386c","fromNode":"6c7017eacf0bddb6","fromSide":"right","toNode":"de4ab3844662f0ce","toSide":"left","color":"4"},
-		{"id":"534b11461e30fe9b","fromNode":"de4ab3844662f0ce","fromSide":"right","toNode":"7c47f07a7fafe9bd","toSide":"left","color":"4"}
+		{"id":"534b11461e30fe9b","fromNode":"de4ab3844662f0ce","fromSide":"right","toNode":"7c47f07a7fafe9bd","toSide":"left","color":"4"},
+		{"id":"cc8c3f53091744f9","fromNode":"7c47f07a7fafe9bd","fromSide":"right","toNode":"8c64775152adee93","toSide":"left"}
 	]
 }
