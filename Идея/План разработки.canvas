@@ -69,11 +69,13 @@
 		{"id":"fdc55286ad1a9e0e","x":-1184,"y":1780,"width":250,"height":60,"type":"text","text":"Редактирование места по ID"},
 		{"id":"d7be16ebe0380a96","type":"text","text":"Возможность заполнения мест с указанием отзыва через параметры:\n{smile} -  смайл-настроением\n{cost} - цен\n{menu} - ассортимента\n{text} - описанием\n{class} - категория места\nотправка изображений\nМестоположение берётся из парсера","x":-1120,"y":1179,"width":310,"height":337,"color":"6"},
 		{"id":"d5b1abdad47332f2","type":"text","text":"Показ карточки и дизайна её.","x":-760,"y":1317,"width":250,"height":60,"color":"6"},
-		{"id":"8de8e1016a251912","x":-799,"y":1997,"width":250,"height":60,"type":"text","text":"Фейл"},
-		{"id":"aa01724bd235ea7c","x":-380,"y":1949,"width":250,"height":97,"type":"text","text":"Закидывание со всей информацией для будущего"},
 		{"id":"ea85e1650674c85c","x":-1184,"y":1874,"width":250,"height":60,"type":"text","text":"Удалить с указанием списка ID через ;"},
 		{"id":"7acfd682405b06e4","x":-1184,"y":1684,"width":250,"height":64,"type":"text","text":"Перенести в другую базу данных"},
-		{"id":"e9734cd3165ce767","x":-799,"y":1684,"width":250,"height":60,"type":"text","text":"Лайк"}
+		{"id":"e9734cd3165ce767","x":-799,"y":1688,"width":250,"height":60,"type":"text","text":"Лайк"},
+		{"id":"8de8e1016a251912","x":-799,"y":1780,"width":250,"height":60,"type":"text","text":"Фейл"},
+		{"id":"aa01724bd235ea7c","x":-460,"y":1688,"width":250,"height":97,"type":"text","text":"Закидывание со всей информацией для будущего"},
+		{"id":"df22f56225f36a80","x":-799,"y":1904,"width":250,"height":60,"type":"text","text":"Сохранение в текущей базе данных"},
+		{"id":"597d83896632cbda","x":-1184,"y":2000,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -154,6 +156,8 @@
 		{"id":"4945775fe182d3da","fromNode":"8de8e1016a251912","fromSide":"right","toNode":"aa01724bd235ea7c","toSide":"left"},
 		{"id":"fd687307bfb790e9","fromNode":"7acfd682405b06e4","fromSide":"right","toNode":"e9734cd3165ce767","toSide":"left"},
 		{"id":"8b838434f50f836c","fromNode":"e9734cd3165ce767","fromSide":"top","toNode":"d7be16ebe0380a96","toSide":"bottom"},
-		{"id":"c58047260276fbf8","fromNode":"7acfd682405b06e4","fromSide":"top","toNode":"7231b548110faf5c","toSide":"bottom"}
+		{"id":"c58047260276fbf8","fromNode":"7acfd682405b06e4","fromSide":"top","toNode":"7231b548110faf5c","toSide":"bottom"},
+		{"id":"b9f0d466c04c8db9","fromNode":"fdc55286ad1a9e0e","fromSide":"right","toNode":"df22f56225f36a80","toSide":"left"},
+		{"id":"c49caaba2e6587d8","fromNode":"ea85e1650674c85c","fromSide":"bottom","toNode":"597d83896632cbda","toSide":"top"}
 	]
 }
