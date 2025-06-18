@@ -53,8 +53,8 @@
 		{"id":"de4ab3844662f0ce","x":-2000,"y":1680,"width":250,"height":60,"color":"5","type":"text","text":"выбирает радиус поиска"},
 		{"id":"d9bd2e9a5cdace12","x":-2342,"y":1280,"width":250,"height":60,"type":"text","text":"Обновление мест в городе по районам"},
 		{"id":"c66ac4b4e799b938","x":-2000,"y":1280,"width":250,"height":60,"type":"text","text":"Отправка админу этих новых мест для оценки"},
-		{"id":"7231b548110faf5c","x":-1570,"y":1203,"width":250,"height":77,"type":"text","text":"Заносится в базу данных для напоминаний админу"},
-		{"id":"fbd0299bfbe6b473","x":-1582,"y":1344,"width":250,"height":60,"type":"text","text":"занос в "}
+		{"id":"7231b548110faf5c","x":-1600,"y":1203,"width":250,"height":77,"type":"text","text":"Заносится в базу данных для напоминаний админу"},
+		{"id":"fbd0299bfbe6b473","x":-1600,"y":1360,"width":250,"height":60,"type":"text","text":"занос в базу данных неинтересных мест"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -113,7 +113,7 @@
 		{"id":"7898625d878757c5","fromNode":"2a56b0e9459f9aa9","fromSide":"right","toNode":"5e284744bbf313e9","toSide":"left"},
 		{"id":"c8fdd5519534c87e","fromNode":"7c47f07a7fafe9bd","fromSide":"right","toNode":"8c64775152adee93","toSide":"left"},
 		{"id":"e78261bc1efb2021","fromNode":"d9bd2e9a5cdace12","fromSide":"right","toNode":"c66ac4b4e799b938","toSide":"left"},
-		{"id":"4660e8c8220f1cbb","fromNode":"c66ac4b4e799b938","fromSide":"right","toNode":"7231b548110faf5c","toSide":"left"},
-		{"id":"5a8e568a669d76bb","fromNode":"c66ac4b4e799b938","fromSide":"right","toNode":"fbd0299bfbe6b473","toSide":"left"}
+		{"id":"4660e8c8220f1cbb","fromNode":"c66ac4b4e799b938","fromSide":"right","toNode":"7231b548110faf5c","toSide":"left","label":"True"},
+		{"id":"5a8e568a669d76bb","fromNode":"c66ac4b4e799b938","fromSide":"right","toNode":"fbd0299bfbe6b473","toSide":"left","label":"False"}
 	]
 }
