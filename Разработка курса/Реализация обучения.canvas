@@ -127,7 +127,7 @@
 		{"id":"d418931e6c777349","type":"text","text":"✅Open-ai ChatGPT","x":-796,"y":5070,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"546828d1a182631a","type":"text","text":"✅Обучение модели","x":-796,"y":5184,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"3b693c0109f6f697","type":"text","text":"✅Электронная визитка","x":-460,"y":5070,"width":250,"height":60,"color":"#0189bc"},
-		{"id":"2e8db8e528e3db88","type":"text","text":"Хранилище S3","x":-140,"y":5070,"width":250,"height":60,"color":"#0189bc"},
+		{"id":"2e8db8e528e3db88","type":"text","text":"✅Хранилище S3","x":-140,"y":5070,"width":250,"height":60,"color":"#0189bc"},
 		{"id":"a17bd073aa969b8f","type":"text","text":"# Лид-сканер?","x":928,"y":5528,"width":291,"height":241,"color":"1"},
 		{"id":"abe41b50c52f1dd0","type":"text","text":"# Работа с API?","x":928,"y":4528,"width":291,"height":241,"color":"1"},
 		{"id":"263b35f3a8cebb79","type":"text","text":"# WABA? WACA?","x":928,"y":4840,"width":291,"height":241,"color":"1"},
