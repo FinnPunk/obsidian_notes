@@ -43,7 +43,7 @@
 		{"id":"fbd0299bfbe6b473","type":"text","text":"Заносится в Фейл по ID","x":-2200,"y":1440,"width":250,"height":60,"color":"1"},
 		{"id":"7231b548110faf5c","type":"text","text":"Заносится в Лайк по ID","x":-1800,"y":1440,"width":250,"height":60,"color":"6"},
 		{"id":"05b9a898216426f0","type":"text","text":"Составление списка мест для напоминаний админу раз в неделю для заполнения","x":-1480,"y":1280,"width":250,"height":134,"color":"6"},
-		{"id":"d7be16ebe0380a96","type":"text","text":"Возможность заполнения мест с указанием отзыва через параметры:\n{smile} -  смайл-настроением\n{cost} - цен\n{menu} - ассортимента\n{text} - описанием\nотправка изображений\nМестоположение берётся из парсера","x":-1120,"y":1063,"width":310,"height":297,"color":"6"},
+		{"id":"d7be16ebe0380a96","type":"text","text":"Возможность заполнения мест с указанием отзыва через параметры:\n{smile} -  смайл-настроением\n{cost} - цен\n{menu} - ассортимента\n{text} - описанием\n{}\nотправка изображений\nМестоположение берётся из парсера","x":-1120,"y":1063,"width":310,"height":297,"color":"6"},
 		{"id":"d5b1abdad47332f2","type":"text","text":"Показ карточки и дизайна её.","x":-585,"y":1063,"width":250,"height":60,"color":"6"},
 		{"id":"c28adf468d3b4d70","type":"text","text":"Сохранение в базу данных карточек","x":-135,"y":1063,"width":250,"height":60,"color":"1"},
 		{"id":"d9bd2e9a5cdace12","type":"text","text":"Обновление мест в городе по районам","x":-2360,"y":1093,"width":250,"height":60,"color":"#fb00ff"},
@@ -69,7 +69,8 @@
 		{"id":"29c97a6544c8c33c","x":-1958,"y":1780,"width":250,"height":60,"type":"text","text":"Фейл"},
 		{"id":"8a1621ad5aa27c56","x":-1560,"y":1780,"width":250,"height":60,"type":"text","text":"Действия?"},
 		{"id":"ea85e1650674c85c","x":-1184,"y":1626,"width":250,"height":60,"type":"text","text":"Удалить с указанием списка ID через ;"},
-		{"id":"fdc55286ad1a9e0e","x":-1190,"y":1780,"width":250,"height":60,"type":"text","text":""}
+		{"id":"fdc55286ad1a9e0e","x":-1184,"y":1780,"width":250,"height":60,"type":"text","text":"Редактирование места по ID"},
+		{"id":"7acfd682405b06e4","x":-1184,"y":1904,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -144,6 +145,7 @@
 		{"id":"99dec0afd95986c5","fromNode":"29c97a6544c8c33c","fromSide":"right","toNode":"8a1621ad5aa27c56","toSide":"left"},
 		{"id":"8aba988589d99f74","fromNode":"3c2f1b9f51a20957","fromSide":"right","toNode":"8a1621ad5aa27c56","toSide":"left"},
 		{"id":"c12d00b1f5712feb","fromNode":"8a1621ad5aa27c56","fromSide":"right","toNode":"ea85e1650674c85c","toSide":"left"},
-		{"id":"9c1744ea5176d955","fromNode":"8a1621ad5aa27c56","fromSide":"right","toNode":"fdc55286ad1a9e0e","toSide":"left"}
+		{"id":"9c1744ea5176d955","fromNode":"8a1621ad5aa27c56","fromSide":"right","toNode":"fdc55286ad1a9e0e","toSide":"left"},
+		{"id":"eaa2c020cd70e3e3","fromNode":"8a1621ad5aa27c56","fromSide":"right","toNode":"7acfd682405b06e4","toSide":"left"}
 	]
 }
