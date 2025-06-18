@@ -37,7 +37,9 @@
 		{"id":"0bb7fa368ac6297b","type":"text","text":"Покупка жесткого диска","x":-444,"y":300,"width":250,"height":60,"color":"1"},
 		{"id":"ab81f5544bfc32f4","x":-444,"y":395,"width":250,"height":60,"color":"1","type":"text","text":"Создание корпуса для охлаждения "},
 		{"id":"f50567c1ee346945","type":"text","text":"Резервирование данных","x":-444,"y":500,"width":250,"height":60,"color":"1"},
-		{"id":"6c7017eacf0bddb6","x":-2120,"y":1240,"width":250,"height":60,"type":"text","text":"Человек отправляет геоло"}
+		{"id":"7c47f07a7fafe9bd","x":-1620,"y":1240,"width":250,"height":60,"type":"text","text":"проверка по базе данных расположения мест на том растоянии что указано пользователем"},
+		{"id":"6c7017eacf0bddb6","x":-2220,"y":1240,"width":250,"height":60,"type":"text","text":"Человек отправляет геолокацию чат боту."},
+		{"id":"de4ab3844662f0ce","x":-1807,"y":1314,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -76,6 +78,8 @@
 		{"id":"2fc1a15d3d4889c9","fromNode":"585d526e91cd3b49","fromSide":"bottom","toNode":"31ef2d09b6cd4f6f","toSide":"top"},
 		{"id":"d9d681b4d585c33f","fromNode":"3490346a450ff5db","fromSide":"right","toNode":"4cfd0bef69db40e8","toSide":"left","fromEnd":"arrow"},
 		{"id":"48caa5c437d33083","fromNode":"b95148f4f6da0930","fromSide":"bottom","toNode":"31beb03fe1b26204","toSide":"top"},
-		{"id":"5f12666b780d2e1e","fromNode":"ab81f5544bfc32f4","fromSide":"bottom","toNode":"f50567c1ee346945","toSide":"top"}
+		{"id":"5f12666b780d2e1e","fromNode":"ab81f5544bfc32f4","fromSide":"bottom","toNode":"f50567c1ee346945","toSide":"top"},
+		{"id":"47be68c382eac0e4","fromNode":"6c7017eacf0bddb6","fromSide":"right","toNode":"7c47f07a7fafe9bd","toSide":"left"},
+		{"id":"4cbc84f82096386c","fromNode":"6c7017eacf0bddb6","fromSide":"right","toNode":"de4ab3844662f0ce","toSide":"left"}
 	]
 }
