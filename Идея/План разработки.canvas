@@ -70,7 +70,9 @@
 		{"id":"d7be16ebe0380a96","type":"text","text":"Возможность заполнения мест с указанием отзыва через параметры:\n{smile} -  смайл-настроением\n{cost} - цен\n{menu} - ассортимента\n{text} - описанием\n{class} - категория места\nотправка изображений\nМестоположение берётся из парсера","x":-1120,"y":1179,"width":310,"height":337,"color":"6"},
 		{"id":"d5b1abdad47332f2","type":"text","text":"Показ карточки и дизайна её.","x":-760,"y":1317,"width":250,"height":60,"color":"6"},
 		{"id":"ea85e1650674c85c","x":-1184,"y":1660,"width":250,"height":60,"type":"text","text":"Удалить с указанием списка ID через ;"},
-		{"id":"7acfd682405b06e4","x":-1184,"y":1900,"width":250,"height":60,"type":"text","text":"Перенести в "}
+		{"id":"7acfd682405b06e4","x":-1184,"y":1900,"width":250,"height":60,"type":"text","text":"Перенести в другую базу данных"},
+		{"id":"8de8e1016a251912","x":-799,"y":1997,"width":250,"height":60,"type":"text","text":"Фейл"},
+		{"id":"aa01724bd235ea7c","x":-460,"y":1997,"width":250,"height":60,"type":"text","text":"Закидывание со всей информацией для будущего"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -146,6 +148,8 @@
 		{"id":"8aba988589d99f74","fromNode":"3c2f1b9f51a20957","fromSide":"right","toNode":"8a1621ad5aa27c56","toSide":"left"},
 		{"id":"c12d00b1f5712feb","fromNode":"8a1621ad5aa27c56","fromSide":"right","toNode":"ea85e1650674c85c","toSide":"left"},
 		{"id":"9c1744ea5176d955","fromNode":"8a1621ad5aa27c56","fromSide":"right","toNode":"fdc55286ad1a9e0e","toSide":"left"},
-		{"id":"eaa2c020cd70e3e3","fromNode":"8a1621ad5aa27c56","fromSide":"right","toNode":"7acfd682405b06e4","toSide":"left"}
+		{"id":"eaa2c020cd70e3e3","fromNode":"8a1621ad5aa27c56","fromSide":"right","toNode":"7acfd682405b06e4","toSide":"left"},
+		{"id":"540c1d08e7ed7cec","fromNode":"7acfd682405b06e4","fromSide":"right","toNode":"8de8e1016a251912","toSide":"left"},
+		{"id":"4945775fe182d3da","fromNode":"8de8e1016a251912","fromSide":"right","toNode":"aa01724bd235ea7c","toSide":"left"}
 	]
 }
