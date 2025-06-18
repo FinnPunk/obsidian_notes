@@ -43,7 +43,7 @@
 		{"id":"fbd0299bfbe6b473","type":"text","text":"Заносится в Фейл по ID","x":-2200,"y":1440,"width":250,"height":60,"color":"1"},
 		{"id":"7231b548110faf5c","type":"text","text":"Заносится в pre-Лайк по ID","x":-1800,"y":1440,"width":250,"height":60,"color":"6"},
 		{"id":"05b9a898216426f0","type":"text","text":"Составление списка мест для напоминаний админу раз в неделю для заполнения","x":-1480,"y":1280,"width":250,"height":134,"color":"6"},
-		{"id":"c28adf468d3b4d70","type":"text","text":"Сохранение в базу данных карточек","x":-135,"y":1063,"width":250,"height":60,"color":"1"},
+		{"id":"c28adf468d3b4d70","type":"text","text":"Сохранение в Лайк","x":-135,"y":1063,"width":250,"height":60,"color":"1"},
 		{"id":"d9bd2e9a5cdace12","type":"text","text":"Обновление мест в городе по районам","x":-2360,"y":1093,"width":250,"height":60,"color":"#fb00ff"},
 		{"id":"8344fc27945d918d","x":-2000,"y":1068,"width":250,"height":144,"color":"6","type":"text","text":"Заполнение One ссылками на яндекс.карты и сортировка мест по ID"},
 		{"id":"a6bf72780194f730","type":"text","text":"сортируется по ценами с дешёвого до дорогого","x":-891,"y":2280,"width":250,"height":60,"color":"4"},
@@ -73,8 +73,7 @@
 		{"id":"aa01724bd235ea7c","x":-380,"y":1949,"width":250,"height":97,"type":"text","text":"Закидывание со всей информацией для будущего"},
 		{"id":"ea85e1650674c85c","x":-1184,"y":1874,"width":250,"height":60,"type":"text","text":"Удалить с указанием списка ID через ;"},
 		{"id":"7acfd682405b06e4","x":-1184,"y":1684,"width":250,"height":64,"type":"text","text":"Перенести в другую базу данных"},
-		{"id":"e9734cd3165ce767","x":-799,"y":1684,"width":250,"height":60,"type":"text","text":"Лайк"},
-		{"id":"3c32d442d3ee38e4","x":-1480,"y":1560,"width":250,"height":60,"type":"text","text":"One"}
+		{"id":"e9734cd3165ce767","x":-799,"y":1684,"width":250,"height":60,"type":"text","text":"Лайк"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -155,6 +154,6 @@
 		{"id":"4945775fe182d3da","fromNode":"8de8e1016a251912","fromSide":"right","toNode":"aa01724bd235ea7c","toSide":"left"},
 		{"id":"fd687307bfb790e9","fromNode":"7acfd682405b06e4","fromSide":"right","toNode":"e9734cd3165ce767","toSide":"left"},
 		{"id":"8b838434f50f836c","fromNode":"e9734cd3165ce767","fromSide":"top","toNode":"d7be16ebe0380a96","toSide":"bottom"},
-		{"id":"c58047260276fbf8","fromNode":"7acfd682405b06e4","fromSide":"top","toNode":"3c32d442d3ee38e4","toSide":"right"}
+		{"id":"c58047260276fbf8","fromNode":"7acfd682405b06e4","fromSide":"top","toNode":"7231b548110faf5c","toSide":"bottom"}
 	]
 }
