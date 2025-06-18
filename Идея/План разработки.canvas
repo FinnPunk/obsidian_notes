@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"0a99b2574bee0f94","type":"group","x":-2480,"y":-560,"width":3520,"height":2880,"color":"#8fb44b","label":"Version One"},
+		{"id":"0a99b2574bee0f94","type":"group","x":-2480,"y":-560,"width":3520,"height":3520,"color":"#8fb44b","label":"Version One"},
 		{"id":"205f96eed6cb1360","type":"file","file":"Идея/Терминология.md","x":-1214,"y":-940,"width":740,"height":360,"color":"2"},
 		{"id":"aa9bde77520da5fa","type":"text","text":"Отзывы от экспертов","x":-2440,"y":82,"width":250,"height":60,"color":"2"},
 		{"id":"9f39e29ce0868c7d","type":"text","text":"Сайт","x":-2132,"y":-137,"width":250,"height":60,"color":"2"},
@@ -58,7 +58,7 @@
 		{"id":"05b9a898216426f0","x":-1480,"y":1280,"width":250,"height":134,"type":"text","text":"Составление списка мест для напоминаний админу раз в неделю для заполнения"},
 		{"id":"d7be16ebe0380a96","x":-1120,"y":1063,"width":310,"height":247,"type":"text","text":"Возможность заполнения мест с указанием отзыва через параметры:\n{smile} -  смайл-настроением\n{cost} - цен\n{menu} - ассортимента\n{text} - описанием\nотправка изображений"},
 		{"id":"d5b1abdad47332f2","x":-585,"y":1063,"width":250,"height":60,"type":"text","text":"Показ карточки и дизайна её."},
-		{"id":"c28adf468d3b4d70","x":-370,"y":1269,"width":250,"height":60,"type":"text","text":""}
+		{"id":"c28adf468d3b4d70","x":-135,"y":1063,"width":250,"height":60,"type":"text","text":"Сохранение в базу данных карточек"}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -123,6 +123,6 @@
 		{"id":"c4f9537151776328","fromNode":"05b9a898216426f0","fromSide":"right","toNode":"d7be16ebe0380a96","toSide":"left"},
 		{"id":"c67de75faf146c30","fromNode":"d7be16ebe0380a96","fromSide":"right","toNode":"d5b1abdad47332f2","toSide":"left"},
 		{"id":"4422b6bb332db4ae","fromNode":"d5b1abdad47332f2","fromSide":"bottom","toNode":"d7be16ebe0380a96","toSide":"bottom","label":"edit"},
-		{"id":"ad6c56eb7f3654eb","fromNode":"d5b1abdad47332f2","fromSide":"bottom","toNode":"c28adf468d3b4d70","toSide":"top"}
+		{"id":"ad6c56eb7f3654eb","fromNode":"d5b1abdad47332f2","fromSide":"right","toNode":"c28adf468d3b4d70","toSide":"left","label":"save"}
 	]
 }
