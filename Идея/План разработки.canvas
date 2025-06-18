@@ -61,10 +61,7 @@
 		{"id":"7c47f07a7fafe9bd","type":"text","text":"проверка по базе данных расположения мест ","x":-1660,"y":2380,"width":250,"height":100,"color":"4"},
 		{"id":"4766fd694585181b","type":"text","text":"Пользователю предлагается...","x":-891,"y":2720,"width":250,"height":60,"color":"1"},
 		{"id":"eaa6a211f6055a72","type":"text","text":"Админ обращается для отправки базы данных","x":-2360,"y":1660,"width":250,"height":60,"color":"#fb00ff"},
-		{"id":"657a19cde3e3272c","x":-2360,"y":1780,"width":250,"height":60,"type":"text","text":"какой?"},
-		{"id":"3c2f1b9f51a20957","x":-1958,"y":1656,"width":250,"height":60,"type":"text","text":"Лайк"},
-		{"id":"95e6b6f83c3c18aa","x":-1958,"y":1904,"width":250,"height":60,"type":"text","text":"One"},
-		{"id":"29c97a6544c8c33c","x":-1958,"y":1780,"width":250,"height":60,"type":"text","text":"Фейл"},
+		{"id":"657a19cde3e3272c","x":-2360,"y":1780,"width":250,"height":60,"type":"text","text":"Какой?"},
 		{"id":"8a1621ad5aa27c56","x":-1560,"y":1780,"width":250,"height":60,"type":"text","text":"Действия?"},
 		{"id":"fdc55286ad1a9e0e","x":-1184,"y":1780,"width":250,"height":60,"type":"text","text":"Редактирование места по ID"},
 		{"id":"d7be16ebe0380a96","type":"text","text":"Возможность заполнения мест с указанием отзыва через параметры:\n{smile} -  смайл-настроением\n{cost} - цен\n{menu} - ассортимента\n{text} - описанием\n{class} - категория места\nотправка изображений\nМестоположение берётся из парсера","x":-1120,"y":1179,"width":310,"height":337,"color":"6"},
@@ -75,7 +72,11 @@
 		{"id":"8de8e1016a251912","x":-799,"y":1780,"width":250,"height":60,"type":"text","text":"Фейл"},
 		{"id":"aa01724bd235ea7c","x":-460,"y":1688,"width":250,"height":97,"type":"text","text":"Закидывание со всей информацией для будущего"},
 		{"id":"df22f56225f36a80","x":-799,"y":1904,"width":250,"height":60,"type":"text","text":"Сохранение в текущей базе данных"},
-		{"id":"597d83896632cbda","x":-1184,"y":2000,"width":250,"height":60,"type":"text","text":"Block"}
+		{"id":"597d83896632cbda","x":-1184,"y":2000,"width":250,"height":60,"type":"text","text":"Block"},
+		{"id":"3c2f1b9f51a20957","x":-1958,"y":1630,"width":250,"height":60,"type":"text","text":"Лайк"},
+		{"id":"29c97a6544c8c33c","x":-1958,"y":1725,"width":250,"height":60,"type":"text","text":"Фейл"},
+		{"id":"95e6b6f83c3c18aa","x":-1958,"y":1840,"width":250,"height":60,"type":"text","text":"One"},
+		{"id":"7d01257b63e0682d","type":"text","text":"Block","x":-1958,"y":1934,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"72da622a46db6c6f","fromNode":"4cfd0bef69db40e8","fromSide":"bottom","toNode":"3387e16e8a6dab0c","toSide":"top"},
@@ -158,6 +159,8 @@
 		{"id":"8b838434f50f836c","fromNode":"e9734cd3165ce767","fromSide":"top","toNode":"d7be16ebe0380a96","toSide":"bottom"},
 		{"id":"c58047260276fbf8","fromNode":"7acfd682405b06e4","fromSide":"top","toNode":"7231b548110faf5c","toSide":"bottom"},
 		{"id":"b9f0d466c04c8db9","fromNode":"fdc55286ad1a9e0e","fromSide":"right","toNode":"df22f56225f36a80","toSide":"left"},
-		{"id":"c49caaba2e6587d8","fromNode":"ea85e1650674c85c","fromSide":"bottom","toNode":"597d83896632cbda","toSide":"top"}
+		{"id":"c49caaba2e6587d8","fromNode":"ea85e1650674c85c","fromSide":"bottom","toNode":"597d83896632cbda","toSide":"top"},
+		{"id":"1460d624137438d6","fromNode":"657a19cde3e3272c","fromSide":"right","toNode":"7d01257b63e0682d","toSide":"left"},
+		{"id":"9974930565aa2099","fromNode":"7d01257b63e0682d","fromSide":"right","toNode":"8a1621ad5aa27c56","toSide":"left"}
 	]
 }
